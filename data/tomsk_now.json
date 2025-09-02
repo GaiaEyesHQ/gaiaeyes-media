@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "source": "tomsk",
-  "timestamp_utc": "2025-09-02T04:14:44.457349+00:00",
+  "timestamp_utc": "2025-09-02T04:15:31.513601+00:00",
   "last_modified": "2025-09-01T04:20:00+00:00",
   "fundamental_hz": null,
   "harmonics_hz": {
@@ -15,7 +15,7 @@
   "confidence": "high-panels",
   "overlay_path": "/home/runner/work/gaiaeyes-backend/gaiaeyes-backend/backend/bots/schumann/tomsk_overlay.png",
   "raw": {
-    "tsst_time": "2025-09-02T11:14:44.433133+00:00",
+    "tsst_time": "2025-09-02T11:15:31.489163+00:00",
     "roi": {
       "x0": 59,
       "y0": 31,
@@ -32,11 +32,11 @@
       "x_frontier": 1244,
       "x1_exclude_right_px": 90,
       "guard_px": 6,
-      "x_time": 1314,
-      "x_now_pre_guard": 1314,
-      "x_ideal": 1314,
+      "x_time": 1315,
+      "x_now_pre_guard": 1315,
+      "x_ideal": 1315,
       "right_guard": 1238,
-      "delta_min_to_guard": -215.2212389380531,
+      "delta_min_to_guard": -218.05309734513276,
       "snap_threshold_minutes": 20.0,
       "pph": 21.1875,
       "pph_source": "day_width",
