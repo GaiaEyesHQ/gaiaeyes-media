@@ -2,7 +2,6 @@ name: Schumann Fetch (Tomsk + Cumiana)
 
 on:
   schedule:
-    - cron: "*/15 * * * *"   # every 15 minutes (UTC)
   workflow_dispatch:         # allow manual runs
 
 concurrency:
