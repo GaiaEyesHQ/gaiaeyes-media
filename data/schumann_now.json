@@ -1,13 +1,13 @@
 {
   "status": "ok",
-  "timestamp_utc": "2025-09-04T10:47:35.910843+00:00",
+  "timestamp_utc": "2025-09-04T11:09:26.525466+00:00",
   "primary": "tomsk",
   "overlay_path": "./tomsk_overlay.png",
   "sources": {
     "tomsk": {
       "status": "ok",
       "source": "tomsk",
-      "timestamp_utc": "2025-09-04T10:47:34.976283+00:00",
+      "timestamp_utc": "2025-09-04T11:09:25.483012+00:00",
       "last_modified": "2025-09-01T04:20:00+00:00",
       "fundamental_hz": 8.9,
       "harmonics_hz": {
@@ -21,7 +21,7 @@
       "confidence": "high-panels",
       "overlay_path": "./tomsk_overlay.png",
       "raw": {
-        "tsst_time": "2025-09-04T17:47:34.952334+00:00",
+        "tsst_time": "2025-09-04T18:09:25.458955+00:00",
         "roi": {
           "x0": 59,
           "y0": 31,
@@ -38,10 +38,10 @@
           "x_frontier": 1244,
           "x1_exclude_right_px": 90,
           "guard_px": 6,
-          "x_time": 1453,
-          "x_ideal": 1453,
+          "x_time": 1461,
+          "x_ideal": 1461,
           "right_guard": 1238,
-          "delta_min_to_guard": -608.8495575221239,
+          "delta_min_to_guard": -631.5044247787611,
           "pph": 21.1875,
           "pph_source": "day_width",
           "tick_count": 0,
@@ -56,8 +56,8 @@
     "cumiana": {
       "status": "ok",
       "source": "cumiana",
-      "timestamp_utc": "2025-09-04T10:47:35.882930+00:00",
-      "last_modified": "2025-09-04T10:00:10+00:00",
+      "timestamp_utc": "2025-09-04T11:09:26.496557+00:00",
+      "last_modified": "2025-09-04T11:00:10+00:00",
       "fundamental_hz": 7.79,
       "harmonics_hz": {
         "F1": 7.79,
@@ -84,11 +84,9 @@
           "max": 20.0,
           "top_is_max": true
         },
-        "strategy": "yellow_F2",
-        "note": "yellow at now",
-        "cumiana_traces": {
-          "yellow_hz": 15.584415584415584
-        },
+        "strategy": "ridge_F1",
+        "note": "ridge brightest in F1 band",
+        "cumiana_traces": {},
         "debug": {
           "guard_px": 16,
           "exclude_right_px": 0,
