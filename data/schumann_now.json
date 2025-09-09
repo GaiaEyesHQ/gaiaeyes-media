@@ -1,13 +1,13 @@
 {
   "status": "ok",
-  "timestamp_utc": "2025-09-09T06:47:19.993926+00:00",
+  "timestamp_utc": "2025-09-09T07:12:11.164525+00:00",
   "primary": "tomsk",
   "overlay_path": "./tomsk_overlay.png",
   "sources": {
     "tomsk": {
       "status": "ok",
       "source": "tomsk",
-      "timestamp_utc": "2025-09-09T06:47:18.547199+00:00",
+      "timestamp_utc": "2025-09-09T07:12:10.212085+00:00",
       "last_modified": "2025-09-01T04:20:00+00:00",
       "fundamental_hz": 8.9,
       "harmonics_hz": {
@@ -21,7 +21,7 @@
       "confidence": "high-panels",
       "overlay_path": "./tomsk_overlay.png",
       "raw": {
-        "tsst_time": "2025-09-09T13:47:18.522885+00:00",
+        "tsst_time": "2025-09-09T14:12:10.187891+00:00",
         "roi": {
           "x0": 59,
           "y0": 31,
@@ -38,10 +38,10 @@
           "x_frontier": 1244,
           "x1_exclude_right_px": 90,
           "guard_px": 6,
-          "x_time": 1368,
-          "x_ideal": 1368,
+          "x_time": 1377,
+          "x_ideal": 1377,
           "right_guard": 1238,
-          "delta_min_to_guard": -368.141592920354,
+          "delta_min_to_guard": -393.6283185840708,
           "pph": 21.1875,
           "pph_source": "day_width",
           "tick_count": 0,
@@ -56,15 +56,15 @@
     "cumiana": {
       "status": "ok",
       "source": "cumiana",
-      "timestamp_utc": "2025-09-09T06:47:19.962661+00:00",
-      "last_modified": "2025-09-09T06:00:10+00:00",
-      "fundamental_hz": 7.69,
+      "timestamp_utc": "2025-09-09T07:12:11.137080+00:00",
+      "last_modified": "2025-09-09T07:00:10+00:00",
+      "fundamental_hz": 7.73,
       "harmonics_hz": {
-        "F1": 7.69,
-        "F2": 15.39,
-        "F3": 23.08,
-        "F4": 30.78,
-        "F5": 38.47,
+        "F1": 7.73,
+        "F2": 15.45,
+        "F3": 23.18,
+        "F4": 30.91,
+        "F5": 38.64,
         "trace_x_offset": 10
       },
       "amplitude_idx": {},
@@ -87,7 +87,7 @@
         "strategy": "yellow_F2",
         "note": "yellow at now",
         "cumiana_traces": {
-          "yellow_hz": 15.38961038961039
+          "yellow_hz": 15.454545454545455
         },
         "debug": {
           "guard_px": 16,
