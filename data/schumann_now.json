@@ -1,13 +1,13 @@
 {
   "status": "ok",
-  "timestamp_utc": "2025-09-10T21:47:19.430801+00:00",
+  "timestamp_utc": "2025-09-10T22:10:38.082128+00:00",
   "primary": "cumiana",
   "overlay_path": "./cumiana_overlay.png",
   "sources": {
     "tomsk": {
       "status": "stale_source",
       "source": "tomsk",
-      "timestamp_utc": "2025-09-10T21:47:18.409695+00:00",
+      "timestamp_utc": "2025-09-10T22:10:37.031646+00:00",
       "last_modified": "2025-09-01T04:20:00+00:00",
       "fundamental_hz": 8.9,
       "harmonics_hz": {
@@ -21,7 +21,7 @@
       "confidence": "high-panels",
       "overlay_path": "./tomsk_overlay.png",
       "raw": {
-        "tsst_time": "2025-09-11T04:47:18.385401+00:00",
+        "tsst_time": "2025-09-11T05:10:37.007552+00:00",
         "roi": {
           "x0": 59,
           "y0": 31,
@@ -38,10 +38,10 @@
           "x_frontier": 1244,
           "x1_exclude_right_px": 90,
           "guard_px": 6,
-          "x_time": 1177,
-          "x_ideal": 1177,
+          "x_time": 1186,
+          "x_ideal": 1186,
           "right_guard": 1238,
-          "delta_min_to_guard": 172.7433628318584,
+          "delta_min_to_guard": 147.2566371681416,
           "pph": 21.1875,
           "pph_source": "day_width",
           "tick_count": 0,
@@ -49,7 +49,7 @@
           "bias_minutes_applied": 0.0,
           "measured_bias_minutes": null,
           "guard_applied": true,
-          "age_hours": 233.4551036388889,
+          "age_hours": 233.84360971916666,
           "stale_hours": 6.0
         },
         "method": "tick-ruler px/h + adaptive frontier guard; day3(48–72h) time-anchor; banded picker + fallbacks"
@@ -58,8 +58,8 @@
     "cumiana": {
       "status": "ok",
       "source": "cumiana",
-      "timestamp_utc": "2025-09-10T21:47:19.398083+00:00",
-      "last_modified": "2025-09-10T21:00:10+00:00",
+      "timestamp_utc": "2025-09-10T22:10:38.055183+00:00",
+      "last_modified": "2025-09-10T22:00:10+00:00",
       "fundamental_hz": 7.82,
       "harmonics_hz": {
         "F1": 7.82,
