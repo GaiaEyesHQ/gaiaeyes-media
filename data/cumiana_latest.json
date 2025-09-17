@@ -1,0 +1,52 @@
+{
+  "status": "ok",
+  "source": "cumiana",
+  "timestamp_utc": "2025-09-17T20:32:24.924794+00:00",
+  "last_modified": "2025-09-17T20:00:10+00:00",
+  "fundamental_hz": 7.92,
+  "harmonics_hz": {
+    "F1": 7.92,
+    "F2": 15.84,
+    "F3": 23.77,
+    "F4": 31.69,
+    "F5": 39.61,
+    "trace_x_offset": 10
+  },
+  "amplitude_idx": {},
+  "confidence": "ok-visual",
+  "overlay_path": "runs/cumiana_overlay.png",
+  "raw": {
+    "spectrogram_url": "http://www.vlf.it/cumiana/last-plotted.jpg",
+    "x_now_pixel": 887,
+    "plot_roi": {
+      "x0": 47,
+      "y0": 24,
+      "x1": 909,
+      "y1": 332
+    },
+    "y_axis_hz": {
+      "min": 0.0,
+      "max": 20.0,
+      "top_is_max": true
+    },
+    "strategy": "yellow_F2",
+    "note": "yellow at now",
+    "cumiana_traces": {
+      "yellow_hz": 15.844155844155843
+    },
+    "debug": {
+      "guard_px": 16,
+      "exclude_right_px": 0,
+      "anchor": "fixed",
+      "x_now_source": "fixed",
+      "f2_probe": {
+        "hue_min": 10,
+        "hue_max": 55,
+        "sat_min": 60,
+        "val_min": 80,
+        "band_min_hz": 11.5,
+        "band_max_hz": 19.0
+      }
+    }
+  }
+}
