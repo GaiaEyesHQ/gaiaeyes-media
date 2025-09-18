@@ -1,0 +1,85 @@
+{
+  "saved_at_utc": "2025-09-18T00:50:44.365886+00:00",
+  "source": "tomsk_sos70_param_charts",
+  "freq_max_hz": 40.0,
+  "values": {
+    "F_hz": {
+      "F1/A1/Q1": 36.116504854368934,
+      "F2/A2/Q2": 36.116504854368934,
+      "F3/A3/Q3": 36.116504854368934,
+      "F4/A4/Q4": 36.116504854368934
+    },
+    "A_norm": {
+      "F1/A1/Q1": 0.9029126213592233,
+      "F2/A2/Q2": 0.9029126213592233,
+      "F3/A3/Q3": 0.9029126213592233,
+      "F4/A4/Q4": 0.9029126213592233
+    },
+    "Q_norm": {
+      "F1/A1/Q1": 0.9029126213592233,
+      "F2/A2/Q2": 0.9029126213592233,
+      "F3/A3/Q3": 0.9029126213592233,
+      "F4/A4/Q4": 0.9029126213592233
+    }
+  },
+  "debug": {
+    "F": {
+      "x_day0": 59,
+      "x_day1": 383,
+      "x_day2": 707,
+      "day_w": 324.0,
+      "pph": 19.0,
+      "pph_source": "ticks",
+      "x_frontier": 935,
+      "guard_px": 6,
+      "x_time": 856,
+      "x_ideal": 856,
+      "x_now": 856,
+      "bias_minutes_applied": 0.0,
+      "measured_bias_minutes": null,
+      "status": "ok"
+    },
+    "A": {
+      "x_day0": 59,
+      "x_day1": 392,
+      "x_day2": 726,
+      "day_w": 333.5,
+      "pph": 19.0,
+      "pph_source": "ticks",
+      "x_frontier": 935,
+      "guard_px": 6,
+      "x_time": 875,
+      "x_ideal": 875,
+      "x_now": 875,
+      "bias_minutes_applied": 0.0,
+      "measured_bias_minutes": null,
+      "status": "ok"
+    },
+    "Q": {
+      "x_day0": 59,
+      "x_day1": 392,
+      "x_day2": 726,
+      "day_w": 333.5,
+      "pph": 19.0,
+      "pph_source": "ticks",
+      "x_frontier": 935,
+      "guard_px": 6,
+      "x_time": 875,
+      "x_ideal": 875,
+      "x_now": 875,
+      "bias_minutes_applied": 0.0,
+      "measured_bias_minutes": null,
+      "status": "ok"
+    },
+    "urls": {
+      "F": "https://sos70.ru/provider.php?file=srf.jpg",
+      "A": "https://sos70.ru/provider.php?file=sra.jpg",
+      "Q": "https://sos70.ru/provider.php?file=srq.jpg"
+    },
+    "overlays": {
+      "F": "runs/tomsk_params_f_overlay.png",
+      "A": "runs/tomsk_params_a_overlay.png",
+      "Q": "runs/tomsk_params_q_overlay.png"
+    }
+  }
+}
