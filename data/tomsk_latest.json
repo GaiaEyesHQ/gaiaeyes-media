@@ -1,7 +1,7 @@
 {
   "status": "stale_source",
   "source": "tomsk",
-  "timestamp_utc": "2025-09-20T05:39:15.764102+00:00",
+  "timestamp_utc": "2025-09-20T05:51:15.637506+00:00",
   "last_modified": "2025-09-01T04:20:00+00:00",
   "fundamental_hz": 8.9,
   "harmonics_hz": {
@@ -15,7 +15,7 @@
   "confidence": "high-panels",
   "overlay_path": "runs/tomsk_overlay.png",
   "raw": {
-    "tsst_time": "2025-09-20T12:39:15.740155+00:00",
+    "tsst_time": "2025-09-20T12:51:15.613123+00:00",
     "roi": {
       "x0": 59,
       "y0": 31,
@@ -32,10 +32,10 @@
       "x_frontier": 1244,
       "x1_exclude_right_px": 90,
       "guard_px": 6,
-      "x_time": 1344,
-      "x_ideal": 1344,
+      "x_time": 1348,
+      "x_ideal": 1348,
       "right_guard": 1238,
-      "delta_min_to_guard": -300.1769911504425,
+      "delta_min_to_guard": -311.50442477876106,
       "pph": 21.1875,
       "pph_source": "day_width",
       "tick_count": 0,
@@ -43,7 +43,7 @@
       "bias_minutes_applied": 0.0,
       "measured_bias_minutes": null,
       "guard_applied": true,
-      "age_hours": 457.32103564305555,
+      "age_hours": 457.52100026944447,
       "stale_hours": 6.0
     },
     "method": "tick-ruler px/h + adaptive frontier guard; day3(48–72h) time-anchor; banded picker + fallbacks"
