@@ -1,41 +1,41 @@
 {
-  "saved_at_utc": "2025-09-20T19:12:50.353291+00:00",
+  "saved_at_utc": "2025-09-20T19:23:31.516685+00:00",
   "source": "tomsk_sos70_param_charts",
   "freq_max_hz": 40.0,
   "values": {
     "F_norm": {
       "F1": 0.1916376306620209,
-      "F2": 0.39372822299651566,
+      "F2": 0.37630662020905925,
       "F3": 0.4808362369337979,
       "F4": 0.6794425087108014
     },
     "F_y_px": {
       "F1": 90,
-      "F2": 148,
+      "F2": 143,
       "F3": 173,
       "F4": 230
     },
     "A_norm": {
       "A1": 0.9477351916376306,
-      "A2": 0.5052264808362369,
+      "A2": 0.5087108013937283,
       "A3": 0.6689895470383276,
-      "A4": 0.9477351916376306
+      "A4": 0.9581881533101045
     },
     "A_y_px": {
       "A1": 307,
-      "A2": 180,
+      "A2": 181,
       "A3": 227,
-      "A4": 307
+      "A4": 310
     },
     "Q_norm": {
       "Q1": 0.9581881533101045,
-      "Q2": 0.40069686411149824,
+      "Q2": 0.7038327526132404,
       "Q3": 0.7038327526132404,
       "Q4": 0.9581881533101045
     },
     "Q_y_px": {
       "Q1": 310,
-      "Q2": 150,
+      "Q2": 237,
       "Q3": 237,
       "Q4": 310
     }
@@ -50,9 +50,9 @@
       "pph_source": "day_width",
       "x_frontier": 935,
       "guard_px": 6,
-      "x_time": 744,
-      "x_ideal": 744,
-      "x_now": 744,
+      "x_time": 747,
+      "x_ideal": 747,
+      "x_now": 747,
       "bias_minutes_applied": 0.0,
       "measured_bias_minutes": null,
       "status": "ok"
@@ -66,9 +66,9 @@
       "pph_source": "day_width",
       "x_frontier": 935,
       "guard_px": 6,
-      "x_time": 713,
-      "x_ideal": 713,
-      "x_now": 713,
+      "x_time": 715,
+      "x_ideal": 715,
+      "x_now": 715,
       "bias_minutes_applied": 0.0,
       "measured_bias_minutes": null,
       "status": "ok"
@@ -82,9 +82,9 @@
       "pph_source": "day_width",
       "x_frontier": 935,
       "guard_px": 6,
-      "x_time": 757,
-      "x_ideal": 757,
-      "x_now": 757,
+      "x_time": 759,
+      "x_ideal": 759,
+      "x_now": 759,
       "bias_minutes_applied": 0.0,
       "measured_bias_minutes": null,
       "status": "ok"
