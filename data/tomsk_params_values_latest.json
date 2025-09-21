@@ -1,42 +1,42 @@
 {
-  "saved_at_utc": "2025-09-21T23:16:56.696488+00:00",
+  "saved_at_utc": "2025-09-21T23:37:16.572043+00:00",
   "source": "tomsk_sos70_param_charts",
   "freq_max_hz": 40.0,
   "values": {
     "F_norm": {
       "F1": 0.1916376306620209,
       "F2": 0.4146341463414634,
-      "F3": 0.5714285714285714,
+      "F3": 0.5505226480836237,
       "F4": 0.6794425087108014
     },
     "F_y_px": {
       "F1": 90,
       "F2": 154,
-      "F3": 199,
+      "F3": 193,
       "F4": 230
     },
     "A_norm": {
-      "A1": 0.9442508710801394,
-      "A2": 0.47038327526132406,
-      "A3": 0.662020905923345,
+      "A1": 0.9581881533101045,
+      "A2": 0.45993031358885017,
+      "A3": 0.6655052264808362,
       "A4": 0.9581881533101045
     },
     "A_y_px": {
-      "A1": 306,
-      "A2": 170,
-      "A3": 225,
+      "A1": 310,
+      "A2": 167,
+      "A3": 226,
       "A4": 310
     },
     "Q_norm": {
       "Q1": 0.9581881533101045,
       "Q2": 0.3867595818815331,
-      "Q3": 0.7142857142857143,
+      "Q3": 0.42160278745644597,
       "Q4": 0.9581881533101045
     },
     "Q_y_px": {
       "Q1": 310,
       "Q2": 146,
-      "Q3": 240,
+      "Q3": 156,
       "Q4": 310
     }
   },
@@ -50,9 +50,9 @@
       "pph_source": "day_width",
       "x_frontier": 935,
       "guard_px": 6,
-      "x_time": 800,
-      "x_ideal": 800,
-      "x_now": 800,
+      "x_time": 804,
+      "x_ideal": 804,
+      "x_now": 804,
       "bias_minutes_applied": 0.0,
       "measured_bias_minutes": null,
       "status": "ok"
@@ -66,9 +66,9 @@
       "pph_source": "day_width",
       "x_frontier": 935,
       "guard_px": 6,
-      "x_time": 766,
-      "x_ideal": 766,
-      "x_now": 766,
+      "x_time": 770,
+      "x_ideal": 770,
+      "x_now": 770,
       "bias_minutes_applied": 0.0,
       "measured_bias_minutes": null,
       "status": "ok"
@@ -82,9 +82,9 @@
       "pph_source": "day_width",
       "x_frontier": 935,
       "guard_px": 6,
-      "x_time": 813,
-      "x_ideal": 813,
-      "x_now": 813,
+      "x_time": 818,
+      "x_ideal": 818,
+      "x_now": 818,
       "bias_minutes_applied": 0.0,
       "measured_bias_minutes": null,
       "status": "ok"
