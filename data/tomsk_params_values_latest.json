@@ -1,18 +1,18 @@
 {
-  "saved_at_utc": "2025-09-26T11:51:33.854159+00:00",
+  "saved_at_utc": "2025-09-26T12:39:18.880538+00:00",
   "source": "tomsk_sos70_param_charts",
   "freq_max_hz": 40.0,
   "values": {
     "F_norm": {
       "F1": 0.1916376306620209,
-      "F2": 0.4076655052264808,
-      "F3": 0.4912891986062718,
+      "F2": 0.3344947735191638,
+      "F3": 0.5296167247386759,
       "F4": 0.6794425087108014
     },
     "F_y_px": {
       "F1": 90,
-      "F2": 152,
-      "F3": 176,
+      "F2": 131,
+      "F3": 187,
       "F4": 230
     },
     "A_norm": {
@@ -28,15 +28,15 @@
       "A4": 310
     },
     "Q_norm": {
-      "Q1": 0.006968641114982578,
+      "Q1": 0.07665505226480836,
       "Q2": 0.40069686411149824,
-      "Q3": 0.9686411149825784,
+      "Q3": 0.2508710801393728,
       "Q4": 0.9581881533101045
     },
     "Q_y_px": {
-      "Q1": 37,
+      "Q1": 57,
       "Q2": 150,
-      "Q3": 313,
+      "Q3": 107,
       "Q4": 310
     }
   },
@@ -50,9 +50,9 @@
       "pph_source": "day_width",
       "x_frontier": 934,
       "guard_px": 6,
-      "x_time": 904,
-      "x_ideal": 904,
-      "x_now": 904,
+      "x_time": 915,
+      "x_ideal": 915,
+      "x_now": 915,
       "bias_minutes_applied": 0.0,
       "measured_bias_minutes": null,
       "status": "ok"
@@ -66,8 +66,8 @@
       "pph_source": "day_width",
       "x_frontier": 935,
       "guard_px": 6,
-      "x_time": 930,
-      "x_ideal": 930,
+      "x_time": 940,
+      "x_ideal": 940,
       "x_now": 929,
       "bias_minutes_applied": 0.0,
       "measured_bias_minutes": null,
@@ -82,9 +82,9 @@
       "pph_source": "day_width",
       "x_frontier": 935,
       "guard_px": 6,
-      "x_time": 923,
-      "x_ideal": 923,
-      "x_now": 923,
+      "x_time": 933,
+      "x_ideal": 933,
+      "x_now": 929,
       "bias_minutes_applied": 0.0,
       "measured_bias_minutes": null,
       "status": "ok"
