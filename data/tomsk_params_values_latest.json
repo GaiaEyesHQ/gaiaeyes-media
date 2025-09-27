@@ -1,58 +1,58 @@
 {
-  "saved_at_utc": "2025-09-27T07:50:40.537807+00:00",
+  "saved_at_utc": "2025-09-27T08:21:35.273489+00:00",
   "source": "tomsk_sos70_param_charts",
   "freq_max_hz": 40.0,
   "values": {
     "F_norm": {
       "F1": 0.1916376306620209,
-      "F2": 0.3344947735191638,
+      "F2": 0.40069686411149824,
       "F3": 0.5296167247386759,
       "F4": 0.6794425087108014
     },
     "F_y_px": {
       "F1": 90,
-      "F2": 131,
+      "F2": 150,
       "F3": 187,
       "F4": 230
     },
     "A_norm": {
       "A1": 0.9581881533101045,
-      "A2": 0.6794425087108014,
-      "A3": 0.9686411149825784,
+      "A2": 0.9581881533101045,
+      "A3": 0.4634146341463415,
       "A4": 0.9581881533101045
     },
     "A_y_px": {
       "A1": 310,
-      "A2": 230,
-      "A3": 313,
+      "A2": 310,
+      "A3": 168,
       "A4": 310
     },
     "Q_norm": {
-      "Q1": 0.9581881533101045,
+      "Q1": 0.006968641114982578,
       "Q2": 0.9581881533101045,
-      "Q3": 0.6236933797909407,
+      "Q3": 0.9860627177700348,
       "Q4": 0.9581881533101045
     },
     "Q_y_px": {
-      "Q1": 310,
+      "Q1": 37,
       "Q2": 310,
-      "Q3": 214,
+      "Q3": 318,
       "Q4": 310
     }
   },
   "debug": {
     "F": {
       "x_day0": 59,
-      "x_day1": 386,
-      "x_day2": 714,
-      "day_w": 327.5,
-      "pph": 13.645833333333334,
+      "x_day1": 387,
+      "x_day2": 715,
+      "day_w": 328.0,
+      "pph": 13.666666666666666,
       "pph_source": "day_width",
       "x_frontier": 934,
       "guard_px": 6,
-      "x_time": 917,
-      "x_ideal": 917,
-      "x_now": 917,
+      "x_time": 925,
+      "x_ideal": 925,
+      "x_now": 925,
       "bias_minutes_applied": 0.0,
       "measured_bias_minutes": null,
       "status": "ok"
@@ -66,9 +66,9 @@
       "pph_source": "day_width",
       "x_frontier": 935,
       "guard_px": 6,
-      "x_time": 877,
-      "x_ideal": 877,
-      "x_now": 877,
+      "x_time": 884,
+      "x_ideal": 884,
+      "x_now": 884,
       "bias_minutes_applied": 0.0,
       "measured_bias_minutes": null,
       "status": "ok"
@@ -82,9 +82,9 @@
       "pph_source": "day_width",
       "x_frontier": 935,
       "guard_px": 6,
-      "x_time": 907,
-      "x_ideal": 907,
-      "x_now": 907,
+      "x_time": 914,
+      "x_ideal": 914,
+      "x_now": 914,
       "bias_minutes_applied": 0.0,
       "measured_bias_minutes": null,
       "status": "ok"
