@@ -1,19 +1,19 @@
 {
-  "saved_at_utc": "2025-09-28T08:51:51.952584+00:00",
+  "saved_at_utc": "2025-09-28T09:17:14.763309+00:00",
   "source": "tomsk_sos70_param_charts",
   "freq_max_hz": 40.0,
   "values": {
     "F_norm": {
       "F1": 0.1916376306620209,
-      "F2": 0.4076655052264808,
-      "F3": 0.5226480836236934,
-      "F4": 0.6132404181184669
+      "F2": 0.3344947735191638,
+      "F3": 0.5296167247386759,
+      "F4": 0.6794425087108014
     },
     "F_y_px": {
       "F1": 90,
-      "F2": 152,
-      "F3": 185,
-      "F4": 211
+      "F2": 131,
+      "F3": 187,
+      "F4": 230
     },
     "A_norm": {
       "A1": 0.07665505226480836,
@@ -28,15 +28,15 @@
       "A4": 310
     },
     "Q_norm": {
-      "Q1": 0.006968641114982578,
-      "Q2": 0.9477351916376306,
-      "Q3": 0.9860627177700348,
+      "Q1": 0.07665505226480836,
+      "Q2": 0.40069686411149824,
+      "Q3": 0.2508710801393728,
       "Q4": 0.9581881533101045
     },
     "Q_y_px": {
-      "Q1": 37,
-      "Q2": 307,
-      "Q3": 318,
+      "Q1": 57,
+      "Q2": 150,
+      "Q3": 107,
       "Q4": 310
     }
   },
@@ -50,9 +50,9 @@
       "pph_source": "day_width",
       "x_frontier": 934,
       "guard_px": 6,
-      "x_time": 860,
-      "x_ideal": 860,
-      "x_now": 860,
+      "x_time": 865,
+      "x_ideal": 865,
+      "x_now": 865,
       "bias_minutes_applied": 0.0,
       "measured_bias_minutes": null,
       "status": "ok"
@@ -66,8 +66,8 @@
       "pph_source": "day_width",
       "x_frontier": 935,
       "guard_px": 6,
-      "x_time": 946,
-      "x_ideal": 946,
+      "x_time": 952,
+      "x_ideal": 952,
       "x_now": 929,
       "bias_minutes_applied": 0.0,
       "measured_bias_minutes": null,
@@ -82,9 +82,9 @@
       "pph_source": "day_width",
       "x_frontier": 935,
       "guard_px": 6,
-      "x_time": 921,
-      "x_ideal": 921,
-      "x_now": 921,
+      "x_time": 927,
+      "x_ideal": 927,
+      "x_now": 927,
       "bias_minutes_applied": 0.0,
       "measured_bias_minutes": null,
       "status": "ok"
