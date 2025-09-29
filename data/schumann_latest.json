@@ -1,28 +1,72 @@
 {
   "status": "ok",
-  "timestamp_utc": "2025-09-29T11:51:58.761556+00:00",
+  "timestamp_utc": "2025-09-29T12:41:30.719960+00:00",
   "primary": "cumiana",
   "overlay_path": "runs/cumiana_overlay.png",
   "sources": {
     "tomsk": {
-      "status": "error",
-      "message": "tomsk extractor did not produce JSON.",
-      "stdout": "",
-      "stderr": "actor.py\", line 454, in <module>\n    sys.exit(main())\n  File \"/home/runner/work/gaiaeyes-backend/gaiaeyes-backend/backend/bots/schumann/tomsk_extractor.py\", line 293, in main\n    img, last_mod_h = fetch_image(TOMSK_IMG, insecure=args.insecure)\n  File \"/home/runner/work/gaiaeyes-backend/gaiaeyes-backend/backend/bots/schumann/tomsk_extractor.py\", line 54, in fetch_image\n    r = requests.get(url, **kw)\n  File \"/opt/hostedtoolcache/Python/3.10.18/x64/lib/python3.10/site-packages/requests/api.py\", line 73, in get\n    return request(\"get\", url, params=params, **kwargs)\n  File \"/opt/hostedtoolcache/Python/3.10.18/x64/lib/python3.10/site-packages/requests/api.py\", line 59, in request\n    return session.request(method=method, url=url, **kwargs)\n  File \"/opt/hostedtoolcache/Python/3.10.18/x64/lib/python3.10/site-packages/requests/sessions.py\", line 589, in request\n    resp = self.send(prep, **send_kwargs)\n  File \"/opt/hostedtoolcache/Python/3.10.18/x64/lib/python3.10/site-packages/requests/sessions.py\", line 724, in send\n    history = [resp for resp in gen]\n  File \"/opt/hostedtoolcache/Python/3.10.18/x64/lib/python3.10/site-packages/requests/sessions.py\", line 724, in <listcomp>\n    history = [resp for resp in gen]\n  File \"/opt/hostedtoolcache/Python/3.10.18/x64/lib/python3.10/site-packages/requests/sessions.py\", line 265, in resolve_redirects\n    resp = self.send(\n  File \"/opt/hostedtoolcache/Python/3.10.18/x64/lib/python3.10/site-packages/requests/sessions.py\", line 703, in send\n    r = adapter.send(request, **kwargs)\n  File \"/opt/hostedtoolcache/Python/3.10.18/x64/lib/python3.10/site-packages/requests/adapters.py\", line 677, in send\n    raise ConnectionError(e, request=request)\nrequests.exceptions.ConnectionError: HTTPSConnectionPool(host='sos70.rusos70.ru', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7fd03e2a1a20>: Failed to resolve 'sos70.rusos70.ru' ([Errno -2] Name or service not known)\"))\n",
-      "overlay_path": "runs/tomsk_overlay.png"
+      "status": "stale_source",
+      "source": "tomsk",
+      "timestamp_utc": "2025-09-29T12:41:28.846675+00:00",
+      "last_modified": "2025-09-01T04:20:00+00:00",
+      "fundamental_hz": 8.9,
+      "harmonics_hz": {
+        "F1": 8.9,
+        "F2": 14.1,
+        "F3": 27.200000000000003,
+        "F4": 36.2,
+        "F5": 39.4
+      },
+      "amplitude_idx": {},
+      "confidence": "high-panels",
+      "overlay_path": "runs/tomsk_overlay.png",
+      "raw": {
+        "tsst_time": "2025-09-29T19:41:28.820873+00:00",
+        "roi": {
+          "x0": 59,
+          "y0": 31,
+          "x1": 1539,
+          "y1": 431
+        },
+        "group_boundaries_px": {
+          "x_day0": 59,
+          "x_day1": 568,
+          "x_day2": 1076,
+          "day_w": 508.5
+        },
+        "debug": {
+          "x_frontier": 1244,
+          "x1_exclude_right_px": 90,
+          "guard_px": 6,
+          "x_time": 1493,
+          "x_ideal": 1493,
+          "right_guard": 1238,
+          "delta_min_to_guard": -722.1238938053096,
+          "pph": 21.1875,
+          "pph_source": "day_width",
+          "tick_count": 0,
+          "tick_quality": 0.0,
+          "bias_minutes_applied": 0.0,
+          "measured_bias_minutes": null,
+          "guard_applied": true,
+          "age_hours": 680.3580026816667,
+          "stale_hours": 6.0
+        },
+        "method": "tick-ruler px/h + adaptive frontier guard; day3(48–72h) time-anchor; banded picker + fallbacks"
+      }
     },
     "cumiana": {
       "status": "ok",
       "source": "cumiana",
-      "timestamp_utc": "2025-09-29T11:51:58.731387+00:00",
-      "last_modified": "2025-09-29T11:00:10+00:00",
-      "fundamental_hz": 7.69,
+      "timestamp_utc": "2025-09-29T12:41:30.691733+00:00",
+      "last_modified": "2025-09-29T12:00:10+00:00",
+      "fundamental_hz": 7.79,
       "harmonics_hz": {
-        "F1": 7.69,
-        "F2": 15.39,
-        "F3": 23.08,
-        "F4": 30.78,
-        "F5": 38.47,
+        "F1": 7.79,
+        "F2": 15.58,
+        "F3": 23.38,
+        "F4": 31.17,
+        "F5": 38.96,
         "trace_x_offset": 10
       },
       "amplitude_idx": {},
@@ -45,7 +89,7 @@
         "strategy": "yellow_F2",
         "note": "yellow at now",
         "cumiana_traces": {
-          "yellow_hz": 15.38961038961039
+          "yellow_hz": 15.584415584415584
         },
         "debug": {
           "guard_px": 16,
