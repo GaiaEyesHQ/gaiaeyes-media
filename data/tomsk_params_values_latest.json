@@ -1,28 +1,28 @@
 {
-  "saved_at_utc": "2025-10-04T06:25:17.031564+00:00",
+  "saved_at_utc": "2025-10-04T06:44:55.586183+00:00",
   "source": "tomsk_sos70_param_charts",
   "freq_max_hz": 40.0,
   "values": {
     "F_norm": {
       "F1": 0.1916376306620209,
       "F2": 0.40069686411149824,
-      "F3": 0.4912891986062718,
+      "F3": 0.4634146341463415,
       "F4": 0.6794425087108014
     },
     "F_y_px": {
       "F1": 90,
       "F2": 150,
-      "F3": 176,
+      "F3": 168,
       "F4": 230
     },
     "A_norm": {
-      "A1": 0.003484320557491289,
+      "A1": 0.9581881533101045,
       "A2": 0.9581881533101045,
       "A3": 0.9860627177700348,
       "A4": 0.9581881533101045
     },
     "A_y_px": {
-      "A1": 36,
+      "A1": 310,
       "A2": 310,
       "A3": 318,
       "A4": 310
@@ -30,13 +30,13 @@
     "Q_norm": {
       "Q1": 0.9581881533101045,
       "Q2": 0.9581881533101045,
-      "Q3": 0.6236933797909407,
+      "Q3": 0.9860627177700348,
       "Q4": 0.9581881533101045
     },
     "Q_y_px": {
       "Q1": 310,
       "Q2": 310,
-      "Q3": 214,
+      "Q3": 318,
       "Q4": 310
     }
   },
@@ -50,25 +50,25 @@
       "pph_source": "day_width",
       "x_frontier": 935,
       "guard_px": 6,
-      "x_time": 829,
-      "x_ideal": 829,
-      "x_now": 829,
+      "x_time": 833,
+      "x_ideal": 833,
+      "x_now": 833,
       "bias_minutes_applied": 0.0,
       "measured_bias_minutes": null,
       "status": "ok"
     },
     "A": {
       "x_day0": 59,
-      "x_day1": 392,
-      "x_day2": 726,
-      "day_w": 333.5,
-      "pph": 13.895833333333334,
+      "x_day1": 372,
+      "x_day2": 684,
+      "day_w": 312.5,
+      "pph": 13.020833333333334,
       "pph_source": "day_width",
       "x_frontier": 935,
       "guard_px": 6,
-      "x_time": 912,
-      "x_ideal": 912,
-      "x_now": 912,
+      "x_time": 863,
+      "x_ideal": 863,
+      "x_now": 863,
       "bias_minutes_applied": 0.0,
       "measured_bias_minutes": null,
       "status": "ok"
@@ -82,9 +82,9 @@
       "pph_source": "day_width",
       "x_frontier": 935,
       "guard_px": 6,
-      "x_time": 857,
-      "x_ideal": 857,
-      "x_now": 857,
+      "x_time": 862,
+      "x_ideal": 862,
+      "x_now": 862,
       "bias_minutes_applied": 0.0,
       "measured_bias_minutes": null,
       "status": "ok"
