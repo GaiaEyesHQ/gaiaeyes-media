@@ -1,13 +1,13 @@
 {
   "status": "ok",
-  "timestamp_utc": "2025-10-11T17:50:40.740917+00:00",
+  "timestamp_utc": "2025-10-11T18:51:41.609352+00:00",
   "primary": "tomsk",
   "overlay_path": "runs/tomsk_overlay.png",
   "sources": {
     "tomsk": {
       "status": "ok",
       "source": "tomsk",
-      "timestamp_utc": "2025-10-11T17:50:39.332091+00:00",
+      "timestamp_utc": "2025-10-11T18:51:40.489356+00:00",
       "last_modified": null,
       "fundamental_hz": 6.0,
       "harmonics_hz": {
@@ -21,7 +21,7 @@
       "confidence": "high-panels",
       "overlay_path": "runs/tomsk_overlay.png",
       "raw": {
-        "tsst_time": "2025-10-12T00:50:39.309359+00:00",
+        "tsst_time": "2025-10-12T01:51:40.466000+00:00",
         "roi": {
           "x0": 59,
           "y0": 31,
@@ -38,10 +38,10 @@
           "x_frontier": 1069,
           "x1_exclude_right_px": 90,
           "guard_px": 6,
-          "x_time": 1091,
-          "x_ideal": 1091,
+          "x_time": 1112,
+          "x_ideal": 1112,
           "right_guard": 1063,
-          "delta_min_to_guard": -79.52662721893492,
+          "delta_min_to_guard": -139.1715976331361,
           "pph": 21.125,
           "pph_source": "day_width",
           "tick_count": 0,
@@ -58,15 +58,15 @@
     "cumiana": {
       "status": "ok",
       "source": "cumiana",
-      "timestamp_utc": "2025-10-11T17:50:40.709915+00:00",
-      "last_modified": "2025-10-11T17:00:10+00:00",
-      "fundamental_hz": 7.92,
+      "timestamp_utc": "2025-10-11T18:51:41.580702+00:00",
+      "last_modified": "2025-10-11T18:00:10+00:00",
+      "fundamental_hz": 7.89,
       "harmonics_hz": {
-        "F1": 7.92,
-        "F2": 15.84,
-        "F3": 23.77,
-        "F4": 31.69,
-        "F5": 39.61,
+        "F1": 7.89,
+        "F2": 15.78,
+        "F3": 23.67,
+        "F4": 31.56,
+        "F5": 39.45,
         "trace_x_offset": 10
       },
       "amplitude_idx": {},
@@ -89,7 +89,7 @@
         "strategy": "yellow_F2",
         "note": "yellow at now",
         "cumiana_traces": {
-          "yellow_hz": 15.844155844155843
+          "yellow_hz": 15.779220779220779
         },
         "debug": {
           "guard_px": 16,
