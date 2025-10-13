@@ -1,27 +1,27 @@
 {
   "status": "ok",
-  "timestamp_utc": "2025-10-13T22:17:14.477764+00:00",
+  "timestamp_utc": "2025-10-13T22:38:55.359348+00:00",
   "primary": "tomsk",
   "overlay_path": "runs/tomsk_overlay.png",
   "sources": {
     "tomsk": {
       "status": "ok",
       "source": "tomsk",
-      "timestamp_utc": "2025-10-13T22:17:12.518196+00:00",
+      "timestamp_utc": "2025-10-13T22:38:54.455494+00:00",
       "last_modified": null,
-      "fundamental_hz": 8.0,
+      "fundamental_hz": 7.3,
       "harmonics_hz": {
-        "F1": 8.0,
-        "F2": 17.229299157857895,
-        "F3": 18.377561615407465,
-        "F4": 26.26303358376026,
-        "F5": 30.0
+        "F1": 7.3,
+        "F2": 13.163648295402526,
+        "F3": 22.3926843367517,
+        "F4": 25.51020634919405,
+        "F5": 30.899070802889767
       },
       "amplitude_idx": {},
       "confidence": "high-panels",
       "overlay_path": "runs/tomsk_overlay.png",
       "raw": {
-        "tsst_time": "2025-10-14T05:17:12.492892+00:00",
+        "tsst_time": "2025-10-14T05:38:54.429866+00:00",
         "roi": {
           "x0": 59,
           "y0": 31,
@@ -35,13 +35,13 @@
           "day_w": 494.0
         },
         "debug": {
-          "x_frontier": 1119,
+          "x_frontier": 1129,
           "x1_exclude_right_px": 90,
           "guard_px": 6,
-          "x_time": 1156,
-          "x_ideal": 1156,
-          "right_guard": 1113,
-          "delta_min_to_guard": -125.34412955465588,
+          "x_time": 1163,
+          "x_ideal": 1163,
+          "right_guard": 1123,
+          "delta_min_to_guard": -116.59919028340082,
           "pph": 20.583333333333332,
           "pph_source": "day_width",
           "tick_count": 0,
@@ -58,7 +58,7 @@
     "cumiana": {
       "status": "ok",
       "source": "cumiana",
-      "timestamp_utc": "2025-10-13T22:17:14.450673+00:00",
+      "timestamp_utc": "2025-10-13T22:38:55.321313+00:00",
       "last_modified": "2025-10-13T22:00:10+00:00",
       "fundamental_hz": 7.82,
       "harmonics_hz": {
