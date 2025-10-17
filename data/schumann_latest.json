@@ -1,64 +1,20 @@
 {
   "status": "ok",
-  "timestamp_utc": "2025-10-17T14:18:58.996438+00:00",
-  "primary": "tomsk",
-  "overlay_path": "runs/tomsk_overlay.png",
+  "timestamp_utc": "2025-10-17T14:42:41.389093+00:00",
+  "primary": "cumiana",
+  "overlay_path": "runs/cumiana_overlay.png",
   "sources": {
     "tomsk": {
-      "status": "ok",
-      "source": "tomsk",
-      "timestamp_utc": "2025-10-17T14:18:58.059476+00:00",
-      "last_modified": null,
-      "fundamental_hz": 9.0,
-      "harmonics_hz": {
-        "F1": 9.0,
-        "F2": 16.57943235039711,
-        "F3": 27.400000000000002,
-        "F4": 25.23445498943329,
-        "F5": 31.987407632172108
-      },
-      "amplitude_idx": {},
-      "confidence": "high-panels",
-      "overlay_path": "runs/tomsk_overlay.png",
-      "raw": {
-        "tsst_time": "2025-10-17T21:18:58.029296+00:00",
-        "roi": {
-          "x0": 59,
-          "y0": 31,
-          "x1": 1539,
-          "y1": 431
-        },
-        "group_boundaries_px": {
-          "x_day0": 59,
-          "x_day1": 570,
-          "x_day2": 1081,
-          "day_w": 511.0
-        },
-        "debug": {
-          "x_frontier": 1439,
-          "x1_exclude_right_px": 90,
-          "guard_px": 6,
-          "x_time": 1535,
-          "x_ideal": 1535,
-          "right_guard": 1433,
-          "delta_min_to_guard": -287.4363992172211,
-          "pph": 21.291666666666668,
-          "pph_source": "day_width",
-          "tick_count": 0,
-          "tick_quality": 0.0,
-          "bias_minutes_applied": 0.0,
-          "measured_bias_minutes": null,
-          "guard_applied": true,
-          "age_hours": null,
-          "stale_hours": 6.0
-        },
-        "method": "tick-ruler px/h + adaptive frontier guard; day3(48–72h) time-anchor; banded picker + fallbacks"
-      }
+      "status": "error",
+      "message": "tomsk extractor did not produce JSON.",
+      "stdout": "",
+      "stderr": "pt/hostedtoolcache/Python/3.10.18/x64/lib/python3.10/http/client.py\", line 318, in begin\n    version, status, reason = self._read_status()\n  File \"/opt/hostedtoolcache/Python/3.10.18/x64/lib/python3.10/http/client.py\", line 287, in _read_status\n    raise RemoteDisconnected(\"Remote end closed connection without\"\nurllib3.exceptions.ProtocolError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"/home/runner/work/gaiaeyes-backend/gaiaeyes-backend/backend/bots/schumann/tomsk_extractor.py\", line 518, in <module>\n    sys.exit(main())\n  File \"/home/runner/work/gaiaeyes-backend/gaiaeyes-backend/backend/bots/schumann/tomsk_extractor.py\", line 357, in main\n    img, last_mod_h = fetch_image(TOMSK_IMG, insecure=args.insecure)\n  File \"/home/runner/work/gaiaeyes-backend/gaiaeyes-backend/backend/bots/schumann/tomsk_extractor.py\", line 57, in fetch_image\n    r = requests.get(url, **kw)\n  File \"/opt/hostedtoolcache/Python/3.10.18/x64/lib/python3.10/site-packages/requests/api.py\", line 73, in get\n    return request(\"get\", url, params=params, **kwargs)\n  File \"/opt/hostedtoolcache/Python/3.10.18/x64/lib/python3.10/site-packages/requests/api.py\", line 59, in request\n    return session.request(method=method, url=url, **kwargs)\n  File \"/opt/hostedtoolcache/Python/3.10.18/x64/lib/python3.10/site-packages/requests/sessions.py\", line 589, in request\n    resp = self.send(prep, **send_kwargs)\n  File \"/opt/hostedtoolcache/Python/3.10.18/x64/lib/python3.10/site-packages/requests/sessions.py\", line 703, in send\n    r = adapter.send(request, **kwargs)\n  File \"/opt/hostedtoolcache/Python/3.10.18/x64/lib/python3.10/site-packages/requests/adapters.py\", line 659, in send\n    raise ConnectionError(err, request=request)\nrequests.exceptions.ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))\n",
+      "overlay_path": "runs/tomsk_overlay.png"
     },
     "cumiana": {
       "status": "ok",
       "source": "cumiana",
-      "timestamp_utc": "2025-10-17T14:18:58.968446+00:00",
+      "timestamp_utc": "2025-10-17T14:42:41.362462+00:00",
       "last_modified": "2025-10-17T14:00:10+00:00",
       "fundamental_hz": 7.89,
       "harmonics_hz": {
