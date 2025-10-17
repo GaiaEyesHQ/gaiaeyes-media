@@ -1,11 +1,11 @@
 {
-  "ts": "2025-10-17T01:08:42.062307Z",
+  "ts": "2025-10-17T01:19:04.788467Z",
   "kpis": {
     "r0_re": 9.1,
     "geo_risk": "low",
     "storminess": "active",
     "dbdt": "low",
-    "lpp_re": 4.8,
+    "lpp_re": null,
     "kp": 1.7
   },
   "sw": {
@@ -15,6 +15,10 @@
   },
   "trend": {
     "r0": "flat"
+  },
+  "chart": {
+    "mode": "absolute_tight",
+    "amp": 1.0
   },
   "explain": {
     "state": "Expanded / typical \u2022 Storminess: active \u2022 Grid stress: low",
