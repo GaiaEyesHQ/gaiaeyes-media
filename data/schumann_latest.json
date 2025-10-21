@@ -1,27 +1,27 @@
 {
   "status": "ok",
-  "timestamp_utc": "2025-10-21T02:51:54.061072+00:00",
+  "timestamp_utc": "2025-10-21T03:38:21.167815+00:00",
   "primary": "tomsk",
   "overlay_path": "runs/tomsk_overlay.png",
   "sources": {
     "tomsk": {
       "status": "ok",
       "source": "tomsk",
-      "timestamp_utc": "2025-10-21T02:51:52.975219+00:00",
+      "timestamp_utc": "2025-10-21T03:38:19.800232+00:00",
       "last_modified": null,
       "fundamental_hz": 9.399999999999999,
       "harmonics_hz": {
         "F1": 9.399999999999999,
         "F2": 18.400000000000002,
-        "F3": 18.387891782820226,
-        "F4": 26.259564861655235,
-        "F5": 31.175029762089252
+        "F3": 18.0,
+        "F4": 26.20999454855919,
+        "F5": 31.244627034664152
       },
       "amplitude_idx": {},
       "confidence": "high-panels",
       "overlay_path": "runs/tomsk_overlay.png",
       "raw": {
-        "tsst_time": "2025-10-21T09:51:52.948693+00:00",
+        "tsst_time": "2025-10-21T10:38:19.773630+00:00",
         "roi": {
           "x0": 59,
           "y0": 31,
@@ -35,13 +35,13 @@
           "day_w": 507.5
         },
         "debug": {
-          "x_frontier": 1214,
+          "x_frontier": 1229,
           "x1_exclude_right_px": 90,
           "guard_px": 6,
-          "x_time": 1283,
-          "x_ideal": 1283,
-          "right_guard": 1208,
-          "delta_min_to_guard": -212.80788177339903,
+          "x_time": 1299,
+          "x_ideal": 1299,
+          "right_guard": 1223,
+          "delta_min_to_guard": -215.64532019704436,
           "pph": 21.145833333333332,
           "pph_source": "day_width",
           "tick_count": 0,
@@ -58,8 +58,8 @@
     "cumiana": {
       "status": "ok",
       "source": "cumiana",
-      "timestamp_utc": "2025-10-21T02:51:54.031922+00:00",
-      "last_modified": "2025-10-21T02:00:10+00:00",
+      "timestamp_utc": "2025-10-21T03:38:21.136279+00:00",
+      "last_modified": "2025-10-21T03:00:10+00:00",
       "fundamental_hz": 7.89,
       "harmonics_hz": {
         "F1": 7.89,
