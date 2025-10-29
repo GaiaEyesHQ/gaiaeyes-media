@@ -1,27 +1,27 @@
 {
   "status": "ok",
-  "timestamp_utc": "2025-10-29T18:51:31.265127+00:00",
+  "timestamp_utc": "2025-10-29T19:15:36.499803+00:00",
   "primary": "tomsk",
   "overlay_path": "runs/tomsk_overlay.png",
   "sources": {
     "tomsk": {
       "status": "ok",
       "source": "tomsk",
-      "timestamp_utc": "2025-10-29T18:51:30.406320+00:00",
+      "timestamp_utc": "2025-10-29T19:15:35.554066+00:00",
       "last_modified": null,
-      "fundamental_hz": 8.920919743180274,
+      "fundamental_hz": 9.399999999999999,
       "harmonics_hz": {
-        "F1": 8.920919743180274,
-        "F2": 17.84183948636055,
-        "F3": 20.717276079952715,
-        "F4": 24.629644846916197,
+        "F1": 9.399999999999999,
+        "F2": 17.8607836663723,
+        "F3": 21.637142676115037,
+        "F4": 24.76941457092762,
         "F5": 30.0
       },
       "amplitude_idx": {},
       "confidence": "high-panels",
       "overlay_path": "runs/tomsk_overlay.png",
       "raw": {
-        "tsst_time": "2025-10-30T01:51:30.382575+00:00",
+        "tsst_time": "2025-10-30T02:15:35.529797+00:00",
         "roi": {
           "x0": 59,
           "y0": 31,
@@ -30,19 +30,19 @@
         },
         "group_boundaries_px": {
           "x_day0": 59,
-          "x_day1": 558,
-          "x_day2": 1057,
-          "day_w": 499.0
+          "x_day1": 566,
+          "x_day2": 1073,
+          "day_w": 507.0
         },
         "debug": {
-          "x_frontier": 1054,
+          "x_frontier": 1059,
           "x1_exclude_right_px": 90,
           "guard_px": 6,
-          "x_time": 1096,
-          "x_ideal": 1096,
-          "right_guard": 1048,
-          "delta_min_to_guard": -138.51703406813627,
-          "pph": 20.791666666666668,
+          "x_time": 1121,
+          "x_ideal": 1121,
+          "right_guard": 1053,
+          "delta_min_to_guard": -193.1360946745562,
+          "pph": 21.125,
           "pph_source": "day_width",
           "tick_count": 0,
           "tick_quality": 0.0,
@@ -58,15 +58,15 @@
     "cumiana": {
       "status": "ok",
       "source": "cumiana",
-      "timestamp_utc": "2025-10-29T18:51:31.236656+00:00",
-      "last_modified": "2025-10-29T18:00:10+00:00",
-      "fundamental_hz": 7.69,
+      "timestamp_utc": "2025-10-29T19:15:36.471834+00:00",
+      "last_modified": "2025-10-29T19:00:10+00:00",
+      "fundamental_hz": 7.73,
       "harmonics_hz": {
-        "F1": 7.69,
-        "F2": 15.39,
-        "F3": 23.08,
-        "F4": 30.78,
-        "F5": 38.47,
+        "F1": 7.73,
+        "F2": 15.45,
+        "F3": 23.18,
+        "F4": 30.91,
+        "F5": 38.64,
         "trace_x_offset": 10
       },
       "amplitude_idx": {},
@@ -89,7 +89,7 @@
         "strategy": "yellow_F2",
         "note": "yellow at now",
         "cumiana_traces": {
-          "yellow_hz": 15.38961038961039
+          "yellow_hz": 15.454545454545455
         },
         "debug": {
           "guard_px": 16,
