@@ -1,20 +1,64 @@
 {
   "status": "ok",
-  "timestamp_utc": "2025-11-10T07:41:50.650684+00:00",
-  "primary": "cumiana",
-  "overlay_path": "runs/cumiana_overlay.png",
+  "timestamp_utc": "2025-11-10T07:53:09.645609+00:00",
+  "primary": "tomsk",
+  "overlay_path": "runs/tomsk_overlay.png",
   "sources": {
     "tomsk": {
-      "status": "error",
-      "message": "tomsk extractor did not produce JSON.",
-      "stdout": "",
-      "stderr": "/opt/hostedtoolcache/Python/3.10.19/x64/lib/python3.10/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'sos70.ru'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings\n  warnings.warn(\nTraceback (most recent call last):\n  File \"/home/runner/work/gaiaeyes-backend/gaiaeyes-backend/backend/bots/schumann/tomsk_extractor.py\", line 518, in <module>\n    sys.exit(main())\n  File \"/home/runner/work/gaiaeyes-backend/gaiaeyes-backend/backend/bots/schumann/tomsk_extractor.py\", line 357, in main\n    img, last_mod_h = fetch_image(TOMSK_IMG, insecure=args.insecure)\n  File \"/home/runner/work/gaiaeyes-backend/gaiaeyes-backend/backend/bots/schumann/tomsk_extractor.py\", line 58, in fetch_image\n    r.raise_for_status()\n  File \"/opt/hostedtoolcache/Python/3.10.19/x64/lib/python3.10/site-packages/requests/models.py\", line 1026, in raise_for_status\n    raise HTTPError(http_error_msg, response=self)\nrequests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://sos70.ru/provider.php?file=shm.jpg\n",
-      "overlay_path": "runs/tomsk_overlay.png"
+      "status": "ok",
+      "source": "tomsk",
+      "timestamp_utc": "2025-11-10T07:53:08.807627+00:00",
+      "last_modified": null,
+      "fundamental_hz": 7.4,
+      "harmonics_hz": {
+        "F1": 7.4,
+        "F2": 13.406714349985123,
+        "F3": 20.859674724936482,
+        "F4": 26.97046000957489,
+        "F5": 30.22284127622843
+      },
+      "amplitude_idx": {},
+      "confidence": "high-panels",
+      "overlay_path": "runs/tomsk_overlay.png",
+      "raw": {
+        "tsst_time": "2025-11-10T14:53:08.784159+00:00",
+        "roi": {
+          "x0": 59,
+          "y0": 31,
+          "x1": 1539,
+          "y1": 431
+        },
+        "group_boundaries_px": {
+          "x_day0": 59,
+          "x_day1": 532,
+          "x_day2": 1006,
+          "day_w": 473.5
+        },
+        "debug": {
+          "x_frontier": 1314,
+          "x1_exclude_right_px": 90,
+          "guard_px": 6,
+          "x_time": 1300,
+          "x_ideal": 1300,
+          "right_guard": 1308,
+          "delta_min_to_guard": 24.329461457233368,
+          "pph": 19.729166666666668,
+          "pph_source": "day_width",
+          "tick_count": 0,
+          "tick_quality": 0.0,
+          "bias_minutes_applied": 0.0,
+          "measured_bias_minutes": null,
+          "guard_applied": true,
+          "age_hours": null,
+          "stale_hours": 6.0
+        },
+        "method": "tick-ruler px/h + adaptive frontier guard; day3(48–72h) time-anchor; banded picker + fallbacks"
+      }
     },
     "cumiana": {
       "status": "ok",
       "source": "cumiana",
-      "timestamp_utc": "2025-11-10T07:41:50.623512+00:00",
+      "timestamp_utc": "2025-11-10T07:53:09.620804+00:00",
       "last_modified": "2025-11-10T07:00:10+00:00",
       "fundamental_hz": 7.73,
       "harmonics_hz": {
