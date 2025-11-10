@@ -1,65 +1,21 @@
 {
   "status": "ok",
-  "timestamp_utc": "2025-11-10T06:59:37.262128+00:00",
-  "primary": "tomsk",
-  "overlay_path": "runs/tomsk_overlay.png",
+  "timestamp_utc": "2025-11-10T07:26:14.098291+00:00",
+  "primary": "cumiana",
+  "overlay_path": "runs/cumiana_overlay.png",
   "sources": {
     "tomsk": {
-      "status": "ok",
-      "source": "tomsk",
-      "timestamp_utc": "2025-11-10T06:59:36.433275+00:00",
-      "last_modified": null,
-      "fundamental_hz": 8.6,
-      "harmonics_hz": {
-        "F1": 8.6,
-        "F2": 15.89906449271366,
-        "F3": 25.683484725654125,
-        "F4": 25.683484725654125,
-        "F5": 31.172185239195823
-      },
-      "amplitude_idx": {},
-      "confidence": "high-panels",
-      "overlay_path": "runs/tomsk_overlay.png",
-      "raw": {
-        "tsst_time": "2025-11-10T13:59:36.410360+00:00",
-        "roi": {
-          "x0": 59,
-          "y0": 31,
-          "x1": 1539,
-          "y1": 431
-        },
-        "group_boundaries_px": {
-          "x_day0": 59,
-          "x_day1": 532,
-          "x_day2": 1006,
-          "day_w": 473.5
-        },
-        "debug": {
-          "x_frontier": 1294,
-          "x1_exclude_right_px": 90,
-          "guard_px": 6,
-          "x_time": 1282,
-          "x_ideal": 1282,
-          "right_guard": 1288,
-          "delta_min_to_guard": 18.247096092925027,
-          "pph": 19.729166666666668,
-          "pph_source": "day_width",
-          "tick_count": 0,
-          "tick_quality": 0.0,
-          "bias_minutes_applied": 0.0,
-          "measured_bias_minutes": null,
-          "guard_applied": false,
-          "age_hours": null,
-          "stale_hours": 6.0
-        },
-        "method": "tick-ruler px/h + adaptive frontier guard; day3(48–72h) time-anchor; banded picker + fallbacks"
-      }
+      "status": "error",
+      "message": "tomsk extractor did not produce JSON.",
+      "stdout": "",
+      "stderr": "/opt/hostedtoolcache/Python/3.10.19/x64/lib/python3.10/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'sos70.ru'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings\n  warnings.warn(\nTraceback (most recent call last):\n  File \"/home/runner/work/gaiaeyes-backend/gaiaeyes-backend/backend/bots/schumann/tomsk_extractor.py\", line 518, in <module>\n    sys.exit(main())\n  File \"/home/runner/work/gaiaeyes-backend/gaiaeyes-backend/backend/bots/schumann/tomsk_extractor.py\", line 357, in main\n    img, last_mod_h = fetch_image(TOMSK_IMG, insecure=args.insecure)\n  File \"/home/runner/work/gaiaeyes-backend/gaiaeyes-backend/backend/bots/schumann/tomsk_extractor.py\", line 58, in fetch_image\n    r.raise_for_status()\n  File \"/opt/hostedtoolcache/Python/3.10.19/x64/lib/python3.10/site-packages/requests/models.py\", line 1026, in raise_for_status\n    raise HTTPError(http_error_msg, response=self)\nrequests.exceptions.HTTPError: 500 Server Error: Internal Server Error for url: https://sos70.ru/provider.php?file=shm.jpg\n",
+      "overlay_path": "runs/tomsk_overlay.png"
     },
     "cumiana": {
       "status": "ok",
       "source": "cumiana",
-      "timestamp_utc": "2025-11-10T06:59:37.236456+00:00",
-      "last_modified": "2025-11-10T06:00:10+00:00",
+      "timestamp_utc": "2025-11-10T07:26:14.070247+00:00",
+      "last_modified": "2025-11-10T07:00:10+00:00",
       "fundamental_hz": 7.73,
       "harmonics_hz": {
         "F1": 7.73,
