@@ -1,15 +1,15 @@
 {
   "status": "ok",
   "source": "cumiana",
-  "timestamp_utc": "2025-11-11T10:49:34.379521+00:00",
-  "last_modified": "2025-11-11T10:00:10+00:00",
-  "fundamental_hz": 6.49,
+  "timestamp_utc": "2025-11-11T11:21:03.781969+00:00",
+  "last_modified": "2025-11-11T11:00:10+00:00",
+  "fundamental_hz": 6.43,
   "harmonics_hz": {
-    "F1": 6.49,
-    "F2": 12.99,
-    "F3": 19.48,
-    "F4": 25.97,
-    "F5": 32.47,
+    "F1": 6.43,
+    "F2": 12.86,
+    "F3": 19.29,
+    "F4": 25.71,
+    "F5": 32.14,
     "trace_x_offset": 10
   },
   "amplitude_idx": {},
@@ -32,7 +32,7 @@
     "strategy": "yellow_F2",
     "note": "yellow at now",
     "cumiana_traces": {
-      "yellow_hz": 12.987012987012987
+      "yellow_hz": 12.857142857142858
     },
     "debug": {
       "guard_px": 16,
