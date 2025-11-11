@@ -1,27 +1,27 @@
 {
   "status": "ok",
-  "timestamp_utc": "2025-11-11T14:58:51.416371+00:00",
+  "timestamp_utc": "2025-11-11T15:24:30.953989+00:00",
   "primary": "tomsk",
   "overlay_path": "runs/tomsk_overlay.png",
   "sources": {
     "tomsk": {
       "status": "ok",
       "source": "tomsk",
-      "timestamp_utc": "2025-11-11T14:58:50.531582+00:00",
+      "timestamp_utc": "2025-11-11T15:24:29.979306+00:00",
       "last_modified": null,
-      "fundamental_hz": 6.508967170119285,
+      "fundamental_hz": 7.892517858743667,
       "harmonics_hz": {
-        "F1": 6.508967170119285,
-        "F2": 13.01793434023857,
-        "F3": 18.635596153140067,
-        "F4": 26.328512459993362,
-        "F5": 31.388231851905584
+        "F1": 7.892517858743667,
+        "F2": 16.59680309779942,
+        "F3": 18.635815739631653,
+        "F4": 26.334913039207457,
+        "F5": 31.393271239846943
       },
       "amplitude_idx": {},
       "confidence": "high-panels",
       "overlay_path": "runs/tomsk_overlay.png",
       "raw": {
-        "tsst_time": "2025-11-11T21:58:50.506634+00:00",
+        "tsst_time": "2025-11-11T22:24:29.954446+00:00",
         "roi": {
           "x0": 59,
           "y0": 31,
@@ -38,10 +38,10 @@
           "x_frontier": 1448,
           "x1_exclude_right_px": 90,
           "guard_px": 6,
-          "x_time": 1539,
-          "x_ideal": 1539,
+          "x_time": 1548,
+          "x_ideal": 1548,
           "right_guard": 1442,
-          "delta_min_to_guard": -275.23152709359607,
+          "delta_min_to_guard": -300.768472906404,
           "pph": 21.145833333333332,
           "pph_source": "day_width",
           "tick_count": 0,
@@ -58,8 +58,8 @@
     "cumiana": {
       "status": "ok",
       "source": "cumiana",
-      "timestamp_utc": "2025-11-11T14:58:51.387490+00:00",
-      "last_modified": "2025-11-11T14:00:10+00:00",
+      "timestamp_utc": "2025-11-11T15:24:30.929308+00:00",
+      "last_modified": "2025-11-11T15:00:10+00:00",
       "fundamental_hz": 8.08,
       "harmonics_hz": {
         "F1": 8.08,
