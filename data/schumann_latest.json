@@ -1,13 +1,13 @@
 {
   "status": "ok",
-  "timestamp_utc": "2025-11-13T05:55:43.030126+00:00",
+  "timestamp_utc": "2025-11-13T06:34:16.381827+00:00",
   "primary": "tomsk",
   "overlay_path": "runs/tomsk_overlay.png",
   "sources": {
     "tomsk": {
       "status": "ok",
       "source": "tomsk",
-      "timestamp_utc": "2025-11-13T05:55:41.976564+00:00",
+      "timestamp_utc": "2025-11-13T06:33:45.877416+00:00",
       "last_modified": null,
       "fundamental_hz": 7.5,
       "harmonics_hz": {
@@ -21,7 +21,7 @@
       "confidence": "high-panels",
       "overlay_path": "runs/tomsk_overlay.png",
       "raw": {
-        "tsst_time": "2025-11-13T12:55:41.949541+00:00",
+        "tsst_time": "2025-11-13T13:33:45.850411+00:00",
         "roi": {
           "x0": 59,
           "y0": 31,
@@ -38,10 +38,10 @@
           "x_frontier": 1274,
           "x1_exclude_right_px": 90,
           "guard_px": 6,
-          "x_time": 1359,
-          "x_ideal": 1359,
+          "x_time": 1372,
+          "x_ideal": 1372,
           "right_guard": 1268,
-          "delta_min_to_guard": -255.9375,
+          "delta_min_to_guard": -292.5,
           "pph": 21.333333333333332,
           "pph_source": "day_width",
           "tick_count": 0,
@@ -56,56 +56,11 @@
       }
     },
     "cumiana": {
-      "status": "ok",
-      "source": "cumiana",
-      "timestamp_utc": "2025-11-13T05:55:42.998342+00:00",
-      "last_modified": "2025-11-13T05:00:10+00:00",
-      "fundamental_hz": 7.82,
-      "harmonics_hz": {
-        "F1": 7.82,
-        "F2": 15.65,
-        "F3": 23.47,
-        "F4": 31.3,
-        "F5": 39.12,
-        "trace_x_offset": 10
-      },
-      "amplitude_idx": {},
-      "confidence": "ok-visual",
-      "overlay_path": "runs/cumiana_overlay.png",
-      "raw": {
-        "spectrogram_url": "http://www.vlf.it/cumiana/last-plotted.jpg",
-        "x_now_pixel": 887,
-        "plot_roi": {
-          "x0": 47,
-          "y0": 24,
-          "x1": 909,
-          "y1": 332
-        },
-        "y_axis_hz": {
-          "min": 0.0,
-          "max": 20.0,
-          "top_is_max": true
-        },
-        "strategy": "yellow_F2",
-        "note": "yellow at now",
-        "cumiana_traces": {
-          "yellow_hz": 15.64935064935065
-        },
-        "debug": {
-          "guard_px": 16,
-          "exclude_right_px": 0,
-          "anchor": "fixed",
-          "x_now_source": "fixed",
-          "f2_probe": {
-            "hue_min": 10,
-            "hue_max": 55,
-            "sat_min": 60,
-            "val_min": 80,
-            "band_min_hz": 11.5,
-            "band_max_hz": 19.0
-          }
-        }
-      }
+      "status": "error",
+      "message": "cumiana extractor did not produce JSON.",
+      "stdout": "",
+      "stderr": "xRetryError: HTTPConnectionPool(host='www.vlf.it', port=80): Max retries exceeded with url: /cumiana/last-plotted.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7fa7c32d1f90>, 'Connection to www.vlf.it timed out. (connect timeout=30)'))\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"/home/runner/work/gaiaeyes-backend/gaiaeyes-backend/backend/bots/schumann/cumiana_extractor.py\", line 592, in <module>\n    sys.exit(main())\n  File \"/home/runner/work/gaiaeyes-backend/gaiaeyes-backend/backend/bots/schumann/cumiana_extractor.py\", line 458, in main\n    img, last_mod = fetch_image(CUMIANA_IMG, insecure=args.insecure)\n  File \"/home/runner/work/gaiaeyes-backend/gaiaeyes-backend/backend/bots/schumann/cumiana_extractor.py\", line 59, in fetch_image\n    r = requests.get(url, **kw)\n  File \"/opt/hostedtoolcache/Python/3.10.19/x64/lib/python3.10/site-packages/requests/api.py\", line 73, in get\n    return request(\"get\", url, params=params, **kwargs)\n  File \"/opt/hostedtoolcache/Python/3.10.19/x64/lib/python3.10/site-packages/requests/api.py\", line 59, in request\n    return session.request(method=method, url=url, **kwargs)\n  File \"/opt/hostedtoolcache/Python/3.10.19/x64/lib/python3.10/site-packages/requests/sessions.py\", line 589, in request\n    resp = self.send(prep, **send_kwargs)\n  File \"/opt/hostedtoolcache/Python/3.10.19/x64/lib/python3.10/site-packages/requests/sessions.py\", line 703, in send\n    r = adapter.send(request, **kwargs)\n  File \"/opt/hostedtoolcache/Python/3.10.19/x64/lib/python3.10/site-packages/requests/adapters.py\", line 665, in send\n    raise ConnectTimeout(e, request=request)\nrequests.exceptions.ConnectTimeout: HTTPConnectionPool(host='www.vlf.it', port=80): Max retries exceeded with url: /cumiana/last-plotted.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7fa7c32d1f90>, 'Connection to www.vlf.it timed out. (connect timeout=30)'))\n",
+      "overlay_path": "runs/cumiana_overlay.png"
     }
   }
 }
