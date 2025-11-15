@@ -1,5 +1,5 @@
 {
-  "saved_at_utc": "2025-11-15T15:52:42.646802+00:00",
+  "saved_at_utc": "2025-11-15T16:26:05.145636+00:00",
   "source": "tomsk_sos70_param_charts",
   "freq_max_hz": 40.0,
   "values": {
@@ -16,28 +16,28 @@
       "F4": 230
     },
     "A_norm": {
-      "A1": 0.39372822299651566,
-      "A2": 0.3867595818815331,
+      "A1": 0.40418118466898956,
+      "A2": 0.397212543554007,
       "A3": 0.710801393728223,
       "A4": 0.9337979094076655
     },
     "A_y_px": {
-      "A1": 148,
-      "A2": 146,
+      "A1": 151,
+      "A2": 149,
       "A3": 239,
       "A4": 303
     },
     "Q_norm": {
-      "Q1": 0.5644599303135889,
-      "Q2": 0.9581881533101045,
-      "Q3": 0.8432055749128919,
-      "Q4": 0.7526132404181185
+      "Q1": 0.4634146341463415,
+      "Q2": 0.47735191637630664,
+      "Q3": 0.7317073170731707,
+      "Q4": 0.9407665505226481
     },
     "Q_y_px": {
-      "Q1": 197,
-      "Q2": 310,
-      "Q3": 277,
-      "Q4": 251
+      "Q1": 168,
+      "Q2": 172,
+      "Q3": 245,
+      "Q4": 305
     }
   },
   "debug": {
@@ -50,8 +50,8 @@
       "pph_source": "ticks",
       "x_frontier": 896,
       "guard_px": 6,
-      "x_time": 1406,
-      "x_ideal": 1406,
+      "x_time": 1416,
+      "x_ideal": 1416,
       "x_now": 890,
       "bias_minutes_applied": 0.0,
       "measured_bias_minutes": null,
@@ -71,8 +71,8 @@
       "pph_source": "ticks",
       "x_frontier": 899,
       "guard_px": 6,
-      "x_time": 1406,
-      "x_ideal": 1406,
+      "x_time": 1416,
+      "x_ideal": 1416,
       "x_now": 893,
       "bias_minutes_applied": 0.0,
       "measured_bias_minutes": null,
@@ -90,11 +90,11 @@
       "day_w": 456.0,
       "pph": 19.0,
       "pph_source": "ticks",
-      "x_frontier": 887,
+      "x_frontier": 899,
       "guard_px": 6,
-      "x_time": 1406,
-      "x_ideal": 1406,
-      "x_now": 881,
+      "x_time": 1416,
+      "x_ideal": 1416,
+      "x_now": 893,
       "bias_minutes_applied": 0.0,
       "measured_bias_minutes": null,
       "status": "ok",
