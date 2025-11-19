@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-19T12:57:39Z",
+  "generated_at": "2025-11-19T13:37:37Z",
   "items": [
     {
       "source": "media",
@@ -105,6 +105,19 @@
       "links": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/us6000rp3h"
       ]
+    },
+    {
+      "source": "gdacs",
+      "id": "1000125",
+      "ts": "2025-11-19T12:00:00Z",
+      "type": "ash",
+      "severity": "red",
+      "title": "RED VO \u2014 Semeru",
+      "body": "GDACS VO alert: Semeru",
+      "lat": -8.108,
+      "lon": 112.922,
+      "links": [],
+      "gdacs_color": "Red"
     }
   ]
 }
