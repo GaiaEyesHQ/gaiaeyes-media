@@ -1,27 +1,27 @@
 {
   "status": "ok",
-  "timestamp_utc": "2025-11-20T04:00:25.632765+00:00",
+  "timestamp_utc": "2025-11-20T04:32:17.019539+00:00",
   "primary": "tomsk",
   "overlay_path": "runs/tomsk_overlay.png",
   "sources": {
     "tomsk": {
       "status": "ok",
       "source": "tomsk",
-      "timestamp_utc": "2025-11-20T04:00:24.184287+00:00",
+      "timestamp_utc": "2025-11-20T04:32:16.144201+00:00",
       "last_modified": null,
-      "fundamental_hz": 7.4496447294950485,
+      "fundamental_hz": 8.0,
       "harmonics_hz": {
-        "F1": 7.4496447294950485,
-        "F2": 14.78200026154518,
-        "F3": 19.457903134822846,
-        "F4": 25.19739273414016,
-        "F5": 32.379667453467846
+        "F1": 8.0,
+        "F2": 14.613418997824192,
+        "F3": 19.21702074855566,
+        "F4": 25.869066795706747,
+        "F5": 32.611269515007734
       },
       "amplitude_idx": {},
       "confidence": "high-panels",
       "overlay_path": "runs/tomsk_overlay.png",
       "raw": {
-        "tsst_time": "2025-11-20T11:00:24.157428+00:00",
+        "tsst_time": "2025-11-20T11:32:16.118065+00:00",
         "roi": {
           "x0": 59,
           "y0": 31,
@@ -35,13 +35,13 @@
           "day_w": 508.5
         },
         "debug": {
-          "x_frontier": 1234,
+          "x_frontier": 1249,
           "x1_exclude_right_px": 90,
           "guard_px": 6,
-          "x_time": 1309,
-          "x_ideal": 1309,
-          "right_guard": 1228,
-          "delta_min_to_guard": -229.38053097345133,
+          "x_time": 1320,
+          "x_ideal": 1320,
+          "right_guard": 1243,
+          "delta_min_to_guard": -218.05309734513276,
           "pph": 21.1875,
           "pph_source": "day_width",
           "tick_count": 0,
@@ -58,7 +58,7 @@
     "cumiana": {
       "status": "ok",
       "source": "cumiana",
-      "timestamp_utc": "2025-11-20T04:00:25.595394+00:00",
+      "timestamp_utc": "2025-11-20T04:32:16.990961+00:00",
       "last_modified": "2025-11-20T04:00:10+00:00",
       "fundamental_hz": 7.76,
       "harmonics_hz": {
