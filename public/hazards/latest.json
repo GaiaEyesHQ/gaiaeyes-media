@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-21T05:29:19Z",
+  "generated_at": "2025-11-21T05:45:56Z",
   "items": [
     {
       "source": "media",
@@ -135,21 +135,6 @@
       ]
     },
     {
-      "source": "usgs",
-      "id": "6000rpht",
-      "ts": "2025-11-21T04:38:26Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "M 5.5 - 14 km WSW of Narsingdi, Bangladesh",
-      "body": "14 km WSW of Narsingdi, Bangladesh",
-      "mag": 5.5,
-      "lat": 23.8942,
-      "lon": 90.5788,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000rpht"
-      ]
-    },
-    {
       "source": "gdacs",
       "id": "1511252",
       "ts": "2025-11-21T04:38:26Z",
@@ -162,6 +147,21 @@
       "links": [],
       "gdacs_color": "Orange",
       "mag": null
+    },
+    {
+      "source": "media",
+      "id": "us6000rpht",
+      "ts": "2025-11-21T04:38:26Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "14 km WSW of Narsingdi, Bangladesh",
+      "body": "14 km WSW of Narsingdi, Bangladesh",
+      "mag": 5.5,
+      "lat": 23.8942,
+      "lon": 90.5788,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000rpht"
+      ]
     }
   ]
 }
