@@ -1,27 +1,27 @@
 {
   "status": "ok",
-  "timestamp_utc": "2025-11-27T04:46:05.180171+00:00",
+  "timestamp_utc": "2025-11-27T05:20:49.202271+00:00",
   "primary": "tomsk",
   "overlay_path": "runs/tomsk_overlay.png",
   "sources": {
     "tomsk": {
       "status": "ok",
       "source": "tomsk",
-      "timestamp_utc": "2025-11-27T04:46:04.305415+00:00",
+      "timestamp_utc": "2025-11-27T05:20:47.873313+00:00",
       "last_modified": null,
       "fundamental_hz": 7.1,
       "harmonics_hz": {
         "F1": 7.1,
-        "F2": 14.65218983888626,
-        "F3": 27.400000000000002,
-        "F4": 27.380703391134738,
-        "F5": 30.0
+        "F2": 14.903708043694497,
+        "F3": 24.86106896996498,
+        "F4": 24.86106896996498,
+        "F5": 30.345315378904342
       },
       "amplitude_idx": {},
       "confidence": "high-panels",
       "overlay_path": "runs/tomsk_overlay.png",
       "raw": {
-        "tsst_time": "2025-11-27T11:46:04.279038+00:00",
+        "tsst_time": "2025-11-27T12:20:47.845306+00:00",
         "roi": {
           "x0": 59,
           "y0": 31,
@@ -35,13 +35,13 @@
           "day_w": 509.5
         },
         "debug": {
-          "x_frontier": 1249,
+          "x_frontier": 1259,
           "x1_exclude_right_px": 90,
           "guard_px": 6,
-          "x_time": 1328,
-          "x_ideal": 1328,
-          "right_guard": 1243,
-          "delta_min_to_guard": -240.23552502453384,
+          "x_time": 1340,
+          "x_ideal": 1340,
+          "right_guard": 1253,
+          "delta_min_to_guard": -245.88812561334638,
           "pph": 21.229166666666668,
           "pph_source": "day_width",
           "tick_count": 0,
@@ -58,8 +58,8 @@
     "cumiana": {
       "status": "ok",
       "source": "cumiana",
-      "timestamp_utc": "2025-11-27T04:46:05.152030+00:00",
-      "last_modified": "2025-11-27T04:00:10+00:00",
+      "timestamp_utc": "2025-11-27T05:20:49.175418+00:00",
+      "last_modified": "2025-11-27T05:00:10+00:00",
       "fundamental_hz": 7.76,
       "harmonics_hz": {
         "F1": 7.76,
