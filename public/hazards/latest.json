@@ -1,20 +1,6 @@
 {
-  "generated_at": "2025-11-28T23:51:44Z",
+  "generated_at": "2025-11-29T01:46:31Z",
   "items": [
-    {
-      "source": "gdacs",
-      "id": "1001238",
-      "ts": "2025-11-27T00:00:00Z",
-      "type": "cyclone",
-      "severity": "orange",
-      "title": "ORANGE TC \u2014 DITWAH-25",
-      "body": "GDACS TC alert: DITWAH-25",
-      "lat": 9.0,
-      "lon": 80.8,
-      "links": [],
-      "gdacs_color": "Orange",
-      "stormname": "DITWAH-25"
-    },
     {
       "source": "media",
       "id": "us7000re2g",
@@ -133,6 +119,21 @@
       "lon": -13.4828,
       "links": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/us7000reih"
+      ]
+    },
+    {
+      "source": "usgs",
+      "id": "75271341",
+      "ts": "2025-11-29T01:03:04Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "M 3.2 - 3 km SSW of Colma, CA",
+      "body": "3 km SSW of Colma, CA",
+      "mag": 3.16,
+      "lat": 37.6544990539551,
+      "lon": -122.477668762207,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/nc75271341"
       ]
     }
   ]
