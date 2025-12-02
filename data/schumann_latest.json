@@ -1,27 +1,27 @@
 {
   "status": "ok",
-  "timestamp_utc": "2025-12-02T05:43:36.485370+00:00",
+  "timestamp_utc": "2025-12-02T05:54:01.234795+00:00",
   "primary": "tomsk",
   "overlay_path": "runs/tomsk_overlay.png",
   "sources": {
     "tomsk": {
       "status": "ok",
       "source": "tomsk",
-      "timestamp_utc": "2025-12-02T05:43:35.537145+00:00",
+      "timestamp_utc": "2025-12-02T05:54:00.182825+00:00",
       "last_modified": null,
-      "fundamental_hz": 7.497368536330759,
+      "fundamental_hz": 7.487237466871739,
       "harmonics_hz": {
-        "F1": 7.497368536330759,
-        "F2": 15.36314663887024,
-        "F3": 21.04941431283951,
-        "F4": 24.64896261692047,
+        "F1": 7.487237466871739,
+        "F2": 15.357962208986283,
+        "F3": 21.037412625551223,
+        "F4": 24.746359160542486,
         "F5": 30.0
       },
       "amplitude_idx": {},
       "confidence": "high-panels",
       "overlay_path": "runs/tomsk_overlay.png",
       "raw": {
-        "tsst_time": "2025-12-02T12:43:35.510012+00:00",
+        "tsst_time": "2025-12-02T12:54:00.155692+00:00",
         "roi": {
           "x0": 59,
           "y0": 31,
@@ -38,17 +38,17 @@
           "x_frontier": 1269,
           "x1_exclude_right_px": 90,
           "guard_px": 6,
-          "x_time": 1262,
-          "x_ideal": 1262,
+          "x_time": 1266,
+          "x_ideal": 1266,
           "right_guard": 1263,
-          "delta_min_to_guard": 3.028391167192429,
+          "delta_min_to_guard": -9.085173501577287,
           "pph": 19.8125,
           "pph_source": "day_width",
           "tick_count": 0,
           "tick_quality": 0.0,
           "bias_minutes_applied": 0.0,
           "measured_bias_minutes": null,
-          "guard_applied": false,
+          "guard_applied": true,
           "age_hours": null,
           "stale_hours": 6.0
         },
@@ -58,7 +58,7 @@
     "cumiana": {
       "status": "ok",
       "source": "cumiana",
-      "timestamp_utc": "2025-12-02T05:43:36.453361+00:00",
+      "timestamp_utc": "2025-12-02T05:54:01.204916+00:00",
       "last_modified": "2025-12-02T05:00:10+00:00",
       "fundamental_hz": 7.92,
       "harmonics_hz": {
