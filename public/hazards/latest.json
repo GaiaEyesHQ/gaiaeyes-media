@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-06T20:56:50Z",
+  "generated_at": "2025-12-06T21:22:50Z",
   "items": [
     {
       "source": "media",
@@ -93,17 +93,47 @@
     },
     {
       "source": "usgs",
-      "id": "2025xzwiky",
-      "ts": "2025-12-06T20:41:48Z",
+      "id": "6000rsy1",
+      "ts": "2025-12-06T20:41:49Z",
       "type": "quake",
-      "severity": "yellow",
-      "title": "M 6.8 - 96 km NNE of Yakutat, Alaska",
-      "body": "96 km NNE of Yakutat, Alaska",
-      "mag": 6.839307426716909,
-      "lat": 60.38980102539062,
-      "lon": -139.30606079101562,
+      "severity": "orange",
+      "title": "M 7.0 - 2025 Yakutat Earthquake",
+      "body": "2025 Yakutat Earthquake",
+      "mag": 7,
+      "lat": 60.3586,
+      "lon": -139.5457,
       "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/ak2025xzwiky"
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000rsy1"
+      ]
+    },
+    {
+      "source": "media",
+      "id": "ak2025xzwmfv",
+      "ts": "2025-12-06T20:46:12Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "84 km N of Yakutat, Alaska",
+      "body": "84 km N of Yakutat, Alaska",
+      "mag": 5.609023826644545,
+      "lat": 60.29945755004883,
+      "lon": -139.59523010253906,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/ak2025xzwmfv"
+      ]
+    },
+    {
+      "source": "media",
+      "id": "ak2025xzwrbu",
+      "ts": "2025-12-06T20:51:50Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "87 km NNE of Yakutat, Alaska",
+      "body": "87 km NNE of Yakutat, Alaska",
+      "mag": 5.346059535624103,
+      "lat": 60.31668090820312,
+      "lon": -139.40232849121094,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/ak2025xzwrbu"
       ]
     }
   ]
