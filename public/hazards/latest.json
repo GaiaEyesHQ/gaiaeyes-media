@@ -1,21 +1,6 @@
 {
-  "generated_at": "2025-12-08T14:27:25Z",
+  "generated_at": "2025-12-08T14:49:29Z",
   "items": [
-    {
-      "source": "media",
-      "id": "us6000rt1y",
-      "ts": "2025-12-07T04:20:36Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "112 km N of Yakutat, Alaska",
-      "body": "112 km N of Yakutat, Alaska",
-      "mag": 5,
-      "lat": 60.5391,
-      "lon": -140.0511,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000rt1y"
-      ]
-    },
     {
       "source": "media",
       "id": "us6000rt26",
@@ -149,6 +134,21 @@
       "lon": 69.4829,
       "links": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/us6000rtdj"
+      ]
+    },
+    {
+      "source": "usgs",
+      "id": "6000rtdt",
+      "ts": "2025-12-08T14:15:11Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "M 7.6 - 73 km ENE of Misawa, Japan",
+      "body": "73 km ENE of Misawa, Japan",
+      "mag": 7.6,
+      "lat": 40.9597,
+      "lon": 142.1852,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000rtdt"
       ]
     }
   ]
