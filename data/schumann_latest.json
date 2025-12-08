@@ -1,27 +1,27 @@
 {
   "status": "ok",
-  "timestamp_utc": "2025-12-08T10:24:20.560418+00:00",
+  "timestamp_utc": "2025-12-08T10:48:58.621399+00:00",
   "primary": "tomsk",
   "overlay_path": "runs/tomsk_overlay.png",
   "sources": {
     "tomsk": {
       "status": "ok",
       "source": "tomsk",
-      "timestamp_utc": "2025-12-08T10:24:19.375450+00:00",
+      "timestamp_utc": "2025-12-08T10:48:57.715771+00:00",
       "last_modified": null,
-      "fundamental_hz": 9.399999999999999,
+      "fundamental_hz": 7.800000000000001,
       "harmonics_hz": {
-        "F1": 9.399999999999999,
-        "F2": 17.31237768381834,
-        "F3": 23.388286006450652,
-        "F4": 25.218945440649986,
-        "F5": 30.85310446023941
+        "F1": 7.800000000000001,
+        "F2": 14.128602108359336,
+        "F3": 22.77497439980507,
+        "F4": 27.395775889605286,
+        "F5": 30.0
       },
       "amplitude_idx": {},
       "confidence": "high-panels",
       "overlay_path": "runs/tomsk_overlay.png",
       "raw": {
-        "tsst_time": "2025-12-08T17:24:19.346317+00:00",
+        "tsst_time": "2025-12-08T17:48:57.688191+00:00",
         "roi": {
           "x0": 59,
           "y0": 31,
@@ -35,13 +35,13 @@
           "day_w": 495.0
         },
         "debug": {
-          "x_frontier": 1359,
+          "x_frontier": 1369,
           "x1_exclude_right_px": 90,
           "guard_px": 6,
-          "x_time": 1408,
-          "x_ideal": 1408,
-          "right_guard": 1353,
-          "delta_min_to_guard": -160.0,
+          "x_time": 1416,
+          "x_ideal": 1416,
+          "right_guard": 1363,
+          "delta_min_to_guard": -154.1818181818182,
           "pph": 20.625,
           "pph_source": "day_width",
           "tick_count": 0,
@@ -58,7 +58,7 @@
     "cumiana": {
       "status": "ok",
       "source": "cumiana",
-      "timestamp_utc": "2025-12-08T10:24:20.523494+00:00",
+      "timestamp_utc": "2025-12-08T10:48:58.593091+00:00",
       "last_modified": "2025-12-08T10:00:10+00:00",
       "fundamental_hz": 6.14,
       "harmonics_hz": {
