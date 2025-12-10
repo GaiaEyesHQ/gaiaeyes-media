@@ -1,13 +1,13 @@
 {
   "status": "ok",
-  "timestamp_utc": "2025-12-10T01:42:41.376979+00:00",
+  "timestamp_utc": "2025-12-10T03:13:34.647920+00:00",
   "primary": "tomsk",
   "overlay_path": "runs/tomsk_overlay.png",
   "sources": {
     "tomsk": {
       "status": "ok",
       "source": "tomsk",
-      "timestamp_utc": "2025-12-10T01:42:40.513853+00:00",
+      "timestamp_utc": "2025-12-10T03:13:32.974573+00:00",
       "last_modified": null,
       "fundamental_hz": 6.324999999999999,
       "harmonics_hz": {
@@ -21,7 +21,7 @@
       "confidence": "high-panels",
       "overlay_path": "runs/tomsk_overlay.png",
       "raw": {
-        "tsst_time": "2025-12-10T08:42:40.488773+00:00",
+        "tsst_time": "2025-12-10T10:13:32.948952+00:00",
         "roi": {
           "x0": 59,
           "y0": 31,
@@ -38,10 +38,10 @@
           "x_frontier": 1444,
           "x1_exclude_right_px": 90,
           "guard_px": 6,
-          "x_time": 1269,
-          "x_ideal": 1269,
+          "x_time": 1301,
+          "x_ideal": 1301,
           "right_guard": 1438,
-          "delta_min_to_guard": 475.3125,
+          "delta_min_to_guard": 385.3125,
           "pph": 21.333333333333332,
           "pph_source": "day_width",
           "tick_count": 0,
@@ -58,15 +58,15 @@
     "cumiana": {
       "status": "ok",
       "source": "cumiana",
-      "timestamp_utc": "2025-12-10T01:42:41.347859+00:00",
-      "last_modified": "2025-12-10T01:00:10+00:00",
-      "fundamental_hz": 7.95,
+      "timestamp_utc": "2025-12-10T03:13:34.616442+00:00",
+      "last_modified": "2025-12-10T03:00:10+00:00",
+      "fundamental_hz": 7.92,
       "harmonics_hz": {
-        "F1": 7.95,
-        "F2": 15.91,
-        "F3": 23.86,
-        "F4": 31.82,
-        "F5": 39.77,
+        "F1": 7.92,
+        "F2": 15.84,
+        "F3": 23.77,
+        "F4": 31.69,
+        "F5": 39.61,
         "trace_x_offset": 10
       },
       "amplitude_idx": {},
@@ -89,7 +89,7 @@
         "strategy": "yellow_F2",
         "note": "yellow at now",
         "cumiana_traces": {
-          "yellow_hz": 15.90909090909091
+          "yellow_hz": 15.844155844155843
         },
         "debug": {
           "guard_px": 16,
