@@ -1,19 +1,6 @@
 {
-  "generated_at": "2025-12-14T12:34:00Z",
+  "generated_at": "2025-12-14T13:14:45Z",
   "items": [
-    {
-      "source": "gdacs",
-      "id": "1103663",
-      "ts": "2025-12-12T13:00:00Z",
-      "type": "other",
-      "severity": "orange",
-      "title": "ORANGE FL",
-      "body": "GDACS FL alert: Unnamed",
-      "lat": 13.8284014,
-      "lon": 100.5683792,
-      "links": [],
-      "gdacs_color": "Orange"
-    },
     {
       "source": "media",
       "id": "us6000ruex",
@@ -132,6 +119,21 @@
       "lon": -102.3193,
       "links": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/us6000rusr"
+      ]
+    },
+    {
+      "source": "media",
+      "id": "us6000rut1",
+      "ts": "2025-12-14T12:03:27Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "158 km ENE of Bitung, Indonesia",
+      "body": "158 km ENE of Bitung, Indonesia",
+      "mag": 5,
+      "lat": 1.9973,
+      "lon": 126.439,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000rut1"
       ]
     }
   ]
