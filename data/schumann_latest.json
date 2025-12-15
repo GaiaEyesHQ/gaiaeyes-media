@@ -1,13 +1,13 @@
 {
   "status": "ok",
-  "timestamp_utc": "2025-12-15T16:59:18.298677+00:00",
+  "timestamp_utc": "2025-12-15T17:13:10.882638+00:00",
   "primary": "tomsk",
   "overlay_path": "runs/tomsk_overlay.png",
   "sources": {
     "tomsk": {
       "status": "ok",
       "source": "tomsk",
-      "timestamp_utc": "2025-12-15T16:59:17.270894+00:00",
+      "timestamp_utc": "2025-12-15T17:13:09.630504+00:00",
       "last_modified": null,
       "fundamental_hz": 7.7,
       "harmonics_hz": {
@@ -21,7 +21,7 @@
       "confidence": "high-panels",
       "overlay_path": "runs/tomsk_overlay.png",
       "raw": {
-        "tsst_time": "2025-12-15T23:59:17.241341+00:00",
+        "tsst_time": "2025-12-16T00:13:09.600245+00:00",
         "roi": {
           "x0": 59,
           "y0": 31,
@@ -38,10 +38,10 @@
           "x_frontier": 1448,
           "x1_exclude_right_px": 90,
           "guard_px": 6,
-          "x_time": 1566,
-          "x_ideal": 1566,
+          "x_time": 1069,
+          "x_ideal": 1069,
           "right_guard": 1442,
-          "delta_min_to_guard": -355.34328358208955,
+          "delta_min_to_guard": 1068.8955223880598,
           "pph": 20.9375,
           "pph_source": "day_width",
           "tick_count": 0,
@@ -58,15 +58,15 @@
     "cumiana": {
       "status": "ok",
       "source": "cumiana",
-      "timestamp_utc": "2025-12-15T16:59:18.270495+00:00",
-      "last_modified": "2025-12-15T16:00:10+00:00",
-      "fundamental_hz": 7.79,
+      "timestamp_utc": "2025-12-15T17:13:10.850872+00:00",
+      "last_modified": "2025-12-15T17:00:10+00:00",
+      "fundamental_hz": 7.86,
       "harmonics_hz": {
-        "F1": 7.79,
-        "F2": 15.58,
-        "F3": 23.38,
-        "F4": 31.17,
-        "F5": 38.96,
+        "F1": 7.86,
+        "F2": 15.71,
+        "F3": 23.57,
+        "F4": 31.43,
+        "F5": 39.29,
         "trace_x_offset": 10
       },
       "amplitude_idx": {},
@@ -86,9 +86,11 @@
           "max": 20.0,
           "top_is_max": true
         },
-        "strategy": "ridge_F1",
-        "note": "ridge brightest in F1 band",
-        "cumiana_traces": {},
+        "strategy": "yellow_F2",
+        "note": "yellow at now",
+        "cumiana_traces": {
+          "yellow_hz": 15.714285714285715
+        },
         "debug": {
           "guard_px": 16,
           "exclude_right_px": 0,
