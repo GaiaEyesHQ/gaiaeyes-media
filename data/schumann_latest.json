@@ -1,27 +1,27 @@
 {
   "status": "ok",
-  "timestamp_utc": "2025-12-20T14:48:49.005786+00:00",
+  "timestamp_utc": "2025-12-20T15:05:22.995950+00:00",
   "primary": "tomsk",
   "overlay_path": "runs/tomsk_overlay.png",
   "sources": {
     "tomsk": {
       "status": "ok",
       "source": "tomsk",
-      "timestamp_utc": "2025-12-20T14:48:47.541458+00:00",
+      "timestamp_utc": "2025-12-20T15:05:21.786402+00:00",
       "last_modified": null,
-      "fundamental_hz": 8.350018867850304,
+      "fundamental_hz": 8.359618636965752,
       "harmonics_hz": {
-        "F1": 8.350018867850304,
-        "F2": 16.996092012897137,
-        "F3": 18.600904761906712,
-        "F4": 27.406231224909426,
-        "F5": 30.0
+        "F1": 8.359618636965752,
+        "F2": 16.953932934999465,
+        "F3": 18.580375123023988,
+        "F4": 27.418512381613255,
+        "F5": 30.053550037741662
       },
       "amplitude_idx": {},
       "confidence": "high-panels",
       "overlay_path": "runs/tomsk_overlay.png",
       "raw": {
-        "tsst_time": "2025-12-20T21:48:47.513637+00:00",
+        "tsst_time": "2025-12-20T22:05:21.758518+00:00",
         "roi": {
           "x0": 59,
           "y0": 31,
@@ -38,10 +38,10 @@
           "x_frontier": 1448,
           "x1_exclude_right_px": 90,
           "guard_px": 6,
-          "x_time": 1448,
-          "x_ideal": 1448,
+          "x_time": 1453,
+          "x_ideal": 1453,
           "right_guard": 1442,
-          "delta_min_to_guard": -18.094240837696336,
+          "delta_min_to_guard": -33.17277486910994,
           "pph": 19.895833333333332,
           "pph_source": "day_width",
           "tick_count": 0,
@@ -58,8 +58,8 @@
     "cumiana": {
       "status": "ok",
       "source": "cumiana",
-      "timestamp_utc": "2025-12-20T14:48:48.978317+00:00",
-      "last_modified": "2025-12-20T14:00:10+00:00",
+      "timestamp_utc": "2025-12-20T15:05:22.969012+00:00",
+      "last_modified": "2025-12-20T15:00:10+00:00",
       "fundamental_hz": 7.56,
       "harmonics_hz": {
         "F1": 7.56,
