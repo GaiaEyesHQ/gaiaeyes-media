@@ -1,27 +1,27 @@
 {
   "status": "ok",
-  "timestamp_utc": "2026-01-07T13:45:31.362477+00:00",
+  "timestamp_utc": "2026-01-07T14:07:10.325247+00:00",
   "primary": "tomsk",
   "overlay_path": "runs/tomsk_overlay.png",
   "sources": {
     "tomsk": {
       "status": "ok",
       "source": "tomsk",
-      "timestamp_utc": "2026-01-07T13:45:30.093100+00:00",
+      "timestamp_utc": "2026-01-07T14:07:09.049424+00:00",
       "last_modified": null,
       "fundamental_hz": 7.9,
       "harmonics_hz": {
         "F1": 7.9,
-        "F2": 14.359640830755234,
-        "F3": 20.763987886905667,
-        "F4": 26.09305278584361,
-        "F5": 33.63113791048527
+        "F2": 14.362351292371748,
+        "F3": 26.79143094867468,
+        "F4": 26.79143094867468,
+        "F5": 33.60552913397551
       },
       "amplitude_idx": {},
       "confidence": "high-panels",
       "overlay_path": "runs/tomsk_overlay.png",
       "raw": {
-        "tsst_time": "2026-01-07T20:45:30.064973+00:00",
+        "tsst_time": "2026-01-07T21:07:09.019845+00:00",
         "roi": {
           "x0": 59,
           "y0": 31,
@@ -35,13 +35,13 @@
           "day_w": 511.5
         },
         "debug": {
-          "x_frontier": 1429,
+          "x_frontier": 1434,
           "x1_exclude_right_px": 90,
           "guard_px": 6,
-          "x_time": 1524,
-          "x_ideal": 1524,
-          "right_guard": 1423,
-          "delta_min_to_guard": -284.3401759530792,
+          "x_time": 1532,
+          "x_ideal": 1532,
+          "right_guard": 1428,
+          "delta_min_to_guard": -292.7859237536657,
           "pph": 21.3125,
           "pph_source": "day_width",
           "tick_count": 0,
@@ -58,15 +58,15 @@
     "cumiana": {
       "status": "ok",
       "source": "cumiana",
-      "timestamp_utc": "2026-01-07T13:45:31.334830+00:00",
-      "last_modified": "2026-01-07T13:00:10+00:00",
-      "fundamental_hz": 7.56,
+      "timestamp_utc": "2026-01-07T14:07:10.297620+00:00",
+      "last_modified": "2026-01-07T14:00:10+00:00",
+      "fundamental_hz": 7.47,
       "harmonics_hz": {
-        "F1": 7.56,
-        "F2": 15.13,
-        "F3": 22.69,
-        "F4": 30.26,
-        "F5": 37.82,
+        "F1": 7.47,
+        "F2": 14.94,
+        "F3": 22.4,
+        "F4": 29.87,
+        "F5": 37.34,
         "trace_x_offset": 10
       },
       "amplitude_idx": {},
@@ -89,7 +89,7 @@
         "strategy": "yellow_F2",
         "note": "yellow at now",
         "cumiana_traces": {
-          "yellow_hz": 15.129870129870131
+          "yellow_hz": 14.935064935064936
         },
         "debug": {
           "guard_px": 16,
