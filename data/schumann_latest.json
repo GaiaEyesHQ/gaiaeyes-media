@@ -1,27 +1,27 @@
 {
   "status": "ok",
-  "timestamp_utc": "2026-01-15T05:52:22.843588+00:00",
+  "timestamp_utc": "2026-01-15T06:09:36.371099+00:00",
   "primary": "tomsk",
   "overlay_path": "runs/tomsk_overlay.png",
   "sources": {
     "tomsk": {
       "status": "ok",
       "source": "tomsk",
-      "timestamp_utc": "2026-01-15T05:52:21.968079+00:00",
+      "timestamp_utc": "2026-01-15T06:09:35.454419+00:00",
       "last_modified": null,
-      "fundamental_hz": 7.1,
+      "fundamental_hz": 7.7,
       "harmonics_hz": {
-        "F1": 7.1,
-        "F2": 13.900220488151536,
+        "F1": 7.7,
+        "F2": 13.934975412487985,
         "F3": 18.0,
-        "F4": 25.875086513161662,
-        "F5": 31.972466641664504
+        "F4": 25.6193262681365,
+        "F5": 31.724531017243862
       },
       "amplitude_idx": {},
       "confidence": "high-panels",
       "overlay_path": "runs/tomsk_overlay.png",
       "raw": {
-        "tsst_time": "2026-01-15T12:52:21.941494+00:00",
+        "tsst_time": "2026-01-15T13:09:35.428413+00:00",
         "roi": {
           "x0": 59,
           "y0": 31,
@@ -35,13 +35,13 @@
           "day_w": 504.0
         },
         "debug": {
-          "x_frontier": 1274,
+          "x_frontier": 1279,
           "x1_exclude_right_px": 90,
           "guard_px": 6,
-          "x_time": 1337,
-          "x_ideal": 1337,
-          "right_guard": 1268,
-          "delta_min_to_guard": -197.14285714285714,
+          "x_time": 1343,
+          "x_ideal": 1343,
+          "right_guard": 1273,
+          "delta_min_to_guard": -200.0,
           "pph": 21.0,
           "pph_source": "day_width",
           "tick_count": 0,
@@ -58,8 +58,8 @@
     "cumiana": {
       "status": "ok",
       "source": "cumiana",
-      "timestamp_utc": "2026-01-15T05:52:22.811728+00:00",
-      "last_modified": "2026-01-15T05:00:10+00:00",
+      "timestamp_utc": "2026-01-15T06:09:36.344529+00:00",
+      "last_modified": "2026-01-15T06:00:10+00:00",
       "fundamental_hz": 7.82,
       "harmonics_hz": {
         "F1": 7.82,
