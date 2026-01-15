@@ -1,13 +1,13 @@
 {
   "status": "ok",
-  "timestamp_utc": "2026-01-15T15:55:30.819856+00:00",
+  "timestamp_utc": "2026-01-15T16:11:49.422438+00:00",
   "primary": "tomsk",
   "overlay_path": "runs/tomsk_overlay.png",
   "sources": {
     "tomsk": {
       "status": "ok",
       "source": "tomsk",
-      "timestamp_utc": "2026-01-15T15:55:28.907024+00:00",
+      "timestamp_utc": "2026-01-15T16:11:48.552373+00:00",
       "last_modified": null,
       "fundamental_hz": 9.1,
       "harmonics_hz": {
@@ -21,7 +21,7 @@
       "confidence": "high-panels",
       "overlay_path": "runs/tomsk_overlay.png",
       "raw": {
-        "tsst_time": "2026-01-15T22:55:28.876843+00:00",
+        "tsst_time": "2026-01-15T23:11:48.522899+00:00",
         "roi": {
           "x0": 59,
           "y0": 31,
@@ -38,10 +38,10 @@
           "x_frontier": 1448,
           "x1_exclude_right_px": 90,
           "guard_px": 6,
-          "x_time": 1548,
-          "x_ideal": 1548,
+          "x_time": 1554,
+          "x_ideal": 1554,
           "right_guard": 1442,
-          "delta_min_to_guard": -302.85714285714283,
+          "delta_min_to_guard": -320.0,
           "pph": 21.0,
           "pph_source": "day_width",
           "tick_count": 0,
@@ -58,15 +58,15 @@
     "cumiana": {
       "status": "ok",
       "source": "cumiana",
-      "timestamp_utc": "2026-01-15T15:55:30.788376+00:00",
-      "last_modified": "2026-01-15T15:00:10+00:00",
-      "fundamental_hz": 7.47,
+      "timestamp_utc": "2026-01-15T16:11:49.393529+00:00",
+      "last_modified": "2026-01-15T16:00:10+00:00",
+      "fundamental_hz": 7.56,
       "harmonics_hz": {
-        "F1": 7.47,
-        "F2": 14.94,
-        "F3": 22.4,
-        "F4": 29.87,
-        "F5": 37.34,
+        "F1": 7.56,
+        "F2": 15.13,
+        "F3": 22.69,
+        "F4": 30.26,
+        "F5": 37.82,
         "trace_x_offset": 10
       },
       "amplitude_idx": {},
@@ -89,7 +89,7 @@
         "strategy": "yellow_F2",
         "note": "yellow at now",
         "cumiana_traces": {
-          "yellow_hz": 14.935064935064936
+          "yellow_hz": 15.129870129870131
         },
         "debug": {
           "guard_px": 16,
