@@ -1,21 +1,21 @@
 {
   "status": "ok",
   "source": "tomsk",
-  "timestamp_utc": "2026-01-17T23:48:50.278411+00:00",
+  "timestamp_utc": "2026-01-18T00:27:17.903378+00:00",
   "last_modified": null,
-  "fundamental_hz": 7.6,
+  "fundamental_hz": 7.800000000000001,
   "harmonics_hz": {
-    "F1": 7.6,
-    "F2": 13.787147530913353,
-    "F3": 19.023819866776467,
-    "F4": 24.9256003677845,
-    "F5": 34.02015603035689
+    "F1": 7.800000000000001,
+    "F2": 14.209790651500224,
+    "F3": 19.003358719497918,
+    "F4": 24.97707293331623,
+    "F5": 33.53707434237003
   },
   "amplitude_idx": {},
   "confidence": "high-panels",
   "overlay_path": "runs/tomsk_overlay_full.png",
   "raw": {
-    "tsst_time": "2026-01-18T06:48:50.253518+00:00",
+    "tsst_time": "2026-01-18T07:27:17.877955+00:00",
     "roi": {
       "x0": 59,
       "y0": 31,
@@ -29,13 +29,13 @@
       "day_w": 474.0
     },
     "debug": {
-      "x_frontier": 1154,
+      "x_frontier": 1164,
       "x1_exclude_right_px": 90,
       "guard_px": 6,
-      "x_time": 1142,
-      "x_ideal": 1142,
-      "right_guard": 1148,
-      "delta_min_to_guard": 18.227848101265824,
+      "x_time": 1154,
+      "x_ideal": 1154,
+      "right_guard": 1158,
+      "delta_min_to_guard": 12.151898734177214,
       "pph": 19.75,
       "pph_source": "day_width",
       "tick_count": 0,
