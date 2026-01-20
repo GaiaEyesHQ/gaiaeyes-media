@@ -1,21 +1,6 @@
 {
-  "generated_at": "2026-01-20T11:23:58Z",
+  "generated_at": "2026-01-20T11:38:58Z",
   "items": [
-    {
-      "source": "media",
-      "id": "us7000rqjg",
-      "ts": "2026-01-19T11:02:49Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "102 km NNW of Curup, Indonesia",
-      "body": "102 km NNW of Curup, Indonesia",
-      "mag": 5,
-      "lat": -2.6159,
-      "lon": 102.1725,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000rqjg"
-      ]
-    },
     {
       "source": "media",
       "id": "us7000rqjl",
@@ -30,6 +15,19 @@
       "links": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/us7000rqjl"
       ]
+    },
+    {
+      "source": "gdacs",
+      "id": "1103723",
+      "ts": "2026-01-19T12:00:00Z",
+      "type": "other",
+      "severity": "orange",
+      "title": "ORANGE FL",
+      "body": "GDACS FL alert: Unnamed",
+      "lat": -23.4735288,
+      "lon": 29.3959199,
+      "links": [],
+      "gdacs_color": "Orange"
     },
     {
       "source": "media",
@@ -134,6 +132,21 @@
       "lon": 145.9951,
       "links": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/us7000rqrt"
+      ]
+    },
+    {
+      "source": "media",
+      "id": "us7000rqtc",
+      "ts": "2026-01-20T11:14:39Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "Carlsberg Ridge",
+      "body": "Carlsberg Ridge",
+      "mag": 5,
+      "lat": 4.278,
+      "lon": 62.4666,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000rqtc"
       ]
     }
   ]
