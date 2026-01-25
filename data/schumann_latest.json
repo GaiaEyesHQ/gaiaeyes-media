@@ -1,27 +1,27 @@
 {
   "status": "ok",
-  "timestamp_utc": "2026-01-25T14:23:54.496367+00:00",
+  "timestamp_utc": "2026-01-25T14:37:56.614790+00:00",
   "primary": "tomsk",
   "overlay_path": "runs/tomsk_overlay.png",
   "sources": {
     "tomsk": {
       "status": "ok",
       "source": "tomsk",
-      "timestamp_utc": "2026-01-25T14:23:53.230166+00:00",
+      "timestamp_utc": "2026-01-25T14:37:55.371867+00:00",
       "last_modified": null,
-      "fundamental_hz": 6.223875752091407,
+      "fundamental_hz": 6.24663505256176,
       "harmonics_hz": {
-        "F1": 6.223875752091407,
-        "F2": 12.447751504182815,
-        "F3": 20.697364286519587,
-        "F4": 25.293440312892198,
+        "F1": 6.24663505256176,
+        "F2": 12.49327010512352,
+        "F3": 26.356294760107993,
+        "F4": 26.356294760107993,
         "F5": 30.0
       },
       "amplitude_idx": {},
       "confidence": "high-panels",
       "overlay_path": "runs/tomsk_overlay.png",
       "raw": {
-        "tsst_time": "2026-01-25T21:23:53.200010+00:00",
+        "tsst_time": "2026-01-25T21:37:55.342246+00:00",
         "roi": {
           "x0": 59,
           "y0": 31,
@@ -35,13 +35,13 @@
           "day_w": 489.0
         },
         "debug": {
-          "x_frontier": 1444,
+          "x_frontier": 1448,
           "x1_exclude_right_px": 90,
           "guard_px": 6,
-          "x_time": 1473,
-          "x_ideal": 1473,
-          "right_guard": 1438,
-          "delta_min_to_guard": -103.06748466257669,
+          "x_time": 1478,
+          "x_ideal": 1478,
+          "right_guard": 1442,
+          "delta_min_to_guard": -106.0122699386503,
           "pph": 20.375,
           "pph_source": "day_width",
           "tick_count": 0,
@@ -58,7 +58,7 @@
     "cumiana": {
       "status": "ok",
       "source": "cumiana",
-      "timestamp_utc": "2026-01-25T14:23:54.463798+00:00",
+      "timestamp_utc": "2026-01-25T14:37:56.587702+00:00",
       "last_modified": "2026-01-25T14:00:10+00:00",
       "fundamental_hz": 7.6,
       "harmonics_hz": {
