@@ -1,27 +1,27 @@
 {
   "status": "ok",
-  "timestamp_utc": "2026-01-26T22:06:10.756893+00:00",
+  "timestamp_utc": "2026-01-26T22:25:38.820326+00:00",
   "primary": "tomsk",
   "overlay_path": "runs/tomsk_overlay.png",
   "sources": {
     "tomsk": {
       "status": "ok",
       "source": "tomsk",
-      "timestamp_utc": "2026-01-26T22:06:09.544409+00:00",
+      "timestamp_utc": "2026-01-26T22:25:37.341971+00:00",
       "last_modified": null,
-      "fundamental_hz": 6.802107827737927,
+      "fundamental_hz": 7.1,
       "harmonics_hz": {
-        "F1": 6.802107827737927,
-        "F2": 13.604215655475855,
-        "F3": 20.67663523554802,
-        "F4": 25.709444523602723,
+        "F1": 7.1,
+        "F2": 14.977951957285406,
+        "F3": 20.694479086995123,
+        "F4": 25.33654803931713,
         "F5": 30.0
       },
       "amplitude_idx": {},
       "confidence": "high-panels",
       "overlay_path": "runs/tomsk_overlay.png",
       "raw": {
-        "tsst_time": "2026-01-27T05:06:09.519642+00:00",
+        "tsst_time": "2026-01-27T05:25:37.317723+00:00",
         "roi": {
           "x0": 59,
           "y0": 31,
@@ -35,13 +35,13 @@
           "day_w": 508.0
         },
         "debug": {
-          "x_frontier": 1118,
+          "x_frontier": 1124,
           "x1_exclude_right_px": 90,
           "guard_px": 6,
-          "x_time": 1183,
-          "x_ideal": 1183,
-          "right_guard": 1112,
-          "delta_min_to_guard": -201.25984251968504,
+          "x_time": 1190,
+          "x_ideal": 1190,
+          "right_guard": 1118,
+          "delta_min_to_guard": -204.09448818897636,
           "pph": 21.166666666666668,
           "pph_source": "day_width",
           "tick_count": 0,
@@ -58,7 +58,7 @@
     "cumiana": {
       "status": "ok",
       "source": "cumiana",
-      "timestamp_utc": "2026-01-26T22:06:10.730036+00:00",
+      "timestamp_utc": "2026-01-26T22:25:38.792842+00:00",
       "last_modified": "2026-01-26T22:00:10+00:00",
       "fundamental_hz": 7.76,
       "harmonics_hz": {
