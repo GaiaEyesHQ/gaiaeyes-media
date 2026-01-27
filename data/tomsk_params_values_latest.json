@@ -1,40 +1,40 @@
 {
-  "saved_at_utc": "2026-01-27T13:47:53.051318+00:00",
+  "saved_at_utc": "2026-01-27T14:12:32.426690+00:00",
   "source": "tomsk_sos70_param_charts",
   "freq_max_hz": 40.0,
   "values": {
     "F_norm": {
-      "F1": 0.21951219512195122,
+      "F1": 0.21254355400696864,
       "F2": 0.3344947735191638,
       "F3": 0.5714285714285714,
-      "F4": 0.686411149825784
+      "F4": 0.6829268292682927
     },
     "F_y_px": {
-      "F1": 98,
+      "F1": 96,
       "F2": 131,
       "F3": 199,
-      "F4": 232
+      "F4": 231
     },
     "A_norm": {
       "A1": 0.28222996515679444,
       "A2": 0.5017421602787456,
-      "A3": 0.6445993031358885,
+      "A3": 0.6411149825783972,
       "A4": 0.9303135888501742
     },
     "A_y_px": {
       "A1": 116,
       "A2": 179,
-      "A3": 220,
+      "A3": 219,
       "A4": 302
     },
     "Q_norm": {
-      "Q1": 0.6341463414634146,
+      "Q1": 0.2926829268292683,
       "Q2": 0.6480836236933798,
       "Q3": 0.6445993031358885,
       "Q4": 0.9372822299651568
     },
     "Q_y_px": {
-      "Q1": 217,
+      "Q1": 119,
       "Q2": 221,
       "Q3": 220,
       "Q4": 304
@@ -48,11 +48,11 @@
       "day_w": 456.0,
       "pph": 19.0,
       "pph_source": "ticks",
-      "x_frontier": 893,
+      "x_frontier": 895,
       "guard_px": 6,
-      "x_time": 1366,
-      "x_ideal": 1366,
-      "x_now": 887,
+      "x_time": 1374,
+      "x_ideal": 1374,
+      "x_now": 889,
       "bias_minutes_applied": 0.0,
       "measured_bias_minutes": null,
       "status": "ok",
@@ -69,11 +69,11 @@
       "day_w": 456.0,
       "pph": 19.0,
       "pph_source": "ticks",
-      "x_frontier": 892,
+      "x_frontier": 893,
       "guard_px": 6,
-      "x_time": 1366,
-      "x_ideal": 1366,
-      "x_now": 886,
+      "x_time": 1374,
+      "x_ideal": 1374,
+      "x_now": 887,
       "bias_minutes_applied": 0.0,
       "measured_bias_minutes": null,
       "status": "ok",
@@ -90,11 +90,11 @@
       "day_w": 456.0,
       "pph": 19.0,
       "pph_source": "ticks",
-      "x_frontier": 892,
+      "x_frontier": 893,
       "guard_px": 6,
-      "x_time": 1366,
-      "x_ideal": 1366,
-      "x_now": 886,
+      "x_time": 1374,
+      "x_ideal": 1374,
+      "x_now": 887,
       "bias_minutes_applied": 0.0,
       "measured_bias_minutes": null,
       "status": "ok",
