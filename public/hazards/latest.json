@@ -1,36 +1,6 @@
 {
-  "generated_at": "2026-01-30T01:20:31Z",
+  "generated_at": "2026-01-30T02:19:10Z",
   "items": [
-    {
-      "source": "media",
-      "id": "us6000s4yu",
-      "ts": "2026-01-28T09:14:04Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "174 km SSE of Vilyuchinsk, Russia",
-      "body": "174 km SSE of Vilyuchinsk, Russia",
-      "mag": 5.2,
-      "lat": 51.4364,
-      "lon": 159.177,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000s4yu"
-      ]
-    },
-    {
-      "source": "media",
-      "id": "us6000s4z6",
-      "ts": "2026-01-28T10:45:49Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "107 km E of Noda, Japan",
-      "body": "107 km E of Noda, Japan",
-      "mag": 5.1,
-      "lat": 40.2264,
-      "lon": 143.0649,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000s4z6"
-      ]
-    },
     {
       "source": "media",
       "id": "us6000s4z9",
@@ -137,6 +107,20 @@
       ]
     },
     {
+      "source": "gdacs",
+      "id": "1001254",
+      "ts": "2026-01-29T12:00:00Z",
+      "type": "cyclone",
+      "severity": "orange",
+      "title": "ORANGE TC \u2014 FYTIA-26",
+      "body": "GDACS TC alert: FYTIA-26",
+      "lat": -15.62,
+      "lon": 42.44,
+      "links": [],
+      "gdacs_color": "Orange",
+      "stormname": "FYTIA-26"
+    },
+    {
       "source": "media",
       "id": "us6000s5bl",
       "ts": "2026-01-29T20:28:24Z",
@@ -149,6 +133,36 @@
       "lon": 153.9232,
       "links": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/us6000s5bl"
+      ]
+    },
+    {
+      "source": "media",
+      "id": "us6000s5d3",
+      "ts": "2026-01-30T00:49:16Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "20 km WSW of Bantogon, Philippines",
+      "body": "20 km WSW of Bantogon, Philippines",
+      "mag": 5.1,
+      "lat": 6.4915,
+      "lon": 123.8572,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000s5d3"
+      ]
+    },
+    {
+      "source": "media",
+      "id": "us6000s5d8",
+      "ts": "2026-01-30T01:15:31Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "75 km S of Modisi, Indonesia",
+      "body": "75 km S of Modisi, Indonesia",
+      "mag": 5,
+      "lat": -0.2236,
+      "lon": 124.5425,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000s5d8"
       ]
     }
   ]
