@@ -1,21 +1,6 @@
 {
-  "generated_at": "2026-01-30T13:19:13Z",
+  "generated_at": "2026-01-30T13:43:47Z",
   "items": [
-    {
-      "source": "media",
-      "id": "us6000s51i",
-      "ts": "2026-01-28T17:22:26Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "Pulau Pulau Tanimbar, Indonesia",
-      "body": "Pulau Pulau Tanimbar, Indonesia",
-      "mag": 5,
-      "lat": -7.3049,
-      "lon": 130.3097,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000s51i"
-      ]
-    },
     {
       "source": "media",
       "id": "us6000s52m",
@@ -81,13 +66,13 @@
       "id": "1001254",
       "ts": "2026-01-29T12:00:00Z",
       "type": "cyclone",
-      "severity": "orange",
-      "title": "ORANGE TC \u2014 FYTIA-26",
+      "severity": "red",
+      "title": "RED TC \u2014 FYTIA-26",
       "body": "GDACS TC alert: FYTIA-26",
-      "lat": -15.74,
-      "lon": 42.73,
+      "lat": -15.33,
+      "lon": 42.91,
       "links": [],
-      "gdacs_color": "Orange",
+      "gdacs_color": "Red",
       "stormname": "FYTIA-26"
     },
     {
@@ -163,6 +148,21 @@
       "lon": -109.5584,
       "links": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/us6000s5e4"
+      ]
+    },
+    {
+      "source": "media",
+      "id": "us6000s5h4",
+      "ts": "2026-01-30T12:04:02Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "Kermadec Islands region",
+      "body": "Kermadec Islands region",
+      "mag": 5,
+      "lat": -28.7586,
+      "lon": -176.7306,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000s5h4"
       ]
     }
   ]
