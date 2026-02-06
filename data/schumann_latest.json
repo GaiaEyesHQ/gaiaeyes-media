@@ -1,27 +1,27 @@
 {
   "status": "ok",
-  "timestamp_utc": "2026-02-06T22:07:46.616493+00:00",
+  "timestamp_utc": "2026-02-06T22:25:05.719793+00:00",
   "primary": "tomsk",
   "overlay_path": "runs/tomsk_overlay.png",
   "sources": {
     "tomsk": {
       "status": "ok",
       "source": "tomsk",
-      "timestamp_utc": "2026-02-06T22:07:45.274589+00:00",
+      "timestamp_utc": "2026-02-06T22:25:04.483899+00:00",
       "last_modified": null,
-      "fundamental_hz": 7.1,
+      "fundamental_hz": 9.0,
       "harmonics_hz": {
-        "F1": 7.1,
-        "F2": 15.13828493952751,
-        "F3": 19.856169137358666,
-        "F4": 24.85670320391655,
-        "F5": 32.549205359816554
+        "F1": 9.0,
+        "F2": 16.693071875721216,
+        "F3": 19.817342936992645,
+        "F4": 24.894144763052463,
+        "F5": 32.55035970211029
       },
       "amplitude_idx": {},
       "confidence": "high-panels",
       "overlay_path": "runs/tomsk_overlay.png",
       "raw": {
-        "tsst_time": "2026-02-07T05:07:45.249221+00:00",
+        "tsst_time": "2026-02-07T05:25:04.459634+00:00",
         "roi": {
           "x0": 59,
           "y0": 31,
@@ -35,13 +35,13 @@
           "day_w": 508.5
         },
         "debug": {
-          "x_frontier": 1119,
+          "x_frontier": 1122,
           "x1_exclude_right_px": 90,
           "guard_px": 6,
-          "x_time": 1185,
-          "x_ideal": 1185,
-          "right_guard": 1113,
-          "delta_min_to_guard": -203.89380530973452,
+          "x_time": 1191,
+          "x_ideal": 1191,
+          "right_guard": 1116,
+          "delta_min_to_guard": -212.38938053097345,
           "pph": 21.1875,
           "pph_source": "day_width",
           "tick_count": 0,
@@ -58,7 +58,7 @@
     "cumiana": {
       "status": "ok",
       "source": "cumiana",
-      "timestamp_utc": "2026-02-06T22:07:46.578133+00:00",
+      "timestamp_utc": "2026-02-06T22:25:05.694769+00:00",
       "last_modified": "2026-02-06T22:00:10+00:00",
       "fundamental_hz": 7.82,
       "harmonics_hz": {
