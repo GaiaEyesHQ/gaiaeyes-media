@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-06T02:18:53Z",
+  "generated_at": "2026-02-06T03:18:28Z",
   "items": [
     {
       "source": "media",
@@ -77,6 +77,20 @@
       ]
     },
     {
+      "source": "gdacs",
+      "id": "1001256",
+      "ts": "2026-02-06T00:00:00Z",
+      "type": "cyclone",
+      "severity": "orange",
+      "title": "ORANGE TC \u2014 10-20252026-26",
+      "body": "GDACS TC alert: 10-20252026-26",
+      "lat": -15.01,
+      "lon": 60.67,
+      "links": [],
+      "gdacs_color": "Orange",
+      "stormname": "10-20252026-26"
+    },
+    {
       "source": "media",
       "id": "us6000s6ug",
       "ts": "2026-02-06T00:33:06Z",
@@ -89,6 +103,21 @@
       "lon": 94.9478,
       "links": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/us6000s6ug"
+      ]
+    },
+    {
+      "source": "media",
+      "id": "us6000s6us",
+      "ts": "2026-02-06T02:27:23Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "32 km S of La Tirana, Chile",
+      "body": "32 km S of La Tirana, Chile",
+      "mag": 5,
+      "lat": -20.5738,
+      "lon": -70.1359,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000s6us"
       ]
     }
   ]
