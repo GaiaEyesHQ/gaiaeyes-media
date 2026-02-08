@@ -1,27 +1,27 @@
 {
   "status": "ok",
-  "timestamp_utc": "2026-02-08T11:11:51.905071+00:00",
+  "timestamp_utc": "2026-02-08T11:24:31.910404+00:00",
   "primary": "tomsk",
   "overlay_path": "runs/tomsk_overlay.png",
   "sources": {
     "tomsk": {
       "status": "ok",
       "source": "tomsk",
-      "timestamp_utc": "2026-02-08T11:11:50.868170+00:00",
+      "timestamp_utc": "2026-02-08T11:24:30.650306+00:00",
       "last_modified": null,
-      "fundamental_hz": 8.5,
+      "fundamental_hz": 7.1,
       "harmonics_hz": {
-        "F1": 8.5,
-        "F2": 18.165167841315267,
-        "F3": 25.494235695898535,
-        "F4": 25.494235695898535,
-        "F5": 31.446052244305612
+        "F1": 7.1,
+        "F2": 15.367909598350524,
+        "F3": 21.72344332784414,
+        "F4": 25.635413631796837,
+        "F5": 30.291469710320236
       },
       "amplitude_idx": {},
       "confidence": "high-panels",
       "overlay_path": "runs/tomsk_overlay.png",
       "raw": {
-        "tsst_time": "2026-02-08T18:11:50.839987+00:00",
+        "tsst_time": "2026-02-08T18:24:30.622232+00:00",
         "roi": {
           "x0": 59,
           "y0": 31,
@@ -35,13 +35,13 @@
           "day_w": 496.5
         },
         "debug": {
-          "x_frontier": 1379,
+          "x_frontier": 1383,
           "x1_exclude_right_px": 90,
           "guard_px": 6,
-          "x_time": 1428,
-          "x_ideal": 1428,
-          "right_guard": 1373,
-          "delta_min_to_guard": -159.5166163141994,
+          "x_time": 1433,
+          "x_ideal": 1433,
+          "right_guard": 1377,
+          "delta_min_to_guard": -162.41691842900303,
           "pph": 20.6875,
           "pph_source": "day_width",
           "tick_count": 0,
@@ -58,7 +58,7 @@
     "cumiana": {
       "status": "ok",
       "source": "cumiana",
-      "timestamp_utc": "2026-02-08T11:11:51.877330+00:00",
+      "timestamp_utc": "2026-02-08T11:24:31.882765+00:00",
       "last_modified": "2026-02-08T11:00:10+00:00",
       "fundamental_hz": 7.73,
       "harmonics_hz": {
