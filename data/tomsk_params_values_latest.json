@@ -1,5 +1,5 @@
 {
-  "saved_at_utc": "2026-02-08T16:45:03.672546+00:00",
+  "saved_at_utc": "2026-02-08T16:59:56.176874+00:00",
   "source": "tomsk_sos70_param_charts",
   "freq_max_hz": 40.0,
   "values": {
@@ -28,16 +28,16 @@
       "A4": 308
     },
     "Q_norm": {
-      "Q1": 0.14634146341463414,
-      "Q2": 0.4181184668989547,
-      "Q3": 0.41114982578397213,
-      "Q4": 0.7665505226480837
+      "Q1": 0.2961672473867596,
+      "Q2": 0.5052264808362369,
+      "Q3": 0.6585365853658537,
+      "Q4": 0.9303135888501742
     },
     "Q_y_px": {
-      "Q1": 77,
-      "Q2": 155,
-      "Q3": 153,
-      "Q4": 255
+      "Q1": 120,
+      "Q2": 180,
+      "Q3": 224,
+      "Q4": 302
     }
   },
   "debug": {
@@ -50,8 +50,8 @@
       "pph_source": "ticks",
       "x_frontier": 970,
       "guard_px": 6,
-      "x_time": 1422,
-      "x_ideal": 1422,
+      "x_time": 1427,
+      "x_ideal": 1427,
       "x_now": 964,
       "bias_minutes_applied": 0.0,
       "measured_bias_minutes": null,
@@ -71,8 +71,8 @@
       "pph_source": "ticks",
       "x_frontier": 899,
       "guard_px": 6,
-      "x_time": 1422,
-      "x_ideal": 1422,
+      "x_time": 1427,
+      "x_ideal": 1427,
       "x_now": 893,
       "bias_minutes_applied": 0.0,
       "measured_bias_minutes": null,
@@ -90,11 +90,11 @@
       "day_w": 456.0,
       "pph": 19.0,
       "pph_source": "ticks",
-      "x_frontier": 970,
+      "x_frontier": 899,
       "guard_px": 6,
-      "x_time": 1422,
-      "x_ideal": 1422,
-      "x_now": 964,
+      "x_time": 1427,
+      "x_ideal": 1427,
+      "x_now": 893,
       "bias_minutes_applied": 0.0,
       "measured_bias_minutes": null,
       "status": "ok",
