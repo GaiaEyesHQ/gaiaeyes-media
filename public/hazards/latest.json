@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-09T20:02:59Z",
+  "generated_at": "2026-02-09T20:24:04Z",
   "items": [
     {
       "source": "gdacs",
@@ -317,22 +317,6 @@
     },
     {
       "source": "gdacs",
-      "id": "WF1027341",
-      "ts": "2026-02-09T16:04:31Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Central African Republic",
-      "body": "On 30/01/2026, a forest fire started in Central African Republic,  until 05/02/2026.",
-      "details": "On 30/01/2026, a forest fire started in Central African Republic,  until 05/02/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027341"
-      ],
-      "location": "Central African Republic"
-    },
-    {
-      "source": "gdacs",
       "id": "FL1103754",
       "ts": "2026-02-09T18:46:35Z",
       "type": "flood",
@@ -441,6 +425,22 @@
       "links": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/us6000s7hn"
       ]
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1027341",
+      "ts": "2026-02-09T20:04:24Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Central African Republic",
+      "body": "On 30/01/2026, a forest fire started in Central African Republic,  until 05/02/2026.",
+      "details": "On 30/01/2026, a forest fire started in Central African Republic,  until 05/02/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027341"
+      ],
+      "location": "Central African Republic"
     }
   ]
 }
