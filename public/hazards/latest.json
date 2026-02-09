@@ -1,22 +1,6 @@
 {
-  "generated_at": "2026-02-09T07:42:20Z",
+  "generated_at": "2026-02-09T08:05:23Z",
   "items": [
-    {
-      "source": "gdacs",
-      "id": "WF1027351",
-      "ts": "2026-02-07T08:02:32Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Central African Republic",
-      "body": "On 31/01/2026, a forest fire started in Central African Republic,  until 07/02/2026.",
-      "details": "On 31/01/2026, a forest fire started in Central African Republic,  until 07/02/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027351"
-      ],
-      "location": "Central African Republic"
-    },
     {
       "source": "media",
       "id": "us6000s74p",
@@ -259,15 +243,15 @@
       "ts": "2026-02-08T16:44:21Z",
       "type": "quake",
       "severity": "red",
-      "title": "Green earthquake (Magnitude 5.7M, Depth:118.978km) in Chile 08/02/2026 16:23 UTC, 410 thousand in MMI IV.",
-      "body": "On 2/8/2026 4:23:57 PM, an earthquake occurred in Chile potentially affecting 410 thousand in MMI IV. The earthquake had Magnitude 5.7M, Depth:118.978km.",
-      "details": "On 2/8/2026 4:23:57 PM, an earthquake occurred in Chile potentially affecting 410 thousand in MMI IV. The earthquake had Magnitude 5.7M, Depth:118.978km.",
+      "title": "Green earthquake (Magnitude 5.7M, Depth:118.978km) in Chile 08/02/2026 16:23 UTC, 30 thousand in MMI V.",
+      "body": "On 2/8/2026 4:23:57 PM, an earthquake occurred in Chile potentially affecting 30 thousand in MMI V. The earthquake had Magnitude 5.7M, Depth:118.978km.",
+      "details": "On 2/8/2026 4:23:57 PM, an earthquake occurred in Chile potentially affecting 30 thousand in MMI V. The earthquake had Magnitude 5.7M, Depth:118.978km.",
       "lat": null,
       "lon": null,
       "links": [
         "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1523535"
       ],
-      "location": "Chile 08/02/2026 16:23 UTC, 410 thousand in MMI IV."
+      "location": "Chile 08/02/2026 16:23 UTC, 30 thousand in MMI V."
     },
     {
       "source": "gdacs",
@@ -365,9 +349,24 @@
       "location": "Central African Republic"
     },
     {
+      "source": "media",
+      "id": "us6000s7e3",
+      "ts": "2026-02-09T05:09:41Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "194 km SSE of Vilyuchinsk, Russia",
+      "body": "194 km SSE of Vilyuchinsk, Russia",
+      "mag": 5.3,
+      "lat": 51.3672,
+      "lon": 159.6802,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000s7e3"
+      ]
+    },
+    {
       "source": "gdacs",
       "id": "WF1027361",
-      "ts": "2026-02-09T04:02:59Z",
+      "ts": "2026-02-09T08:02:50Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Sudan",
@@ -383,7 +382,7 @@
     {
       "source": "gdacs",
       "id": "WF1027341",
-      "ts": "2026-02-09T04:04:12Z",
+      "ts": "2026-02-09T08:04:14Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Central African Republic",
@@ -395,21 +394,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027341"
       ],
       "location": "Central African Republic"
-    },
-    {
-      "source": "media",
-      "id": "us6000s7e3",
-      "ts": "2026-02-09T05:09:41Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "194 km SSE of Vilyuchinsk, Russia",
-      "body": "194 km SSE of Vilyuchinsk, Russia",
-      "mag": 5.3,
-      "lat": 51.3672,
-      "lon": 159.6802,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000s7e3"
-      ]
     }
   ]
 }
