@@ -1,21 +1,6 @@
 {
-  "generated_at": "2026-02-10T21:08:19Z",
+  "generated_at": "2026-02-10T21:28:48Z",
   "items": [
-    {
-      "source": "media",
-      "id": "us6000s7cl",
-      "ts": "2026-02-08T21:42:10Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "3 km S of San Miguel Coatl\u00e1n, Mexico",
-      "body": "3 km S of San Miguel Coatl\u00e1n, Mexico",
-      "mag": 5.7,
-      "lat": 16.1627,
-      "lon": -96.6947,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000s7cl"
-      ]
-    },
     {
       "source": "gdacs",
       "id": "EQ1523581",
@@ -359,6 +344,52 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027368"
       ],
       "location": "Sudan"
+    },
+    {
+      "source": "media",
+      "id": "us6000s7p7",
+      "ts": "2026-02-10T20:44:52Z",
+      "type": "quake",
+      "severity": "yellow",
+      "title": "Fiji region",
+      "body": "Fiji region",
+      "mag": 6.2,
+      "lat": -21.0396,
+      "lon": -178.3348,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000s7p7"
+      ]
+    },
+    {
+      "source": "media",
+      "id": "us6000s7p9",
+      "ts": "2026-02-10T20:49:10Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "101 km WSW of Pole Ojea, Puerto Rico",
+      "body": "101 km WSW of Pole Ojea, Puerto Rico",
+      "mag": 5,
+      "lat": 17.5869,
+      "lon": -68.0569,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000s7p9"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1523932",
+      "ts": "2026-02-10T21:03:53Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 6.2M, Depth:510.944km) in Fiji 10/02/2026 20:44 UTC, [unknown].",
+      "body": "On 2/10/2026 8:44:52 PM, an earthquake occurred in Fiji potentially affecting [unknown]. The earthquake had Magnitude 6.2M, Depth:510.944km.",
+      "details": "On 2/10/2026 8:44:52 PM, an earthquake occurred in Fiji potentially affecting [unknown]. The earthquake had Magnitude 6.2M, Depth:510.944km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1523932"
+      ],
+      "location": "Fiji 10/02/2026 20:44 UTC, [unknown]."
     }
   ]
 }
