@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-10T21:28:48Z",
+  "generated_at": "2026-02-10T21:52:18Z",
   "items": [
     {
       "source": "gdacs",
@@ -64,21 +64,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027364"
       ],
       "location": "Central African Republic"
-    },
-    {
-      "source": "media",
-      "id": "us6000s7e3",
-      "ts": "2026-02-09T05:09:41Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "194 km SSE of Vilyuchinsk, Russia",
-      "body": "194 km SSE of Vilyuchinsk, Russia",
-      "mag": 5.3,
-      "lat": 51.3672,
-      "lon": 159.6802,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000s7e3"
-      ]
     },
     {
       "source": "media",
@@ -390,6 +375,37 @@
         "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1523932"
       ],
       "location": "Fiji 10/02/2026 20:44 UTC, [unknown]."
+    },
+    {
+      "source": "media",
+      "id": "us6000s7pk",
+      "ts": "2026-02-10T21:14:43Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "142 km SSW of Gataivai, Samoa",
+      "body": "142 km SSW of Gataivai, Samoa",
+      "mag": 5.6,
+      "lat": -14.9238,
+      "lon": -172.992,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000s7pk"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1523937",
+      "ts": "2026-02-10T21:25:42Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 5.6M, Depth:10km) in Samoa 10/02/2026 21:14 UTC, 230 thousand in MMI III.",
+      "body": "On 2/10/2026 9:14:43 PM, an earthquake occurred in Samoa potentially affecting 230 thousand in MMI III. The earthquake had Magnitude 5.6M, Depth:10km.",
+      "details": "On 2/10/2026 9:14:43 PM, an earthquake occurred in Samoa potentially affecting 230 thousand in MMI III. The earthquake had Magnitude 5.6M, Depth:10km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1523937"
+      ],
+      "location": "Samoa 10/02/2026 21:14 UTC, 230 thousand in MMI III."
     }
   ]
 }
