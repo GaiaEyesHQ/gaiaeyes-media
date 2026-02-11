@@ -1,21 +1,6 @@
 {
-  "generated_at": "2026-02-11T07:03:02Z",
+  "generated_at": "2026-02-11T07:34:05Z",
   "items": [
-    {
-      "source": "media",
-      "id": "us6000s7es",
-      "ts": "2026-02-09T08:30:52Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "149 km WNW of Tobelo, Indonesia",
-      "body": "149 km WNW of Tobelo, Indonesia",
-      "mag": 5,
-      "lat": 2.3162,
-      "lon": 126.7988,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000s7es"
-      ]
-    },
     {
       "source": "gdacs",
       "id": "WF1027361",
@@ -360,20 +345,35 @@
       "location": "Cambodia"
     },
     {
+      "source": "media",
+      "id": "us6000s7s6",
+      "ts": "2026-02-11T06:29:50Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "253 km SE of Okhotsk, Russia",
+      "body": "253 km SE of Okhotsk, Russia",
+      "mag": 5.6,
+      "lat": 57.9045,
+      "lon": 146.5665,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000s7s6"
+      ]
+    },
+    {
       "source": "gdacs",
       "id": "EQ1523985",
-      "ts": "2026-02-11T06:50:21Z",
+      "ts": "2026-02-11T06:48:32Z",
       "type": "quake",
       "severity": "red",
-      "title": "Green earthquake (Magnitude 5.6M, Depth:10km) in Sea Of Okhotsk 11/02/2026 06:29 UTC, No people affected in 100km.",
-      "body": "On 2/11/2026 6:29:50 AM, an earthquake occurred in Sea Of Okhotsk potentially affecting No people affected in 100km. The earthquake had Magnitude 5.6M, Depth:10km.",
-      "details": "On 2/11/2026 6:29:50 AM, an earthquake occurred in Sea Of Okhotsk potentially affecting No people affected in 100km. The earthquake had Magnitude 5.6M, Depth:10km.",
+      "title": "Green earthquake (Magnitude 5.6M, Depth:10km) in Russia 11/02/2026 06:29 UTC, Few people affected in MMI III.",
+      "body": "On 2/11/2026 6:29:50 AM, an earthquake occurred in Russia potentially affecting Few people affected in MMI III. The earthquake had Magnitude 5.6M, Depth:10km.",
+      "details": "On 2/11/2026 6:29:50 AM, an earthquake occurred in Russia potentially affecting Few people affected in MMI III. The earthquake had Magnitude 5.6M, Depth:10km.",
       "lat": null,
       "lon": null,
       "links": [
         "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1523985"
       ],
-      "location": "Sea Of Okhotsk 11/02/2026 06:29 UTC, No people affected in 100km."
+      "location": "Russia 11/02/2026 06:29 UTC, Few people affected in MMI III."
     }
   ]
 }
