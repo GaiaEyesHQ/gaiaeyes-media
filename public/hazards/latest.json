@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-11T00:03:59Z",
+  "generated_at": "2026-02-11T00:56:16Z",
   "items": [
     {
       "source": "gdacs",
@@ -284,22 +284,6 @@
     },
     {
       "source": "gdacs",
-      "id": "WF1027366",
-      "ts": "2026-02-10T20:00:10Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Sudan",
-      "body": "On 10/02/2026, a forest fire started in Sudan,  until 10/02/2026.",
-      "details": "On 10/02/2026, a forest fire started in Sudan,  until 10/02/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027366"
-      ],
-      "location": "Sudan"
-    },
-    {
-      "source": "gdacs",
       "id": "WF1027368",
       "ts": "2026-02-10T20:02:10Z",
       "type": "wildfire",
@@ -382,14 +366,46 @@
       "ts": "2026-02-10T23:09:08Z",
       "type": "quake",
       "severity": "info",
-      "title": "74 km NE of Adak, Alaska",
-      "body": "74 km NE of Adak, Alaska",
+      "title": "70 km NE of Adak, Alaska",
+      "body": "70 km NE of Adak, Alaska",
       "mag": 5,
-      "lat": 52.3509,
-      "lon": -175.8711,
+      "lat": 52.3015,
+      "lon": -175.8806,
       "links": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/us6000s7qf"
       ]
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1027366",
+      "ts": "2026-02-11T00:01:39Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Sudan",
+      "body": "On 10/02/2026, a forest fire started in Sudan,  until 10/02/2026.",
+      "details": "On 10/02/2026, a forest fire started in Sudan,  until 10/02/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027366"
+      ],
+      "location": "Sudan"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1027369",
+      "ts": "2026-02-11T00:01:45Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Cambodia",
+      "body": "On 08/02/2026, a forest fire started in Cambodia,  until 10/02/2026.",
+      "details": "On 08/02/2026, a forest fire started in Cambodia,  until 10/02/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027369"
+      ],
+      "location": "Cambodia"
     }
   ]
 }
