@@ -1,37 +1,6 @@
 {
-  "generated_at": "2026-02-11T15:40:42Z",
+  "generated_at": "2026-02-11T16:13:46Z",
   "items": [
-    {
-      "source": "media",
-      "id": "us6000s7gb",
-      "ts": "2026-02-09T15:59:37Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "Carlsberg Ridge",
-      "body": "Carlsberg Ridge",
-      "mag": 5,
-      "lat": 3.7808,
-      "lon": 63.4017,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000s7gb"
-      ]
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1027365",
-      "ts": "2026-02-09T16:01:02Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Sudan",
-      "body": "On 03/02/2026, a forest fire started in Sudan,  until 09/02/2026.",
-      "details": "On 03/02/2026, a forest fire started in Sudan,  until 09/02/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027365"
-      ],
-      "location": "Sudan"
-    },
     {
       "source": "gdacs",
       "id": "FL1103754",
@@ -317,15 +286,15 @@
       "ts": "2026-02-11T06:48:32Z",
       "type": "quake",
       "severity": "red",
-      "title": "Green earthquake (Magnitude 5.6M, Depth:10km) in Sea Of Okhotsk 11/02/2026 06:29 UTC, No people affected in 100km.",
-      "body": "On 2/11/2026 6:29:50 AM, an earthquake occurred in Sea Of Okhotsk potentially affecting No people affected in 100km. The earthquake had Magnitude 5.6M, Depth:10km.",
-      "details": "On 2/11/2026 6:29:50 AM, an earthquake occurred in Sea Of Okhotsk potentially affecting No people affected in 100km. The earthquake had Magnitude 5.6M, Depth:10km.",
+      "title": "Green earthquake (Magnitude 5.6M, Depth:10km) in Russia 11/02/2026 06:29 UTC, Few people affected in MMI III.",
+      "body": "On 2/11/2026 6:29:50 AM, an earthquake occurred in Russia potentially affecting Few people affected in MMI III. The earthquake had Magnitude 5.6M, Depth:10km.",
+      "details": "On 2/11/2026 6:29:50 AM, an earthquake occurred in Russia potentially affecting Few people affected in MMI III. The earthquake had Magnitude 5.6M, Depth:10km.",
       "lat": null,
       "lon": null,
       "links": [
         "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1523985"
       ],
-      "location": "Sea Of Okhotsk 11/02/2026 06:29 UTC, No people affected in 100km."
+      "location": "Russia 11/02/2026 06:29 UTC, Few people affected in MMI III."
     },
     {
       "source": "gdacs",
@@ -361,54 +330,6 @@
     },
     {
       "source": "gdacs",
-      "id": "WF1027366",
-      "ts": "2026-02-11T12:00:08Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Sudan",
-      "body": "On 10/02/2026, a forest fire started in Sudan,  until 10/02/2026.",
-      "details": "On 10/02/2026, a forest fire started in Sudan,  until 10/02/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027366"
-      ],
-      "location": "Sudan"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1027372",
-      "ts": "2026-02-11T12:00:27Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Venezuela",
-      "body": "On 08/02/2026, a forest fire started in Venezuela,  until 11/02/2026.",
-      "details": "On 08/02/2026, a forest fire started in Venezuela,  until 11/02/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027372"
-      ],
-      "location": "Venezuela"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1027373",
-      "ts": "2026-02-11T12:00:34Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Cambodia",
-      "body": "On 07/02/2026, a forest fire started in Cambodia,  until 11/02/2026.",
-      "details": "On 07/02/2026, a forest fire started in Cambodia,  until 11/02/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027373"
-      ],
-      "location": "Cambodia"
-    },
-    {
-      "source": "gdacs",
       "id": "WF1027370",
       "ts": "2026-02-11T12:00:40Z",
       "type": "wildfire",
@@ -425,8 +346,72 @@
     },
     {
       "source": "gdacs",
+      "id": "WF1027366",
+      "ts": "2026-02-11T16:00:11Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Sudan",
+      "body": "On 10/02/2026, a forest fire started in Sudan,  until 10/02/2026.",
+      "details": "On 10/02/2026, a forest fire started in Sudan,  until 10/02/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027366"
+      ],
+      "location": "Sudan"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1027375",
+      "ts": "2026-02-11T16:00:19Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Central African Republic",
+      "body": "On 10/02/2026, a forest fire started in Central African Republic,  until 11/02/2026.",
+      "details": "On 10/02/2026, a forest fire started in Central African Republic,  until 11/02/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027375"
+      ],
+      "location": "Central African Republic"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1027372",
+      "ts": "2026-02-11T16:00:24Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Venezuela",
+      "body": "On 08/02/2026, a forest fire started in Venezuela,  until 11/02/2026.",
+      "details": "On 08/02/2026, a forest fire started in Venezuela,  until 11/02/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027372"
+      ],
+      "location": "Venezuela"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1027373",
+      "ts": "2026-02-11T16:00:50Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Cambodia",
+      "body": "On 07/02/2026, a forest fire started in Cambodia,  until 11/02/2026.",
+      "details": "On 07/02/2026, a forest fire started in Cambodia,  until 11/02/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027373"
+      ],
+      "location": "Cambodia"
+    },
+    {
+      "source": "gdacs",
       "id": "WF1027371",
-      "ts": "2026-02-11T12:00:47Z",
+      "ts": "2026-02-11T16:00:56Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Niger",
@@ -442,7 +427,7 @@
     {
       "source": "gdacs",
       "id": "WF1027374",
-      "ts": "2026-02-11T12:02:59Z",
+      "ts": "2026-02-11T16:02:41Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Cambodia",
