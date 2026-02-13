@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-13T15:07:28Z",
+  "generated_at": "2026-02-13T15:27:40Z",
   "items": [
     {
       "source": "gdacs",
@@ -48,21 +48,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027371"
       ],
       "location": "Niger"
-    },
-    {
-      "source": "media",
-      "id": "us6000s7vd",
-      "ts": "2026-02-11T18:00:28Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "81 km NE of Shikotan, Russia",
-      "body": "81 km NE of Shikotan, Russia",
-      "mag": 5.1,
-      "lat": 44.2631,
-      "lon": 147.5111,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000s7vd"
-      ]
     },
     {
       "source": "gdacs",
@@ -518,6 +503,37 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027384"
       ],
       "location": "Sudan"
+    },
+    {
+      "source": "media",
+      "id": "us6000s8rt",
+      "ts": "2026-02-13T14:57:04Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "277 km N of Tobelo, Indonesia",
+      "body": "277 km N of Tobelo, Indonesia",
+      "mag": 5.6,
+      "lat": 4.2222,
+      "lon": 128.2588,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000s8rt"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1524347",
+      "ts": "2026-02-13T15:15:57Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 5.6M, Depth:56.368km) in Indonesia 13/02/2026 14:57 UTC, 160 thousand in MMI III.",
+      "body": "On 2/13/2026 2:57:04 PM, an earthquake occurred in Indonesia potentially affecting 160 thousand in MMI III. The earthquake had Magnitude 5.6M, Depth:56.368km.",
+      "details": "On 2/13/2026 2:57:04 PM, an earthquake occurred in Indonesia potentially affecting 160 thousand in MMI III. The earthquake had Magnitude 5.6M, Depth:56.368km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1524347"
+      ],
+      "location": "Indonesia 13/02/2026 14:57 UTC, 160 thousand in MMI III."
     }
   ]
 }
