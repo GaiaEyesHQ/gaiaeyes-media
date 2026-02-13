@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-13T03:38:10Z",
+  "generated_at": "2026-02-13T04:29:35Z",
   "items": [
     {
       "source": "gdacs",
@@ -393,9 +393,24 @@
       "location": "Japan 12/02/2026 21:48 UTC, 640 thousand in MMI IV."
     },
     {
+      "source": "media",
+      "id": "us6000s8mg",
+      "ts": "2026-02-13T00:41:28Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "85 km NE of Hihifo, Tonga",
+      "body": "85 km NE of Hihifo, Tonga",
+      "mag": 5,
+      "lat": -15.3591,
+      "lon": -173.2848,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000s8mg"
+      ]
+    },
+    {
       "source": "gdacs",
       "id": "WF1027366",
-      "ts": "2026-02-13T00:00:16Z",
+      "ts": "2026-02-13T04:00:18Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Sudan",
@@ -410,24 +425,8 @@
     },
     {
       "source": "gdacs",
-      "id": "WF1027382",
-      "ts": "2026-02-13T00:00:47Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Cambodia",
-      "body": "On 08/02/2026, a forest fire started in Cambodia,  until 12/02/2026.",
-      "details": "On 08/02/2026, a forest fire started in Cambodia,  until 12/02/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027382"
-      ],
-      "location": "Cambodia"
-    },
-    {
-      "source": "gdacs",
       "id": "WF1027386",
-      "ts": "2026-02-13T00:00:55Z",
+      "ts": "2026-02-13T04:00:36Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Cambodia",
@@ -442,8 +441,24 @@
     },
     {
       "source": "gdacs",
+      "id": "WF1027382",
+      "ts": "2026-02-13T04:00:42Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Cambodia",
+      "body": "On 08/02/2026, a forest fire started in Cambodia,  until 12/02/2026.",
+      "details": "On 08/02/2026, a forest fire started in Cambodia,  until 12/02/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027382"
+      ],
+      "location": "Cambodia"
+    },
+    {
+      "source": "gdacs",
       "id": "WF1027385",
-      "ts": "2026-02-13T00:01:27Z",
+      "ts": "2026-02-13T04:01:20Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Guinea",
@@ -459,7 +474,7 @@
     {
       "source": "gdacs",
       "id": "WF1027383",
-      "ts": "2026-02-13T00:02:24Z",
+      "ts": "2026-02-13T04:01:59Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Cambodia",
@@ -475,7 +490,7 @@
     {
       "source": "gdacs",
       "id": "WF1027384",
-      "ts": "2026-02-13T00:03:16Z",
+      "ts": "2026-02-13T04:03:44Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Sudan",
@@ -491,7 +506,7 @@
     {
       "source": "gdacs",
       "id": "WF1027380",
-      "ts": "2026-02-13T00:03:46Z",
+      "ts": "2026-02-13T04:04:01Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Central African Republic",
@@ -503,21 +518,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027380"
       ],
       "location": "Central African Republic"
-    },
-    {
-      "source": "media",
-      "id": "us6000s8mg",
-      "ts": "2026-02-13T00:41:28Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "85 km NE of Hihifo, Tonga",
-      "body": "85 km NE of Hihifo, Tonga",
-      "mag": 5,
-      "lat": -15.3591,
-      "lon": -173.2848,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000s8mg"
-      ]
     }
   ]
 }
