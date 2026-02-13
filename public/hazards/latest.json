@@ -1,22 +1,6 @@
 {
-  "generated_at": "2026-02-13T06:40:21Z",
+  "generated_at": "2026-02-13T07:13:18Z",
   "items": [
-    {
-      "source": "gdacs",
-      "id": "EQ1523985",
-      "ts": "2026-02-11T06:48:32Z",
-      "type": "quake",
-      "severity": "red",
-      "title": "Green earthquake (Magnitude 5.6M, Depth:10km) in Russia 11/02/2026 06:29 UTC, Few people affected in MMI III.",
-      "body": "On 2/11/2026 6:29:50 AM, an earthquake occurred in Russia potentially affecting Few people affected in MMI III. The earthquake had Magnitude 5.6M, Depth:10km.",
-      "details": "On 2/11/2026 6:29:50 AM, an earthquake occurred in Russia potentially affecting Few people affected in MMI III. The earthquake had Magnitude 5.6M, Depth:10km.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1523985"
-      ],
-      "location": "Russia 11/02/2026 06:29 UTC, Few people affected in MMI III."
-    },
     {
       "source": "gdacs",
       "id": "WF1027369",
@@ -112,21 +96,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027371"
       ],
       "location": "Niger"
-    },
-    {
-      "source": "media",
-      "id": "us6000s7v9",
-      "ts": "2026-02-11T17:43:41Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "82 km E of Kokopo, Papua New Guinea",
-      "body": "82 km E of Kokopo, Papua New Guinea",
-      "mag": 5.1,
-      "lat": -4.2269,
-      "lon": 153.0049,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000s7v9"
-      ]
     },
     {
       "source": "media",
@@ -518,6 +487,37 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027380"
       ],
       "location": "Central African Republic"
+    },
+    {
+      "source": "media",
+      "id": "us6000s8pw",
+      "ts": "2026-02-13T06:30:22Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "79 km NE of Khuzdar, Pakistan",
+      "body": "79 km NE of Khuzdar, Pakistan",
+      "mag": 5.5,
+      "lat": 28.3204,
+      "lon": 67.1802,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000s8pw"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1524292",
+      "ts": "2026-02-13T06:46:38Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 5.5M, Depth:10km) in Pakistan 13/02/2026 06:30 UTC, Few people affected (in MMI>=VII).",
+      "body": "On 2/13/2026 6:30:22 AM, an earthquake occurred in Pakistan potentially affecting Few people affected (in MMI>=VII). The earthquake had Magnitude 5.5M, Depth:10km.",
+      "details": "On 2/13/2026 6:30:22 AM, an earthquake occurred in Pakistan potentially affecting Few people affected (in MMI>=VII). The earthquake had Magnitude 5.5M, Depth:10km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1524292"
+      ],
+      "location": "Pakistan 13/02/2026 06:30 UTC, Few people affected (in MMI>=VII)."
     }
   ]
 }
