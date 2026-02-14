@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-14T02:19:23Z",
+  "generated_at": "2026-02-14T03:16:30Z",
   "items": [
     {
       "source": "gdacs",
@@ -439,6 +439,37 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027380"
       ],
       "location": "Central African Republic"
+    },
+    {
+      "source": "usgs",
+      "id": "6000s94q",
+      "ts": "2026-02-14T02:27:37Z",
+      "type": "quake",
+      "severity": "yellow",
+      "title": "M 6.4 - 53 km WNW of Port-Olry, Vanuatu",
+      "body": "53 km WNW of Port-Olry, Vanuatu",
+      "mag": 6.4,
+      "lat": -14.8934,
+      "lon": 166.6013,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000s94q"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1524431",
+      "ts": "2026-02-14T02:35:13Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 6.4M, Depth:10km) in Vanuatu 14/02/2026 02:27 UTC, 1 thousand (in MMI>=VII).",
+      "body": "On 2/14/2026 2:27:38 AM, an earthquake occurred in Vanuatu potentially affecting 1 thousand (in MMI>=VII). The earthquake had Magnitude 6.4M, Depth:10km.",
+      "details": "On 2/14/2026 2:27:38 AM, an earthquake occurred in Vanuatu potentially affecting 1 thousand (in MMI>=VII). The earthquake had Magnitude 6.4M, Depth:10km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1524431"
+      ],
+      "location": "Vanuatu 14/02/2026 02:27 UTC, 1 thousand (in MMI>=VII)."
     }
   ]
 }
