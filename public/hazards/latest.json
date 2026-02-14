@@ -1,22 +1,6 @@
 {
-  "generated_at": "2026-02-14T07:57:46Z",
+  "generated_at": "2026-02-14T08:14:16Z",
   "items": [
-    {
-      "source": "gdacs",
-      "id": "WF1027381",
-      "ts": "2026-02-12T08:03:41Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Costa Rica",
-      "body": "On 02/02/2026, a forest fire started in Costa Rica,  until 13/02/2026.",
-      "details": "On 02/02/2026, a forest fire started in Costa Rica,  until 13/02/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027381"
-      ],
-      "location": "Costa Rica"
-    },
     {
       "source": "gdacs",
       "id": "EQ1524174",
@@ -345,9 +329,40 @@
       ]
     },
     {
+      "source": "media",
+      "id": "us6000s96i",
+      "ts": "2026-02-14T07:10:02Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "Rat Islands, Aleutian Islands, Alaska",
+      "body": "Rat Islands, Aleutian Islands, Alaska",
+      "mag": 5,
+      "lat": 51.9921,
+      "lon": 178.3977,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000s96i"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1027393",
+      "ts": "2026-02-14T08:00:13Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Venezuela",
+      "body": "On 11/02/2026, a forest fire started in Venezuela,  until 14/02/2026.",
+      "details": "On 11/02/2026, a forest fire started in Venezuela,  until 14/02/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027393"
+      ],
+      "location": "Venezuela"
+    },
+    {
       "source": "gdacs",
       "id": "WF1027366",
-      "ts": "2026-02-14T04:00:16Z",
+      "ts": "2026-02-14T08:00:25Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Sudan",
@@ -362,24 +377,8 @@
     },
     {
       "source": "gdacs",
-      "id": "WF1027390",
-      "ts": "2026-02-14T04:00:38Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Ethiopia",
-      "body": "On 09/02/2026, a forest fire started in Ethiopia,  until 13/02/2026.",
-      "details": "On 09/02/2026, a forest fire started in Ethiopia,  until 13/02/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027390"
-      ],
-      "location": "Ethiopia"
-    },
-    {
-      "source": "gdacs",
       "id": "WF1027391",
-      "ts": "2026-02-14T04:00:44Z",
+      "ts": "2026-02-14T08:00:31Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Senegal",
@@ -394,8 +393,24 @@
     },
     {
       "source": "gdacs",
+      "id": "WF1027390",
+      "ts": "2026-02-14T08:00:37Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Ethiopia",
+      "body": "On 09/02/2026, a forest fire started in Ethiopia,  until 13/02/2026.",
+      "details": "On 09/02/2026, a forest fire started in Ethiopia,  until 13/02/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027390"
+      ],
+      "location": "Ethiopia"
+    },
+    {
+      "source": "gdacs",
       "id": "WF1027388",
-      "ts": "2026-02-14T04:01:20Z",
+      "ts": "2026-02-14T08:00:54Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Cambodia",
@@ -411,7 +426,7 @@
     {
       "source": "gdacs",
       "id": "WF1027392",
-      "ts": "2026-02-14T04:02:15Z",
+      "ts": "2026-02-14T08:01:50Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Cambodia",
@@ -427,7 +442,7 @@
     {
       "source": "gdacs",
       "id": "WF1027385",
-      "ts": "2026-02-14T04:02:28Z",
+      "ts": "2026-02-14T08:01:55Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Guinea",
@@ -443,7 +458,7 @@
     {
       "source": "gdacs",
       "id": "WF1027380",
-      "ts": "2026-02-14T04:04:47Z",
+      "ts": "2026-02-14T08:04:08Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Central African Republic",
@@ -455,21 +470,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027380"
       ],
       "location": "Central African Republic"
-    },
-    {
-      "source": "media",
-      "id": "us6000s96i",
-      "ts": "2026-02-14T07:10:02Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "Rat Islands, Aleutian Islands, Alaska",
-      "body": "Rat Islands, Aleutian Islands, Alaska",
-      "mag": 5,
-      "lat": 51.9921,
-      "lon": 178.3977,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000s96i"
-      ]
     }
   ]
 }
