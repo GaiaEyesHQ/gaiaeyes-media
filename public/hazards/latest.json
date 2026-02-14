@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-14T19:56:03Z",
+  "generated_at": "2026-02-14T20:09:57Z",
   "items": [
     {
       "source": "media",
@@ -331,22 +331,6 @@
     },
     {
       "source": "gdacs",
-      "id": "WF1027366",
-      "ts": "2026-02-14T16:00:26Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Sudan",
-      "body": "On 10/02/2026, a forest fire started in Sudan,  until 10/02/2026.",
-      "details": "On 10/02/2026, a forest fire started in Sudan,  until 10/02/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027366"
-      ],
-      "location": "Sudan"
-    },
-    {
-      "source": "gdacs",
       "id": "WF1027391",
       "ts": "2026-02-14T16:00:33Z",
       "type": "wildfire",
@@ -360,54 +344,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027391"
       ],
       "location": "Senegal"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1027390",
-      "ts": "2026-02-14T16:00:41Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Ethiopia",
-      "body": "On 09/02/2026, a forest fire started in Ethiopia,  until 13/02/2026.",
-      "details": "On 09/02/2026, a forest fire started in Ethiopia,  until 13/02/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027390"
-      ],
-      "location": "Ethiopia"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1027395",
-      "ts": "2026-02-14T16:01:17Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Ethiopia",
-      "body": "On 08/02/2026, a forest fire started in Ethiopia,  until 14/02/2026.",
-      "details": "On 08/02/2026, a forest fire started in Ethiopia,  until 14/02/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027395"
-      ],
-      "location": "Ethiopia"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1027394",
-      "ts": "2026-02-14T16:01:42Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Cambodia",
-      "body": "On 07/02/2026, a forest fire started in Cambodia,  until 14/02/2026.",
-      "details": "On 07/02/2026, a forest fire started in Cambodia,  until 14/02/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027394"
-      ],
-      "location": "Cambodia"
     },
     {
       "source": "gdacs",
@@ -426,9 +362,88 @@
       "location": "Guinea"
     },
     {
+      "source": "media",
+      "id": "us6000s98c",
+      "ts": "2026-02-14T17:23:02Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "128 km SE of Pondaguitan, Philippines",
+      "body": "128 km SE of Pondaguitan, Philippines",
+      "mag": 5.3,
+      "lat": 5.6166,
+      "lon": 127.0728,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000s98c"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1027366",
+      "ts": "2026-02-14T20:00:31Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Sudan",
+      "body": "On 10/02/2026, a forest fire started in Sudan,  until 10/02/2026.",
+      "details": "On 10/02/2026, a forest fire started in Sudan,  until 10/02/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027366"
+      ],
+      "location": "Sudan"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1027390",
+      "ts": "2026-02-14T20:00:41Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Ethiopia",
+      "body": "On 09/02/2026, a forest fire started in Ethiopia,  until 13/02/2026.",
+      "details": "On 09/02/2026, a forest fire started in Ethiopia,  until 13/02/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027390"
+      ],
+      "location": "Ethiopia"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1027395",
+      "ts": "2026-02-14T20:01:11Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Ethiopia",
+      "body": "On 08/02/2026, a forest fire started in Ethiopia,  until 14/02/2026.",
+      "details": "On 08/02/2026, a forest fire started in Ethiopia,  until 14/02/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027395"
+      ],
+      "location": "Ethiopia"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1027394",
+      "ts": "2026-02-14T20:01:34Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Cambodia",
+      "body": "On 07/02/2026, a forest fire started in Cambodia,  until 14/02/2026.",
+      "details": "On 07/02/2026, a forest fire started in Cambodia,  until 14/02/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027394"
+      ],
+      "location": "Cambodia"
+    },
+    {
       "source": "gdacs",
       "id": "WF1027396",
-      "ts": "2026-02-14T16:03:12Z",
+      "ts": "2026-02-14T20:02:58Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Ethiopia, Sudan",
@@ -444,7 +459,7 @@
     {
       "source": "gdacs",
       "id": "WF1027380",
-      "ts": "2026-02-14T16:04:35Z",
+      "ts": "2026-02-14T20:04:18Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Central African Republic",
@@ -456,21 +471,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027380"
       ],
       "location": "Central African Republic"
-    },
-    {
-      "source": "media",
-      "id": "us6000s98c",
-      "ts": "2026-02-14T17:23:02Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "128 km SE of Pondaguitan, Philippines",
-      "body": "128 km SE of Pondaguitan, Philippines",
-      "mag": 5.3,
-      "lat": 5.6166,
-      "lon": 127.0728,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000s98c"
-      ]
     }
   ]
 }
