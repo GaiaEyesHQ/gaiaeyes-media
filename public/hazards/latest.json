@@ -1,37 +1,6 @@
 {
-  "generated_at": "2026-02-15T06:29:03Z",
+  "generated_at": "2026-02-15T06:53:36Z",
   "items": [
-    {
-      "source": "media",
-      "id": "us6000s8pw",
-      "ts": "2026-02-13T06:30:22Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "79 km NE of Khuzdar, Pakistan",
-      "body": "79 km NE of Khuzdar, Pakistan",
-      "mag": 5.5,
-      "lat": 28.3204,
-      "lon": 67.1802,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000s8pw"
-      ]
-    },
-    {
-      "source": "gdacs",
-      "id": "EQ1524292",
-      "ts": "2026-02-13T06:46:38Z",
-      "type": "quake",
-      "severity": "red",
-      "title": "Green earthquake (Magnitude 5.5M, Depth:10km) in Pakistan 13/02/2026 06:30 UTC, Few people affected (in MMI>=VII).",
-      "body": "On 2/13/2026 6:30:22 AM, an earthquake occurred in Pakistan potentially affecting Few people affected (in MMI>=VII). The earthquake had Magnitude 5.5M, Depth:10km.",
-      "details": "On 2/13/2026 6:30:22 AM, an earthquake occurred in Pakistan potentially affecting Few people affected (in MMI>=VII). The earthquake had Magnitude 5.5M, Depth:10km.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1524292"
-      ],
-      "location": "Pakistan 13/02/2026 06:30 UTC, Few people affected (in MMI>=VII)."
-    },
     {
       "source": "gdacs",
       "id": "WF1027382",
@@ -410,6 +379,36 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027380"
       ],
       "location": "Central African Republic"
+    },
+    {
+      "source": "media",
+      "id": "us6000s9ch",
+      "ts": "2026-02-15T06:03:14Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "7 km ENE of Yura, Peru",
+      "body": "7 km ENE of Yura, Peru",
+      "mag": 5,
+      "lat": -16.2291,
+      "lon": -71.6166,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000s9ch"
+      ]
+    },
+    {
+      "source": "media",
+      "id": "us6000s9ci",
+      "ts": "2026-02-15T06:14:42Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "62 km SSE of Bengkulu, Indonesia",
+      "body": "62 km SSE of Bengkulu, Indonesia",
+      "mag": 5,
+      "lat": -4.3562,
+      "lon": 102.3859,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000s9ci"
+      ]
     }
   ]
 }
