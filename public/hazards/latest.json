@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-16T18:23:27Z",
+  "generated_at": "2026-02-16T18:47:51Z",
   "items": [
     {
       "source": "media",
@@ -460,17 +460,33 @@
     {
       "source": "media",
       "id": "us6000s9ii",
-      "ts": "2026-02-16T17:32:54Z",
+      "ts": "2026-02-16T17:32:55Z",
       "type": "quake",
       "severity": "info",
       "title": "southern Mid-Atlantic Ridge",
       "body": "southern Mid-Atlantic Ridge",
-      "mag": 5.2,
-      "lat": -17.7549,
-      "lon": -13.2458,
+      "mag": 5.5,
+      "lat": -17.7423,
+      "lon": -13.2451,
       "links": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/us6000s9ii"
       ]
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1524819",
+      "ts": "2026-02-16T17:50:42Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 5.5M, Depth:10km) in Southern Mid-Atlantic Ridge 16/02/2026 17:32 UTC, [unknown].",
+      "body": "On 2/16/2026 5:32:55 PM, an earthquake occurred in Southern Mid-Atlantic Ridge potentially affecting [unknown]. The earthquake had Magnitude 5.5M, Depth:10km.",
+      "details": "On 2/16/2026 5:32:55 PM, an earthquake occurred in Southern Mid-Atlantic Ridge potentially affecting [unknown]. The earthquake had Magnitude 5.5M, Depth:10km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1524819"
+      ],
+      "location": "Southern Mid-Atlantic Ridge 16/02/2026 17:32 UTC, [unknown]."
     }
   ]
 }
