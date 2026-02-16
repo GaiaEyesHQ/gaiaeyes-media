@@ -1,21 +1,6 @@
 {
-  "generated_at": "2026-02-16T22:01:04Z",
+  "generated_at": "2026-02-16T22:19:24Z",
   "items": [
-    {
-      "source": "media",
-      "id": "us6000s9ci",
-      "ts": "2026-02-15T06:14:42Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "62 km SSE of Bengkulu, Indonesia",
-      "body": "62 km SSE of Bengkulu, Indonesia",
-      "mag": 5,
-      "lat": -4.3562,
-      "lon": 102.3859,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000s9ci"
-      ]
-    },
     {
       "source": "gdacs",
       "id": "WF1027394",
@@ -598,6 +583,37 @@
       "links": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/us6000s9kw"
       ]
+    },
+    {
+      "source": "media",
+      "id": "us6000s9l2",
+      "ts": "2026-02-16T21:42:53Z",
+      "type": "quake",
+      "severity": "yellow",
+      "title": "105 km ESE of Ozernovskiy, Russia",
+      "body": "105 km ESE of Ozernovskiy, Russia",
+      "mag": 6,
+      "lat": 51.1026,
+      "lon": 157.8726,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000s9l2"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1524853",
+      "ts": "2026-02-16T21:57:19Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 6M, Depth:56.586km) in Russia 16/02/2026 21:42 UTC, 4 thousand in MMI IV.",
+      "body": "On 2/16/2026 9:42:53 PM, an earthquake occurred in Russia potentially affecting 4 thousand in MMI IV. The earthquake had Magnitude 6M, Depth:56.586km.",
+      "details": "On 2/16/2026 9:42:53 PM, an earthquake occurred in Russia potentially affecting 4 thousand in MMI IV. The earthquake had Magnitude 6M, Depth:56.586km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1524853"
+      ],
+      "location": "Russia 16/02/2026 21:42 UTC, 4 thousand in MMI IV."
     }
   ]
 }
