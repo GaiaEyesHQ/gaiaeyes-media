@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-17T03:36:23Z",
+  "generated_at": "2026-02-17T04:27:21Z",
   "items": [
     {
       "source": "gdacs",
@@ -112,21 +112,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027397"
       ],
       "location": "Myanmar"
-    },
-    {
-      "source": "media",
-      "id": "us6000s9f6",
-      "ts": "2026-02-15T20:54:37Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "106 km NNE of Hihifo, Tonga",
-      "body": "106 km NNE of Hihifo, Tonga",
-      "mag": 5.3,
-      "lat": -15.1196,
-      "lon": -173.3102,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000s9f6"
-      ]
     },
     {
       "source": "gdacs",
@@ -553,38 +538,6 @@
     },
     {
       "source": "gdacs",
-      "id": "WF1027413",
-      "ts": "2026-02-17T00:00:26Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Chad",
-      "body": "On 12/02/2026, a forest fire started in Chad,  until 16/02/2026.",
-      "details": "On 12/02/2026, a forest fire started in Chad,  until 16/02/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027413"
-      ],
-      "location": "Chad"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1027415",
-      "ts": "2026-02-17T00:00:43Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Benin",
-      "body": "On 11/02/2026, a forest fire started in Benin,  until 16/02/2026.",
-      "details": "On 11/02/2026, a forest fire started in Benin,  until 16/02/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027415"
-      ],
-      "location": "Benin"
-    },
-    {
-      "source": "gdacs",
       "id": "WF1027417",
       "ts": "2026-02-17T00:01:03Z",
       "type": "wildfire",
@@ -600,9 +553,72 @@
       "location": "Myanmar"
     },
     {
+      "source": "media",
+      "id": "us6000s9p3",
+      "ts": "2026-02-17T03:36:37Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "South Sandwich Islands region",
+      "body": "South Sandwich Islands region",
+      "mag": 5.5,
+      "lat": -57.3753,
+      "lon": -30.2646,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000s9p3"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1524902",
+      "ts": "2026-02-17T03:58:19Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 5.5M, Depth:10km) in South Sandwich Islands Region 17/02/2026 03:36 UTC, [unknown].",
+      "body": "On 2/17/2026 3:36:37 AM, an earthquake occurred in South Sandwich Islands Region potentially affecting [unknown]. The earthquake had Magnitude 5.5M, Depth:10km.",
+      "details": "On 2/17/2026 3:36:37 AM, an earthquake occurred in South Sandwich Islands Region potentially affecting [unknown]. The earthquake had Magnitude 5.5M, Depth:10km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1524902"
+      ],
+      "location": "South Sandwich Islands Region 17/02/2026 03:36 UTC, [unknown]."
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1027413",
+      "ts": "2026-02-17T04:00:30Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Chad",
+      "body": "On 12/02/2026, a forest fire started in Chad,  until 16/02/2026.",
+      "details": "On 12/02/2026, a forest fire started in Chad,  until 16/02/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027413"
+      ],
+      "location": "Chad"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1027415",
+      "ts": "2026-02-17T04:01:12Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Benin",
+      "body": "On 11/02/2026, a forest fire started in Benin,  until 16/02/2026.",
+      "details": "On 11/02/2026, a forest fire started in Benin,  until 16/02/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027415"
+      ],
+      "location": "Benin"
+    },
+    {
       "source": "gdacs",
       "id": "WF1027390",
-      "ts": "2026-02-17T00:02:11Z",
+      "ts": "2026-02-17T04:01:58Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Ethiopia",
@@ -618,7 +634,7 @@
     {
       "source": "gdacs",
       "id": "WF1027395",
-      "ts": "2026-02-17T00:03:03Z",
+      "ts": "2026-02-17T04:02:14Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Ethiopia",
