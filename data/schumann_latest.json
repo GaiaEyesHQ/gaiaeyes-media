@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "timestamp_utc": "2026-02-18T01:11:54.265819+00:00",
+  "timestamp_utc": "2026-02-18T01:57:40.256495+00:00",
   "primary": "cumiana",
   "primary_quality_score": 1.0,
   "primary_quality_reasons": [],
@@ -9,21 +9,21 @@
     "tomsk": {
       "status": "ok",
       "source": "tomsk",
-      "timestamp_utc": "2026-02-18T01:11:53.351285+00:00",
+      "timestamp_utc": "2026-02-18T01:57:39.210306+00:00",
       "last_modified": null,
-      "fundamental_hz": 8.4,
+      "fundamental_hz": 7.393312320858239,
       "harmonics_hz": {
-        "F1": 8.4,
-        "F2": 15.340958851575852,
-        "F3": 21.62243027836084,
-        "F4": 24.911398719996214,
-        "F5": 30.18397892266512
+        "F1": 7.393312320858239,
+        "F2": 15.486615538597107,
+        "F3": 21.539491915702822,
+        "F4": 24.89042053595185,
+        "F5": 31.40389898009598
       },
       "amplitude_idx": {},
       "confidence": "high-panels",
       "overlay_path": "runs/tomsk_overlay.png",
       "raw": {
-        "tsst_time": "2026-02-18T08:11:53.325038+00:00",
+        "tsst_time": "2026-02-18T08:57:39.184121+00:00",
         "roi": {
           "x0": 59,
           "y0": 31,
@@ -37,12 +37,12 @@
           "day_w": 480.5
         },
         "debug": {
-          "x_frontier": 1179,
+          "x_frontier": 1194,
           "x1_exclude_right_px": 90,
           "guard_px": 6,
-          "x_time": 1184,
-          "x_ideal": 1184,
-          "right_guard": 1173,
+          "x_time": 1199,
+          "x_ideal": 1199,
+          "right_guard": 1188,
           "delta_min_to_guard": -32.96566077003122,
           "pph": 20.020833333333332,
           "pph_source": "day_width",
@@ -62,14 +62,14 @@
         "tick_count_0",
         "tick_quality_0",
         "stale_hours_ge_6",
-        "f0_mismatch_vs_cumiana_0.51",
+        "f0_mismatch_vs_cumiana_0.50",
         "below_min_quality"
       ]
     },
     "cumiana": {
       "status": "ok",
       "source": "cumiana",
-      "timestamp_utc": "2026-02-18T01:11:54.236160+00:00",
+      "timestamp_utc": "2026-02-18T01:57:40.225675+00:00",
       "last_modified": "2026-02-18T01:00:10+00:00",
       "fundamental_hz": 7.89,
       "harmonics_hz": {
