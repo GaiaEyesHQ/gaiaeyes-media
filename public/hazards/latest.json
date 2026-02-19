@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-19T00:51:46Z",
+  "generated_at": "2026-02-19T01:38:34Z",
   "items": [
     {
       "source": "media",
@@ -809,6 +809,37 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027443"
       ],
       "location": "Ethiopia"
+    },
+    {
+      "source": "media",
+      "id": "us6000sa2c",
+      "ts": "2026-02-19T00:26:14Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "136 km NW of Gorontalo, Indonesia",
+      "body": "136 km NW of Gorontalo, Indonesia",
+      "mag": 5.5,
+      "lat": 1.3709,
+      "lon": 122.1572,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sa2c"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1525142",
+      "ts": "2026-02-19T00:41:17Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 5.5M, Depth:10km) in Indonesia 19/02/2026 00:26 UTC, 530 thousand in MMI&>=IV.",
+      "body": "On 2/19/2026 12:26:14 AM, an earthquake occurred in Indonesia potentially affecting 530 thousand in MMI&>=IV. The earthquake had Magnitude 5.5M, Depth:10km.",
+      "details": "On 2/19/2026 12:26:14 AM, an earthquake occurred in Indonesia potentially affecting 530 thousand in MMI&>=IV. The earthquake had Magnitude 5.5M, Depth:10km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1525142"
+      ],
+      "location": "Indonesia 19/02/2026 00:26 UTC, 530 thousand in MMI&>=IV."
     }
   ]
 }
