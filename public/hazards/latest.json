@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-20T13:20:37Z",
+  "generated_at": "2026-02-20T13:50:39Z",
   "items": [
     {
       "source": "gdacs",
@@ -340,8 +340,8 @@
       "type": "cyclone",
       "severity": "info",
       "title": "Green notification for tropical cyclone HORACIO-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
-      "body": "From 18/02/2026 to 20/02/2026, a Moderate Tropical Storm (maximum wind speed of 211 km/h) HORACIO-26 was active in SWIndian. The cyclone affects these countries: Mauritius (vulnerability Medium). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
-      "details": "From 18/02/2026 to 20/02/2026, a Moderate Tropical Storm (maximum wind speed of 211 km/h) HORACIO-26 was active in SWIndian. The cyclone affects these countries: Mauritius (vulnerability Medium). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
+      "body": "From 18/02/2026 to 20/02/2026, a Moderate Tropical Storm (maximum wind speed of 211 km/h) HORACIO-26 was active in SWIndian. The cyclone affects these countries: [unknown] (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
+      "details": "From 18/02/2026 to 20/02/2026, a Moderate Tropical Storm (maximum wind speed of 211 km/h) HORACIO-26 was active in SWIndian. The cyclone affects these countries: [unknown] (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
       "lat": null,
       "lon": null,
       "links": [
@@ -635,6 +635,37 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027457"
       ],
       "location": "Sudan"
+    },
+    {
+      "source": "media",
+      "id": "us6000sadt",
+      "ts": "2026-02-20T13:09:54Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "38 km NE of B\u0101z\u0101rak, Afghanistan",
+      "body": "38 km NE of B\u0101z\u0101rak, Afghanistan",
+      "mag": 5.8,
+      "lat": 35.593,
+      "lon": 69.7614,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sadt"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1525397",
+      "ts": "2026-02-20T13:27:23Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 5.8M, Depth:90.712km) in Afghanistan 20/02/2026 13:09 UTC, 4.8 million in MMI IV.",
+      "body": "On 2/20/2026 1:09:54 PM, an earthquake occurred in Afghanistan potentially affecting 4.8 million in MMI IV. The earthquake had Magnitude 5.8M, Depth:90.712km.",
+      "details": "On 2/20/2026 1:09:54 PM, an earthquake occurred in Afghanistan potentially affecting 4.8 million in MMI IV. The earthquake had Magnitude 5.8M, Depth:90.712km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1525397"
+      ],
+      "location": "Afghanistan 20/02/2026 13:09 UTC, 4.8 million in MMI IV."
     }
   ]
 }
