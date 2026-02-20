@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-20T20:14:06Z",
+  "generated_at": "2026-02-20T20:33:03Z",
   "items": [
     {
       "source": "gdacs",
@@ -135,8 +135,8 @@
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Senegal",
-      "body": "On 12/02/2026, a forest fire started in Senegal,  until 19/02/2026.",
-      "details": "On 12/02/2026, a forest fire started in Senegal,  until 19/02/2026.",
+      "body": "On 12/02/2026, a forest fire started in Senegal,  until 20/02/2026.",
+      "details": "On 12/02/2026, a forest fire started in Senegal,  until 20/02/2026.",
       "lat": null,
       "lon": null,
       "links": [
@@ -540,22 +540,6 @@
     },
     {
       "source": "gdacs",
-      "id": "WF1027466",
-      "ts": "2026-02-20T16:06:29Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Ethiopia",
-      "body": "On 07/02/2026, a forest fire started in Ethiopia,  until 20/02/2026.",
-      "details": "On 07/02/2026, a forest fire started in Ethiopia,  until 20/02/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027466"
-      ],
-      "location": "Ethiopia"
-    },
-    {
-      "source": "gdacs",
       "id": "WF1027467",
       "ts": "2026-02-20T20:00:15Z",
       "type": "wildfire",
@@ -697,6 +681,22 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027464"
       ],
       "location": "Cambodia"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1027466",
+      "ts": "2026-02-20T20:07:15Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Ethiopia",
+      "body": "On 07/02/2026, a forest fire started in Ethiopia,  until 20/02/2026.",
+      "details": "On 07/02/2026, a forest fire started in Ethiopia,  until 20/02/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027466"
+      ],
+      "location": "Ethiopia"
     }
   ]
 }
