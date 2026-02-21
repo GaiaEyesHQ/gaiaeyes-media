@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-21T06:24:21Z",
+  "generated_at": "2026-02-21T06:47:33Z",
   "items": [
     {
       "source": "gdacs",
@@ -554,6 +554,37 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027466"
       ],
       "location": "Ethiopia"
+    },
+    {
+      "source": "media",
+      "id": "us6000saks",
+      "ts": "2026-02-21T06:18:43Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "17 km SSE of Madang, Papua New Guinea",
+      "body": "17 km SSE of Madang, Papua New Guinea",
+      "mag": 5.7,
+      "lat": -5.3681,
+      "lon": 145.8345,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000saks"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1525512",
+      "ts": "2026-02-21T06:29:12Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 5.7M, Depth:71.612km) in Papua New Guinea 21/02/2026 06:18 UTC, 690 thousand in MMI IV.",
+      "body": "On 2/21/2026 6:18:43 AM, an earthquake occurred in Papua New Guinea potentially affecting 690 thousand in MMI IV. The earthquake had Magnitude 5.7M, Depth:71.612km.",
+      "details": "On 2/21/2026 6:18:43 AM, an earthquake occurred in Papua New Guinea potentially affecting 690 thousand in MMI IV. The earthquake had Magnitude 5.7M, Depth:71.612km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1525512"
+      ],
+      "location": "Papua New Guinea 21/02/2026 06:18 UTC, 690 thousand in MMI IV."
     }
   ]
 }
