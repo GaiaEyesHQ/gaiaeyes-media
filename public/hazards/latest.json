@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-22T17:25:02Z",
+  "generated_at": "2026-02-22T17:41:55Z",
   "items": [
     {
       "source": "gdacs",
@@ -176,21 +176,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027474"
       ],
       "location": "Sudan"
-    },
-    {
-      "source": "media",
-      "id": "us6000sams",
-      "ts": "2026-02-21T16:42:07Z",
-      "type": "quake",
-      "severity": "yellow",
-      "title": "110 km SSE of Kirakira, Solomon Islands",
-      "body": "110 km SSE of Kirakira, Solomon Islands",
-      "mag": 6,
-      "lat": -11.3339,
-      "lon": 162.3952,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sams"
-      ]
     },
     {
       "source": "gdacs",
@@ -613,6 +598,22 @@
       "links": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sasz"
       ]
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1525728",
+      "ts": "2026-02-22T17:11:18Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 7.1M, Depth:619.849km) in Philippines 22/02/2026 16:57 UTC, 7 million in MMI V.",
+      "body": "On 2/22/2026 4:57:46 PM, an earthquake occurred in Philippines potentially affecting 7 million in MMI V. The earthquake had Magnitude 7.1M, Depth:619.849km.",
+      "details": "On 2/22/2026 4:57:46 PM, an earthquake occurred in Philippines potentially affecting 7 million in MMI V. The earthquake had Magnitude 7.1M, Depth:619.849km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1525728"
+      ],
+      "location": "Philippines 22/02/2026 16:57 UTC, 7 million in MMI V."
     }
   ]
 }
