@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-23T10:13:25Z",
+  "generated_at": "2026-02-23T10:36:04Z",
   "items": [
     {
       "source": "gdacs",
@@ -144,21 +144,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1525660"
       ],
       "location": "Russia 22/02/2026 07:25 UTC, Few people affected in MMI&>=III."
-    },
-    {
-      "source": "media",
-      "id": "us6000sarf",
-      "ts": "2026-02-22T07:43:26Z",
-      "type": "quake",
-      "severity": "yellow",
-      "title": "south of the Fiji Islands",
-      "body": "south of the Fiji Islands",
-      "mag": 6,
-      "lat": -21.7999,
-      "lon": 179.5487,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sarf"
-      ]
     },
     {
       "source": "media",
@@ -598,6 +583,37 @@
         "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103781"
       ],
       "location": "Argentina"
+    },
+    {
+      "source": "media",
+      "id": "us6000sb0h",
+      "ts": "2026-02-23T10:02:08Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "92 km SW of Nikolski, Alaska",
+      "body": "92 km SW of Nikolski, Alaska",
+      "mag": 5.5,
+      "lat": 52.4087,
+      "lon": -169.9056,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sb0h"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1525831",
+      "ts": "2026-02-23T10:10:42Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 5.5M, Depth:10km) in United States 23/02/2026 10:02 UTC, Few people affected in MMI IV.",
+      "body": "On 2/23/2026 10:02:08 AM, an earthquake occurred in United States potentially affecting Few people affected in MMI IV. The earthquake had Magnitude 5.5M, Depth:10km.",
+      "details": "On 2/23/2026 10:02:08 AM, an earthquake occurred in United States potentially affecting Few people affected in MMI IV. The earthquake had Magnitude 5.5M, Depth:10km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1525831"
+      ],
+      "location": "United States 23/02/2026 10:02 UTC, Few people affected in MMI IV."
     }
   ]
 }
