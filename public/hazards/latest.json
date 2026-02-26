@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-26T12:03:12Z",
+  "generated_at": "2026-02-26T12:28:09Z",
   "items": [
     {
       "source": "gdacs",
@@ -457,8 +457,40 @@
     },
     {
       "source": "gdacs",
+      "id": "FL1103757",
+      "ts": "2026-02-26T10:29:01Z",
+      "type": "flood",
+      "severity": "info",
+      "title": "Green flood alert in Brazil",
+      "body": "On 03/02/2026, a flood started in Brazil, lasting until 25/02/2026 (last update). The flood caused 18 deaths and 383 displaced .",
+      "details": "On 03/02/2026, a flood started in Brazil, lasting until 25/02/2026 (last update). The flood caused 18 deaths and 383 displaced .",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103757"
+      ],
+      "location": "Brazil"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1027515",
+      "ts": "2026-02-26T12:00:06Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Colombia, Venezuela",
+      "body": "On 24/02/2026, a forest fire started in Colombia, Venezuela,  until 26/02/2026.",
+      "details": "On 24/02/2026, a forest fire started in Colombia, Venezuela,  until 26/02/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027515"
+      ],
+      "location": "Colombia, Venezuela"
+    },
+    {
+      "source": "gdacs",
       "id": "WF1027512",
-      "ts": "2026-02-26T08:00:21Z",
+      "ts": "2026-02-26T12:00:29Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in United States",
@@ -474,7 +506,7 @@
     {
       "source": "gdacs",
       "id": "WF1027514",
-      "ts": "2026-02-26T08:01:33Z",
+      "ts": "2026-02-26T12:01:31Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Central African Republic",
@@ -490,7 +522,7 @@
     {
       "source": "gdacs",
       "id": "WF1027503",
-      "ts": "2026-02-26T08:02:11Z",
+      "ts": "2026-02-26T12:01:56Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Cote d'Ivoire",
@@ -506,7 +538,7 @@
     {
       "source": "gdacs",
       "id": "WF1027498",
-      "ts": "2026-02-26T08:05:00Z",
+      "ts": "2026-02-26T12:04:53Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Sudan",
@@ -518,22 +550,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027498"
       ],
       "location": "Sudan"
-    },
-    {
-      "source": "gdacs",
-      "id": "FL1103757",
-      "ts": "2026-02-26T10:29:01Z",
-      "type": "flood",
-      "severity": "info",
-      "title": "Green flood alert in Brazil",
-      "body": "On 03/02/2026, a flood started in Brazil, lasting until 25/02/2026 (last update). The flood caused 18 deaths and 383 displaced .",
-      "details": "On 03/02/2026, a flood started in Brazil, lasting until 25/02/2026 (last update). The flood caused 18 deaths and 383 displaced .",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103757"
-      ],
-      "location": "Brazil"
     }
   ]
 }
