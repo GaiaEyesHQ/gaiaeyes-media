@@ -1,38 +1,6 @@
 {
-  "generated_at": "2026-02-26T03:19:19Z",
+  "generated_at": "2026-02-26T04:10:24Z",
   "items": [
-    {
-      "source": "gdacs",
-      "id": "WF1027493",
-      "ts": "2026-02-24T04:00:11Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Central African Republic",
-      "body": "On 22/02/2026, a forest fire started in Central African Republic,  until 25/02/2026.",
-      "details": "On 22/02/2026, a forest fire started in Central African Republic,  until 25/02/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027493"
-      ],
-      "location": "Central African Republic"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1027494",
-      "ts": "2026-02-24T04:02:02Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Cameroon",
-      "body": "On 16/02/2026, a forest fire started in Cameroon,  until 25/02/2026.",
-      "details": "On 16/02/2026, a forest fire started in Cameroon,  until 25/02/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027494"
-      ],
-      "location": "Cameroon"
-    },
     {
       "source": "gdacs",
       "id": "FL1103782",
@@ -631,6 +599,21 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027498"
       ],
       "location": "Sudan"
+    },
+    {
+      "source": "media",
+      "id": "us7000s0da",
+      "ts": "2026-02-26T02:49:04Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "120 km WNW of Houma, Tonga",
+      "body": "120 km WNW of Houma, Tonga",
+      "mag": 5.2,
+      "lat": -20.629,
+      "lon": -176.3046,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s0da"
+      ]
     }
   ]
 }
