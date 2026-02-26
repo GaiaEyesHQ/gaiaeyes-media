@@ -1,22 +1,6 @@
 {
-  "generated_at": "2026-02-26T06:33:30Z",
+  "generated_at": "2026-02-26T07:02:41Z",
   "items": [
-    {
-      "source": "gdacs",
-      "id": "FL1103782",
-      "ts": "2026-02-24T07:01:20Z",
-      "type": "flood",
-      "severity": "info",
-      "title": "Green flood alert in Democratic Republic of Congo",
-      "body": "On 22/02/2026, a flood started in Democratic Republic of Congo, lasting until 24/02/2026 (last update). The flood caused 0 deaths and 2533 displaced .",
-      "details": "On 22/02/2026, a flood started in Democratic Republic of Congo, lasting until 24/02/2026 (last update). The flood caused 0 deaths and 2533 displaced .",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103782"
-      ],
-      "location": "Democratic Republic of Congo"
-    },
     {
       "source": "gdacs",
       "id": "EQ1525984",
@@ -112,21 +96,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027490"
       ],
       "location": "Ethiopia"
-    },
-    {
-      "source": "media",
-      "id": "us7000rzzi",
-      "ts": "2026-02-24T15:51:35Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "Kermadec Islands region",
-      "body": "Kermadec Islands region",
-      "mag": 5,
-      "lat": -31.2259,
-      "lon": -179.7053,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000rzzi"
-      ]
     },
     {
       "source": "gdacs",
@@ -630,6 +599,21 @@
         "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1526307"
       ],
       "location": "Russia 26/02/2026 04:59 UTC, 240 thousand in MMI III."
+    },
+    {
+      "source": "media",
+      "id": "us7000s0ea",
+      "ts": "2026-02-26T05:58:47Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "196 km SSE of Vilyuchinsk, Russia",
+      "body": "196 km SSE of Vilyuchinsk, Russia",
+      "mag": 5,
+      "lat": 51.2738,
+      "lon": 159.3975,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s0ea"
+      ]
     }
   ]
 }
