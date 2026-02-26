@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-26T04:59:18Z",
+  "generated_at": "2026-02-26T05:33:43Z",
   "items": [
     {
       "source": "gdacs",
@@ -16,21 +16,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103782"
       ],
       "location": "Democratic Republic of Congo"
-    },
-    {
-      "source": "media",
-      "id": "us7000rzxu",
-      "ts": "2026-02-24T07:46:48Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "205 km WNW of Abepura, Indonesia",
-      "body": "205 km WNW of Abepura, Indonesia",
-      "mag": 5.5,
-      "lat": -2.1052,
-      "lon": 138.8515,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000rzxu"
-      ]
     },
     {
       "source": "gdacs",
@@ -614,6 +599,37 @@
       "links": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s0da"
       ]
+    },
+    {
+      "source": "media",
+      "id": "us7000s0dq",
+      "ts": "2026-02-26T04:59:03Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "176 km SSE of Vilyuchinsk, Russia",
+      "body": "176 km SSE of Vilyuchinsk, Russia",
+      "mag": 5.7,
+      "lat": 51.5562,
+      "lon": 159.6915,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s0dq"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1526307",
+      "ts": "2026-02-26T05:12:56Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 5.7M, Depth:10km) in Russia 26/02/2026 04:59 UTC, 240 thousand in MMI III.",
+      "body": "On 2/26/2026 4:59:03 AM, an earthquake occurred in Russia potentially affecting 240 thousand in MMI III. The earthquake had Magnitude 5.7M, Depth:10km.",
+      "details": "On 2/26/2026 4:59:03 AM, an earthquake occurred in Russia potentially affecting 240 thousand in MMI III. The earthquake had Magnitude 5.7M, Depth:10km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1526307"
+      ],
+      "location": "Russia 26/02/2026 04:59 UTC, 240 thousand in MMI III."
     }
   ]
 }
