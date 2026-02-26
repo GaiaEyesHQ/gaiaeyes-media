@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-26T00:01:23Z",
+  "generated_at": "2026-02-26T00:47:33Z",
   "items": [
     {
       "source": "gdacs",
@@ -538,9 +538,40 @@
       "location": "Myanmar"
     },
     {
+      "source": "media",
+      "id": "us7000s0bx",
+      "ts": "2026-02-25T22:40:46Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "east of the Kuril Islands",
+      "body": "east of the Kuril Islands",
+      "mag": 5.2,
+      "lat": 47.3548,
+      "lon": 157.4172,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s0bx"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1027512",
+      "ts": "2026-02-26T00:00:24Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in United States",
+      "body": "On 23/02/2026, a forest fire started in United States,  until 25/02/2026.",
+      "details": "On 23/02/2026, a forest fire started in United States,  until 25/02/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027512"
+      ],
+      "location": "United States"
+    },
+    {
       "source": "gdacs",
       "id": "WF1027511",
-      "ts": "2026-02-25T20:01:04Z",
+      "ts": "2026-02-26T00:01:12Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Cameroon",
@@ -555,8 +586,24 @@
     },
     {
       "source": "gdacs",
+      "id": "WF1027513",
+      "ts": "2026-02-26T00:01:17Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Ethiopia",
+      "body": "On 19/02/2026, a forest fire started in Ethiopia,  until 25/02/2026.",
+      "details": "On 19/02/2026, a forest fire started in Ethiopia,  until 25/02/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027513"
+      ],
+      "location": "Ethiopia"
+    },
+    {
+      "source": "gdacs",
       "id": "WF1027503",
-      "ts": "2026-02-25T20:01:31Z",
+      "ts": "2026-02-26T00:01:51Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Cote d'Ivoire",
@@ -572,7 +619,7 @@
     {
       "source": "gdacs",
       "id": "WF1027498",
-      "ts": "2026-02-25T20:04:55Z",
+      "ts": "2026-02-26T00:04:59Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Sudan",
@@ -584,21 +631,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027498"
       ],
       "location": "Sudan"
-    },
-    {
-      "source": "media",
-      "id": "us7000s0bx",
-      "ts": "2026-02-25T22:40:46Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "east of the Kuril Islands",
-      "body": "east of the Kuril Islands",
-      "mag": 5.2,
-      "lat": 47.3548,
-      "lon": 157.4172,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s0bx"
-      ]
     }
   ]
 }
