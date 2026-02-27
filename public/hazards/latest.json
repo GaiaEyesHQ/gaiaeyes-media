@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-27T15:21:57Z",
+  "generated_at": "2026-02-27T15:46:37Z",
   "items": [
     {
       "source": "gdacs",
@@ -80,21 +80,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027510"
       ],
       "location": "Sudan"
-    },
-    {
-      "source": "media",
-      "id": "us7000s096",
-      "ts": "2026-02-25T16:51:49Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "83 km SSE of Mawlaik, Burma (Myanmar)",
-      "body": "83 km SSE of Mawlaik, Burma (Myanmar)",
-      "mag": 5.1,
-      "lat": 22.999,
-      "lon": 94.8268,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s096"
-      ]
     },
     {
       "source": "media",
@@ -808,9 +793,24 @@
       "location": "Nigeria"
     },
     {
+      "source": "media",
+      "id": "us7000s0qv",
+      "ts": "2026-02-27T14:48:19Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "61 km NNW of Hirara, Japan",
+      "body": "61 km NNW of Hirara, Japan",
+      "mag": 5,
+      "lat": 25.2763,
+      "lon": 124.9759,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s0qv"
+      ]
+    },
+    {
       "source": "gdacs",
       "id": "FL1103757",
-      "ts": "2026-02-27T15:14:42Z",
+      "ts": "2026-02-27T15:15:28Z",
       "type": "flood",
       "severity": "info",
       "title": "Green flood alert in Brazil",
@@ -822,6 +822,22 @@
         "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103757"
       ],
       "location": "Brazil"
+    },
+    {
+      "source": "gdacs",
+      "id": "FL1103782",
+      "ts": "2026-02-27T15:18:58Z",
+      "type": "flood",
+      "severity": "info",
+      "title": "Green flood alert in Democratic Republic of Congo",
+      "body": "On 22/02/2026, a flood started in Democratic Republic of Congo, lasting until 25/02/2026 (last update). The flood caused 1 deaths and 2533 displaced .",
+      "details": "On 22/02/2026, a flood started in Democratic Republic of Congo, lasting until 25/02/2026 (last update). The flood caused 1 deaths and 2533 displaced .",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103782"
+      ],
+      "location": "Democratic Republic of Congo"
     }
   ]
 }
