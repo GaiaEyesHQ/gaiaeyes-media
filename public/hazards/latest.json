@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-27T16:03:44Z",
+  "generated_at": "2026-02-27T16:22:31Z",
   "items": [
     {
       "source": "media",
@@ -494,15 +494,15 @@
       "ts": "2026-02-27T08:07:32Z",
       "type": "quake",
       "severity": "red",
-      "title": "Orange earthquake (Magnitude 5.3M, Depth:9.751km) in Bangladesh 27/02/2026 07:52 UTC, 42.7 million in 100km.",
-      "body": "On 2/27/2026 7:52:24 AM, an earthquake occurred in Bangladesh potentially affecting 42.7 million in 100km. The earthquake had Magnitude 5.3M, Depth:9.751km.",
-      "details": "On 2/27/2026 7:52:24 AM, an earthquake occurred in Bangladesh potentially affecting 42.7 million in 100km. The earthquake had Magnitude 5.3M, Depth:9.751km.",
+      "title": "Orange earthquake (Magnitude 5.3M, Depth:9.751km) in Bangladesh 27/02/2026 07:52 UTC, 60 thousand (in MMI>=VII).",
+      "body": "On 2/27/2026 7:52:24 AM, an earthquake occurred in Bangladesh potentially affecting 60 thousand (in MMI>=VII). The earthquake had Magnitude 5.3M, Depth:9.751km.",
+      "details": "On 2/27/2026 7:52:24 AM, an earthquake occurred in Bangladesh potentially affecting 60 thousand (in MMI>=VII). The earthquake had Magnitude 5.3M, Depth:9.751km.",
       "lat": null,
       "lon": null,
       "links": [
         "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1526507"
       ],
-      "location": "Bangladesh 27/02/2026 07:52 UTC, 42.7 million in 100km."
+      "location": "Bangladesh 27/02/2026 07:52 UTC, 60 thousand (in MMI>=VII)."
     },
     {
       "source": "gdacs",
@@ -650,6 +650,22 @@
     },
     {
       "source": "gdacs",
+      "id": "WF1027540",
+      "ts": "2026-02-27T12:16:01Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in France",
+      "body": "On 24/02/2026, a forest fire started in France,  until 27/02/2026.",
+      "details": "On 24/02/2026, a forest fire started in France,  until 27/02/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027540"
+      ],
+      "location": "France"
+    },
+    {
+      "source": "gdacs",
       "id": "WF1027532",
       "ts": "2026-02-27T12:17:47Z",
       "type": "wildfire",
@@ -679,38 +695,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027521"
       ],
       "location": "Sudan"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1027503",
-      "ts": "2026-02-27T12:23:42Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Cote d'Ivoire",
-      "body": "On 18/02/2026, a forest fire started in Cote d'Ivoire,  until 25/02/2026.",
-      "details": "On 18/02/2026, a forest fire started in Cote d'Ivoire,  until 25/02/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027503"
-      ],
-      "location": "Cote d'Ivoire"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1027534",
-      "ts": "2026-02-27T12:25:28Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Nigeria",
-      "body": "On 18/02/2026, a forest fire started in Nigeria,  until 26/02/2026.",
-      "details": "On 18/02/2026, a forest fire started in Nigeria,  until 26/02/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027534"
-      ],
-      "location": "Nigeria"
     },
     {
       "source": "media",
@@ -758,6 +742,310 @@
         "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103782"
       ],
       "location": "Democratic Republic of Congo"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1027541",
+      "ts": "2026-02-27T16:00:56Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Central African Republic",
+      "body": "On 24/02/2026, a forest fire started in Central African Republic,  until 27/02/2026.",
+      "details": "On 24/02/2026, a forest fire started in Central African Republic,  until 27/02/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027541"
+      ],
+      "location": "Central African Republic"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1027542",
+      "ts": "2026-02-27T16:01:14Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in The Democratic Republic of Congo",
+      "body": "On 24/02/2026, a forest fire started in The Democratic Republic of Congo,  until 27/02/2026.",
+      "details": "On 24/02/2026, a forest fire started in The Democratic Republic of Congo,  until 27/02/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027542"
+      ],
+      "location": "The Democratic Republic of Congo"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1027543",
+      "ts": "2026-02-27T16:01:20Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Central African Republic",
+      "body": "On 23/02/2026, a forest fire started in Central African Republic,  until 27/02/2026.",
+      "details": "On 23/02/2026, a forest fire started in Central African Republic,  until 27/02/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027543"
+      ],
+      "location": "Central African Republic"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1027544",
+      "ts": "2026-02-27T16:01:25Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Central African Republic",
+      "body": "On 23/02/2026, a forest fire started in Central African Republic,  until 27/02/2026.",
+      "details": "On 23/02/2026, a forest fire started in Central African Republic,  until 27/02/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027544"
+      ],
+      "location": "Central African Republic"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1027545",
+      "ts": "2026-02-27T16:01:31Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in The Democratic Republic of Congo",
+      "body": "On 23/02/2026, a forest fire started in The Democratic Republic of Congo,  until 27/02/2026.",
+      "details": "On 23/02/2026, a forest fire started in The Democratic Republic of Congo,  until 27/02/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027545"
+      ],
+      "location": "The Democratic Republic of Congo"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1027546",
+      "ts": "2026-02-27T16:01:52Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in The Democratic Republic of Congo",
+      "body": "On 23/02/2026, a forest fire started in The Democratic Republic of Congo,  until 27/02/2026.",
+      "details": "On 23/02/2026, a forest fire started in The Democratic Republic of Congo,  until 27/02/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027546"
+      ],
+      "location": "The Democratic Republic of Congo"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1027547",
+      "ts": "2026-02-27T16:01:57Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Central African Republic",
+      "body": "On 23/02/2026, a forest fire started in Central African Republic,  until 27/02/2026.",
+      "details": "On 23/02/2026, a forest fire started in Central African Republic,  until 27/02/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027547"
+      ],
+      "location": "Central African Republic"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1027548",
+      "ts": "2026-02-27T16:02:17Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in The Democratic Republic of Congo",
+      "body": "On 23/02/2026, a forest fire started in The Democratic Republic of Congo,  until 27/02/2026.",
+      "details": "On 23/02/2026, a forest fire started in The Democratic Republic of Congo,  until 27/02/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027548"
+      ],
+      "location": "The Democratic Republic of Congo"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1027549",
+      "ts": "2026-02-27T16:02:48Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Central African Republic",
+      "body": "On 22/02/2026, a forest fire started in Central African Republic,  until 27/02/2026.",
+      "details": "On 22/02/2026, a forest fire started in Central African Republic,  until 27/02/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027549"
+      ],
+      "location": "Central African Republic"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1027550",
+      "ts": "2026-02-27T16:03:12Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in South Africa",
+      "body": "On 22/02/2026, a forest fire started in South Africa,  until 27/02/2026.",
+      "details": "On 22/02/2026, a forest fire started in South Africa,  until 27/02/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027550"
+      ],
+      "location": "South Africa"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1027551",
+      "ts": "2026-02-27T16:03:19Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in The Democratic Republic of Congo",
+      "body": "On 22/02/2026, a forest fire started in The Democratic Republic of Congo,  until 27/02/2026.",
+      "details": "On 22/02/2026, a forest fire started in The Democratic Republic of Congo,  until 27/02/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027551"
+      ],
+      "location": "The Democratic Republic of Congo"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1027552",
+      "ts": "2026-02-27T16:03:41Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in The Democratic Republic of Congo",
+      "body": "On 22/02/2026, a forest fire started in The Democratic Republic of Congo,  until 27/02/2026.",
+      "details": "On 22/02/2026, a forest fire started in The Democratic Republic of Congo,  until 27/02/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027552"
+      ],
+      "location": "The Democratic Republic of Congo"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1027553",
+      "ts": "2026-02-27T16:03:53Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Central African Republic",
+      "body": "On 21/02/2026, a forest fire started in Central African Republic,  until 27/02/2026.",
+      "details": "On 21/02/2026, a forest fire started in Central African Republic,  until 27/02/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027553"
+      ],
+      "location": "Central African Republic"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1027554",
+      "ts": "2026-02-27T16:03:59Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Central African Republic",
+      "body": "On 21/02/2026, a forest fire started in Central African Republic,  until 27/02/2026.",
+      "details": "On 21/02/2026, a forest fire started in Central African Republic,  until 27/02/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027554"
+      ],
+      "location": "Central African Republic"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1027555",
+      "ts": "2026-02-27T16:04:21Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Ethiopia",
+      "body": "On 21/02/2026, a forest fire started in Ethiopia,  until 27/02/2026.",
+      "details": "On 21/02/2026, a forest fire started in Ethiopia,  until 27/02/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027555"
+      ],
+      "location": "Ethiopia"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1027556",
+      "ts": "2026-02-27T16:05:42Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Cameroon",
+      "body": "On 19/02/2026, a forest fire started in Cameroon,  until 27/02/2026.",
+      "details": "On 19/02/2026, a forest fire started in Cameroon,  until 27/02/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027556"
+      ],
+      "location": "Cameroon"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1027557",
+      "ts": "2026-02-27T16:05:48Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Nigeria",
+      "body": "On 19/02/2026, a forest fire started in Nigeria,  until 27/02/2026.",
+      "details": "On 19/02/2026, a forest fire started in Nigeria,  until 27/02/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027557"
+      ],
+      "location": "Nigeria"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1027534",
+      "ts": "2026-02-27T16:05:59Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Nigeria",
+      "body": "On 18/02/2026, a forest fire started in Nigeria,  until 26/02/2026.",
+      "details": "On 18/02/2026, a forest fire started in Nigeria,  until 26/02/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027534"
+      ],
+      "location": "Nigeria"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1027503",
+      "ts": "2026-02-27T16:06:46Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Cote d'Ivoire",
+      "body": "On 18/02/2026, a forest fire started in Cote d'Ivoire,  until 25/02/2026.",
+      "details": "On 18/02/2026, a forest fire started in Cote d'Ivoire,  until 25/02/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027503"
+      ],
+      "location": "Cote d'Ivoire"
     }
   ]
 }
