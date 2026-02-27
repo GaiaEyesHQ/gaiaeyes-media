@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-27T09:06:16Z",
+  "generated_at": "2026-02-27T09:25:53Z",
   "items": [
     {
       "source": "gdacs",
@@ -553,22 +553,6 @@
       ]
     },
     {
-      "source": "gdacs",
-      "id": "FL1103757",
-      "ts": "2026-02-27T06:56:15Z",
-      "type": "flood",
-      "severity": "info",
-      "title": "Green flood alert in Brazil",
-      "body": "On 03/02/2026, a flood started in Brazil, lasting until 25/02/2026 (last update). The flood caused 18 deaths and 383 displaced .",
-      "details": "On 03/02/2026, a flood started in Brazil, lasting until 25/02/2026 (last update). The flood caused 18 deaths and 383 displaced .",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103757"
-      ],
-      "location": "Brazil"
-    },
-    {
       "source": "media",
       "id": "us7000s0pc",
       "ts": "2026-02-27T07:52:24Z",
@@ -854,6 +838,38 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027539"
       ],
       "location": "Myanmar"
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1526507",
+      "ts": "2026-02-27T08:07:32Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Orange earthquake (Magnitude 5.3M, Depth:9.751km) in Bangladesh 27/02/2026 07:52 UTC, 42.7 million in 100km.",
+      "body": "On 2/27/2026 7:52:24 AM, an earthquake occurred in Bangladesh potentially affecting 42.7 million in 100km. The earthquake had Magnitude 5.3M, Depth:9.751km.",
+      "details": "On 2/27/2026 7:52:24 AM, an earthquake occurred in Bangladesh potentially affecting 42.7 million in 100km. The earthquake had Magnitude 5.3M, Depth:9.751km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1526507"
+      ],
+      "location": "Bangladesh 27/02/2026 07:52 UTC, 42.7 million in 100km."
+    },
+    {
+      "source": "gdacs",
+      "id": "FL1103757",
+      "ts": "2026-02-27T09:18:03Z",
+      "type": "flood",
+      "severity": "info",
+      "title": "Green flood alert in Brazil",
+      "body": "On 03/02/2026, a flood started in Brazil, lasting until 25/02/2026 (last update). The flood caused 18 deaths and 383 displaced .",
+      "details": "On 03/02/2026, a flood started in Brazil, lasting until 25/02/2026 (last update). The flood caused 18 deaths and 383 displaced .",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103757"
+      ],
+      "location": "Brazil"
     }
   ]
 }
