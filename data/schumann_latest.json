@@ -1,78 +1,27 @@
 {
   "status": "ok",
-  "timestamp_utc": "2026-02-28T20:06:44.832485+00:00",
+  "timestamp_utc": "2026-02-28T20:25:04.655544+00:00",
   "primary": "cumiana",
   "primary_quality_score": 1.0,
   "primary_quality_reasons": [],
   "overlay_path": "runs/cumiana_overlay.png",
   "sources": {
     "tomsk": {
-      "status": "ok",
-      "source": "tomsk",
-      "timestamp_utc": "2026-02-28T20:06:43.925187+00:00",
-      "last_modified": null,
-      "fundamental_hz": 6.324999999999999,
-      "harmonics_hz": {
-        "F1": 6.324999999999999,
-        "F2": 12.649999999999999,
-        "F3": 18.0,
-        "F4": 24.65,
-        "F5": 39.8
-      },
-      "amplitude_idx": {},
-      "confidence": "high-panels",
+      "status": "error",
+      "message": "tomsk extractor did not produce JSON.",
+      "stdout": "",
+      "stderr": "/opt/hostedtoolcache/Python/3.10.19/x64/lib/python3.10/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'sos70.ru'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings\n  warnings.warn(\nTraceback (most recent call last):\n  File \"/home/runner/work/gaiaeyes-backend/gaiaeyes-backend/backend/bots/schumann/tomsk_extractor.py\", line 820, in <module>\n    sys.exit(main())\n  File \"/home/runner/work/gaiaeyes-backend/gaiaeyes-backend/backend/bots/schumann/tomsk_extractor.py\", line 614, in main\n    x_frontier = detect_frontier(img, ROI)\n  File \"/home/runner/work/gaiaeyes-backend/gaiaeyes-backend/backend/bots/schumann/tomsk_extractor.py\", line 161, in detect_frontier\n    x1_eff = max(x0 + 50, x1 - RIGHT_EXCLUDE_PX)\nNameError: name 'x0' is not defined. Did you mean: '_x0'?\n",
       "overlay_path": "runs/tomsk_overlay.png",
-      "raw": {
-        "tsst_time": "2026-03-01T03:06:43.901032+00:00",
-        "roi": {
-          "x0": 59,
-          "y0": 31,
-          "x1": 1539,
-          "y1": 431
-        },
-        "group_boundaries_px": {
-          "x_day0": 59,
-          "x_day1": 570,
-          "x_day2": 1082,
-          "day_w": 511.5,
-          "x_day1_time": 522,
-          "x_day2_time": 986,
-          "day_w_time": 463.3333333333333
-        },
-        "debug": {
-          "x_frontier": 1444,
-          "x1_exclude_right_px": 90,
-          "guard_px": 6,
-          "x_time": 1046,
-          "x_ideal": 1046,
-          "right_guard": 1438,
-          "delta_min_to_guard": 1218.3021582733813,
-          "pph": 19.305555555555554,
-          "pph_source": "day_width",
-          "tick_count": 4,
-          "tick_quality": 0.05555555555555555,
-          "tick_used": false,
-          "bias_minutes_applied": 0.0,
-          "measured_bias_minutes": null,
-          "guard_applied": true,
-          "age_hours": null,
-          "stale_hours": 6.0
-        },
-        "method": "tick-ruler px/h + adaptive frontier guard; day3(48–72h) time-anchor; banded picker + fallbacks"
-      },
-      "quality_score": 0.09999999999999998,
+      "quality_score": 0.0,
       "usable": false,
       "quality_reasons": [
-        "tick_quality_low",
-        "stale_hours_ge_6",
-        "f0_mismatch_vs_cumiana_1.41",
-        "below_min_quality"
+        "status_error"
       ]
     },
     "cumiana": {
       "status": "ok",
       "source": "cumiana",
-      "timestamp_utc": "2026-02-28T20:06:44.805133+00:00",
+      "timestamp_utc": "2026-02-28T20:25:04.623705+00:00",
       "last_modified": "2026-02-28T20:00:10+00:00",
       "fundamental_hz": 7.73,
       "harmonics_hz": {
