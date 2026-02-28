@@ -1,21 +1,6 @@
 {
-  "generated_at": "2026-02-28T16:59:04Z",
+  "generated_at": "2026-02-28T17:10:51Z",
   "items": [
-    {
-      "source": "media",
-      "id": "us7000s0ig",
-      "ts": "2026-02-26T17:04:49Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "273 km SE of Kuril\u2019sk, Russia",
-      "body": "273 km SE of Kuril\u2019sk, Russia",
-      "mag": 5,
-      "lat": 43.7075,
-      "lon": 150.5866,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s0ig"
-      ]
-    },
     {
       "source": "gdacs",
       "id": "TC1001259",
@@ -1002,22 +987,6 @@
     },
     {
       "source": "gdacs",
-      "id": "WF1027503",
-      "ts": "2026-02-28T12:08:06Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Cote d'Ivoire",
-      "body": "On 18/02/2026, a forest fire started in Cote d'Ivoire,  until 25/02/2026.",
-      "details": "On 18/02/2026, a forest fire started in Cote d'Ivoire,  until 25/02/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027503"
-      ],
-      "location": "Cote d'Ivoire"
-    },
-    {
-      "source": "gdacs",
       "id": "FL1103782",
       "ts": "2026-02-28T12:19:50Z",
       "type": "flood",
@@ -1126,6 +1095,22 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027572"
       ],
       "location": "Mali"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1027503",
+      "ts": "2026-02-28T16:59:28Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Cote d'Ivoire",
+      "body": "On 18/02/2026, a forest fire started in Cote d'Ivoire,  until 25/02/2026.",
+      "details": "On 18/02/2026, a forest fire started in Cote d'Ivoire,  until 25/02/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027503"
+      ],
+      "location": "Cote d'Ivoire"
     }
   ]
 }
