@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-01T18:14:04Z",
+  "generated_at": "2026-03-01T18:33:07Z",
   "items": [
     {
       "source": "gdacs",
@@ -350,22 +350,6 @@
       "location": "Central African Republic"
     },
     {
-      "source": "gdacs",
-      "id": "FL1103782",
-      "ts": "2026-02-28T12:19:50Z",
-      "type": "flood",
-      "severity": "info",
-      "title": "Green flood alert in Democratic Republic of Congo",
-      "body": "On 22/02/2026, a flood started in Democratic Republic of Congo, lasting until 25/02/2026 (last update). The flood caused 1 deaths and 2533 displaced .",
-      "details": "On 22/02/2026, a flood started in Democratic Republic of Congo, lasting until 25/02/2026 (last update). The flood caused 1 deaths and 2533 displaced .",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103782"
-      ],
-      "location": "Democratic Republic of Congo"
-    },
-    {
       "source": "media",
       "id": "us7000s122",
       "ts": "2026-02-28T12:56:59Z",
@@ -568,22 +552,6 @@
       "links": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s16b"
       ]
-    },
-    {
-      "source": "gdacs",
-      "id": "FL1103757",
-      "ts": "2026-03-01T07:27:56Z",
-      "type": "flood",
-      "severity": "info",
-      "title": "Green flood alert in Brazil",
-      "body": "On 03/02/2026, a flood started in Brazil, lasting until 25/02/2026 (last update). The flood caused 18 deaths and 383 displaced .",
-      "details": "On 03/02/2026, a flood started in Brazil, lasting until 25/02/2026 (last update). The flood caused 18 deaths and 383 displaced .",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103757"
-      ],
-      "location": "Brazil"
     },
     {
       "source": "gdacs",
@@ -1318,6 +1286,38 @@
       "links": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s19b"
       ]
+    },
+    {
+      "source": "gdacs",
+      "id": "FL1103757",
+      "ts": "2026-03-01T18:16:16Z",
+      "type": "flood",
+      "severity": "info",
+      "title": "Green flood alert in Brazil",
+      "body": "On 03/02/2026, a flood started in Brazil, lasting until 25/02/2026 (last update). The flood caused 18 deaths and 383 displaced .",
+      "details": "On 03/02/2026, a flood started in Brazil, lasting until 25/02/2026 (last update). The flood caused 18 deaths and 383 displaced .",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103757"
+      ],
+      "location": "Brazil"
+    },
+    {
+      "source": "gdacs",
+      "id": "FL1103782",
+      "ts": "2026-03-01T18:19:54Z",
+      "type": "flood",
+      "severity": "info",
+      "title": "Green flood alert in Democratic Republic of Congo",
+      "body": "On 22/02/2026, a flood started in Democratic Republic of Congo, lasting until 25/02/2026 (last update). The flood caused 1 deaths and 2533 displaced .",
+      "details": "On 22/02/2026, a flood started in Democratic Republic of Congo, lasting until 25/02/2026 (last update). The flood caused 1 deaths and 2533 displaced .",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103782"
+      ],
+      "location": "Democratic Republic of Congo"
     }
   ]
 }
