@@ -1,19 +1,19 @@
 {
-  "saved_at_utc": "2026-03-03T03:47:38.330595+00:00",
+  "saved_at_utc": "2026-03-03T03:52:39.418505+00:00",
   "source": "tomsk_sos70_param_charts",
   "freq_max_hz": 40.0,
   "values": {
     "F_norm": {
       "F1": 0.027874564459930314,
-      "F2": 0.26480836236933797,
-      "F3": 0.4738675958188153,
-      "F4": 0.6759581881533101
+      "F2": 0.2613240418118467,
+      "F3": 0.4634146341463415,
+      "F4": 0.7526132404181185
     },
     "F_y_px": {
       "F1": 43,
-      "F2": 111,
-      "F3": 171,
-      "F4": 229
+      "F2": 110,
+      "F3": 168,
+      "F4": 251
     },
     "A_norm": {
       "A1": 0.14634146341463414,
@@ -65,17 +65,17 @@
       "guard_px": 6,
       "left_guard": 598,
       "right_guard": 771,
-      "x_time": 801,
-      "x_ideal": 801,
+      "x_time": 803,
+      "x_ideal": 803,
       "x_now": 771,
       "x_now_method": "harmonized_median",
-      "delta_min_to_guard": -94.73684210526316,
+      "delta_min_to_guard": -101.05263157894737,
       "bias_minutes_applied": 0.0,
       "measured_bias_minutes": null,
       "age_hours": null,
       "status": "ok",
       "x_now_before_harmonize": 771,
-      "x_pick": 767
+      "x_pick": 769
     },
     "A": {
       "x_day0": 59,
@@ -101,11 +101,11 @@
       "guard_px": 6,
       "left_guard": 598,
       "right_guard": 858,
-      "x_time": 801,
-      "x_ideal": 801,
+      "x_time": 803,
+      "x_ideal": 803,
       "x_now": 771,
       "x_now_method": "harmonized_median",
-      "delta_min_to_guard": 180.0,
+      "delta_min_to_guard": 173.6842105263158,
       "bias_minutes_applied": 0.0,
       "measured_bias_minutes": null,
       "age_hours": null,
@@ -137,11 +137,11 @@
       "guard_px": 6,
       "left_guard": 598,
       "right_guard": 769,
-      "x_time": 801,
-      "x_ideal": 801,
+      "x_time": 803,
+      "x_ideal": 803,
       "x_now": 771,
       "x_now_method": "harmonized_median",
-      "delta_min_to_guard": -101.05263157894737,
+      "delta_min_to_guard": -107.36842105263158,
       "bias_minutes_applied": 0.0,
       "measured_bias_minutes": null,
       "age_hours": null,
