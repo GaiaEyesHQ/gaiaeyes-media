@@ -1,19 +1,19 @@
 {
-  "saved_at_utc": "2026-03-03T04:00:58.452184+00:00",
+  "saved_at_utc": "2026-03-03T04:10:24.733936+00:00",
   "source": "tomsk_sos70_param_charts",
   "freq_max_hz": 40.0,
   "values": {
     "F_norm": {
       "F1": 0.027874564459930314,
       "F2": 0.2613240418118467,
-      "F3": 0.5644599303135889,
-      "F4": 0.7526132404181185
+      "F3": 0.5400696864111498,
+      "F4": 0.7421602787456446
     },
     "F_y_px": {
       "F1": 43,
       "F2": 110,
-      "F3": 197,
-      "F4": 251
+      "F3": 190,
+      "F4": 248
     },
     "A_norm": {
       "A1": 0.03832752613240418,
@@ -65,17 +65,23 @@
       "guard_px": 6,
       "left_guard": 598,
       "right_guard": 774,
-      "x_time": 805,
-      "x_ideal": 805,
+      "x_time": 808,
+      "x_ideal": 808,
       "x_now": 774,
       "x_now_method": "harmonized_median",
-      "delta_min_to_guard": -97.89473684210526,
+      "delta_min_to_guard": -107.36842105263158,
       "bias_minutes_applied": 0.0,
       "measured_bias_minutes": null,
       "age_hours": null,
       "status": "ok",
       "x_now_before_harmonize": 774,
-      "x_pick": 772
+      "x_pick": 772,
+      "mask_scores": {
+        "F1": null,
+        "F2": null,
+        "F3": 0.2857142984867096,
+        "F4": 0.05714286118745804
+      }
     },
     "A": {
       "x_day0": 59,
@@ -101,11 +107,11 @@
       "guard_px": 6,
       "left_guard": 598,
       "right_guard": 858,
-      "x_time": 805,
-      "x_ideal": 805,
+      "x_time": 808,
+      "x_ideal": 808,
       "x_now": 774,
       "x_now_method": "harmonized_median",
-      "delta_min_to_guard": 167.36842105263156,
+      "delta_min_to_guard": 157.89473684210526,
       "bias_minutes_applied": 0.0,
       "measured_bias_minutes": null,
       "age_hours": null,
@@ -137,11 +143,11 @@
       "guard_px": 6,
       "left_guard": 598,
       "right_guard": 771,
-      "x_time": 805,
-      "x_ideal": 805,
+      "x_time": 808,
+      "x_ideal": 808,
       "x_now": 774,
       "x_now_method": "harmonized_median",
-      "delta_min_to_guard": -107.36842105263158,
+      "delta_min_to_guard": -116.8421052631579,
       "bias_minutes_applied": 0.0,
       "measured_bias_minutes": null,
       "age_hours": null,
