@@ -1,24 +1,24 @@
 {
   "status": "ok",
   "source": "tomsk",
-  "timestamp_utc": "2026-03-03T04:53:23.562604+00:00",
+  "timestamp_utc": "2026-03-03T05:25:28.603769+00:00",
   "last_modified": null,
-  "fundamental_hz": 7.469627985358239,
+  "fundamental_hz": 7.4,
   "harmonics_hz": {
-    "F1": 7.469627985358239,
-    "F2": 15.404223545268179,
-    "F3": 23.385967110097408,
-    "F4": 31.701637132652106,
+    "F1": 7.4,
+    "F2": 15.4,
+    "F3": 24.5,
+    "F4": 31.400000000000002,
     "F5": 39.8
   },
   "amplitude_idx": {},
-  "quality_score": 0.886175187010514,
+  "quality_score": 0.8498531046666598,
   "usable": true,
   "quality_reasons": [],
   "confidence": "high-panels",
   "overlay_path": "runs/tomsk_overlay_full.png",
   "raw": {
-    "tsst_time": "2026-03-03T11:53:23.532752+00:00",
+    "tsst_time": "2026-03-03T12:25:28.573501+00:00",
     "roi": {
       "x0": 59,
       "y0": 31,
@@ -35,16 +35,16 @@
       "day_w_time": 463.3333333333333
     },
     "debug": {
-      "x_frontier": 1258,
+      "x_frontier": 1268,
       "frontier_method": "activity_scan",
-      "frontier_activity_thr": 0.6938970297574997,
-      "frontier_activity_right_tail": 0.01285608857870102,
+      "frontier_activity_thr": 0.6912840366363525,
+      "frontier_activity_right_tail": 0.012614582665264606,
       "frontier_activity_run_px": 8,
       "x1_exclude_right_px": 90,
       "guard_px": 6,
-      "x_time": 1216,
-      "x_ideal": 1216,
-      "right_guard": 1252,
+      "x_time": 1226,
+      "x_ideal": 1226,
+      "right_guard": 1262,
       "delta_min_to_guard": 111.88489208633094,
       "pph": 19.305555555555554,
       "pph_source": "day_width",
@@ -59,21 +59,21 @@
       "plausibility_reject_f2_count": 0,
       "plausibility_selected_f2_rank": 0,
       "family_scoring_used": true,
-      "family_best_f1": 7.899999999999998,
-      "family_best_score": 3.3674657106399533,
-      "family_candidate_count": 31,
+      "family_best_f1": 7.999999999999997,
+      "family_best_score": 3.229441797733307,
+      "family_candidate_count": 33,
       "family_top3": [
         {
-          "f1": 7.899999999999998,
-          "score": 3.3674657106399533
+          "f1": 7.999999999999997,
+          "score": 3.229441797733307
         },
         {
           "f1": 7.9499999999999975,
-          "score": 3.3674657106399533
+          "score": 3.218765461444855
         },
         {
-          "f1": 7.999999999999997,
-          "score": 3.3674657106399533
+          "f1": 7.449999999999999,
+          "score": 3.2141544222831726
         }
       ],
       "family_score_threshold": 1.35,
