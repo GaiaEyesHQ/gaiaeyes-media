@@ -1,43 +1,43 @@
 {
-  "saved_at_utc": "2026-03-03T03:18:08.919630+00:00",
+  "saved_at_utc": "2026-03-03T03:23:42.090593+00:00",
   "source": "tomsk_sos70_param_charts",
   "freq_max_hz": 40.0,
   "values": {
     "F_norm": {
-      "F1": 0.03484320557491289,
-      "F2": 0.40069686411149824,
-      "F3": 0.5296167247386759,
-      "F4": 0.6376306620209059
+      "F1": 0.11498257839721254,
+      "F2": 0.397212543554007,
+      "F3": 0.5644599303135889,
+      "F4": 0.6132404181184669
     },
     "F_y_px": {
-      "F1": 45,
-      "F2": 150,
-      "F3": 187,
-      "F4": 218
+      "F1": 68,
+      "F2": 149,
+      "F3": 197,
+      "F4": 211
     },
     "A_norm": {
-      "A1": 0.03832752613240418,
-      "A2": 0.26480836236933797,
-      "A3": 0.5714285714285714,
-      "A4": 0.7526132404181185
+      "A1": 0.08710801393728224,
+      "A2": 0.44947735191637633,
+      "A3": 0.6445993031358885,
+      "A4": 0.9094076655052264
     },
     "A_y_px": {
-      "A1": 46,
-      "A2": 111,
-      "A3": 199,
-      "A4": 251
+      "A1": 60,
+      "A2": 164,
+      "A3": 220,
+      "A4": 296
     },
     "Q_norm": {
-      "Q1": 0.31010452961672474,
-      "Q2": 0.47038327526132406,
+      "Q1": 0.2264808362369338,
+      "Q2": 0.43902439024390244,
       "Q3": 0.6236933797909407,
-      "Q4": 0.89198606271777
+      "Q4": 0.8885017421602788
     },
     "Q_y_px": {
-      "Q1": 124,
-      "Q2": 170,
+      "Q1": 100,
+      "Q2": 161,
       "Q3": 214,
-      "Q4": 291
+      "Q4": 290
     }
   },
   "debug": {
@@ -65,16 +65,17 @@
       "guard_px": 6,
       "left_guard": 598,
       "right_guard": 766,
-      "x_time": 792,
-      "x_ideal": 792,
+      "x_time": 794,
+      "x_ideal": 794,
       "x_now": 766,
       "x_now_method": "harmonized_median",
-      "delta_min_to_guard": -82.10526315789474,
+      "delta_min_to_guard": -88.42105263157895,
       "bias_minutes_applied": 0.0,
       "measured_bias_minutes": null,
       "age_hours": null,
       "status": "ok",
-      "x_now_before_harmonize": 766
+      "x_now_before_harmonize": 766,
+      "x_pick": 759
     },
     "A": {
       "x_day0": 59,
@@ -100,16 +101,17 @@
       "guard_px": 6,
       "left_guard": 598,
       "right_guard": 838,
-      "x_time": 792,
-      "x_ideal": 792,
+      "x_time": 794,
+      "x_ideal": 794,
       "x_now": 766,
       "x_now_method": "harmonized_median",
-      "delta_min_to_guard": 145.26315789473685,
+      "delta_min_to_guard": 138.94736842105263,
       "bias_minutes_applied": 0.0,
       "measured_bias_minutes": null,
       "age_hours": null,
       "status": "ok",
-      "x_now_before_harmonize": 838
+      "x_now_before_harmonize": 838,
+      "x_pick": 762
     },
     "Q": {
       "x_day0": 59,
@@ -135,16 +137,17 @@
       "guard_px": 6,
       "left_guard": 598,
       "right_guard": 766,
-      "x_time": 792,
-      "x_ideal": 792,
+      "x_time": 794,
+      "x_ideal": 794,
       "x_now": 766,
       "x_now_method": "harmonized_median",
-      "delta_min_to_guard": -82.10526315789474,
+      "delta_min_to_guard": -88.42105263157895,
       "bias_minutes_applied": 0.0,
       "measured_bias_minutes": null,
       "age_hours": null,
       "status": "ok",
-      "x_now_before_harmonize": 766
+      "x_now_before_harmonize": 766,
+      "x_pick": 762
     },
     "urls": {
       "F": "https://sos70.ru/provider.php?file=srf.jpg",
