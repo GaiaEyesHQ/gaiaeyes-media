@@ -1,22 +1,6 @@
 {
-  "generated_at": "2026-03-03T04:57:34Z",
+  "generated_at": "2026-03-03T05:28:55Z",
   "items": [
-    {
-      "source": "gdacs",
-      "id": "WF1027609",
-      "ts": "2026-03-01T04:57:51Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Central African Republic",
-      "body": "On 19/02/2026, a forest fire started in Central African Republic,  until 02/03/2026.",
-      "details": "On 19/02/2026, a forest fire started in Central African Republic,  until 02/03/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027609"
-      ],
-      "location": "Central African Republic"
-    },
     {
       "source": "gdacs",
       "id": "WF1027608",
@@ -496,21 +480,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027622"
       ],
       "location": "Cameroon"
-    },
-    {
-      "source": "media",
-      "id": "us7000s19b",
-      "ts": "2026-03-01T16:41:17Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "northern Mid-Atlantic Ridge",
-      "body": "northern Mid-Atlantic Ridge",
-      "mag": 5.1,
-      "lat": 31.9809,
-      "lon": -42.0572,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s19b"
-      ]
     },
     {
       "source": "media",
@@ -1002,6 +971,21 @@
     },
     {
       "source": "media",
+      "id": "us7000s1k2",
+      "ts": "2026-03-03T00:11:43Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "67 km NW of Hirara, Japan",
+      "body": "67 km NW of Hirara, Japan",
+      "mag": 5,
+      "lat": 25.2893,
+      "lon": 124.8906,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s1k2"
+      ]
+    },
+    {
+      "source": "media",
       "id": "us7000s1lc",
       "ts": "2026-03-03T02:16:44Z",
       "type": "quake",
@@ -1302,6 +1286,22 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027607"
       ],
       "location": "Venezuela"
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1527111",
+      "ts": "2026-03-03T05:08:56Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 6.1M, Depth:26.162km) in Indonesia 03/03/2026 04:56 UTC, 2 thousand in MMI V.",
+      "body": "On 3/3/2026 4:56:47 AM, an earthquake occurred in Indonesia potentially affecting 2 thousand in MMI V. The earthquake had Magnitude 6.1M, Depth:26.162km.",
+      "details": "On 3/3/2026 4:56:47 AM, an earthquake occurred in Indonesia potentially affecting 2 thousand in MMI V. The earthquake had Magnitude 6.1M, Depth:26.162km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1527111"
+      ],
+      "location": "Indonesia 03/03/2026 04:56 UTC, 2 thousand in MMI V."
     }
   ]
 }
