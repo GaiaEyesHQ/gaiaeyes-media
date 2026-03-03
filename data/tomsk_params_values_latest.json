@@ -1,43 +1,43 @@
 {
-  "saved_at_utc": "2026-03-03T04:13:35.006220+00:00",
+  "saved_at_utc": "2026-03-03T04:31:00.668454+00:00",
   "source": "tomsk_sos70_param_charts",
   "freq_max_hz": 40.0,
   "values": {
     "F_norm": {
       "F1": 0.027874564459930314,
       "F2": 0.2613240418118467,
-      "F3": 0.5400696864111498,
-      "F4": 0.7421602787456446
+      "F3": 0.5644599303135889,
+      "F4": 0.7526132404181185
     },
     "F_y_px": {
       "F1": 43,
       "F2": 110,
-      "F3": 190,
-      "F4": 248
+      "F3": 197,
+      "F4": 251
     },
     "A_norm": {
       "A1": 0.03832752613240418,
-      "A2": 0.5331010452961672,
+      "A2": 0.44947735191637633,
       "A3": 0.554006968641115,
       "A4": 0.8954703832752613
     },
     "A_y_px": {
       "A1": 46,
-      "A2": 188,
+      "A2": 164,
       "A3": 194,
       "A4": 292
     },
     "Q_norm": {
       "Q1": 0.21951219512195122,
       "Q2": 0.3693379790940767,
-      "Q3": 0.6480836236933798,
-      "Q4": 0.89198606271777
+      "Q3": 0.7142857142857143,
+      "Q4": 0.9581881533101045
     },
     "Q_y_px": {
       "Q1": 98,
       "Q2": 141,
-      "Q3": 221,
-      "Q4": 291
+      "Q3": 240,
+      "Q4": 310
     }
   },
   "debug": {
@@ -57,31 +57,25 @@
       "tick_count": 50,
       "tick_quality": 0.6944444444444444,
       "tick_used": true,
-      "x_frontier": 780,
+      "x_frontier": 781,
       "frontier_method": "activity_scan",
-      "frontier_activity_thr": 0.395440499484539,
-      "frontier_activity_right_tail": 0.09331787377595901,
+      "frontier_activity_thr": 0.385224823653698,
+      "frontier_activity_right_tail": 0.09042414277791977,
       "frontier_activity_run_px": 8,
       "guard_px": 6,
       "left_guard": 598,
-      "right_guard": 774,
-      "x_time": 809,
-      "x_ideal": 809,
-      "x_now": 774,
+      "right_guard": 775,
+      "x_time": 815,
+      "x_ideal": 815,
+      "x_now": 775,
       "x_now_method": "harmonized_median",
-      "delta_min_to_guard": -110.52631578947368,
+      "delta_min_to_guard": -126.3157894736842,
       "bias_minutes_applied": 0.0,
       "measured_bias_minutes": null,
       "age_hours": null,
       "status": "ok",
-      "x_now_before_harmonize": 774,
-      "x_pick": 772,
-      "mask_scores": {
-        "F1": null,
-        "F2": null,
-        "F3": 0.2857142984867096,
-        "F4": 0.05714286118745804
-      }
+      "x_now_before_harmonize": 775,
+      "x_pick": 773
     },
     "A": {
       "x_day0": 59,
@@ -101,23 +95,23 @@
       "tick_used": true,
       "x_frontier": 864,
       "frontier_method": "activity_scan",
-      "frontier_activity_thr": 0.30628601014614104,
-      "frontier_activity_right_tail": 0.13990655541419983,
+      "frontier_activity_thr": 0.3041503220796585,
+      "frontier_activity_right_tail": 0.1386438012123108,
       "frontier_activity_run_px": 8,
       "guard_px": 6,
       "left_guard": 598,
       "right_guard": 858,
-      "x_time": 809,
-      "x_ideal": 809,
-      "x_now": 774,
+      "x_time": 815,
+      "x_ideal": 815,
+      "x_now": 775,
       "x_now_method": "harmonized_median",
-      "delta_min_to_guard": 154.73684210526315,
+      "delta_min_to_guard": 135.78947368421052,
       "bias_minutes_applied": 0.0,
       "measured_bias_minutes": null,
       "age_hours": null,
       "status": "ok",
       "x_now_before_harmonize": 858,
-      "x_pick": 770
+      "x_pick": 771
     },
     "Q": {
       "x_day0": 59,
@@ -135,25 +129,25 @@
       "tick_count": 50,
       "tick_quality": 0.6944444444444444,
       "tick_used": true,
-      "x_frontier": 777,
+      "x_frontier": 778,
       "frontier_method": "activity_scan",
-      "frontier_activity_thr": 0.4513993114233017,
-      "frontier_activity_right_tail": 0.10447709262371063,
+      "frontier_activity_thr": 0.44901906847953793,
+      "frontier_activity_right_tail": 0.10352013260126114,
       "frontier_activity_run_px": 8,
       "guard_px": 6,
       "left_guard": 598,
-      "right_guard": 771,
-      "x_time": 809,
-      "x_ideal": 809,
-      "x_now": 774,
+      "right_guard": 772,
+      "x_time": 815,
+      "x_ideal": 815,
+      "x_now": 775,
       "x_now_method": "harmonized_median",
-      "delta_min_to_guard": -120.0,
+      "delta_min_to_guard": -135.78947368421052,
       "bias_minutes_applied": 0.0,
       "measured_bias_minutes": null,
       "age_hours": null,
       "status": "ok",
-      "x_now_before_harmonize": 771,
-      "x_pick": 770
+      "x_now_before_harmonize": 772,
+      "x_pick": 771
     },
     "urls": {
       "F": "https://sos70.ru/provider.php?file=srf.jpg",
