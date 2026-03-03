@@ -1,5 +1,5 @@
 {
-  "saved_at_utc": "2026-03-03T04:31:00.668454+00:00",
+  "saved_at_utc": "2026-03-03T04:35:45.226626+00:00",
   "source": "tomsk_sos70_param_charts",
   "freq_max_hz": 40.0,
   "values": {
@@ -7,13 +7,13 @@
       "F1": 0.027874564459930314,
       "F2": 0.2613240418118467,
       "F3": 0.5644599303135889,
-      "F4": 0.7526132404181185
+      "F4": 0.7456445993031359
     },
     "F_y_px": {
       "F1": 43,
       "F2": 110,
       "F3": 197,
-      "F4": 251
+      "F4": 249
     },
     "A_norm": {
       "A1": 0.03832752613240418,
@@ -65,17 +65,18 @@
       "guard_px": 6,
       "left_guard": 598,
       "right_guard": 775,
-      "x_time": 815,
-      "x_ideal": 815,
+      "x_time": 816,
+      "x_ideal": 816,
       "x_now": 775,
       "x_now_method": "harmonized_median",
-      "delta_min_to_guard": -126.3157894736842,
+      "delta_min_to_guard": -129.47368421052633,
       "bias_minutes_applied": 0.0,
       "measured_bias_minutes": null,
       "age_hours": null,
       "status": "ok",
       "x_now_before_harmonize": 775,
-      "x_pick": 773
+      "x_pick": 773,
+      "x_pick_edge": 775
     },
     "A": {
       "x_day0": 59,
@@ -101,11 +102,11 @@
       "guard_px": 6,
       "left_guard": 598,
       "right_guard": 858,
-      "x_time": 815,
-      "x_ideal": 815,
+      "x_time": 816,
+      "x_ideal": 816,
       "x_now": 775,
       "x_now_method": "harmonized_median",
-      "delta_min_to_guard": 135.78947368421052,
+      "delta_min_to_guard": 132.63157894736844,
       "bias_minutes_applied": 0.0,
       "measured_bias_minutes": null,
       "age_hours": null,
@@ -137,11 +138,11 @@
       "guard_px": 6,
       "left_guard": 598,
       "right_guard": 772,
-      "x_time": 815,
-      "x_ideal": 815,
+      "x_time": 816,
+      "x_ideal": 816,
       "x_now": 775,
       "x_now_method": "harmonized_median",
-      "delta_min_to_guard": -135.78947368421052,
+      "delta_min_to_guard": -138.94736842105263,
       "bias_minutes_applied": 0.0,
       "measured_bias_minutes": null,
       "age_hours": null,
