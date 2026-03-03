@@ -1,43 +1,43 @@
 {
-  "saved_at_utc": "2026-03-03T22:28:30.524699+00:00",
+  "saved_at_utc": "2026-03-03T22:46:37.971888+00:00",
   "source": "tomsk_sos70_param_charts",
   "freq_max_hz": 40.0,
   "values": {
     "F_norm": {
       "F1": 0.0313588850174216,
-      "F2": 0.3170731707317073,
-      "F3": 0.4738675958188153,
-      "F4": 0.6132404181184669
+      "F2": 0.29965156794425085,
+      "F3": 0.47038327526132406,
+      "F4": 0.7491289198606271
     },
     "F_y_px": {
       "F1": 44,
-      "F2": 126,
-      "F3": 171,
-      "F4": 211
+      "F2": 121,
+      "F3": 170,
+      "F4": 250
     },
     "A_norm": {
-      "A1": 0.30313588850174217,
-      "A2": 0.5296167247386759,
+      "A1": 0.2961672473867596,
+      "A2": 0.5331010452961672,
       "A3": 0.735191637630662,
-      "A4": 0.7526132404181185
+      "A4": 0.89198606271777
     },
     "A_y_px": {
-      "A1": 122,
-      "A2": 187,
+      "A1": 120,
+      "A2": 188,
       "A3": 246,
-      "A4": 251
+      "A4": 291
     },
     "Q_norm": {
       "Q1": 0.31010452961672474,
-      "Q2": 0.5156794425087108,
+      "Q2": 0.5226480836236934,
       "Q3": 0.6445993031358885,
-      "Q4": 0.8885017421602788
+      "Q4": 0.818815331010453
     },
     "Q_y_px": {
       "Q1": 124,
-      "Q2": 183,
+      "Q2": 185,
       "Q3": 220,
-      "Q4": 290
+      "Q4": 270
     }
   },
   "debug": {
@@ -60,39 +60,39 @@
       "tick_count": 50,
       "tick_quality": 0.6944444444444444,
       "tick_used": true,
-      "x_frontier": 707,
+      "x_frontier": 712,
       "frontier_method": "activity_scan",
-      "frontier_activity_thr": 0.4427405893802643,
-      "frontier_activity_right_tail": 0.19608664512634277,
+      "frontier_activity_thr": 0.44272635281085965,
+      "frontier_activity_right_tail": 0.19600802659988403,
       "frontier_activity_run_px": 8,
       "guard_px": 6,
       "left_guard": 645,
-      "right_guard": 701,
-      "x_time": 747,
-      "x_ideal": 747,
-      "x_now": 703,
+      "right_guard": 706,
+      "x_time": 753,
+      "x_ideal": 753,
+      "x_now": 708,
       "x_now_method": "harmonized_median",
-      "delta_min_to_guard": -145.26315789473685,
+      "delta_min_to_guard": -148.42105263157896,
       "bias_minutes_applied": 0.0,
       "measured_bias_minutes": null,
       "age_hours": null,
       "status": "ok",
-      "x_now_before_harmonize": 701,
-      "x_pick": 700,
-      "x_pick_edge": 703,
+      "x_now_before_harmonize": 706,
+      "x_pick": 705,
+      "x_pick_edge": 708,
       "x_pick_safe_right": 893,
       "f1_path_x_range": [
-        686,
-        700
+        691,
+        705
       ],
       "f1_path_target_col": 14,
       "f1_path_y_px": 44,
       "f4_path_x_range": [
-        686,
-        700
+        691,
+        705
       ],
       "f4_path_target_col": 14,
-      "f4_path_y_px": 211
+      "f4_path_y_px": 250
     },
     "A": {
       "x_day0": 59,
@@ -115,23 +115,23 @@
       "tick_used": true,
       "x_frontier": 934,
       "frontier_method": "activity_scan",
-      "frontier_activity_thr": 0.3035506635904312,
-      "frontier_activity_right_tail": 0.2541932463645935,
+      "frontier_activity_thr": 0.3070141524076462,
+      "frontier_activity_right_tail": 0.25413864850997925,
       "frontier_activity_run_px": 8,
       "guard_px": 6,
       "left_guard": 645,
       "right_guard": 928,
-      "x_time": 747,
-      "x_ideal": 747,
-      "x_now": 703,
+      "x_time": 753,
+      "x_ideal": 753,
+      "x_now": 708,
       "x_now_method": "harmonized_median",
-      "delta_min_to_guard": 571.578947368421,
+      "delta_min_to_guard": 552.6315789473684,
       "bias_minutes_applied": 0.0,
       "measured_bias_minutes": null,
       "age_hours": null,
       "status": "ok",
       "x_now_before_harmonize": 928,
-      "x_pick": 699,
+      "x_pick": 704,
       "x_pick_safe_right": 911
     },
     "Q": {
@@ -153,25 +153,25 @@
       "tick_count": 50,
       "tick_quality": 0.6944444444444444,
       "tick_used": true,
-      "x_frontier": 709,
+      "x_frontier": 714,
       "frontier_method": "activity_scan",
-      "frontier_activity_thr": 0.4955519288778305,
-      "frontier_activity_right_tail": 0.20334438979625702,
+      "frontier_activity_thr": 0.4962850362062454,
+      "frontier_activity_right_tail": 0.2018510401248932,
       "frontier_activity_run_px": 8,
       "guard_px": 6,
       "left_guard": 645,
-      "right_guard": 703,
-      "x_time": 747,
-      "x_ideal": 747,
-      "x_now": 703,
+      "right_guard": 708,
+      "x_time": 753,
+      "x_ideal": 753,
+      "x_now": 708,
       "x_now_method": "harmonized_median",
-      "delta_min_to_guard": -138.94736842105263,
+      "delta_min_to_guard": -142.10526315789474,
       "bias_minutes_applied": 0.0,
       "measured_bias_minutes": null,
       "age_hours": null,
       "status": "ok",
-      "x_now_before_harmonize": 703,
-      "x_pick": 699,
+      "x_now_before_harmonize": 708,
+      "x_pick": 704,
       "x_pick_safe_right": 911
     },
     "urls": {
