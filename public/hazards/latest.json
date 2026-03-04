@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-04T17:49:05Z",
+  "generated_at": "2026-03-04T18:05:50Z",
   "items": [
     {
       "source": "gdacs",
@@ -888,6 +888,37 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027673"
       ],
       "location": "The Democratic Republic of Congo"
+    },
+    {
+      "source": "usgs",
+      "id": "26063050",
+      "ts": "2026-03-04T17:54:37Z",
+      "type": "quake",
+      "severity": "yellow",
+      "title": "M 6.5 - 219 km ESE of Attu Station, Alaska",
+      "body": "219 km ESE of Attu Station, Alaska",
+      "mag": 6.5,
+      "lat": 52,
+      "lon": 176.1,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/pt26063050"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1527379",
+      "ts": "2026-03-04T18:03:42Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 6.5M, Depth:42km) in Rat Islands, Aleutian Islands 04/03/2026 17:54 UTC, Few people affected in MMI>=III.",
+      "body": "On 3/4/2026 5:54:37 PM, an earthquake occurred in Rat Islands, Aleutian Islands potentially affecting Few people affected in MMI>=III. The earthquake had Magnitude 6.5M, Depth:42km.",
+      "details": "On 3/4/2026 5:54:37 PM, an earthquake occurred in Rat Islands, Aleutian Islands potentially affecting Few people affected in MMI>=III. The earthquake had Magnitude 6.5M, Depth:42km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1527379"
+      ],
+      "location": "Rat Islands, Aleutian Islands 04/03/2026 17:54 UTC, Few people affected in MMI>=III."
     }
   ]
 }
