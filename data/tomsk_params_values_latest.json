@@ -1,5 +1,5 @@
 {
-  "saved_at_utc": "2026-03-04T04:21:17.080575+00:00",
+  "saved_at_utc": "2026-03-04T04:35:29.945546+00:00",
   "source": "tomsk_sos70_param_charts",
   "freq_max_hz": 40.0,
   "values": {
@@ -67,47 +67,47 @@
     "F_norm": {
       "F1": 0.06968641114982578,
       "F2": 0.3310104529616725,
-      "F3": 0.445993031358885,
+      "F3": 0.4425087108013937,
       "F4": 0.7665505226480837
     },
     "F_y_px": {
       "F1": 55,
       "F2": 130,
-      "F3": 163,
+      "F3": 162,
       "F4": 255
     },
     "F_lane_norm": {
       "F1": 0.24561403508771928,
       "F2": 0.5,
-      "F3": 0.10869565217391304,
+      "F3": 0.08695652173913043,
       "F4": 1.0
     },
     "F_hz": {
       "F1": 8.105263157894736,
       "F2": 13.8,
-      "F3": 20.026086956521738,
+      "F3": 20.06086956521739,
       "F4": 24.1
     },
     "A_norm": {
-      "A1": 0.31010452961672474,
+      "A1": 0.313588850174216,
       "A2": 0.5296167247386759,
       "A3": 0.7282229965156795,
       "A4": 0.818815331010453
     },
     "A_y_px": {
-      "A1": 124,
+      "A1": 125,
       "A2": 187,
       "A3": 244,
       "A4": 270
     },
     "A_lane_norm": {
-      "A1": 0.963855421686747,
+      "A1": 0.9759036144578314,
       "A2": 0.9693877551020408,
       "A3": 0.9072164948453608,
       "A4": 0.46511627906976744
     },
     "A_value": {
-      "A1": 2.590361445783131,
+      "A1": 2.0602409638554207,
       "A2": 2.852040816326536,
       "A3": 3.1278350515463913,
       "A4": 5.967441860465116
@@ -116,25 +116,25 @@
       "Q1": 0.2857142857142857,
       "Q2": 0.5087108013937283,
       "Q3": 0.6445993031358885,
-      "Q4": 0.9616724738675958
+      "Q4": 0.8257839721254355
     },
     "Q_y_px": {
       "Q1": 117,
       "Q2": 181,
       "Q3": 220,
-      "Q4": 311
+      "Q4": 272
     },
     "Q_lane_norm": {
       "Q1": 0.7640449438202247,
       "Q2": 0.7938144329896907,
       "Q3": 0.6213592233009708,
-      "Q4": 0.9036144578313253
+      "Q4": 0.43373493975903615
     },
     "Q_value": {
       "Q1": 12.022471910112362,
       "Q2": 7.577319587628866,
       "Q3": 13.058252427184467,
-      "Q4": 7.4096385542168655
+      "Q4": 19.156626506024097
     }
   },
   "debug": {
@@ -161,17 +161,17 @@
       "tick_used": false,
       "x_frontier": 776,
       "frontier_method": "activity_scan",
-      "frontier_activity_thr": 0.43459372520446776,
-      "frontier_activity_right_tail": 0.17961306869983673,
+      "frontier_activity_thr": 0.43081789314746854,
+      "frontier_activity_right_tail": 0.17465288937091827,
       "frontier_activity_run_px": 8,
       "guard_px": 6,
       "left_guard": 645,
       "right_guard": 770,
-      "x_time": 781,
-      "x_ideal": 781,
+      "x_time": 784,
+      "x_ideal": 784,
       "x_now": 770,
       "x_now_method": "snap_to_guard",
-      "delta_min_to_guard": -54.24657534246576,
+      "delta_min_to_guard": -69.04109589041097,
       "bias_minutes_applied": 0.0,
       "measured_bias_minutes": null,
       "age_hours": null,
@@ -193,7 +193,7 @@
       "f4_path_target_col": 14,
       "f4_path_y_px": 251,
       "f3_local_snap_x": 770,
-      "f3_local_snap_y_px": 163,
+      "f3_local_snap_y_px": 162,
       "f3_local_snap_search_px": 6,
       "f4_local_snap_x": 770,
       "f4_local_snap_y_px": 255,
@@ -243,31 +243,31 @@
       "tick_used": false,
       "x_frontier": 934,
       "frontier_method": "activity_scan",
-      "frontier_activity_thr": 0.31510987132787704,
-      "frontier_activity_right_tail": 0.23488548398017883,
+      "frontier_activity_thr": 0.3116006076335907,
+      "frontier_activity_right_tail": 0.23136790096759796,
       "frontier_activity_run_px": 8,
       "guard_px": 6,
       "left_guard": 645,
       "right_guard": 928,
-      "x_time": 781,
-      "x_ideal": 781,
-      "x_now": 781,
+      "x_time": 784,
+      "x_ideal": 784,
+      "x_now": 784,
       "x_now_method": "ideal",
-      "delta_min_to_guard": 724.9315068493152,
+      "delta_min_to_guard": 710.1369863013699,
       "bias_minutes_applied": 0.0,
       "measured_bias_minutes": null,
       "age_hours": null,
       "status": "ok",
-      "x_pick": 777,
+      "x_pick": 780,
       "x_pick_safe_right": 911,
-      "x_overlay": 777,
-      "a1_local_snap_x": 777,
-      "a1_local_snap_y_px": 124,
+      "x_overlay": 780,
+      "a1_local_snap_x": 780,
+      "a1_local_snap_y_px": 125,
       "a1_local_snap_search_px": 6,
-      "a2_local_snap_x": 777,
+      "a2_local_snap_x": 780,
       "a2_local_snap_y_px": 187,
       "a2_local_snap_search_px": 9,
-      "a4_local_snap_x": 777,
+      "a4_local_snap_x": 780,
       "a4_local_snap_y_px": 270,
       "a4_local_snap_search_px": 7,
       "scale_ranges": {
@@ -312,17 +312,17 @@
       "tick_used": false,
       "x_frontier": 775,
       "frontier_method": "activity_scan",
-      "frontier_activity_thr": 0.49229793548583983,
-      "frontier_activity_right_tail": 0.17911358177661896,
+      "frontier_activity_thr": 0.4898225456476211,
+      "frontier_activity_right_tail": 0.17457306385040283,
       "frontier_activity_run_px": 8,
       "guard_px": 6,
       "left_guard": 645,
       "right_guard": 769,
-      "x_time": 781,
-      "x_ideal": 781,
+      "x_time": 784,
+      "x_ideal": 784,
       "x_now": 769,
       "x_now_method": "snap_to_guard",
-      "delta_min_to_guard": -59.178082191780824,
+      "delta_min_to_guard": -73.97260273972603,
       "bias_minutes_applied": 0.0,
       "measured_bias_minutes": null,
       "age_hours": null,
@@ -330,6 +330,9 @@
       "x_pick": 765,
       "x_pick_safe_right": 911,
       "x_overlay": 765,
+      "q4_local_snap_x": 765,
+      "q4_local_snap_y_px": 272,
+      "q4_local_snap_search_px": 10,
       "scale_ranges": {
         "Q1": [
           4.0,
