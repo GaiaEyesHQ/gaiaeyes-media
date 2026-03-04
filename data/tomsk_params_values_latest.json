@@ -1,5 +1,5 @@
 {
-  "saved_at_utc": "2026-03-04T01:51:20.844341+00:00",
+  "saved_at_utc": "2026-03-04T01:56:17.146247+00:00",
   "source": "tomsk_sos70_param_charts",
   "freq_max_hz": 40.0,
   "values": {
@@ -65,52 +65,52 @@
       "Q_value": "idx"
     },
     "F_norm": {
-      "F1": 0.08362369337979095,
+      "F1": 0.0975609756097561,
       "F2": 0.37282229965156793,
-      "F3": 0.43902439024390244,
-      "F4": 0.6132404181184669
+      "F3": 0.5714285714285714,
+      "F4": 0.7456445993031359
     },
     "F_y_px": {
-      "F1": 59,
+      "F1": 63,
       "F2": 142,
-      "F3": 161,
-      "F4": 211
+      "F3": 199,
+      "F4": 249
     },
     "F_lane_norm": {
-      "F1": 0.3157894736842105,
+      "F1": 0.38596491228070173,
       "F2": 0.7307692307692307,
-      "F3": 0.06521739130434782,
-      "F4": 0.08695652173913043
+      "F3": 0.8913043478260869,
+      "F4": 0.9130434782608695
     },
     "F_hz": {
-      "F1": 8.021052631578948,
+      "F1": 7.936842105263159,
       "F2": 13.476923076923077,
-      "F3": 20.09565217391304,
-      "F4": 26.291304347826088
+      "F3": 18.773913043478263,
+      "F4": 24.308695652173913
     },
     "A_norm": {
-      "A1": 0.30662020905923343,
+      "A1": 0.31010452961672474,
       "A2": 0.5331010452961672,
       "A3": 0.7247386759581882,
-      "A4": 0.9233449477351916
+      "A4": 0.926829268292683
     },
     "A_y_px": {
-      "A1": 123,
+      "A1": 124,
       "A2": 188,
       "A3": 243,
-      "A4": 300
+      "A4": 301
     },
     "A_lane_norm": {
-      "A1": 0.9518072289156626,
+      "A1": 0.963855421686747,
       "A2": 0.9795918367346939,
       "A3": 0.8969072164948454,
-      "A4": 0.813953488372093
+      "A4": 0.8255813953488372
     },
     "A_value": {
-      "A1": 3.1204819277108484,
+      "A1": 2.590361445783131,
       "A2": 2.234693877551024,
       "A3": 3.2309278350515456,
-      "A4": 2.793023255813953
+      "A4": 2.6872093023255808
     },
     "Q_norm": {
       "Q1": 0.3240418118466899,
@@ -167,32 +167,32 @@
       "guard_px": 6,
       "left_guard": 645,
       "right_guard": 910,
-      "x_time": 751,
-      "x_ideal": 751,
-      "x_now": 751,
+      "x_time": 752,
+      "x_ideal": 752,
+      "x_now": 752,
       "x_now_method": "ideal",
-      "delta_min_to_guard": 784.1095890410959,
+      "delta_min_to_guard": 779.1780821917808,
       "bias_minutes_applied": 0.0,
       "measured_bias_minutes": null,
       "age_hours": null,
       "status": "ok",
-      "x_pick": 748,
-      "x_pick_edge": 751,
+      "x_pick": 749,
+      "x_pick_edge": 752,
       "x_pick_safe_right": 893,
       "f1_path_x_range": [
-        734,
-        748
+        735,
+        749
       ],
       "f1_path_target_col": 14,
-      "f1_path_y_px": 59,
+      "f1_path_y_px": 63,
       "f4_path_x_range": [
-        734,
-        748
+        735,
+        749
       ],
       "f4_path_target_col": 14,
-      "f4_path_y_px": 211,
-      "f4_local_snap_x": 748,
-      "f4_local_snap_y_px": 211,
+      "f4_path_y_px": 250,
+      "f4_local_snap_x": 749,
+      "f4_local_snap_y_px": 249,
       "f4_local_snap_search_px": 7,
       "scale_ranges": {
         "F1": [
@@ -242,25 +242,25 @@
       "guard_px": 6,
       "left_guard": 645,
       "right_guard": 928,
-      "x_time": 751,
-      "x_ideal": 751,
-      "x_now": 751,
+      "x_time": 752,
+      "x_ideal": 752,
+      "x_now": 752,
       "x_now_method": "ideal",
-      "delta_min_to_guard": 872.8767123287671,
+      "delta_min_to_guard": 867.9452054794522,
       "bias_minutes_applied": 0.0,
       "measured_bias_minutes": null,
       "age_hours": null,
       "status": "ok",
-      "x_pick": 747,
+      "x_pick": 748,
       "x_pick_safe_right": 911,
-      "a1_local_snap_x": 747,
-      "a1_local_snap_y_px": 123,
+      "a1_local_snap_x": 748,
+      "a1_local_snap_y_px": 124,
       "a1_local_snap_search_px": 6,
-      "a2_local_snap_x": 747,
+      "a2_local_snap_x": 748,
       "a2_local_snap_y_px": 188,
       "a2_local_snap_search_px": 7,
-      "a4_local_snap_x": 747,
-      "a4_local_snap_y_px": 300,
+      "a4_local_snap_x": 748,
+      "a4_local_snap_y_px": 301,
       "a4_local_snap_search_px": 7,
       "scale_ranges": {
         "A1": [
@@ -310,11 +310,11 @@
       "guard_px": 6,
       "left_guard": 645,
       "right_guard": 743,
-      "x_time": 751,
-      "x_ideal": 751,
+      "x_time": 752,
+      "x_ideal": 752,
       "x_now": 743,
       "x_now_method": "snap_to_guard",
-      "delta_min_to_guard": -39.45205479452055,
+      "delta_min_to_guard": -44.38356164383562,
       "bias_minutes_applied": 0.0,
       "measured_bias_minutes": null,
       "age_hours": null,
