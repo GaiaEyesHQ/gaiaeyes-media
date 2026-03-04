@@ -1,5 +1,5 @@
 {
-  "saved_at_utc": "2026-03-04T02:38:49.213832+00:00",
+  "saved_at_utc": "2026-03-04T02:40:25.326907+00:00",
   "source": "tomsk_sos70_param_charts",
   "freq_max_hz": 40.0,
   "values": {
@@ -65,52 +65,52 @@
       "Q_value": "idx"
     },
     "F_norm": {
-      "F1": 0.03484320557491289,
-      "F2": 0.42160278745644597,
-      "F3": 0.44947735191637633,
+      "F1": 0.027874564459930314,
+      "F2": 0.3205574912891986,
+      "F3": 0.4564459930313589,
       "F4": 0.6759581881533101
     },
     "F_y_px": {
-      "F1": 45,
-      "F2": 156,
-      "F3": 164,
+      "F1": 43,
+      "F2": 127,
+      "F3": 166,
       "F4": 229
     },
     "F_lane_norm": {
-      "F1": 0.07017543859649122,
-      "F2": 1.0,
-      "F3": 0.13043478260869565,
+      "F1": 0.03508771929824561,
+      "F2": 0.4423076923076923,
+      "F3": 0.17391304347826086,
       "F4": 0.4782608695652174
     },
     "F_hz": {
-      "F1": 8.31578947368421,
-      "F2": 13.1,
-      "F3": 19.991304347826087,
+      "F1": 8.357894736842105,
+      "F2": 13.88076923076923,
+      "F3": 19.921739130434784,
       "F4": 25.35217391304348
     },
     "A_norm": {
-      "A1": 0.20905923344947736,
+      "A1": 0.1986062717770035,
       "A2": 0.3344947735191638,
       "A3": 0.7282229965156795,
-      "A4": 0.8745644599303136
+      "A4": 0.8885017421602788
     },
     "A_y_px": {
-      "A1": 95,
+      "A1": 92,
       "A2": 131,
       "A3": 244,
-      "A4": 286
+      "A4": 290
     },
     "A_lane_norm": {
-      "A1": 0.6144578313253012,
+      "A1": 0.5783132530120482,
       "A2": 0.3979591836734694,
       "A3": 0.9072164948453608,
-      "A4": 0.6511627906976745
+      "A4": 0.6976744186046512
     },
     "A_value": {
-      "A1": 17.96385542168675,
+      "A1": 19.55421686746988,
       "A2": 37.423469387755105,
       "A3": 3.1278350515463913,
-      "A4": 4.274418604651162
+      "A4": 3.851162790697674
     },
     "Q_norm": {
       "Q1": 0.3240418118466899,
@@ -167,38 +167,39 @@
       "guard_px": 6,
       "left_guard": 645,
       "right_guard": 909,
-      "x_time": 760,
-      "x_ideal": 760,
-      "x_now": 760,
+      "x_time": 761,
+      "x_ideal": 761,
+      "x_now": 761,
       "x_now_method": "ideal",
-      "delta_min_to_guard": 734.7945205479452,
+      "delta_min_to_guard": 729.8630136986302,
       "bias_minutes_applied": 0.0,
       "measured_bias_minutes": null,
       "age_hours": null,
       "status": "ok",
-      "x_pick": 757,
-      "x_pick_edge": 760,
+      "x_pick": 758,
+      "x_pick_edge": 761,
       "x_pick_safe_right": 893,
+      "x_overlay": 761,
       "f1_path_x_range": [
-        746,
-        760
+        747,
+        761
       ],
       "f1_path_target_col": 14,
-      "f1_path_y_px": 45,
+      "f1_path_y_px": 43,
       "f4_path_x_range": [
-        746,
-        760
+        747,
+        761
       ],
       "f4_path_target_col": 14,
       "f4_path_y_px": 230,
-      "f3_local_snap_x": 760,
-      "f3_local_snap_y_px": 164,
+      "f3_local_snap_x": 761,
+      "f3_local_snap_y_px": 166,
       "f3_local_snap_search_px": 6,
-      "f4_local_snap_x": 760,
+      "f4_local_snap_x": 761,
       "f4_local_snap_y_px": 229,
       "f4_local_snap_search_px": 4,
-      "f2_local_snap_x": 760,
-      "f2_local_snap_y_px": 156,
+      "f2_local_snap_x": 761,
+      "f2_local_snap_y_px": 127,
       "f2_local_snap_search_px": 8,
       "scale_ranges": {
         "F1": [
@@ -248,25 +249,26 @@
       "guard_px": 6,
       "left_guard": 645,
       "right_guard": 928,
-      "x_time": 760,
-      "x_ideal": 760,
-      "x_now": 760,
+      "x_time": 761,
+      "x_ideal": 761,
+      "x_now": 761,
       "x_now_method": "ideal",
-      "delta_min_to_guard": 828.4931506849315,
+      "delta_min_to_guard": 823.5616438356165,
       "bias_minutes_applied": 0.0,
       "measured_bias_minutes": null,
       "age_hours": null,
       "status": "ok",
-      "x_pick": 756,
+      "x_pick": 757,
       "x_pick_safe_right": 911,
-      "a1_local_snap_x": 756,
-      "a1_local_snap_y_px": 95,
+      "x_overlay": 757,
+      "a1_local_snap_x": 757,
+      "a1_local_snap_y_px": 92,
       "a1_local_snap_search_px": 6,
-      "a2_local_snap_x": 756,
+      "a2_local_snap_x": 757,
       "a2_local_snap_y_px": 131,
       "a2_local_snap_search_px": 9,
-      "a4_local_snap_x": 756,
-      "a4_local_snap_y_px": 286,
+      "a4_local_snap_x": 757,
+      "a4_local_snap_y_px": 290,
       "a4_local_snap_search_px": 7,
       "scale_ranges": {
         "A1": [
@@ -316,17 +318,18 @@
       "guard_px": 6,
       "left_guard": 645,
       "right_guard": 756,
-      "x_time": 760,
-      "x_ideal": 760,
+      "x_time": 761,
+      "x_ideal": 761,
       "x_now": 756,
-      "x_now_method": "ideal",
-      "delta_min_to_guard": -19.726027397260275,
+      "x_now_method": "snap_to_guard",
+      "delta_min_to_guard": -24.657534246575345,
       "bias_minutes_applied": 0.0,
       "measured_bias_minutes": null,
       "age_hours": null,
       "status": "ok",
       "x_pick": 752,
       "x_pick_safe_right": 911,
+      "x_overlay": 752,
       "scale_ranges": {
         "Q1": [
           4.0,
