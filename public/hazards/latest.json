@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-04T06:48:26Z",
+  "generated_at": "2026-03-04T07:09:21Z",
   "items": [
     {
       "source": "gdacs",
@@ -215,8 +215,8 @@
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Venezuela",
-      "body": "On 21/02/2026, a forest fire started in Venezuela,  until 01/03/2026.",
-      "details": "On 21/02/2026, a forest fire started in Venezuela,  until 01/03/2026.",
+      "body": "On 21/02/2026, a forest fire started in Venezuela,  until 02/03/2026.",
+      "details": "On 21/02/2026, a forest fire started in Venezuela,  until 02/03/2026.",
       "lat": null,
       "lon": null,
       "links": [
@@ -587,22 +587,6 @@
     },
     {
       "source": "gdacs",
-      "id": "FL1103757",
-      "ts": "2026-03-03T18:15:42Z",
-      "type": "flood",
-      "severity": "orange",
-      "title": "Orange flood alert in Brazil",
-      "body": "On 03/02/2026, a flood started in Brazil, lasting until 03/03/2026 (last update). The flood caused 90 deaths and 14766 displaced .",
-      "details": "On 03/02/2026, a flood started in Brazil, lasting until 03/03/2026 (last update). The flood caused 90 deaths and 14766 displaced .",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103757"
-      ],
-      "location": "Brazil"
-    },
-    {
-      "source": "gdacs",
       "id": "WF1027655",
       "ts": "2026-03-03T20:00:51Z",
       "type": "wildfire",
@@ -840,6 +824,54 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027649"
       ],
       "location": "Central African Republic"
+    },
+    {
+      "source": "gdacs",
+      "id": "FL1103757",
+      "ts": "2026-03-04T06:57:15Z",
+      "type": "flood",
+      "severity": "orange",
+      "title": "Orange flood alert in Brazil",
+      "body": "On 03/02/2026, a flood started in Brazil, lasting until 03/03/2026 (last update). The flood caused 90 deaths and 14766 displaced .",
+      "details": "On 03/02/2026, a flood started in Brazil, lasting until 03/03/2026 (last update). The flood caused 90 deaths and 14766 displaced .",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103757"
+      ],
+      "location": "Brazil"
+    },
+    {
+      "source": "gdacs",
+      "id": "FL1103786",
+      "ts": "2026-03-04T07:03:12Z",
+      "type": "flood",
+      "severity": "info",
+      "title": "Green flood alert in Indonesia",
+      "body": "On 02/03/2026, a flood started in Indonesia, lasting until 04/03/2026 (last update). The flood caused 0 deaths and 111 displaced .",
+      "details": "On 02/03/2026, a flood started in Indonesia, lasting until 04/03/2026 (last update). The flood caused 0 deaths and 111 displaced .",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103786"
+      ],
+      "location": "Indonesia"
+    },
+    {
+      "source": "gdacs",
+      "id": "FL1103787",
+      "ts": "2026-03-04T07:03:18Z",
+      "type": "flood",
+      "severity": "info",
+      "title": "Green flood alert in Mexico",
+      "body": "On 28/02/2026, a flood started in Mexico, lasting until 02/03/2026 (last update). The flood caused 0 deaths and 0 displaced .",
+      "details": "On 28/02/2026, a flood started in Mexico, lasting until 02/03/2026 (last update). The flood caused 0 deaths and 0 displaced .",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103787"
+      ],
+      "location": "Mexico"
     }
   ]
 }
