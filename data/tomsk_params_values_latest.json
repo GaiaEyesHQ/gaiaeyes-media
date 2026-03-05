@@ -1,5 +1,5 @@
 {
-  "saved_at_utc": "2026-03-05T02:20:32.034389+00:00",
+  "saved_at_utc": "2026-03-05T02:23:03.715883+00:00",
   "source": "tomsk_sos70_param_charts",
   "freq_max_hz": 40.0,
   "values": {
@@ -68,13 +68,13 @@
       "F1": 0.156794425087108,
       "F2": 0.39372822299651566,
       "F3": 0.5296167247386759,
-      "F4": 0.7839721254355401
+      "F4": 0.7874564459930313
     },
     "F_y_px": {
       "F1": 80,
       "F2": 148,
       "F3": 187,
-      "F4": 260
+      "F4": 261
     },
     "F_lane_norm": {
       "F1": 0.6842105263157895,
@@ -199,17 +199,17 @@
       "f3_local_snap_search_down_px": 6,
       "f3_local_snap_prefer_lower_weight": 0.0,
       "f4_local_snap_x": 746,
-      "f4_local_snap_y_px": 260,
-      "f4_local_snap_search_px": 4,
-      "f4_local_snap_search_up_px": 4,
-      "f4_local_snap_search_down_px": 4,
-      "f4_local_snap_prefer_lower_weight": 0.0,
+      "f4_local_snap_y_px": 261,
+      "f4_local_snap_search_px": 5,
+      "f4_local_snap_search_up_px": 3,
+      "f4_local_snap_search_down_px": 12,
+      "f4_local_snap_prefer_lower_weight": 0.06,
       "f2_local_snap_x": 746,
       "f2_local_snap_y_px": 148,
       "f2_local_snap_search_px": 8,
-      "f2_local_snap_search_up_px": 8,
-      "f2_local_snap_search_down_px": 8,
-      "f2_local_snap_prefer_lower_weight": 0.0,
+      "f2_local_snap_search_up_px": 4,
+      "f2_local_snap_search_down_px": 12,
+      "f2_local_snap_prefer_lower_weight": 0.05,
       "scale_ranges": {
         "F1": [
           7.2,
