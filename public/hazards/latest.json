@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-05T19:31:06Z",
+  "generated_at": "2026-03-05T19:58:22Z",
   "items": [
     {
       "source": "gdacs",
@@ -857,6 +857,37 @@
         "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103757"
       ],
       "location": "Brazil"
+    },
+    {
+      "source": "media",
+      "id": "us7000s2bn",
+      "ts": "2026-03-05T19:25:06Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "97 km S of Nikolski, Alaska",
+      "body": "97 km S of Nikolski, Alaska",
+      "mag": 5.5,
+      "lat": 52.0667,
+      "lon": -168.9394,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s2bn"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1527570",
+      "ts": "2026-03-05T19:32:18Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 5.5M, Depth:10.971km) in United States 05/03/2026 19:25 UTC, Few people affected in MMI>=II.",
+      "body": "On 3/5/2026 7:25:06 PM, an earthquake occurred in United States potentially affecting Few people affected in MMI>=II. The earthquake had Magnitude 5.5M, Depth:10.971km.",
+      "details": "On 3/5/2026 7:25:06 PM, an earthquake occurred in United States potentially affecting Few people affected in MMI>=II. The earthquake had Magnitude 5.5M, Depth:10.971km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1527570"
+      ],
+      "location": "United States 05/03/2026 19:25 UTC, Few people affected in MMI>=II."
     }
   ]
 }
