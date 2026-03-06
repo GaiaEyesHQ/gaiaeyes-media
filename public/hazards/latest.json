@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-06T15:22:54Z",
+  "generated_at": "2026-03-06T15:46:57Z",
   "items": [
     {
       "source": "gdacs",
@@ -146,21 +146,6 @@
       "location": "United States 04/03/2026 17:54 UTC, Few people affected in MMI IV."
     },
     {
-      "source": "media",
-      "id": "us7000s21s",
-      "ts": "2026-03-04T18:56:24Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "70 km SSW of Chirilagua, El Salvador",
-      "body": "70 km SSW of Chirilagua, El Salvador",
-      "mag": 5.3,
-      "lat": 12.6127,
-      "lon": -88.3391,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s21s"
-      ]
-    },
-    {
       "source": "gdacs",
       "id": "WF1027670",
       "ts": "2026-03-04T20:01:22Z",
@@ -175,21 +160,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027670"
       ],
       "location": "Sudan, Ethiopia"
-    },
-    {
-      "source": "media",
-      "id": "us7000s24t",
-      "ts": "2026-03-05T00:15:42Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "76 km SSE of Shihezi, China",
-      "body": "76 km SSE of Shihezi, China",
-      "mag": 5,
-      "lat": 43.6823,
-      "lon": 86.4613,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s24t"
-      ]
     },
     {
       "source": "gdacs",
@@ -809,12 +779,12 @@
       "location": "The Democratic Republic of Congo"
     },
     {
-      "source": "usgs",
-      "id": "7000s2i2",
+      "source": "media",
+      "id": "us7000s2i2",
       "ts": "2026-03-06T14:27:47Z",
       "type": "quake",
       "severity": "yellow",
-      "title": "M 6.3 - 181 km SE of Kirakira, Solomon Islands",
+      "title": "181 km SE of Kirakira, Solomon Islands",
       "body": "181 km SE of Kirakira, Solomon Islands",
       "mag": 6.3,
       "lat": -11.5475,
@@ -838,6 +808,36 @@
         "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1527699"
       ],
       "location": "Solomon Is. 06/03/2026 14:27 UTC, 30 thousand in MMI IV."
+    },
+    {
+      "source": "media",
+      "id": "us7000s2ih",
+      "ts": "2026-03-06T15:17:45Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "Kermadec Islands, New Zealand",
+      "body": "Kermadec Islands, New Zealand",
+      "mag": 5.3,
+      "lat": -29.9667,
+      "lon": -177.4844,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s2ih"
+      ]
+    },
+    {
+      "source": "media",
+      "id": "us7000s2ip",
+      "ts": "2026-03-06T15:27:47Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "132 km ENE of Masohi, Indonesia",
+      "body": "132 km ENE of Masohi, Indonesia",
+      "mag": 5.1,
+      "lat": -3.0251,
+      "lon": 130.1319,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s2ip"
+      ]
     }
   ]
 }
