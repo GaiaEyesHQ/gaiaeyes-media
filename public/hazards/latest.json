@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-06T14:20:27Z",
+  "generated_at": "2026-03-06T14:46:39Z",
   "items": [
     {
       "source": "gdacs",
@@ -128,21 +128,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027673"
       ],
       "location": "The Democratic Republic of Congo"
-    },
-    {
-      "source": "media",
-      "id": "us7000s211",
-      "ts": "2026-03-04T17:54:36Z",
-      "type": "quake",
-      "severity": "yellow",
-      "title": "224 km ESE of Attu Station, Alaska",
-      "body": "224 km ESE of Attu Station, Alaska",
-      "mag": 6.4,
-      "lat": 52.2664,
-      "lon": 176.3634,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s211"
-      ]
     },
     {
       "source": "gdacs",
@@ -822,6 +807,37 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027692"
       ],
       "location": "The Democratic Republic of Congo"
+    },
+    {
+      "source": "usgs",
+      "id": "00tbheug",
+      "ts": "2026-03-06T14:27:48Z",
+      "type": "quake",
+      "severity": "yellow",
+      "title": "M 6.7 - 181 km SE of Kirakira, Solomon Islands",
+      "body": "181 km SE of Kirakira, Solomon Islands",
+      "mag": 6.7,
+      "lat": -11.7,
+      "lon": 163,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/at00tbheug"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1527699",
+      "ts": "2026-03-06T14:41:25Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 6.7M, Depth:10km) in Solomon Is. 06/03/2026 14:27 UTC, No people affected in 100km.",
+      "body": "On 3/6/2026 2:27:49 PM, an earthquake occurred in Solomon Is. potentially affecting No people affected in 100km. The earthquake had Magnitude 6.7M, Depth:10km.",
+      "details": "On 3/6/2026 2:27:49 PM, an earthquake occurred in Solomon Is. potentially affecting No people affected in 100km. The earthquake had Magnitude 6.7M, Depth:10km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1527699"
+      ],
+      "location": "Solomon Is. 06/03/2026 14:27 UTC, No people affected in 100km."
     }
   ]
 }
