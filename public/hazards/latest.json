@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-06T14:46:39Z",
+  "generated_at": "2026-03-06T15:04:41Z",
   "items": [
     {
       "source": "gdacs",
@@ -810,15 +810,30 @@
     },
     {
       "source": "usgs",
-      "id": "00tbheug",
+      "id": "7000s2i2",
+      "ts": "2026-03-06T14:27:47Z",
+      "type": "quake",
+      "severity": "yellow",
+      "title": "M 6.3 - 181 km SE of Kirakira, Solomon Islands",
+      "body": "181 km SE of Kirakira, Solomon Islands",
+      "mag": 6.3,
+      "lat": -11.5475,
+      "lon": 163.1628,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s2i2"
+      ]
+    },
+    {
+      "source": "media",
+      "id": "at00tbheug",
       "ts": "2026-03-06T14:27:48Z",
       "type": "quake",
       "severity": "yellow",
-      "title": "M 6.7 - 181 km SE of Kirakira, Solomon Islands",
+      "title": "181 km SE of Kirakira, Solomon Islands",
       "body": "181 km SE of Kirakira, Solomon Islands",
       "mag": 6.7,
       "lat": -11.7,
-      "lon": 163,
+      "lon": 163.0,
       "links": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/at00tbheug"
       ]
@@ -826,12 +841,12 @@
     {
       "source": "gdacs",
       "id": "EQ1527699",
-      "ts": "2026-03-06T14:41:25Z",
+      "ts": "2026-03-06T14:38:04Z",
       "type": "quake",
       "severity": "red",
-      "title": "Green earthquake (Magnitude 6.7M, Depth:10km) in Solomon Is. 06/03/2026 14:27 UTC, No people affected in 100km.",
-      "body": "On 3/6/2026 2:27:49 PM, an earthquake occurred in Solomon Is. potentially affecting No people affected in 100km. The earthquake had Magnitude 6.7M, Depth:10km.",
-      "details": "On 3/6/2026 2:27:49 PM, an earthquake occurred in Solomon Is. potentially affecting No people affected in 100km. The earthquake had Magnitude 6.7M, Depth:10km.",
+      "title": "Green earthquake (Magnitude 6.3M, Depth:8.682km) in Solomon Is. 06/03/2026 14:27 UTC, No people affected in 100km.",
+      "body": "On 3/6/2026 2:27:47 PM, an earthquake occurred in Solomon Is. potentially affecting No people affected in 100km. The earthquake had Magnitude 6.3M, Depth:8.682km.",
+      "details": "On 3/6/2026 2:27:47 PM, an earthquake occurred in Solomon Is. potentially affecting No people affected in 100km. The earthquake had Magnitude 6.3M, Depth:8.682km.",
       "lat": null,
       "lon": null,
       "links": [
