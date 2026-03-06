@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-06T18:24:11Z",
+  "generated_at": "2026-03-06T18:47:53Z",
   "items": [
     {
       "source": "gdacs",
@@ -80,21 +80,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027678"
       ],
       "location": "Brazil"
-    },
-    {
-      "source": "media",
-      "id": "us7000s268",
-      "ts": "2026-03-05T05:21:53Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "109 km SSE of Burica, Panama",
-      "body": "109 km SSE of Burica, Panama",
-      "mag": 5.2,
-      "lat": 7.1236,
-      "lon": -82.4823,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s268"
-      ]
     },
     {
       "source": "media",
@@ -460,38 +445,6 @@
       ]
     },
     {
-      "source": "gdacs",
-      "id": "FL1103757",
-      "ts": "2026-03-06T11:26:33Z",
-      "type": "flood",
-      "severity": "info",
-      "title": "Green flood alert in Brazil",
-      "body": "On 03/02/2026, a flood started in Brazil, lasting until 04/03/2026 (last update). The flood caused 90 deaths and 15525 displaced .",
-      "details": "On 03/02/2026, a flood started in Brazil, lasting until 04/03/2026 (last update). The flood caused 90 deaths and 15525 displaced .",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103757"
-      ],
-      "location": "Brazil"
-    },
-    {
-      "source": "gdacs",
-      "id": "FL1103782",
-      "ts": "2026-03-06T11:30:23Z",
-      "type": "flood",
-      "severity": "orange",
-      "title": "Orange flood alert in Democratic Republic of Congo",
-      "body": "On 22/02/2026, a flood started in Democratic Republic of Congo, lasting until 05/03/2026 (last update). The flood caused 201 deaths and 2533 displaced .",
-      "details": "On 22/02/2026, a flood started in Democratic Republic of Congo, lasting until 05/03/2026 (last update). The flood caused 201 deaths and 2533 displaced .",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103782"
-      ],
-      "location": "Democratic Republic of Congo"
-    },
-    {
       "source": "media",
       "id": "us7000s2hh",
       "ts": "2026-03-06T11:52:47Z",
@@ -758,6 +711,53 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027702"
       ],
       "location": "Sudan"
+    },
+    {
+      "source": "media",
+      "id": "us7000s2m9",
+      "ts": "2026-03-06T17:55:53Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "69 km E of Tobelo, Indonesia",
+      "body": "69 km E of Tobelo, Indonesia",
+      "mag": 5.4,
+      "lat": 1.6466,
+      "lon": 128.6314,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s2m9"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "FL1103757",
+      "ts": "2026-03-06T18:16:29Z",
+      "type": "flood",
+      "severity": "info",
+      "title": "Green flood alert in Brazil",
+      "body": "On 03/02/2026, a flood started in Brazil, lasting until 04/03/2026 (last update). The flood caused 90 deaths and 15525 displaced .",
+      "details": "On 03/02/2026, a flood started in Brazil, lasting until 04/03/2026 (last update). The flood caused 90 deaths and 15525 displaced .",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103757"
+      ],
+      "location": "Brazil"
+    },
+    {
+      "source": "gdacs",
+      "id": "FL1103782",
+      "ts": "2026-03-06T18:20:23Z",
+      "type": "flood",
+      "severity": "orange",
+      "title": "Orange flood alert in Democratic Republic of Congo",
+      "body": "On 22/02/2026, a flood started in Democratic Republic of Congo, lasting until 05/03/2026 (last update). The flood caused 201 deaths and 2533 displaced .",
+      "details": "On 22/02/2026, a flood started in Democratic Republic of Congo, lasting until 05/03/2026 (last update). The flood caused 201 deaths and 2533 displaced .",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103782"
+      ],
+      "location": "Democratic Republic of Congo"
     }
   ]
 }
