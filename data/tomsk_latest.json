@@ -1,24 +1,24 @@
 {
   "status": "ok",
   "source": "tomsk",
-  "timestamp_utc": "2026-03-06T10:16:27.444213+00:00",
+  "timestamp_utc": "2026-03-06T10:47:57.644216+00:00",
   "last_modified": null,
-  "fundamental_hz": 7.7,
+  "fundamental_hz": 7.453537213802338,
   "harmonics_hz": {
-    "F1": 7.7,
+    "F1": 7.453537213802338,
     "F2": 14.9,
     "F3": 21.0,
     "F4": 28.2,
     "F5": 35.4
   },
   "amplitude_idx": {},
-  "quality_score": 0.8723412281588504,
+  "quality_score": 0.8716275911582144,
   "usable": true,
   "quality_reasons": [],
   "confidence": "high-panels",
   "overlay_path": "runs/tomsk_overlay_full.png",
   "raw": {
-    "tsst_time": "2026-03-06T17:16:27.412192+00:00",
+    "tsst_time": "2026-03-06T17:47:57.613149+00:00",
     "roi": {
       "x0": 59,
       "y0": 31,
@@ -35,17 +35,17 @@
       "day_w_time": 463.3333333333333
     },
     "debug": {
-      "x_frontier": 1363,
+      "x_frontier": 1375,
       "frontier_method": "activity_scan",
-      "frontier_activity_thr": 0.6161731630563736,
+      "frontier_activity_thr": 0.6122081518173218,
       "frontier_activity_right_tail": 0.0,
       "frontier_activity_run_px": 8,
       "x1_exclude_right_px": 90,
       "guard_px": 6,
-      "x_time": 1319,
-      "x_ideal": 1319,
-      "right_guard": 1357,
-      "delta_min_to_guard": 118.10071942446044,
+      "x_time": 1330,
+      "x_ideal": 1330,
+      "right_guard": 1369,
+      "delta_min_to_guard": 121.20863309352521,
       "pph": 19.305555555555554,
       "pph_source": "day_width",
       "tick_count": 4,
@@ -56,24 +56,24 @@
       "guard_applied": true,
       "age_hours": null,
       "stale_hours": 6.0,
-      "plausibility_reject_f2_count": 1,
-      "plausibility_selected_f2_rank": 1,
+      "plausibility_reject_f2_count": 0,
+      "plausibility_selected_f2_rank": 0,
       "family_scoring_used": true,
       "family_best_f1": 7.2,
-      "family_best_score": 3.3148966670036315,
+      "family_best_score": 3.3121848464012147,
       "family_candidate_count": 31,
       "family_top3": [
         {
           "f1": 7.2,
-          "score": 3.3148966670036315
+          "score": 3.3121848464012147
         },
         {
-          "f1": 7.35,
-          "score": 3.302981877326965
+          "f1": 7.25,
+          "score": 3.3033893346786503
         },
         {
-          "f1": 7.3999999999999995,
-          "score": 3.3028162240982053
+          "f1": 7.3,
+          "score": 3.28358359336853
         }
       ],
       "family_score_threshold": 1.35,
