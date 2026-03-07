@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-07T17:30:49Z",
+  "generated_at": "2026-03-07T17:47:05Z",
   "items": [
     {
       "source": "gdacs",
@@ -130,21 +130,6 @@
       "location": "India"
     },
     {
-      "source": "media",
-      "id": "us7000s2hh",
-      "ts": "2026-03-06T11:52:47Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "Mid-Indian Ridge",
-      "body": "Mid-Indian Ridge",
-      "mag": 5.2,
-      "lat": -15.2195,
-      "lon": 66.9879,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s2hh"
-      ]
-    },
-    {
       "source": "gdacs",
       "id": "WF1027692",
       "ts": "2026-03-06T12:10:44Z",
@@ -159,21 +144,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027692"
       ],
       "location": "The Democratic Republic of Congo"
-    },
-    {
-      "source": "media",
-      "id": "us7000s2i2",
-      "ts": "2026-03-06T14:27:47Z",
-      "type": "quake",
-      "severity": "yellow",
-      "title": "181 km SE of Kirakira, Solomon Islands",
-      "body": "181 km SE of Kirakira, Solomon Islands",
-      "mag": 6.3,
-      "lat": -11.5475,
-      "lon": 163.1628,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s2i2"
-      ]
     },
     {
       "source": "gdacs",
@@ -630,6 +600,36 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027704"
       ],
       "location": "The Democratic Republic of Congo"
+    },
+    {
+      "source": "media",
+      "id": "us7000s2u5",
+      "ts": "2026-03-07T16:58:43Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "95 km SSE of Sungai Penuh, Indonesia",
+      "body": "95 km SSE of Sungai Penuh, Indonesia",
+      "mag": 5.2,
+      "lat": -2.8756,
+      "lon": 101.6747,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s2u5"
+      ]
+    },
+    {
+      "source": "media",
+      "id": "us7000s2u7",
+      "ts": "2026-03-07T17:13:26Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "119 km E of Caucete, Argentina",
+      "body": "119 km E of Caucete, Argentina",
+      "mag": 5.1,
+      "lat": -31.6647,
+      "lon": -67.0247,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s2u7"
+      ]
     }
   ]
 }
