@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-08T17:35:00Z",
+  "generated_at": "2026-03-08T17:47:50Z",
   "items": [
     {
       "source": "gdacs",
@@ -192,21 +192,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027708"
       ],
       "location": "Venezuela"
-    },
-    {
-      "source": "media",
-      "id": "us7000s2u5",
-      "ts": "2026-03-07T16:58:43Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "95 km SSE of Sungai Penuh, Indonesia",
-      "body": "95 km SSE of Sungai Penuh, Indonesia",
-      "mag": 5.2,
-      "lat": -2.8756,
-      "lon": 101.6747,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s2u5"
-      ]
     },
     {
       "source": "media",
@@ -934,6 +919,37 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027734"
       ],
       "location": "The Democratic Republic of Congo"
+    },
+    {
+      "source": "media",
+      "id": "us7000s2zx",
+      "ts": "2026-03-08T17:08:43Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "156 km SSE of Vilyuchinsk, Russia",
+      "body": "156 km SSE of Vilyuchinsk, Russia",
+      "mag": 5.9,
+      "lat": 51.6805,
+      "lon": 159.4664,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s2zx"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1528058",
+      "ts": "2026-03-08T17:30:13Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 5.9M, Depth:22.857km) in Russia 08/03/2026 17:08 UTC, 250 thousand in MMI>=III.",
+      "body": "On 3/8/2026 5:08:43 PM, an earthquake occurred in Russia potentially affecting 250 thousand in MMI>=III. The earthquake had Magnitude 5.9M, Depth:22.857km.",
+      "details": "On 3/8/2026 5:08:43 PM, an earthquake occurred in Russia potentially affecting 250 thousand in MMI>=III. The earthquake had Magnitude 5.9M, Depth:22.857km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1528058"
+      ],
+      "location": "Russia 08/03/2026 17:08 UTC, 250 thousand in MMI>=III."
     }
   ]
 }
