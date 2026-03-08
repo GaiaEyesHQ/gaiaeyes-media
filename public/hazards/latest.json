@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-08T12:16:59Z",
+  "generated_at": "2026-03-08T12:36:36Z",
   "items": [
     {
       "source": "gdacs",
@@ -210,22 +210,6 @@
     },
     {
       "source": "gdacs",
-      "id": "FL1103757",
-      "ts": "2026-03-07T07:17:52Z",
-      "type": "flood",
-      "severity": "info",
-      "title": "Green flood alert in Brazil",
-      "body": "On 03/02/2026, a flood started in Brazil, lasting until 04/03/2026 (last update). The flood caused 92 deaths and 15525 displaced .",
-      "details": "On 03/02/2026, a flood started in Brazil, lasting until 04/03/2026 (last update). The flood caused 92 deaths and 15525 displaced .",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103757"
-      ],
-      "location": "Brazil"
-    },
-    {
-      "source": "gdacs",
       "id": "WF1027708",
       "ts": "2026-03-07T08:05:11Z",
       "type": "wildfire",
@@ -339,8 +323,8 @@
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in India",
-      "body": "On 02/03/2026, a forest fire started in India,  until 07/03/2026.",
-      "details": "On 02/03/2026, a forest fire started in India,  until 07/03/2026.",
+      "body": "On 02/03/2026, a forest fire started in India,  until 08/03/2026.",
+      "details": "On 02/03/2026, a forest fire started in India,  until 08/03/2026.",
       "lat": null,
       "lon": null,
       "links": [
@@ -758,6 +742,38 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027721"
       ],
       "location": "The Democratic Republic of Congo"
+    },
+    {
+      "source": "gdacs",
+      "id": "FL1103757",
+      "ts": "2026-03-08T12:16:39Z",
+      "type": "flood",
+      "severity": "info",
+      "title": "Green flood alert in Brazil",
+      "body": "On 03/02/2026, a flood started in Brazil, lasting until 04/03/2026 (last update). The flood caused 92 deaths and 15525 displaced .",
+      "details": "On 03/02/2026, a flood started in Brazil, lasting until 04/03/2026 (last update). The flood caused 92 deaths and 15525 displaced .",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103757"
+      ],
+      "location": "Brazil"
+    },
+    {
+      "source": "gdacs",
+      "id": "FL1103790",
+      "ts": "2026-03-08T12:23:10Z",
+      "type": "flood",
+      "severity": "info",
+      "title": "Green flood alert in Algeria",
+      "body": "On 05/03/2026, a flood started in Algeria, lasting until 07/03/2026 (last update). The flood caused 0 deaths and 0 displaced .",
+      "details": "On 05/03/2026, a flood started in Algeria, lasting until 07/03/2026 (last update). The flood caused 0 deaths and 0 displaced .",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103790"
+      ],
+      "location": "Algeria"
     }
   ]
 }
