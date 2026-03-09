@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-09T12:18:20Z",
+  "generated_at": "2026-03-09T12:39:29Z",
   "items": [
     {
       "source": "gdacs",
@@ -88,8 +88,8 @@
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in India",
-      "body": "On 02/03/2026, a forest fire started in India,  until 08/03/2026.",
-      "details": "On 02/03/2026, a forest fire started in India,  until 08/03/2026.",
+      "body": "On 02/03/2026, a forest fire started in India,  until 09/03/2026.",
+      "details": "On 02/03/2026, a forest fire started in India,  until 09/03/2026.",
       "lat": null,
       "lon": null,
       "links": [
@@ -698,22 +698,6 @@
       "location": "Myanmar"
     },
     {
-      "source": "gdacs",
-      "id": "WF1027703",
-      "ts": "2026-03-09T08:12:02Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Central African Republic",
-      "body": "On 23/02/2026, a forest fire started in Central African Republic,  until 06/03/2026.",
-      "details": "On 23/02/2026, a forest fire started in Central African Republic,  until 06/03/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027703"
-      ],
-      "location": "Central African Republic"
-    },
-    {
       "source": "media",
       "id": "us7000s350",
       "ts": "2026-03-09T10:41:27Z",
@@ -919,6 +903,22 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027733"
       ],
       "location": "The Democratic Republic of Congo"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1027703",
+      "ts": "2026-03-09T12:15:15Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Central African Republic",
+      "body": "On 23/02/2026, a forest fire started in Central African Republic,  until 06/03/2026.",
+      "details": "On 23/02/2026, a forest fire started in Central African Republic,  until 06/03/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027703"
+      ],
+      "location": "Central African Republic"
     }
   ]
 }
