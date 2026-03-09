@@ -1,24 +1,24 @@
 {
   "status": "ok",
   "source": "tomsk",
-  "timestamp_utc": "2026-03-09T19:57:13.882884+00:00",
+  "timestamp_utc": "2026-03-09T20:15:30.919296+00:00",
   "last_modified": null,
   "fundamental_hz": 7.7,
   "harmonics_hz": {
     "F1": 7.7,
     "F2": 14.9,
-    "F3": 21.792905624955893,
+    "F3": 22.024990424513817,
     "F4": 28.2,
     "F5": 35.4
   },
   "amplitude_idx": {},
-  "quality_score": 0.8995492960277357,
+  "quality_score": 0.9021932169010765,
   "usable": true,
   "quality_reasons": [],
   "confidence": "high-panels",
   "overlay_path": "runs/tomsk_overlay_full.png",
   "raw": {
-    "tsst_time": "2026-03-10T02:57:13.855870+00:00",
+    "tsst_time": "2026-03-10T03:15:30.891510+00:00",
     "roi": {
       "x0": 59,
       "y0": 31,
@@ -35,17 +35,17 @@
       "day_w_time": 463.3333333333333
     },
     "debug": {
-      "x_frontier": 1077,
+      "x_frontier": 1086,
       "frontier_method": "activity_scan",
-      "frontier_activity_thr": 0.7044822484254837,
+      "frontier_activity_thr": 0.7043919146060943,
       "frontier_activity_right_tail": 0.0090546365827322,
       "frontier_activity_run_px": 8,
       "x1_exclude_right_px": 90,
       "guard_px": 6,
-      "x_time": 1043,
-      "x_ideal": 1043,
-      "right_guard": 1071,
-      "delta_min_to_guard": 87.02158273381295,
+      "x_time": 1049,
+      "x_ideal": 1049,
+      "right_guard": 1080,
+      "delta_min_to_guard": 96.3453237410072,
       "pph": 19.305555555555554,
       "pph_source": "day_width",
       "tick_count": 6,
@@ -60,20 +60,20 @@
       "plausibility_selected_f2_rank": 0,
       "family_scoring_used": true,
       "family_best_f1": 7.2,
-      "family_best_score": 3.4182873249053953,
-      "family_candidate_count": 32,
+      "family_best_score": 3.4283342242240904,
+      "family_candidate_count": 33,
       "family_top3": [
         {
           "f1": 7.2,
-          "score": 3.4182873249053953
+          "score": 3.4283342242240904
         },
         {
           "f1": 7.25,
-          "score": 3.400104796886444
+          "score": 3.4060243725776673
         },
         {
           "f1": 7.3,
-          "score": 3.3917743206024165
+          "score": 3.383289885520935
         }
       ],
       "family_score_threshold": 1.35,
