@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-09T23:32:11Z",
+  "generated_at": "2026-03-09T23:49:11Z",
   "items": [
     {
       "source": "gdacs",
@@ -256,21 +256,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103790"
       ],
       "location": "Algeria"
-    },
-    {
-      "source": "media",
-      "id": "us7000s2z5",
-      "ts": "2026-03-08T13:17:08Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "110 km E of Yamada, Japan",
-      "body": "110 km E of Yamada, Japan",
-      "mag": 5.7,
-      "lat": 39.4377,
-      "lon": 143.2346,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s2z5"
-      ]
     },
     {
       "source": "gdacs",
@@ -1159,6 +1144,37 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027703"
       ],
       "location": "Central African Republic"
+    },
+    {
+      "source": "media",
+      "id": "us7000s39n",
+      "ts": "2026-03-09T23:03:54Z",
+      "type": "quake",
+      "severity": "yellow",
+      "title": "16 km SSE of Sant'Angelo, Italy",
+      "body": "16 km SSE of Sant'Angelo, Italy",
+      "mag": 6,
+      "lat": 40.564,
+      "lon": 13.9754,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s39n"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1528284",
+      "ts": "2026-03-09T23:22:32Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 6M, Depth:372.963km) in Italy 09/03/2026 23:03 UTC, 9.6 million in MMI>=III.",
+      "body": "On 3/9/2026 11:03:54 PM, an earthquake occurred in Italy potentially affecting 9.6 million in MMI>=III. The earthquake had Magnitude 6M, Depth:372.963km.",
+      "details": "On 3/9/2026 11:03:54 PM, an earthquake occurred in Italy potentially affecting 9.6 million in MMI>=III. The earthquake had Magnitude 6M, Depth:372.963km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1528284"
+      ],
+      "location": "Italy 09/03/2026 23:03 UTC, 9.6 million in MMI>=III."
     }
   ]
 }
