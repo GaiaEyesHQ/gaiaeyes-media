@@ -1,21 +1,6 @@
 {
-  "generated_at": "2026-03-11T15:31:42Z",
+  "generated_at": "2026-03-11T15:59:02Z",
   "items": [
-    {
-      "source": "media",
-      "id": "us7000s36m",
-      "ts": "2026-03-09T15:45:43Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "21 km NE of Otobe, Japan",
-      "body": "21 km NE of Otobe, Japan",
-      "mag": 5.9,
-      "lat": 42.1141,
-      "lon": 140.3109,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s36m"
-      ]
-    },
     {
       "source": "gdacs",
       "id": "WF1027746",
@@ -468,9 +453,9 @@
       "severity": "info",
       "title": "south of the Kermadec Islands",
       "body": "south of the Kermadec Islands",
-      "mag": 5.5,
-      "lat": -32.9356,
-      "lon": -178.4231,
+      "mag": 5.3,
+      "lat": -32.9783,
+      "lon": -178.4202,
       "links": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s3il"
       ]
@@ -490,22 +475,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027768"
       ],
       "location": "India"
-    },
-    {
-      "source": "gdacs",
-      "id": "EQ1528419",
-      "ts": "2026-03-11T00:07:51Z",
-      "type": "quake",
-      "severity": "red",
-      "title": "Green earthquake (Magnitude 5.5M, Depth:10km) in South Of Kermadec Islands 10/03/2026 23:51 UTC, [unknown].",
-      "body": "On 3/10/2026 11:51:17 PM, an earthquake occurred in South Of Kermadec Islands potentially affecting [unknown]. The earthquake had Magnitude 5.5M, Depth:10km.",
-      "details": "On 3/10/2026 11:51:17 PM, an earthquake occurred in South Of Kermadec Islands potentially affecting [unknown]. The earthquake had Magnitude 5.5M, Depth:10km.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1528419"
-      ],
-      "location": "South Of Kermadec Islands 10/03/2026 23:51 UTC, [unknown]."
     },
     {
       "source": "gdacs",
@@ -918,6 +887,21 @@
         "https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1018390"
       ],
       "location": "India, Myanmar"
+    },
+    {
+      "source": "media",
+      "id": "us7000s3mn",
+      "ts": "2026-03-11T15:10:49Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "106 km ESE of Hihifo, Tonga",
+      "body": "106 km ESE of Hihifo, Tonga",
+      "mag": 5,
+      "lat": -16.2355,
+      "lon": -172.8486,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s3mn"
+      ]
     }
   ]
 }
