@@ -1,22 +1,6 @@
 {
-  "generated_at": "2026-03-11T06:22:51Z",
+  "generated_at": "2026-03-11T06:48:54Z",
   "items": [
-    {
-      "source": "gdacs",
-      "id": "FL1103791",
-      "ts": "2026-03-09T06:32:30Z",
-      "type": "flood",
-      "severity": "info",
-      "title": "Green flood alert in Peru",
-      "body": "On 06/03/2026, a flood started in Peru, lasting until 08/03/2026 (last update). The flood caused 0 deaths and 60 displaced .",
-      "details": "On 06/03/2026, a flood started in Peru, lasting until 08/03/2026 (last update). The flood caused 0 deaths and 60 displaced .",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103791"
-      ],
-      "location": "Peru"
-    },
     {
       "source": "gdacs",
       "id": "FL1103792",
@@ -968,6 +952,21 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027760"
       ],
       "location": "Sudan"
+    },
+    {
+      "source": "media",
+      "id": "us7000s3kj",
+      "ts": "2026-03-11T06:26:42Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "south of the Kermadec Islands",
+      "body": "south of the Kermadec Islands",
+      "mag": 5.2,
+      "lat": -33.6771,
+      "lon": -179.3487,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s3kj"
+      ]
     }
   ]
 }
