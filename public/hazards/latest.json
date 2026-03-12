@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-12T18:00:25Z",
+  "generated_at": "2026-03-12T18:28:47Z",
   "items": [
     {
       "source": "gdacs",
@@ -570,22 +570,6 @@
     },
     {
       "source": "gdacs",
-      "id": "FL1103757",
-      "ts": "2026-03-12T12:02:32Z",
-      "type": "flood",
-      "severity": "info",
-      "title": "Green flood alert in Brazil",
-      "body": "On 03/02/2026, a flood started in Brazil, lasting until 11/03/2026 (last update). The flood caused 94 deaths and 15586 displaced .",
-      "details": "On 03/02/2026, a flood started in Brazil, lasting until 11/03/2026 (last update). The flood caused 94 deaths and 15586 displaced .",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103757"
-      ],
-      "location": "Brazil"
-    },
-    {
-      "source": "gdacs",
       "id": "WF1027759",
       "ts": "2026-03-12T12:04:57Z",
       "type": "wildfire",
@@ -838,6 +822,22 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027792"
       ],
       "location": "Sudan"
+    },
+    {
+      "source": "gdacs",
+      "id": "FL1103757",
+      "ts": "2026-03-12T18:12:26Z",
+      "type": "flood",
+      "severity": "info",
+      "title": "Green flood alert in Brazil",
+      "body": "On 03/02/2026, a flood started in Brazil, lasting until 11/03/2026 (last update). The flood caused 94 deaths and 15586 displaced .",
+      "details": "On 03/02/2026, a flood started in Brazil, lasting until 11/03/2026 (last update). The flood caused 94 deaths and 15586 displaced .",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103757"
+      ],
+      "location": "Brazil"
     }
   ]
 }
