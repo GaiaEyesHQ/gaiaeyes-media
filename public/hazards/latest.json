@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-12T12:22:43Z",
+  "generated_at": "2026-03-12T12:48:55Z",
   "items": [
     {
       "source": "gdacs",
@@ -50,21 +50,6 @@
       "location": "Myanmar"
     },
     {
-      "source": "media",
-      "id": "us7000s3il",
-      "ts": "2026-03-10T23:51:16Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "south of the Kermadec Islands",
-      "body": "south of the Kermadec Islands",
-      "mag": 5.3,
-      "lat": -32.9783,
-      "lon": -178.4202,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s3il"
-      ]
-    },
-    {
       "source": "gdacs",
       "id": "WF1027768",
       "ts": "2026-03-11T00:02:10Z",
@@ -87,8 +72,8 @@
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Myanmar",
-      "body": "On 26/02/2026, a forest fire started in Myanmar,  until 11/03/2026.",
-      "details": "On 26/02/2026, a forest fire started in Myanmar,  until 11/03/2026.",
+      "body": "On 26/02/2026, a forest fire started in Myanmar,  until 12/03/2026.",
+      "details": "On 26/02/2026, a forest fire started in Myanmar,  until 12/03/2026.",
       "lat": null,
       "lon": null,
       "links": [
@@ -710,6 +695,21 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027760"
       ],
       "location": "Sudan"
+    },
+    {
+      "source": "media",
+      "id": "us6000sftk",
+      "ts": "2026-03-12T12:14:13Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "26 km S of Hualien City, Taiwan",
+      "body": "26 km S of Hualien City, Taiwan",
+      "mag": 5.2,
+      "lat": 23.7447,
+      "lon": 121.5665,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sftk"
+      ]
     }
   ]
 }
