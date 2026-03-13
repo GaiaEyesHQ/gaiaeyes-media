@@ -1,38 +1,6 @@
 {
-  "generated_at": "2026-03-12T23:50:29Z",
+  "generated_at": "2026-03-13T00:36:44Z",
   "items": [
-    {
-      "source": "gdacs",
-      "id": "WF1027768",
-      "ts": "2026-03-11T00:02:10Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in India",
-      "body": "On 04/03/2026, a forest fire started in India,  until 11/03/2026.",
-      "details": "On 04/03/2026, a forest fire started in India,  until 11/03/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027768"
-      ],
-      "location": "India"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1027776",
-      "ts": "2026-03-11T00:08:19Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Myanmar",
-      "body": "On 26/02/2026, a forest fire started in Myanmar,  until 12/03/2026.",
-      "details": "On 26/02/2026, a forest fire started in Myanmar,  until 12/03/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027776"
-      ],
-      "location": "Myanmar"
-    },
     {
       "source": "gdacs",
       "id": "TC1001263",
@@ -601,9 +569,24 @@
       ]
     },
     {
+      "source": "media",
+      "id": "us6000sfy3",
+      "ts": "2026-03-12T21:58:46Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "155 km SW of Kavieng, Papua New Guinea",
+      "body": "155 km SW of Kavieng, Papua New Guinea",
+      "mag": 5.2,
+      "lat": -3.5314,
+      "lon": 149.7727,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sfy3"
+      ]
+    },
+    {
       "source": "gdacs",
       "id": "WF1027784",
-      "ts": "2026-03-12T20:00:15Z",
+      "ts": "2026-03-13T00:00:13Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Central African Republic",
@@ -618,40 +601,8 @@
     },
     {
       "source": "gdacs",
-      "id": "WF1027785",
-      "ts": "2026-03-12T20:00:25Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in The Democratic Republic of Congo",
-      "body": "On 06/03/2026, a forest fire started in The Democratic Republic of Congo,  until 12/03/2026.",
-      "details": "On 06/03/2026, a forest fire started in The Democratic Republic of Congo,  until 12/03/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027785"
-      ],
-      "location": "The Democratic Republic of Congo"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1027745",
-      "ts": "2026-03-12T20:01:25Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in The Democratic Republic of Congo",
-      "body": "On 06/03/2026, a forest fire started in The Democratic Republic of Congo,  until 09/03/2026.",
-      "details": "On 06/03/2026, a forest fire started in The Democratic Republic of Congo,  until 09/03/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027745"
-      ],
-      "location": "The Democratic Republic of Congo"
-    },
-    {
-      "source": "gdacs",
       "id": "WF1027773",
-      "ts": "2026-03-12T20:01:38Z",
+      "ts": "2026-03-13T00:00:23Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in The Democratic Republic of Congo",
@@ -666,24 +617,40 @@
     },
     {
       "source": "gdacs",
-      "id": "WF1027787",
-      "ts": "2026-03-12T20:03:15Z",
+      "id": "WF1027745",
+      "ts": "2026-03-13T00:00:30Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in The Democratic Republic of Congo",
-      "body": "On 04/03/2026, a forest fire started in The Democratic Republic of Congo,  until 12/03/2026.",
-      "details": "On 04/03/2026, a forest fire started in The Democratic Republic of Congo,  until 12/03/2026.",
+      "body": "On 06/03/2026, a forest fire started in The Democratic Republic of Congo,  until 09/03/2026.",
+      "details": "On 06/03/2026, a forest fire started in The Democratic Republic of Congo,  until 09/03/2026.",
       "lat": null,
       "lon": null,
       "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027787"
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027745"
+      ],
+      "location": "The Democratic Republic of Congo"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1027785",
+      "ts": "2026-03-13T00:01:36Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in The Democratic Republic of Congo",
+      "body": "On 06/03/2026, a forest fire started in The Democratic Republic of Congo,  until 12/03/2026.",
+      "details": "On 06/03/2026, a forest fire started in The Democratic Republic of Congo,  until 12/03/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027785"
       ],
       "location": "The Democratic Republic of Congo"
     },
     {
       "source": "gdacs",
       "id": "WF1027788",
-      "ts": "2026-03-12T20:03:38Z",
+      "ts": "2026-03-13T00:03:04Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in The Democratic Republic of Congo",
@@ -698,24 +665,40 @@
     },
     {
       "source": "gdacs",
-      "id": "WF1027758",
-      "ts": "2026-03-12T20:04:33Z",
+      "id": "WF1027787",
+      "ts": "2026-03-13T00:03:41Z",
       "type": "wildfire",
       "severity": "info",
-      "title": "Green forest fire notification in Central African Republic",
-      "body": "On 03/03/2026, a forest fire started in Central African Republic,  until 09/03/2026.",
-      "details": "On 03/03/2026, a forest fire started in Central African Republic,  until 09/03/2026.",
+      "title": "Green forest fire notification in The Democratic Republic of Congo",
+      "body": "On 04/03/2026, a forest fire started in The Democratic Republic of Congo,  until 12/03/2026.",
+      "details": "On 04/03/2026, a forest fire started in The Democratic Republic of Congo,  until 12/03/2026.",
       "lat": null,
       "lon": null,
       "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027758"
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027787"
       ],
-      "location": "Central African Republic"
+      "location": "The Democratic Republic of Congo"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1027793",
+      "ts": "2026-03-13T00:04:32Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Thailand",
+      "body": "On 03/03/2026, a forest fire started in Thailand,  until 12/03/2026.",
+      "details": "On 03/03/2026, a forest fire started in Thailand,  until 12/03/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027793"
+      ],
+      "location": "Thailand"
     },
     {
       "source": "gdacs",
       "id": "WF1027790",
-      "ts": "2026-03-12T20:05:25Z",
+      "ts": "2026-03-13T00:04:48Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Sudan",
@@ -730,8 +713,24 @@
     },
     {
       "source": "gdacs",
+      "id": "WF1027758",
+      "ts": "2026-03-13T00:04:53Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Central African Republic",
+      "body": "On 03/03/2026, a forest fire started in Central African Republic,  until 09/03/2026.",
+      "details": "On 03/03/2026, a forest fire started in Central African Republic,  until 09/03/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027758"
+      ],
+      "location": "Central African Republic"
+    },
+    {
+      "source": "gdacs",
       "id": "WF1027760",
-      "ts": "2026-03-12T20:05:47Z",
+      "ts": "2026-03-13T00:05:44Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Sudan",
@@ -747,7 +746,7 @@
     {
       "source": "gdacs",
       "id": "WF1027791",
-      "ts": "2026-03-12T20:05:52Z",
+      "ts": "2026-03-13T00:06:10Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in The Democratic Republic of Congo",
@@ -763,7 +762,7 @@
     {
       "source": "gdacs",
       "id": "WF1027792",
-      "ts": "2026-03-12T20:08:50Z",
+      "ts": "2026-03-13T00:08:50Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Sudan",
@@ -777,19 +776,20 @@
       "location": "Sudan"
     },
     {
-      "source": "media",
-      "id": "us6000sfy3",
-      "ts": "2026-03-12T21:58:46Z",
-      "type": "quake",
+      "source": "gdacs",
+      "id": "WF1027794",
+      "ts": "2026-03-13T00:10:51Z",
+      "type": "wildfire",
       "severity": "info",
-      "title": "155 km SW of Kavieng, Papua New Guinea",
-      "body": "155 km SW of Kavieng, Papua New Guinea",
-      "mag": 5.2,
-      "lat": -3.5314,
-      "lon": 149.7727,
+      "title": "Green forest fire notification in Myanmar",
+      "body": "On 26/02/2026, a forest fire started in Myanmar,  until 12/03/2026.",
+      "details": "On 26/02/2026, a forest fire started in Myanmar,  until 12/03/2026.",
+      "lat": null,
+      "lon": null,
       "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sfy3"
-      ]
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027794"
+      ],
+      "location": "Myanmar"
     }
   ]
 }
