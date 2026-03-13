@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-13T13:50:40Z",
+  "generated_at": "2026-03-13T14:20:50Z",
   "items": [
     {
       "source": "gdacs",
@@ -112,21 +112,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103795"
       ],
       "location": "Spain"
-    },
-    {
-      "source": "media",
-      "id": "us7000s3qe",
-      "ts": "2026-03-11T18:39:32Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "south of the Kermadec Islands",
-      "body": "south of the Kermadec Islands",
-      "mag": 5.2,
-      "lat": -33.0139,
-      "lon": -178.3118,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s3qe"
-      ]
     },
     {
       "source": "media",
@@ -664,9 +649,40 @@
       "location": "Sudan"
     },
     {
+      "source": "usgs",
+      "id": "6000sg0y",
+      "ts": "2026-03-13T13:39:18Z",
+      "type": "quake",
+      "severity": "yellow",
+      "title": "M 6.3 - 85 km W of Vallenar, Chile",
+      "body": "85 km W of Vallenar, Chile",
+      "mag": 6.3,
+      "lat": -28.684,
+      "lon": -71.6269,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sg0y"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1528843",
+      "ts": "2026-03-13T13:53:38Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 6.3M, Depth:10km) in Chile 13/03/2026 13:39 UTC, 10 thousand in MMI>=V.",
+      "body": "On 3/13/2026 1:39:18 PM, an earthquake occurred in Chile potentially affecting 10 thousand in MMI>=V. The earthquake had Magnitude 6.3M, Depth:10km.",
+      "details": "On 3/13/2026 1:39:18 PM, an earthquake occurred in Chile potentially affecting 10 thousand in MMI>=V. The earthquake had Magnitude 6.3M, Depth:10km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1528843"
+      ],
+      "location": "Chile 13/03/2026 13:39 UTC, 10 thousand in MMI>=V."
+    },
+    {
       "source": "gdacs",
       "id": "FL1103757",
-      "ts": "2026-03-13T12:12:20Z",
+      "ts": "2026-03-13T14:07:06Z",
       "type": "flood",
       "severity": "info",
       "title": "Green flood alert in Brazil",
