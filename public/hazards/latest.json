@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-14T03:39:27Z",
+  "generated_at": "2026-03-14T04:22:43Z",
   "items": [
     {
       "source": "gdacs",
@@ -55,8 +55,8 @@
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in The Democratic Republic of Congo",
-      "body": "On 06/03/2026, a forest fire started in The Democratic Republic of Congo,  until 11/03/2026.",
-      "details": "On 06/03/2026, a forest fire started in The Democratic Republic of Congo,  until 11/03/2026.",
+      "body": "On 06/03/2026, a forest fire started in The Democratic Republic of Congo,  until 12/03/2026.",
+      "details": "On 06/03/2026, a forest fire started in The Democratic Republic of Congo,  until 12/03/2026.",
       "lat": null,
       "lon": null,
       "links": [
@@ -71,8 +71,8 @@
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Sudan",
-      "body": "On 02/03/2026, a forest fire started in Sudan,  until 09/03/2026.",
-      "details": "On 02/03/2026, a forest fire started in Sudan,  until 09/03/2026.",
+      "body": "On 02/03/2026, a forest fire started in Sudan,  until 13/03/2026.",
+      "details": "On 02/03/2026, a forest fire started in Sudan,  until 13/03/2026.",
       "lat": null,
       "lon": null,
       "links": [
@@ -118,8 +118,8 @@
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in India",
-      "body": "On 03/03/2026, a forest fire started in India,  until 12/03/2026.",
-      "details": "On 03/03/2026, a forest fire started in India,  until 12/03/2026.",
+      "body": "On 03/03/2026, a forest fire started in India,  until 13/03/2026.",
+      "details": "On 03/03/2026, a forest fire started in India,  until 13/03/2026.",
       "lat": null,
       "lon": null,
       "links": [
@@ -164,8 +164,8 @@
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Myanmar",
-      "body": "On 26/02/2026, a forest fire started in Myanmar,  until 12/03/2026.",
-      "details": "On 26/02/2026, a forest fire started in Myanmar,  until 12/03/2026.",
+      "body": "On 26/02/2026, a forest fire started in Myanmar,  until 13/03/2026.",
+      "details": "On 26/02/2026, a forest fire started in Myanmar,  until 13/03/2026.",
       "lat": null,
       "lon": null,
       "links": [
@@ -211,8 +211,8 @@
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in India",
-      "body": "On 07/03/2026, a forest fire started in India,  until 12/03/2026.",
-      "details": "On 07/03/2026, a forest fire started in India,  until 12/03/2026.",
+      "body": "On 07/03/2026, a forest fire started in India,  until 13/03/2026.",
+      "details": "On 07/03/2026, a forest fire started in India,  until 13/03/2026.",
       "lat": null,
       "lon": null,
       "links": [
@@ -271,8 +271,8 @@
       "id": "FL1103798",
       "ts": "2026-03-13T08:58:47Z",
       "type": "flood",
-      "severity": "info",
-      "title": "Green flood alert in Ethiopia",
+      "severity": "orange",
+      "title": "Orange flood alert in Ethiopia",
       "body": "On 09/03/2026, a flood started in Ethiopia, lasting until 11/03/2026 (last update). The flood caused 70 deaths and 3480 displaced .",
       "details": "On 09/03/2026, a flood started in Ethiopia, lasting until 11/03/2026 (last update). The flood caused 70 deaths and 3480 displaced .",
       "lat": null,
@@ -441,22 +441,6 @@
     },
     {
       "source": "gdacs",
-      "id": "WF1027805",
-      "ts": "2026-03-14T00:00:18Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in United States",
-      "body": "On 13/03/2026, a forest fire started in United States,  until 13/03/2026.",
-      "details": "On 13/03/2026, a forest fire started in United States,  until 13/03/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027805"
-      ],
-      "location": "United States"
-    },
-    {
-      "source": "gdacs",
       "id": "WF1027806",
       "ts": "2026-03-14T00:00:39Z",
       "type": "wildfire",
@@ -470,22 +454,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027806"
       ],
       "location": "United States"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1027797",
-      "ts": "2026-03-14T00:00:48Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in China",
-      "body": "On 12/03/2026, a forest fire started in China,  until 13/03/2026.",
-      "details": "On 12/03/2026, a forest fire started in China,  until 13/03/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027797"
-      ],
-      "location": "China"
     },
     {
       "source": "gdacs",
@@ -505,8 +473,56 @@
     },
     {
       "source": "gdacs",
+      "id": "TC1001264",
+      "ts": "2026-03-14T01:20:28Z",
+      "type": "cyclone",
+      "severity": "info",
+      "title": "Green notification for tropical cyclone 12-20252026-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
+      "body": "From 14/03/2026 to 14/03/2026, a Tropical Depression (maximum wind speed of 74 km/h) 12-20252026-26 was active in SWIndian. The cyclone affects these countries: [unknown] (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
+      "details": "From 14/03/2026 to 14/03/2026, a Tropical Depression (maximum wind speed of 74 km/h) 12-20252026-26 was active in SWIndian. The cyclone affects these countries: [unknown] (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001264"
+      ],
+      "location": "Tropical Storm)."
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1027805",
+      "ts": "2026-03-14T04:00:09Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in United States",
+      "body": "On 13/03/2026, a forest fire started in United States,  until 13/03/2026.",
+      "details": "On 13/03/2026, a forest fire started in United States,  until 13/03/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027805"
+      ],
+      "location": "United States"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1027797",
+      "ts": "2026-03-14T04:00:30Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in China",
+      "body": "On 12/03/2026, a forest fire started in China,  until 13/03/2026.",
+      "details": "On 12/03/2026, a forest fire started in China,  until 13/03/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027797"
+      ],
+      "location": "China"
+    },
+    {
+      "source": "gdacs",
       "id": "WF1027801",
-      "ts": "2026-03-14T00:01:06Z",
+      "ts": "2026-03-14T04:00:50Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Sudan",
@@ -522,7 +538,7 @@
     {
       "source": "gdacs",
       "id": "WF1027802",
-      "ts": "2026-03-14T00:01:18Z",
+      "ts": "2026-03-14T04:00:56Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Sudan",
@@ -537,24 +553,8 @@
     },
     {
       "source": "gdacs",
-      "id": "WF1027785",
-      "ts": "2026-03-14T00:01:34Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in The Democratic Republic of Congo",
-      "body": "On 06/03/2026, a forest fire started in The Democratic Republic of Congo,  until 12/03/2026.",
-      "details": "On 06/03/2026, a forest fire started in The Democratic Republic of Congo,  until 12/03/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027785"
-      ],
-      "location": "The Democratic Republic of Congo"
-    },
-    {
-      "source": "gdacs",
       "id": "WF1027773",
-      "ts": "2026-03-14T00:02:50Z",
+      "ts": "2026-03-14T04:01:35Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in The Democratic Republic of Congo",
@@ -569,8 +569,24 @@
     },
     {
       "source": "gdacs",
+      "id": "WF1027785",
+      "ts": "2026-03-14T04:01:48Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in The Democratic Republic of Congo",
+      "body": "On 06/03/2026, a forest fire started in The Democratic Republic of Congo,  until 12/03/2026.",
+      "details": "On 06/03/2026, a forest fire started in The Democratic Republic of Congo,  until 12/03/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027785"
+      ],
+      "location": "The Democratic Republic of Congo"
+    },
+    {
+      "source": "gdacs",
       "id": "WF1027804",
-      "ts": "2026-03-14T00:03:24Z",
+      "ts": "2026-03-14T04:03:05Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Guinea",
@@ -586,7 +602,7 @@
     {
       "source": "gdacs",
       "id": "WF1027807",
-      "ts": "2026-03-14T00:04:38Z",
+      "ts": "2026-03-14T04:04:22Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Myanmar",
@@ -602,7 +618,7 @@
     {
       "source": "gdacs",
       "id": "WF1027788",
-      "ts": "2026-03-14T00:05:23Z",
+      "ts": "2026-03-14T04:05:17Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in The Democratic Republic of Congo",
@@ -618,7 +634,7 @@
     {
       "source": "gdacs",
       "id": "WF1027787",
-      "ts": "2026-03-14T00:05:30Z",
+      "ts": "2026-03-14T04:05:23Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in The Democratic Republic of Congo",
@@ -634,7 +650,7 @@
     {
       "source": "gdacs",
       "id": "WF1027790",
-      "ts": "2026-03-14T00:06:44Z",
+      "ts": "2026-03-14T04:06:42Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Sudan",
@@ -650,7 +666,7 @@
     {
       "source": "gdacs",
       "id": "WF1027791",
-      "ts": "2026-03-14T00:07:06Z",
+      "ts": "2026-03-14T04:07:13Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in The Democratic Republic of Congo",
@@ -662,22 +678,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027791"
       ],
       "location": "The Democratic Republic of Congo"
-    },
-    {
-      "source": "gdacs",
-      "id": "TC1001264",
-      "ts": "2026-03-14T01:20:28Z",
-      "type": "cyclone",
-      "severity": "info",
-      "title": "Green notification for tropical cyclone 12-20252026-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
-      "body": "From 14/03/2026 to 14/03/2026, a Tropical Depression (maximum wind speed of 74 km/h) 12-20252026-26 was active in SWIndian. The cyclone affects these countries: [unknown] (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
-      "details": "From 14/03/2026 to 14/03/2026, a Tropical Depression (maximum wind speed of 74 km/h) 12-20252026-26 was active in SWIndian. The cyclone affects these countries: [unknown] (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001264"
-      ],
-      "location": "Tropical Storm)."
     }
   ]
 }
