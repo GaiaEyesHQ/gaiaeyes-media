@@ -1,24 +1,24 @@
 {
   "status": "ok",
   "source": "tomsk",
-  "timestamp_utc": "2026-03-15T06:36:38.372716+00:00",
+  "timestamp_utc": "2026-03-15T07:10:20.820058+00:00",
   "last_modified": null,
-  "fundamental_hz": 7.29256150946021,
+  "fundamental_hz": 7.54984219968319,
   "harmonics_hz": {
-    "F1": 7.29256150946021,
+    "F1": 7.54984219968319,
     "F2": 13.799999999999999,
     "F3": null,
-    "F4": 28.527669480443,
+    "F4": 28.57382949888706,
     "F5": 35.4
   },
   "amplitude_idx": {},
-  "quality_score": 0.8245313449909812,
+  "quality_score": 0.832904410989661,
   "usable": true,
   "quality_reasons": [],
   "confidence": "high-panels",
   "overlay_path": "runs/tomsk_overlay_full.png",
   "raw": {
-    "tsst_time": "2026-03-15T13:36:38.342688+00:00",
+    "tsst_time": "2026-03-15T14:10:20.790309+00:00",
     "roi": {
       "x0": 59,
       "y0": 31,
@@ -35,17 +35,17 @@
       "day_w_time": 463.3333333333333
     },
     "debug": {
-      "x_frontier": 1292,
+      "x_frontier": 1302,
       "frontier_method": "activity_scan",
-      "frontier_activity_thr": 0.7037947386503219,
-      "frontier_activity_right_tail": 0.009515322744846344,
+      "frontier_activity_thr": 0.6983242988586426,
+      "frontier_activity_right_tail": 0.0023449715226888657,
       "frontier_activity_run_px": 8,
       "x1_exclude_right_px": 90,
       "guard_px": 6,
-      "x_time": 1249,
-      "x_ideal": 1249,
-      "right_guard": 1286,
-      "delta_min_to_guard": 114.9928057553957,
+      "x_time": 1260,
+      "x_ideal": 1260,
+      "right_guard": 1296,
+      "delta_min_to_guard": 111.88489208633094,
       "pph": 19.305555555555554,
       "pph_source": "day_width",
       "tick_count": 13,
@@ -56,24 +56,24 @@
       "guard_applied": true,
       "age_hours": null,
       "stale_hours": 6.0,
-      "plausibility_reject_f2_count": 1,
+      "plausibility_reject_f2_count": 2,
       "plausibility_selected_f2_rank": null,
       "family_scoring_used": true,
       "family_best_f1": 7.2,
-      "family_best_score": 3.1332191109657286,
-      "family_candidate_count": 29,
+      "family_best_score": 3.1650367617607116,
+      "family_candidate_count": 30,
       "family_top3": [
         {
           "f1": 7.2,
-          "score": 3.1332191109657286
+          "score": 3.1650367617607116
         },
         {
           "f1": 7.25,
-          "score": 3.10611377954483
+          "score": 3.1489222645759583
         },
         {
           "f1": 7.3,
-          "score": 3.088485649228096
+          "score": 3.1484016418457035
         }
       ],
       "family_score_threshold": 1.35,
