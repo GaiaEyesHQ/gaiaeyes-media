@@ -1,22 +1,6 @@
 {
-  "generated_at": "2026-03-15T07:51:19Z",
+  "generated_at": "2026-03-15T08:15:23Z",
   "items": [
-    {
-      "source": "gdacs",
-      "id": "WF1027793",
-      "ts": "2026-03-13T08:05:20Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Thailand",
-      "body": "On 03/03/2026, a forest fire started in Thailand,  until 14/03/2026.",
-      "details": "On 03/03/2026, a forest fire started in Thailand,  until 14/03/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027793"
-      ],
-      "location": "Thailand"
-    },
     {
       "source": "gdacs",
       "id": "FL1103798",
@@ -443,9 +427,24 @@
       "location": "India"
     },
     {
+      "source": "media",
+      "id": "us6000sgea",
+      "ts": "2026-03-15T05:00:40Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "67 km SSW of Chirilagua, El Salvador",
+      "body": "67 km SSW of Chirilagua, El Salvador",
+      "mag": 5.3,
+      "lat": 12.6324,
+      "lon": -88.2997,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sgea"
+      ]
+    },
+    {
       "source": "gdacs",
       "id": "WF1027805",
-      "ts": "2026-03-15T04:00:29Z",
+      "ts": "2026-03-15T08:00:10Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in United States",
@@ -461,7 +460,7 @@
     {
       "source": "gdacs",
       "id": "WF1027813",
-      "ts": "2026-03-15T04:00:48Z",
+      "ts": "2026-03-15T08:00:52Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in India",
@@ -477,7 +476,7 @@
     {
       "source": "gdacs",
       "id": "WF1027785",
-      "ts": "2026-03-15T04:01:43Z",
+      "ts": "2026-03-15T08:01:50Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in The Democratic Republic of Congo",
@@ -492,40 +491,8 @@
     },
     {
       "source": "gdacs",
-      "id": "WF1027787",
-      "ts": "2026-03-15T04:05:05Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in The Democratic Republic of Congo",
-      "body": "On 04/03/2026, a forest fire started in The Democratic Republic of Congo,  until 12/03/2026.",
-      "details": "On 04/03/2026, a forest fire started in The Democratic Republic of Congo,  until 12/03/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027787"
-      ],
-      "location": "The Democratic Republic of Congo"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1027788",
-      "ts": "2026-03-15T04:05:43Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in The Democratic Republic of Congo",
-      "body": "On 04/03/2026, a forest fire started in The Democratic Republic of Congo,  until 12/03/2026.",
-      "details": "On 04/03/2026, a forest fire started in The Democratic Republic of Congo,  until 12/03/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027788"
-      ],
-      "location": "The Democratic Republic of Congo"
-    },
-    {
-      "source": "gdacs",
       "id": "WF1027811",
-      "ts": "2026-03-15T04:05:49Z",
+      "ts": "2026-03-15T08:05:31Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Ethiopia",
@@ -540,8 +507,40 @@
     },
     {
       "source": "gdacs",
+      "id": "WF1027788",
+      "ts": "2026-03-15T08:06:05Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in The Democratic Republic of Congo",
+      "body": "On 04/03/2026, a forest fire started in The Democratic Republic of Congo,  until 12/03/2026.",
+      "details": "On 04/03/2026, a forest fire started in The Democratic Republic of Congo,  until 12/03/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027788"
+      ],
+      "location": "The Democratic Republic of Congo"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1027787",
+      "ts": "2026-03-15T08:06:21Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in The Democratic Republic of Congo",
+      "body": "On 04/03/2026, a forest fire started in The Democratic Republic of Congo,  until 12/03/2026.",
+      "details": "On 04/03/2026, a forest fire started in The Democratic Republic of Congo,  until 12/03/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027787"
+      ],
+      "location": "The Democratic Republic of Congo"
+    },
+    {
+      "source": "gdacs",
       "id": "WF1027790",
-      "ts": "2026-03-15T04:07:10Z",
+      "ts": "2026-03-15T08:06:47Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Sudan",
@@ -557,7 +556,7 @@
     {
       "source": "gdacs",
       "id": "WF1027791",
-      "ts": "2026-03-15T04:08:00Z",
+      "ts": "2026-03-15T08:07:26Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in The Democratic Republic of Congo",
@@ -569,21 +568,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027791"
       ],
       "location": "The Democratic Republic of Congo"
-    },
-    {
-      "source": "media",
-      "id": "us6000sgea",
-      "ts": "2026-03-15T05:00:40Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "67 km SSW of Chirilagua, El Salvador",
-      "body": "67 km SSW of Chirilagua, El Salvador",
-      "mag": 5.3,
-      "lat": 12.6324,
-      "lon": -88.2997,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sgea"
-      ]
     }
   ]
 }
