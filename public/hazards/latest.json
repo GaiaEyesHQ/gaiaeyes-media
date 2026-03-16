@@ -1,21 +1,6 @@
 {
-  "generated_at": "2026-03-16T06:03:58Z",
+  "generated_at": "2026-03-16T06:45:51Z",
   "items": [
-    {
-      "source": "media",
-      "id": "us6000sg8q",
-      "ts": "2026-03-14T06:17:18Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "southern Mid-Atlantic Ridge",
-      "body": "southern Mid-Atlantic Ridge",
-      "mag": 5.1,
-      "lat": -47.4228,
-      "lon": -9.5571,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sg8q"
-      ]
-    },
     {
       "source": "gdacs",
       "id": "WF1027797",
@@ -442,6 +427,22 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027818"
       ],
       "location": "Sudan"
+    },
+    {
+      "source": "gdacs",
+      "id": "VO1000138",
+      "ts": "2026-03-16T06:44:43Z",
+      "type": "ash",
+      "severity": "orange",
+      "title": "Volcanic eruption is on going for Kanlaon in Philippines",
+      "body": "Volcano Kanlaon is emitting ash clouds according to the regional VAAC. The aviation alert level is Orange.",
+      "details": "Volcano Kanlaon is emitting ash clouds according to the regional VAAC. The aviation alert level is Orange.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=VO&eventid=1000138"
+      ],
+      "location": "Philippines"
     }
   ]
 }
