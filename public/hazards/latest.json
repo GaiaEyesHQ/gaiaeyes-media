@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-17T04:11:36Z",
+  "generated_at": "2026-03-17T05:00:21Z",
   "items": [
     {
       "source": "media",
@@ -239,22 +239,6 @@
     },
     {
       "source": "gdacs",
-      "id": "WF1027818",
-      "ts": "2026-03-17T00:08:28Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Sudan",
-      "body": "On 02/03/2026, a forest fire started in Sudan,  until 15/03/2026.",
-      "details": "On 02/03/2026, a forest fire started in Sudan,  until 15/03/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027818"
-      ],
-      "location": "Sudan"
-    },
-    {
-      "source": "gdacs",
       "id": "TC1001265",
       "ts": "2026-03-17T02:22:48Z",
       "type": "cyclone",
@@ -332,6 +316,38 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027824"
       ],
       "location": "China"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1027818",
+      "ts": "2026-03-17T04:09:02Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Sudan",
+      "body": "On 02/03/2026, a forest fire started in Sudan,  until 15/03/2026.",
+      "details": "On 02/03/2026, a forest fire started in Sudan,  until 15/03/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027818"
+      ],
+      "location": "Sudan"
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1529453",
+      "ts": "2026-03-17T04:38:56Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 5.8M, Depth:11.634km) in Cuba 17/03/2026 04:28 UTC, 40 thousand in MMI V.",
+      "body": "On 3/17/2026 4:28:25 AM, an earthquake occurred in Cuba potentially affecting 40 thousand in MMI V. The earthquake had Magnitude 5.8M, Depth:11.634km.",
+      "details": "On 3/17/2026 4:28:25 AM, an earthquake occurred in Cuba potentially affecting 40 thousand in MMI V. The earthquake had Magnitude 5.8M, Depth:11.634km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1529453"
+      ],
+      "location": "Cuba 17/03/2026 04:28 UTC, 40 thousand in MMI V."
     }
   ]
 }
