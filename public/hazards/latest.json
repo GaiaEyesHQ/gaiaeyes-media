@@ -1,38 +1,6 @@
 {
-  "generated_at": "2026-03-19T07:55:19Z",
+  "generated_at": "2026-03-19T08:18:57Z",
   "items": [
-    {
-      "source": "gdacs",
-      "id": "WF1027826",
-      "ts": "2026-03-17T08:01:07Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in China",
-      "body": "On 13/03/2026, a forest fire started in China,  until 17/03/2026.",
-      "details": "On 13/03/2026, a forest fire started in China,  until 17/03/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027826"
-      ],
-      "location": "China"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1027827",
-      "ts": "2026-03-17T08:01:37Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in China",
-      "body": "On 11/03/2026, a forest fire started in China,  until 17/03/2026.",
-      "details": "On 11/03/2026, a forest fire started in China,  until 17/03/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027827"
-      ],
-      "location": "China"
-    },
     {
       "source": "gdacs",
       "id": "FL1103799",
@@ -311,6 +279,21 @@
       "lon": 68.8592,
       "links": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/us6000shc0"
+      ]
+    },
+    {
+      "source": "media",
+      "id": "us6000shc9",
+      "ts": "2026-03-19T07:43:31Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "167 km S of Severo-Kuril\u2019sk, Russia",
+      "body": "167 km S of Severo-Kuril\u2019sk, Russia",
+      "mag": 5.6,
+      "lat": 49.1691,
+      "lon": 156.0797,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000shc9"
       ]
     }
   ]
