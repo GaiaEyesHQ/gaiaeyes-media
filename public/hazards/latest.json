@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-25T10:29:16Z",
+  "generated_at": "2026-03-25T10:53:14Z",
   "items": [
     {
       "source": "gdacs",
@@ -573,6 +573,52 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027892"
       ],
       "location": "India"
+    },
+    {
+      "source": "media",
+      "id": "us7000s7h9",
+      "ts": "2026-03-25T10:10:59Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "80 km NW of Hihifo, Tonga",
+      "body": "80 km NW of Hihifo, Tonga",
+      "mag": 5.6,
+      "lat": -15.5143,
+      "lon": -174.3933,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s7h9"
+      ]
+    },
+    {
+      "source": "media",
+      "id": "us7000s7ha",
+      "ts": "2026-03-25T10:17:29Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "80 km WNW of Hihifo, Tonga",
+      "body": "80 km WNW of Hihifo, Tonga",
+      "mag": 5.2,
+      "lat": -15.6261,
+      "lon": -174.4632,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s7ha"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1530967",
+      "ts": "2026-03-25T10:23:31Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 5.6M, Depth:198.327km) in Tonga 25/03/2026 10:10 UTC, 2 thousand in MMI III.",
+      "body": "On 3/25/2026 10:10:59 AM, an earthquake occurred in Tonga potentially affecting 2 thousand in MMI III. The earthquake had Magnitude 5.6M, Depth:198.327km.",
+      "details": "On 3/25/2026 10:10:59 AM, an earthquake occurred in Tonga potentially affecting 2 thousand in MMI III. The earthquake had Magnitude 5.6M, Depth:198.327km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1530967"
+      ],
+      "location": "Tonga 25/03/2026 10:10 UTC, 2 thousand in MMI III."
     }
   ]
 }
