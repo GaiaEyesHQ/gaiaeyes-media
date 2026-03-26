@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-26T17:34:08Z",
+  "generated_at": "2026-03-26T18:02:05Z",
   "items": [
     {
       "source": "gdacs",
@@ -1095,6 +1095,37 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027868"
       ],
       "location": "Myanmar"
+    },
+    {
+      "source": "media",
+      "id": "us7000s7w6",
+      "ts": "2026-03-26T17:15:44Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "7 km SW of Ciudad Sandino, Nicaragua",
+      "body": "7 km SW of Ciudad Sandino, Nicaragua",
+      "mag": 5.5,
+      "lat": 12.1114,
+      "lon": -86.3881,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s7w6"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1531215",
+      "ts": "2026-03-26T17:33:03Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 5.5M, Depth:155.688km) in Nicaragua 26/03/2026 17:15 UTC, 510 thousand in MMI IV.",
+      "body": "On 3/26/2026 5:15:44 PM, an earthquake occurred in Nicaragua potentially affecting 510 thousand in MMI IV. The earthquake had Magnitude 5.5M, Depth:155.688km.",
+      "details": "On 3/26/2026 5:15:44 PM, an earthquake occurred in Nicaragua potentially affecting 510 thousand in MMI IV. The earthquake had Magnitude 5.5M, Depth:155.688km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1531215"
+      ],
+      "location": "Nicaragua 26/03/2026 17:15 UTC, 510 thousand in MMI IV."
     }
   ]
 }
