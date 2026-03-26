@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-26T14:22:32Z",
+  "generated_at": "2026-03-26T14:52:54Z",
   "items": [
     {
       "source": "gdacs",
@@ -1000,6 +1000,52 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027868"
       ],
       "location": "Myanmar"
+    },
+    {
+      "source": "usgs",
+      "id": "7000s7u4",
+      "ts": "2026-03-26T14:18:50Z",
+      "type": "quake",
+      "severity": "yellow",
+      "title": "M 6.5 - 122 km E of Yamada, Japan",
+      "body": "122 km E of Yamada, Japan",
+      "mag": 6.5,
+      "lat": 39.4462,
+      "lon": 143.3717,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s7u4"
+      ]
+    },
+    {
+      "source": "media",
+      "id": "aka2026fzhmuy",
+      "ts": "2026-03-26T14:18:55Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "95 km E of Yamada, Japan",
+      "body": "95 km E of Yamada, Japan",
+      "mag": 5.9,
+      "lat": 39.491,
+      "lon": 143.054,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026fzhmuy"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1531192",
+      "ts": "2026-03-26T14:29:03Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 6.5M, Depth:9.513km) in Japan 26/03/2026 14:18 UTC, 1.6 million in MMI IV.",
+      "body": "On 3/26/2026 2:18:50 PM, an earthquake occurred in Japan potentially affecting 1.6 million in MMI IV. The earthquake had Magnitude 6.5M, Depth:9.513km.",
+      "details": "On 3/26/2026 2:18:50 PM, an earthquake occurred in Japan potentially affecting 1.6 million in MMI IV. The earthquake had Magnitude 6.5M, Depth:9.513km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1531192"
+      ],
+      "location": "Japan 26/03/2026 14:18 UTC, 1.6 million in MMI IV."
     }
   ]
 }
