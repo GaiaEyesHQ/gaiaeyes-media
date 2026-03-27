@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-27T15:52:46Z",
+  "generated_at": "2026-03-27T16:22:47Z",
   "items": [
     {
       "source": "gdacs",
@@ -954,22 +954,6 @@
     },
     {
       "source": "gdacs",
-      "id": "WF1027942",
-      "ts": "2026-03-27T12:00:10Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in China",
-      "body": "On 27/03/2026, a forest fire started in China,  until 27/03/2026.",
-      "details": "On 27/03/2026, a forest fire started in China,  until 27/03/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027942"
-      ],
-      "location": "China"
-    },
-    {
-      "source": "gdacs",
       "id": "WF1027943",
       "ts": "2026-03-27T12:00:22Z",
       "type": "wildfire",
@@ -1018,22 +1002,6 @@
     },
     {
       "source": "gdacs",
-      "id": "WF1027912",
-      "ts": "2026-03-27T12:00:58Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Venezuela",
-      "body": "On 24/03/2026, a forest fire started in Venezuela,  until 26/03/2026.",
-      "details": "On 24/03/2026, a forest fire started in Venezuela,  until 26/03/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027912"
-      ],
-      "location": "Venezuela"
-    },
-    {
-      "source": "gdacs",
       "id": "WF1027946",
       "ts": "2026-03-27T12:01:44Z",
       "type": "wildfire",
@@ -1047,38 +1015,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027946"
       ],
       "location": "Myanmar"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1027920",
-      "ts": "2026-03-27T12:02:11Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in China",
-      "body": "On 21/03/2026, a forest fire started in China,  until 26/03/2026.",
-      "details": "On 21/03/2026, a forest fire started in China,  until 26/03/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027920"
-      ],
-      "location": "China"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1027947",
-      "ts": "2026-03-27T12:02:46Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in China",
-      "body": "On 21/03/2026, a forest fire started in China,  until 27/03/2026.",
-      "details": "On 21/03/2026, a forest fire started in China,  until 27/03/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027947"
-      ],
-      "location": "China"
     },
     {
       "source": "gdacs",
@@ -1113,9 +1049,152 @@
       "location": "Thailand"
     },
     {
+      "source": "media",
+      "id": "us7000s83k",
+      "ts": "2026-03-27T15:24:33Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "107 km E of Yamada, Japan",
+      "body": "107 km E of Yamada, Japan",
+      "mag": 5.1,
+      "lat": 39.3975,
+      "lon": 143.1958,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s83k"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1027942",
+      "ts": "2026-03-27T16:00:09Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in China",
+      "body": "On 27/03/2026, a forest fire started in China,  until 27/03/2026.",
+      "details": "On 27/03/2026, a forest fire started in China,  until 27/03/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027942"
+      ],
+      "location": "China"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1027912",
+      "ts": "2026-03-27T16:00:34Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Venezuela",
+      "body": "On 24/03/2026, a forest fire started in Venezuela,  until 26/03/2026.",
+      "details": "On 24/03/2026, a forest fire started in Venezuela,  until 26/03/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027912"
+      ],
+      "location": "Venezuela"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1027954",
+      "ts": "2026-03-27T16:00:56Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Laos",
+      "body": "On 24/03/2026, a forest fire started in Laos,  until 27/03/2026.",
+      "details": "On 24/03/2026, a forest fire started in Laos,  until 27/03/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027954"
+      ],
+      "location": "Laos"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1027955",
+      "ts": "2026-03-27T16:01:12Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Laos",
+      "body": "On 23/03/2026, a forest fire started in Laos,  until 27/03/2026.",
+      "details": "On 23/03/2026, a forest fire started in Laos,  until 27/03/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027955"
+      ],
+      "location": "Laos"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1027956",
+      "ts": "2026-03-27T16:01:46Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Laos",
+      "body": "On 22/03/2026, a forest fire started in Laos,  until 27/03/2026.",
+      "details": "On 22/03/2026, a forest fire started in Laos,  until 27/03/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027956"
+      ],
+      "location": "Laos"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1027957",
+      "ts": "2026-03-27T16:02:47Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Myanmar",
+      "body": "On 21/03/2026, a forest fire started in Myanmar,  until 27/03/2026.",
+      "details": "On 21/03/2026, a forest fire started in Myanmar,  until 27/03/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027957"
+      ],
+      "location": "Myanmar"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1027920",
+      "ts": "2026-03-27T16:02:54Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in China",
+      "body": "On 21/03/2026, a forest fire started in China,  until 26/03/2026.",
+      "details": "On 21/03/2026, a forest fire started in China,  until 26/03/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027920"
+      ],
+      "location": "China"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1027947",
+      "ts": "2026-03-27T16:03:14Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in China",
+      "body": "On 21/03/2026, a forest fire started in China,  until 27/03/2026.",
+      "details": "On 21/03/2026, a forest fire started in China,  until 27/03/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027947"
+      ],
+      "location": "China"
+    },
+    {
       "source": "gdacs",
       "id": "WF1027950",
-      "ts": "2026-03-27T12:04:56Z",
+      "ts": "2026-03-27T16:03:59Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in India",
@@ -1131,7 +1210,7 @@
     {
       "source": "gdacs",
       "id": "WF1027951",
-      "ts": "2026-03-27T12:05:13Z",
+      "ts": "2026-03-27T16:05:16Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in China",
@@ -1147,7 +1226,7 @@
     {
       "source": "gdacs",
       "id": "WF1027899",
-      "ts": "2026-03-27T12:05:46Z",
+      "ts": "2026-03-27T16:06:16Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in India",
@@ -1163,7 +1242,7 @@
     {
       "source": "gdacs",
       "id": "WF1027952",
-      "ts": "2026-03-27T12:08:11Z",
+      "ts": "2026-03-27T16:08:30Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Myanmar",
@@ -1179,7 +1258,7 @@
     {
       "source": "gdacs",
       "id": "WF1027953",
-      "ts": "2026-03-27T12:08:48Z",
+      "ts": "2026-03-27T16:08:59Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Laos",
@@ -1195,7 +1274,7 @@
     {
       "source": "gdacs",
       "id": "WF1027868",
-      "ts": "2026-03-27T12:09:36Z",
+      "ts": "2026-03-27T16:10:05Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Myanmar",
@@ -1207,21 +1286,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027868"
       ],
       "location": "Myanmar"
-    },
-    {
-      "source": "media",
-      "id": "us7000s83k",
-      "ts": "2026-03-27T15:24:33Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "107 km E of Yamada, Japan",
-      "body": "107 km E of Yamada, Japan",
-      "mag": 5.1,
-      "lat": 39.3975,
-      "lon": 143.1958,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s83k"
-      ]
     }
   ]
 }
