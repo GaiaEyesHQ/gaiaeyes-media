@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "timestamp_utc": "2026-03-30T19:28:16.503096+00:00",
+  "timestamp_utc": "2026-03-30T19:54:08.408793+00:00",
   "primary": "cumiana",
   "primary_quality_score": 1.0,
   "primary_quality_reasons": [],
@@ -9,7 +9,7 @@
     "tomsk": {
       "status": "ok",
       "source": "tomsk",
-      "timestamp_utc": "2026-03-30T19:28:15.529999+00:00",
+      "timestamp_utc": "2026-03-30T19:54:07.245311+00:00",
       "last_modified": null,
       "fundamental_hz": 7.7,
       "harmonics_hz": {
@@ -26,7 +26,7 @@
       "confidence": "high-panels",
       "overlay_path": "runs/tomsk_overlay.png",
       "raw": {
-        "tsst_time": "2026-03-31T02:28:15.502648+00:00",
+        "tsst_time": "2026-03-31T02:54:07.218290+00:00",
         "roi": {
           "x0": 59,
           "y0": 31,
@@ -35,9 +35,9 @@
         },
         "group_boundaries_px": {
           "x_day0": 59,
-          "x_day1": 566,
-          "x_day2": 1073,
-          "day_w": 507.0,
+          "x_day1": 572,
+          "x_day2": 1085,
+          "day_w": 513.0,
           "x_day1_time": 522,
           "x_day2_time": 986,
           "day_w_time": 463.3333333333333
@@ -50,10 +50,10 @@
           "frontier_activity_run_px": 8,
           "x1_exclude_right_px": 90,
           "guard_px": 6,
-          "x_time": 1034,
-          "x_ideal": 1034,
+          "x_time": 1042,
+          "x_ideal": 1042,
           "right_guard": 1042,
-          "delta_min_to_guard": 24.863309352517987,
+          "delta_min_to_guard": 0.0,
           "pph": 19.305555555555554,
           "pph_source": "day_width",
           "tick_count": 7,
@@ -61,7 +61,7 @@
           "tick_used": false,
           "bias_minutes_applied": 0.0,
           "measured_bias_minutes": null,
-          "guard_applied": true,
+          "guard_applied": false,
           "age_hours": null,
           "stale_hours": 6.0,
           "plausibility_reject_f2_count": 1,
@@ -93,7 +93,7 @@
     "cumiana": {
       "status": "ok",
       "source": "cumiana",
-      "timestamp_utc": "2026-03-30T19:28:16.473046+00:00",
+      "timestamp_utc": "2026-03-30T19:54:08.378167+00:00",
       "last_modified": "2026-03-30T19:00:10+00:00",
       "fundamental_hz": 7.47,
       "harmonics_hz": {
