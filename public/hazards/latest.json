@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-30T13:47:33Z",
+  "generated_at": "2026-03-30T14:23:11Z",
   "items": [
     {
       "source": "media",
@@ -22,15 +22,15 @@
       "ts": "2026-03-28T18:55:38Z",
       "type": "quake",
       "severity": "red",
-      "title": "Green earthquake (Magnitude 5.9M, Depth:159km) in Indonesia 28/03/2026 18:38 UTC, 10 thousand in MMI IV.",
-      "body": "On 3/28/2026 6:38:30 PM, an earthquake occurred in Indonesia potentially affecting 10 thousand in MMI IV. The earthquake had Magnitude 5.9M, Depth:159km.",
-      "details": "On 3/28/2026 6:38:30 PM, an earthquake occurred in Indonesia potentially affecting 10 thousand in MMI IV. The earthquake had Magnitude 5.9M, Depth:159km.",
+      "title": "Green earthquake (Magnitude 5.9M, Depth:159km) in Indonesia 28/03/2026 18:38 UTC, 9 thousand in MMI IV.",
+      "body": "On 3/28/2026 6:38:30 PM, an earthquake occurred in Indonesia potentially affecting 9 thousand in MMI IV. The earthquake had Magnitude 5.9M, Depth:159km.",
+      "details": "On 3/28/2026 6:38:30 PM, an earthquake occurred in Indonesia potentially affecting 9 thousand in MMI IV. The earthquake had Magnitude 5.9M, Depth:159km.",
       "lat": null,
       "lon": null,
       "links": [
         "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1531557"
       ],
-      "location": "Indonesia 28/03/2026 18:38 UTC, 10 thousand in MMI IV."
+      "location": "Indonesia 28/03/2026 18:38 UTC, 9 thousand in MMI IV."
     },
     {
       "source": "gdacs",
@@ -1271,6 +1271,22 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028038"
       ],
       "location": "Thailand"
+    },
+    {
+      "source": "gdacs",
+      "id": "FL1103816",
+      "ts": "2026-03-30T14:01:22Z",
+      "type": "flood",
+      "severity": "info",
+      "title": "Green flood alert in Iraq",
+      "body": "On 25/03/2026, a flood started in Iraq, lasting until 27/03/2026 (last update). The flood caused 1 deaths and 700 displaced .",
+      "details": "On 25/03/2026, a flood started in Iraq, lasting until 27/03/2026 (last update). The flood caused 1 deaths and 700 displaced .",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103816"
+      ],
+      "location": "Iraq"
     }
   ]
 }
