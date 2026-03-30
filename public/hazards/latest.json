@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-30T08:44:48Z",
+  "generated_at": "2026-03-30T09:17:15Z",
   "items": [
     {
       "source": "gdacs",
@@ -1177,6 +1177,37 @@
       "links": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s8pl"
       ]
+    },
+    {
+      "source": "usgs",
+      "id": "7000s8q0",
+      "ts": "2026-03-30T08:44:08Z",
+      "type": "quake",
+      "severity": "orange",
+      "title": "M 7.3 - 35 km NE of Luganville, Vanuatu",
+      "body": "35 km NE of Luganville, Vanuatu",
+      "mag": 7.3,
+      "lat": -15.2984,
+      "lon": 167.3993,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s8q0"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1531826",
+      "ts": "2026-03-30T08:52:55Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Orange earthquake (Magnitude 7.3M, Depth:115.813km) in Vanuatu 30/03/2026 08:44 UTC, 9 thousand (in MMI>=VII).",
+      "body": "On 3/30/2026 8:44:08 AM, an earthquake occurred in Vanuatu potentially affecting 9 thousand (in MMI>=VII). The earthquake had Magnitude 7.3M, Depth:115.813km.",
+      "details": "On 3/30/2026 8:44:08 AM, an earthquake occurred in Vanuatu potentially affecting 9 thousand (in MMI>=VII). The earthquake had Magnitude 7.3M, Depth:115.813km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1531826"
+      ],
+      "location": "Vanuatu 30/03/2026 08:44 UTC, 9 thousand (in MMI>=VII)."
     }
   ]
 }
