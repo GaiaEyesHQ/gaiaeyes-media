@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-31T19:32:57Z",
+  "generated_at": "2026-03-31T19:58:10Z",
   "items": [
     {
       "source": "gdacs",
@@ -112,21 +112,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028026"
       ],
       "location": "Myanmar"
-    },
-    {
-      "source": "media",
-      "id": "us7000s8me",
-      "ts": "2026-03-29T23:45:14Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "52 km SSE of Hihifo, Tonga",
-      "body": "52 km SSE of Hihifo, Tonga",
-      "mag": 5.1,
-      "lat": -16.4134,
-      "lon": -173.6674,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s8me"
-      ]
     },
     {
       "source": "media",
@@ -1270,6 +1255,37 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028070"
       ],
       "location": "Laos"
+    },
+    {
+      "source": "media",
+      "id": "us7000s963",
+      "ts": "2026-03-31T19:24:50Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "Kermadec Islands, New Zealand",
+      "body": "Kermadec Islands, New Zealand",
+      "mag": 5.7,
+      "lat": -30.2892,
+      "lon": -178.7529,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s963"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1532072",
+      "ts": "2026-03-31T19:46:18Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 5.7M, Depth:143.358km) in Kermadec Islands, New Zealand 31/03/2026 19:24 UTC, [unknown].",
+      "body": "On 3/31/2026 7:24:50 PM, an earthquake occurred in Kermadec Islands, New Zealand potentially affecting [unknown]. The earthquake had Magnitude 5.7M, Depth:143.358km.",
+      "details": "On 3/31/2026 7:24:50 PM, an earthquake occurred in Kermadec Islands, New Zealand potentially affecting [unknown]. The earthquake had Magnitude 5.7M, Depth:143.358km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1532072"
+      ],
+      "location": "Kermadec Islands, New Zealand 31/03/2026 19:24 UTC, [unknown]."
     }
   ]
 }
