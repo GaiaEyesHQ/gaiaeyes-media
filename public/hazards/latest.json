@@ -1,22 +1,6 @@
 {
-  "generated_at": "2026-03-31T22:04:25Z",
+  "generated_at": "2026-03-31T22:21:50Z",
   "items": [
-    {
-      "source": "gdacs",
-      "id": "FL1103815",
-      "ts": "2026-03-29T23:00:26Z",
-      "type": "flood",
-      "severity": "info",
-      "title": "Green flood alert in Afghanistan",
-      "body": "On 25/03/2026, a flood started in Afghanistan, lasting until 27/03/2026 (last update). The flood caused 5 deaths and 0 displaced .",
-      "details": "On 25/03/2026, a flood started in Afghanistan, lasting until 27/03/2026 (last update). The flood caused 5 deaths and 0 displaced .",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103815"
-      ],
-      "location": "Afghanistan"
-    },
     {
       "source": "gdacs",
       "id": "WF1028021",
@@ -112,21 +96,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028026"
       ],
       "location": "Myanmar"
-    },
-    {
-      "source": "media",
-      "id": "us7000s8mj",
-      "ts": "2026-03-30T01:12:30Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "81 km SE of Taira, Japan",
-      "body": "81 km SE of Taira, Japan",
-      "mag": 5.1,
-      "lat": 26.2155,
-      "lon": 128.8262,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s8mj"
-      ]
     },
     {
       "source": "gdacs",
@@ -346,22 +315,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028033"
       ],
       "location": "Laos"
-    },
-    {
-      "source": "gdacs",
-      "id": "FL1103816",
-      "ts": "2026-03-30T14:01:22Z",
-      "type": "flood",
-      "severity": "info",
-      "title": "Green flood alert in Iraq",
-      "body": "On 25/03/2026, a flood started in Iraq, lasting until 27/03/2026 (last update). The flood caused 1 deaths and 700 displaced .",
-      "details": "On 25/03/2026, a flood started in Iraq, lasting until 27/03/2026 (last update). The flood caused 1 deaths and 700 displaced .",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103816"
-      ],
-      "location": "Iraq"
     },
     {
       "source": "media",
@@ -1034,22 +987,6 @@
     },
     {
       "source": "gdacs",
-      "id": "WF1027958",
-      "ts": "2026-03-31T19:01:28Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Colombia",
-      "body": "On 26/03/2026, a forest fire started in Colombia,  until 27/03/2026.",
-      "details": "On 26/03/2026, a forest fire started in Colombia,  until 27/03/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027958"
-      ],
-      "location": "Colombia"
-    },
-    {
-      "source": "gdacs",
       "id": "WF1028058",
       "ts": "2026-03-31T19:01:33Z",
       "type": "wildfire",
@@ -1286,6 +1223,21 @@
         "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1532072"
       ],
       "location": "Kermadec Islands, New Zealand 31/03/2026 19:24 UTC, [unknown]."
+    },
+    {
+      "source": "media",
+      "id": "us7000s97y",
+      "ts": "2026-03-31T21:56:33Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "220 km NE of Sola, Vanuatu",
+      "body": "220 km NE of Sola, Vanuatu",
+      "mag": 5.1,
+      "lat": -12.732,
+      "lon": 169.2141,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s97y"
+      ]
     }
   ]
 }
