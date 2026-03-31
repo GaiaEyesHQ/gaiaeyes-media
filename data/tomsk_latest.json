@@ -1,24 +1,24 @@
 {
   "status": "ok",
   "source": "tomsk",
-  "timestamp_utc": "2026-03-31T05:39:17.095570+00:00",
+  "timestamp_utc": "2026-03-31T06:12:55.722716+00:00",
   "last_modified": null,
   "fundamental_hz": 7.7,
   "harmonics_hz": {
     "F1": 7.7,
-    "F2": 13.799999999999999,
-    "F3": 21.196366613358258,
-    "F4": 28.443922796845435,
+    "F2": 14.292351689189672,
+    "F3": 21.0782271951437,
+    "F4": 28.60494131483138,
     "F5": 35.4
   },
   "amplitude_idx": {},
-  "quality_score": 0.8211404085159302,
+  "quality_score": 0.8045109855501277,
   "usable": true,
   "quality_reasons": [],
   "confidence": "high-panels",
   "overlay_path": "runs/tomsk_overlay_full.png",
   "raw": {
-    "tsst_time": "2026-03-31T12:39:17.065985+00:00",
+    "tsst_time": "2026-03-31T13:12:55.692656+00:00",
     "roi": {
       "x0": 59,
       "y0": 31,
@@ -35,17 +35,17 @@
       "day_w_time": 463.3333333333333
     },
     "debug": {
-      "x_frontier": 1268,
+      "x_frontier": 1281,
       "frontier_method": "activity_scan",
-      "frontier_activity_thr": 0.6799531459808349,
+      "frontier_activity_thr": 0.6813635289669037,
       "frontier_activity_right_tail": 0.01013207994401455,
       "frontier_activity_run_px": 8,
       "x1_exclude_right_px": 90,
       "guard_px": 6,
-      "x_time": 1230,
-      "x_ideal": 1230,
-      "right_guard": 1262,
-      "delta_min_to_guard": 99.45323741007195,
+      "x_time": 1241,
+      "x_ideal": 1241,
+      "right_guard": 1275,
+      "delta_min_to_guard": 105.66906474820145,
       "pph": 19.305555555555554,
       "pph_source": "day_width",
       "tick_count": 10,
@@ -56,24 +56,24 @@
       "guard_applied": true,
       "age_hours": null,
       "stale_hours": 6.0,
-      "plausibility_reject_f2_count": 1,
+      "plausibility_reject_f2_count": 2,
       "plausibility_selected_f2_rank": null,
       "family_scoring_used": true,
       "family_best_f1": 7.2,
-      "family_best_score": 3.1203335523605347,
+      "family_best_score": 3.057141745090485,
       "family_candidate_count": 29,
       "family_top3": [
         {
           "f1": 7.2,
-          "score": 3.1203335523605347
+          "score": 3.057141745090485
         },
         {
           "f1": 7.25,
-          "score": 3.104667830467224
+          "score": 3.0470770776271823
         },
         {
           "f1": 7.3,
-          "score": 3.084571921825409
+          "score": 3.040483266115189
         }
       ],
       "family_score_threshold": 1.35,
