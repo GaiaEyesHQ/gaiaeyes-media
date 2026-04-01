@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-01T05:53:57Z",
+  "generated_at": "2026-04-01T06:42:24Z",
   "items": [
     {
       "source": "gdacs",
@@ -64,21 +64,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027993"
       ],
       "location": "China"
-    },
-    {
-      "source": "media",
-      "id": "us7000s8pl",
-      "ts": "2026-03-30T07:30:28Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "58 km SW of Masachapa, Nicaragua",
-      "body": "58 km SW of Masachapa, Nicaragua",
-      "mag": 5.4,
-      "lat": 11.4154,
-      "lon": -86.8927,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s8pl"
-      ]
     },
     {
       "source": "media",
@@ -1238,6 +1223,37 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1027994"
       ],
       "location": "China"
+    },
+    {
+      "source": "media",
+      "id": "us7000s9ay",
+      "ts": "2026-04-01T06:08:26Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "Fiji region",
+      "body": "Fiji region",
+      "mag": 5.7,
+      "lat": -21.6533,
+      "lon": -179.2415,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s9ay"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1532169",
+      "ts": "2026-04-01T06:28:22Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 5.7M, Depth:575.962km) in Fiji Islands Region 01/04/2026 06:08 UTC, Few people affected in 100km.",
+      "body": "On 4/1/2026 6:08:26 AM, an earthquake occurred in Fiji Islands Region potentially affecting Few people affected in 100km. The earthquake had Magnitude 5.7M, Depth:575.962km.",
+      "details": "On 4/1/2026 6:08:26 AM, an earthquake occurred in Fiji Islands Region potentially affecting Few people affected in 100km. The earthquake had Magnitude 5.7M, Depth:575.962km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1532169"
+      ],
+      "location": "Fiji Islands Region 01/04/2026 06:08 UTC, Few people affected in 100km."
     }
   ]
 }
