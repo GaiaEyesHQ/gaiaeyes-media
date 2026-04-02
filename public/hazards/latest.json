@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-02T11:51:25Z",
+  "generated_at": "2026-04-02T12:26:46Z",
   "items": [
     {
       "source": "gdacs",
@@ -787,21 +787,6 @@
     },
     {
       "source": "media",
-      "id": "us6000slwu",
-      "ts": "2026-04-02T03:14:37Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "102 km WNW of Ternate, Indonesia",
-      "body": "102 km WNW of Ternate, Indonesia",
-      "mag": 5,
-      "lat": 1.1395,
-      "lon": 126.5304,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000slwu"
-      ]
-    },
-    {
-      "source": "media",
       "id": "us6000slww",
       "ts": "2026-04-02T03:17:53Z",
       "type": "quake",
@@ -1303,6 +1288,37 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028067"
       ],
       "location": "China"
+    },
+    {
+      "source": "media",
+      "id": "us6000slzh",
+      "ts": "2026-04-02T11:35:35Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "128 km E of Bitung, Indonesia",
+      "body": "128 km E of Bitung, Indonesia",
+      "mag": 5.2,
+      "lat": 1.3537,
+      "lon": 126.2823,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000slzh"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "FL1103826",
+      "ts": "2026-04-02T12:08:03Z",
+      "type": "flood",
+      "severity": "info",
+      "title": "Green flood alert in United States",
+      "body": "On 30/03/2026, a flood started in United States, lasting until 01/04/2026 (last update). The flood caused 0 deaths and 0 displaced .",
+      "details": "On 30/03/2026, a flood started in United States, lasting until 01/04/2026 (last update). The flood caused 0 deaths and 0 displaced .",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103826"
+      ],
+      "location": "United States"
     }
   ]
 }
