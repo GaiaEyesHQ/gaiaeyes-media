@@ -1,54 +1,6 @@
 {
-  "generated_at": "2026-04-02T05:55:25Z",
+  "generated_at": "2026-04-02T06:34:41Z",
   "items": [
-    {
-      "source": "gdacs",
-      "id": "FL1103818",
-      "ts": "2026-03-31T05:57:51Z",
-      "type": "flood",
-      "severity": "info",
-      "title": "Green flood alert in Azerbaijan",
-      "body": "On 27/03/2026, a flood started in Azerbaijan, lasting until 29/03/2026 (last update). The flood caused 0 deaths and 278 displaced .",
-      "details": "On 27/03/2026, a flood started in Azerbaijan, lasting until 29/03/2026 (last update). The flood caused 0 deaths and 278 displaced .",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103818"
-      ],
-      "location": "Azerbaijan"
-    },
-    {
-      "source": "gdacs",
-      "id": "FL1103819",
-      "ts": "2026-03-31T06:08:19Z",
-      "type": "flood",
-      "severity": "info",
-      "title": "Green flood alert in Russia",
-      "body": "On 27/03/2026, a flood started in Russia, lasting until 29/03/2026 (last update). The flood caused 0 deaths and 1109 displaced .",
-      "details": "On 27/03/2026, a flood started in Russia, lasting until 29/03/2026 (last update). The flood caused 0 deaths and 1109 displaced .",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103819"
-      ],
-      "location": "Russia"
-    },
-    {
-      "source": "gdacs",
-      "id": "FL1103820",
-      "ts": "2026-03-31T06:17:51Z",
-      "type": "flood",
-      "severity": "info",
-      "title": "Green flood alert in Islamic Republic of Iran",
-      "body": "On 28/03/2026, a flood started in Islamic Republic of Iran, lasting until 30/03/2026 (last update). The flood caused 9 deaths and 0 displaced .",
-      "details": "On 28/03/2026, a flood started in Islamic Republic of Iran, lasting until 30/03/2026 (last update). The flood caused 9 deaths and 0 displaced .",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103820"
-      ],
-      "location": "Islamic Republic of Iran"
-    },
     {
       "source": "gdacs",
       "id": "WF1028031",
@@ -930,21 +882,6 @@
       "location": "Tropical Storm)."
     },
     {
-      "source": "media",
-      "id": "us6000slss",
-      "ts": "2026-04-01T22:48:13Z",
-      "type": "quake",
-      "severity": "orange",
-      "title": "126 km WNW of Ternate, Indonesia",
-      "body": "126 km WNW of Ternate, Indonesia",
-      "mag": 7.4,
-      "lat": 1.1171,
-      "lon": 126.2965,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000slss"
-      ]
-    },
-    {
       "source": "gdacs",
       "id": "EQ1532317",
       "ts": "2026-04-01T22:57:59Z",
@@ -1335,6 +1272,21 @@
         "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1532396"
       ],
       "location": "Indonesia 02/04/2026 03:23 UTC, 3 thousand in MMI V."
+    },
+    {
+      "source": "media",
+      "id": "us6000slxu",
+      "ts": "2026-04-02T05:37:23Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "100 km WNW of Ternate, Indonesia",
+      "body": "100 km WNW of Ternate, Indonesia",
+      "mag": 5.1,
+      "lat": 1.0576,
+      "lon": 126.521,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000slxu"
+      ]
     }
   ]
 }
