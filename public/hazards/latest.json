@@ -1,22 +1,6 @@
 {
-  "generated_at": "2026-04-02T08:13:05Z",
+  "generated_at": "2026-04-02T08:39:14Z",
   "items": [
-    {
-      "source": "gdacs",
-      "id": "FL1103821",
-      "ts": "2026-03-31T08:18:32Z",
-      "type": "flood",
-      "severity": "info",
-      "title": "Green flood alert in Pakistan",
-      "body": "On 25/03/2026, a flood started in Pakistan, lasting until 30/03/2026 (last update). The flood caused 11 deaths and 0 displaced .",
-      "details": "On 25/03/2026, a flood started in Pakistan, lasting until 30/03/2026 (last update). The flood caused 11 deaths and 0 displaced .",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103821"
-      ],
-      "location": "Pakistan"
-    },
     {
       "source": "gdacs",
       "id": "FL1103822",
@@ -819,21 +803,6 @@
     },
     {
       "source": "media",
-      "id": "us6000slvt",
-      "ts": "2026-04-02T00:15:19Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "127 km ESE of Bitung, Indonesia",
-      "body": "127 km ESE of Bitung, Indonesia",
-      "mag": 5.1,
-      "lat": 1.1887,
-      "lon": 126.2498,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000slvt"
-      ]
-    },
-    {
-      "source": "media",
       "id": "us6000slw1",
       "ts": "2026-04-02T00:52:52Z",
       "type": "quake",
@@ -1207,6 +1176,21 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028067"
       ],
       "location": "China"
+    },
+    {
+      "source": "media",
+      "id": "us6000slyj",
+      "ts": "2026-04-02T07:39:11Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "62 km SSE of \u00dcr\u00fcmqi, China",
+      "body": "62 km SSE of \u00dcr\u00fcmqi, China",
+      "mag": 5.2,
+      "lat": 43.2572,
+      "lon": 87.7852,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000slyj"
+      ]
     }
   ]
 }
