@@ -1,54 +1,6 @@
 {
-  "generated_at": "2026-04-02T06:34:41Z",
+  "generated_at": "2026-04-02T07:04:16Z",
   "items": [
-    {
-      "source": "gdacs",
-      "id": "WF1028031",
-      "ts": "2026-03-31T07:00:44Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in China",
-      "body": "On 26/03/2026, a forest fire started in China,  until 01/04/2026.",
-      "details": "On 26/03/2026, a forest fire started in China,  until 01/04/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028031"
-      ],
-      "location": "China"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1028051",
-      "ts": "2026-03-31T07:01:54Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Thailand",
-      "body": "On 24/03/2026, a forest fire started in Thailand,  until 01/04/2026.",
-      "details": "On 24/03/2026, a forest fire started in Thailand,  until 01/04/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028051"
-      ],
-      "location": "Thailand"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1028034",
-      "ts": "2026-03-31T07:03:15Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Myanmar",
-      "body": "On 23/03/2026, a forest fire started in Myanmar,  until 31/03/2026.",
-      "details": "On 23/03/2026, a forest fire started in Myanmar,  until 31/03/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028034"
-      ],
-      "location": "Myanmar"
-    },
     {
       "source": "gdacs",
       "id": "WF1028035",
@@ -898,21 +850,6 @@
       "location": "Indonesia 01/04/2026 22:48 UTC, 3 thousand (in MMI>=VII)."
     },
     {
-      "source": "media",
-      "id": "us6000slue",
-      "ts": "2026-04-01T23:13:29Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "130 km ESE of Bitung, Indonesia",
-      "body": "130 km ESE of Bitung, Indonesia",
-      "mag": 5.4,
-      "lat": 1.0926,
-      "lon": 126.2459,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000slue"
-      ]
-    },
-    {
       "source": "gdacs",
       "id": "EQ1532320",
       "ts": "2026-04-01T23:23:30Z",
@@ -1275,17 +1212,32 @@
     },
     {
       "source": "media",
-      "id": "us6000slxu",
-      "ts": "2026-04-02T05:37:23Z",
+      "id": "us6000slxx",
+      "ts": "2026-04-02T05:41:41Z",
       "type": "quake",
       "severity": "info",
-      "title": "100 km WNW of Ternate, Indonesia",
-      "body": "100 km WNW of Ternate, Indonesia",
-      "mag": 5.1,
-      "lat": 1.0576,
-      "lon": 126.521,
+      "title": "126 km WNW of Ternate, Indonesia",
+      "body": "126 km WNW of Ternate, Indonesia",
+      "mag": 5,
+      "lat": 1.2054,
+      "lon": 126.3251,
       "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000slxu"
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000slxx"
+      ]
+    },
+    {
+      "source": "media",
+      "id": "us6000sly3",
+      "ts": "2026-04-02T06:13:40Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "Pagan region, Northern Mariana Islands",
+      "body": "Pagan region, Northern Mariana Islands",
+      "mag": 5.3,
+      "lat": 18.1938,
+      "lon": 146.7269,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sly3"
       ]
     }
   ]
