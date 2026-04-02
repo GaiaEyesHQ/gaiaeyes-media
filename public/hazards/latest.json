@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-01T23:59:46Z",
+  "generated_at": "2026-04-02T00:51:43Z",
   "items": [
     {
       "source": "gdacs",
@@ -184,8 +184,8 @@
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Myanmar",
-      "body": "On 22/03/2026, a forest fire started in Myanmar,  until 31/03/2026.",
-      "details": "On 22/03/2026, a forest fire started in Myanmar,  until 31/03/2026.",
+      "body": "On 22/03/2026, a forest fire started in Myanmar,  until 01/04/2026.",
+      "details": "On 22/03/2026, a forest fire started in Myanmar,  until 01/04/2026.",
       "lat": null,
       "lon": null,
       "links": [
@@ -240,21 +240,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103822"
       ],
       "location": "Argentina"
-    },
-    {
-      "source": "media",
-      "id": "pr2026090003",
-      "ts": "2026-03-31T09:22:37Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "159 km NNW of The Valley, Anguilla",
-      "body": "159 km NNW of The Valley, Anguilla",
-      "mag": 5,
-      "lat": 19.5763,
-      "lon": -63.5653,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026090003"
-      ]
     },
     {
       "source": "gdacs",
@@ -1101,14 +1086,14 @@
     {
       "source": "media",
       "id": "us6000slss",
-      "ts": "2026-04-01T22:48:12Z",
+      "ts": "2026-04-01T22:48:13Z",
       "type": "quake",
       "severity": "orange",
-      "title": "127 km WNW of Ternate, Indonesia",
-      "body": "127 km WNW of Ternate, Indonesia",
+      "title": "126 km WNW of Ternate, Indonesia",
+      "body": "126 km WNW of Ternate, Indonesia",
       "mag": 7.4,
-      "lat": 1.178,
-      "lon": 126.3059,
+      "lat": 1.1171,
+      "lon": 126.2965,
       "links": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/us6000slss"
       ]
@@ -1120,8 +1105,8 @@
       "type": "quake",
       "severity": "red",
       "title": "Green earthquake (Magnitude 7.4M, Depth:35km) in Indonesia 01/04/2026 22:48 UTC, 3 thousand (in MMI>=VII).",
-      "body": "On 4/1/2026 10:48:12 PM, an earthquake occurred in Indonesia potentially affecting 3 thousand (in MMI>=VII). The earthquake had Magnitude 7.4M, Depth:35km.",
-      "details": "On 4/1/2026 10:48:12 PM, an earthquake occurred in Indonesia potentially affecting 3 thousand (in MMI>=VII). The earthquake had Magnitude 7.4M, Depth:35km.",
+      "body": "On 4/1/2026 10:48:13 PM, an earthquake occurred in Indonesia potentially affecting 3 thousand (in MMI>=VII). The earthquake had Magnitude 7.4M, Depth:35km.",
+      "details": "On 4/1/2026 10:48:13 PM, an earthquake occurred in Indonesia potentially affecting 3 thousand (in MMI>=VII). The earthquake had Magnitude 7.4M, Depth:35km.",
       "lat": null,
       "lon": null,
       "links": [
@@ -1351,6 +1336,21 @@
         "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1532320"
       ],
       "location": "Indonesia 01/04/2026 23:07 UTC, 20 thousand in MMI IV."
+    },
+    {
+      "source": "media",
+      "id": "us6000slvh",
+      "ts": "2026-04-01T23:54:59Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "123 km WNW of Ternate, Indonesia",
+      "body": "123 km WNW of Ternate, Indonesia",
+      "mag": 5.1,
+      "lat": 1.1961,
+      "lon": 126.3522,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000slvh"
+      ]
     }
   ]
 }
