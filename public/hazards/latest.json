@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-03T16:22:32Z",
+  "generated_at": "2026-04-03T16:47:44Z",
   "items": [
     {
       "source": "gdacs",
@@ -675,21 +675,6 @@
     },
     {
       "source": "media",
-      "id": "us6000sm8g",
-      "ts": "2026-04-03T00:22:20Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "120 km WNW of Ternate, Indonesia",
-      "body": "120 km WNW of Ternate, Indonesia",
-      "mag": 5.6,
-      "lat": 1.3163,
-      "lon": 126.4332,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sm8g"
-      ]
-    },
-    {
-      "source": "media",
       "id": "us6000sm8h",
       "ts": "2026-04-03T00:32:57Z",
       "type": "quake",
@@ -1142,6 +1127,37 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028067"
       ],
       "location": "China"
+    },
+    {
+      "source": "media",
+      "id": "us6000smda",
+      "ts": "2026-04-03T16:12:58Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "35 km S of Jurm, Afghanistan",
+      "body": "35 km S of Jurm, Afghanistan",
+      "mag": 5.8,
+      "lat": 36.5479,
+      "lon": 70.852,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smda"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1533026",
+      "ts": "2026-04-03T16:29:51Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 5.8M, Depth:186.371km) in Afghanistan 03/04/2026 16:12 UTC, 12.7 million in MMI III.",
+      "body": "On 4/3/2026 4:12:58 PM, an earthquake occurred in Afghanistan potentially affecting 12.7 million in MMI III. The earthquake had Magnitude 5.8M, Depth:186.371km.",
+      "details": "On 4/3/2026 4:12:58 PM, an earthquake occurred in Afghanistan potentially affecting 12.7 million in MMI III. The earthquake had Magnitude 5.8M, Depth:186.371km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1533026"
+      ],
+      "location": "Afghanistan 03/04/2026 16:12 UTC, 12.7 million in MMI III."
     }
   ]
 }
