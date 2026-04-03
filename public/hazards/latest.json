@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-03T08:28:47Z",
+  "generated_at": "2026-04-03T08:53:24Z",
   "items": [
     {
       "source": "gdacs",
@@ -544,21 +544,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1532627"
       ],
       "location": "Indonesia 02/04/2026 14:34 UTC, 30 thousand in MMI>=IV."
-    },
-    {
-      "source": "media",
-      "id": "us6000sm5i",
-      "ts": "2026-04-02T16:10:26Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "116 km E of Bitung, Indonesia",
-      "body": "116 km E of Bitung, Indonesia",
-      "mag": 5.1,
-      "lat": 1.2405,
-      "lon": 126.1543,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sm5i"
-      ]
     },
     {
       "source": "media",
@@ -1126,6 +1111,21 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028067"
       ],
       "location": "China"
+    },
+    {
+      "source": "media",
+      "id": "us6000smax",
+      "ts": "2026-04-03T08:22:08Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "223 km ESE of Attu Station, Alaska",
+      "body": "223 km ESE of Attu Station, Alaska",
+      "mag": 5.1,
+      "lat": 52.279,
+      "lon": 176.3511,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smax"
+      ]
     }
   ]
 }
