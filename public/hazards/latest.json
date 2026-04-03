@@ -1,22 +1,6 @@
 {
-  "generated_at": "2026-04-03T22:54:21Z",
+  "generated_at": "2026-04-03T23:14:26Z",
   "items": [
-    {
-      "source": "gdacs",
-      "id": "EQ1532317",
-      "ts": "2026-04-01T22:57:59Z",
-      "type": "quake",
-      "severity": "red",
-      "title": "Green earthquake (Magnitude 7.4M, Depth:35km) in Indonesia 01/04/2026 22:48 UTC, 3 thousand (in MMI>=VII).",
-      "body": "On 4/1/2026 10:48:13 PM, an earthquake occurred in Indonesia potentially affecting 3 thousand (in MMI>=VII). The earthquake had Magnitude 7.4M, Depth:35km.",
-      "details": "On 4/1/2026 10:48:13 PM, an earthquake occurred in Indonesia potentially affecting 3 thousand (in MMI>=VII). The earthquake had Magnitude 7.4M, Depth:35km.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1532317"
-      ],
-      "location": "Indonesia 01/04/2026 22:48 UTC, 3 thousand (in MMI>=VII)."
-    },
     {
       "source": "gdacs",
       "id": "EQ1532320",
@@ -938,54 +922,6 @@
     },
     {
       "source": "gdacs",
-      "id": "WF1028133",
-      "ts": "2026-04-03T19:00:12Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Russian Federation",
-      "body": "On 02/04/2026, a forest fire started in Russian Federation,  until 03/04/2026.",
-      "details": "On 02/04/2026, a forest fire started in Russian Federation,  until 03/04/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028133"
-      ],
-      "location": "Russian Federation"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1028134",
-      "ts": "2026-04-03T19:00:21Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Russian Federation",
-      "body": "On 02/04/2026, a forest fire started in Russian Federation,  until 03/04/2026.",
-      "details": "On 02/04/2026, a forest fire started in Russian Federation,  until 03/04/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028134"
-      ],
-      "location": "Russian Federation"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1028106",
-      "ts": "2026-04-03T19:00:41Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in China",
-      "body": "On 31/03/2026, a forest fire started in China,  until 02/04/2026.",
-      "details": "On 31/03/2026, a forest fire started in China,  until 02/04/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028106"
-      ],
-      "location": "China"
-    },
-    {
-      "source": "gdacs",
       "id": "WF1028135",
       "ts": "2026-04-03T19:01:05Z",
       "type": "wildfire",
@@ -1094,6 +1030,86 @@
       "links": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smfm"
       ]
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1028134",
+      "ts": "2026-04-03T23:00:12Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Russian Federation",
+      "body": "On 02/04/2026, a forest fire started in Russian Federation,  until 03/04/2026.",
+      "details": "On 02/04/2026, a forest fire started in Russian Federation,  until 03/04/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028134"
+      ],
+      "location": "Russian Federation"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1028133",
+      "ts": "2026-04-03T23:00:19Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Russian Federation",
+      "body": "On 02/04/2026, a forest fire started in Russian Federation,  until 03/04/2026.",
+      "details": "On 02/04/2026, a forest fire started in Russian Federation,  until 03/04/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028133"
+      ],
+      "location": "Russian Federation"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1028106",
+      "ts": "2026-04-03T23:00:45Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in China",
+      "body": "On 31/03/2026, a forest fire started in China,  until 02/04/2026.",
+      "details": "On 31/03/2026, a forest fire started in China,  until 02/04/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028106"
+      ],
+      "location": "China"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1028141",
+      "ts": "2026-04-03T23:04:01Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Thailand",
+      "body": "On 27/03/2026, a forest fire started in Thailand,  until 03/04/2026.",
+      "details": "On 27/03/2026, a forest fire started in Thailand,  until 03/04/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028141"
+      ],
+      "location": "Thailand"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1028142",
+      "ts": "2026-04-03T23:04:17Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Thailand",
+      "body": "On 27/03/2026, a forest fire started in Thailand,  until 03/04/2026.",
+      "details": "On 27/03/2026, a forest fire started in Thailand,  until 03/04/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028142"
+      ],
+      "location": "Thailand"
     }
   ]
 }
