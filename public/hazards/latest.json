@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-04T18:33:54Z",
+  "generated_at": "2026-04-04T18:59:23Z",
   "items": [
     {
       "source": "gdacs",
@@ -480,21 +480,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028139"
       ],
       "location": "Myanmar"
-    },
-    {
-      "source": "media",
-      "id": "us6000smfm",
-      "ts": "2026-04-03T21:19:06Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "125 km E of Bitung, Indonesia",
-      "body": "125 km E of Bitung, Indonesia",
-      "mag": 5.1,
-      "lat": 1.4735,
-      "lon": 126.26,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smfm"
-      ]
     },
     {
       "source": "gdacs",
@@ -1382,6 +1367,37 @@
         "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1533366"
       ],
       "location": "Taiwan 04/04/2026 17:14 UTC, 80 thousand in MMI VI."
+    },
+    {
+      "source": "media",
+      "id": "us6000smm5",
+      "ts": "2026-04-04T18:26:13Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "77 km SSW of Yulara, Australia",
+      "body": "77 km SSW of Yulara, Australia",
+      "mag": 5.5,
+      "lat": -25.9274,
+      "lon": 130.8226,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smm5"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1533376",
+      "ts": "2026-04-04T18:42:39Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 5.5M, Depth:10km) in Australia 04/04/2026 18:26 UTC, 2 thousand in MMI V.",
+      "body": "On 4/4/2026 6:26:13 PM, an earthquake occurred in Australia potentially affecting 2 thousand in MMI V. The earthquake had Magnitude 5.5M, Depth:10km.",
+      "details": "On 4/4/2026 6:26:13 PM, an earthquake occurred in Australia potentially affecting 2 thousand in MMI V. The earthquake had Magnitude 5.5M, Depth:10km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1533376"
+      ],
+      "location": "Australia 04/04/2026 18:26 UTC, 2 thousand in MMI V."
     }
   ]
 }
