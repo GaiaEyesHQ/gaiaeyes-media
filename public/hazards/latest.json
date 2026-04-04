@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-04T06:14:29Z",
+  "generated_at": "2026-04-04T06:40:35Z",
   "items": [
     {
       "source": "gdacs",
@@ -496,21 +496,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1532793"
       ],
       "location": "Indonesia 03/04/2026 00:22 UTC, 4 thousand in MMI IV."
-    },
-    {
-      "source": "media",
-      "id": "us6000sm9g",
-      "ts": "2026-04-03T02:33:49Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "Kermadec Islands region",
-      "body": "Kermadec Islands region",
-      "mag": 5,
-      "lat": -30.2388,
-      "lon": -179.0112,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sm9g"
-      ]
     },
     {
       "source": "media",
@@ -1158,6 +1143,53 @@
         "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1533187"
       ],
       "location": "Mid-Indian Ridge 04/04/2026 04:55 UTC, [unknown]."
+    },
+    {
+      "source": "media",
+      "id": "us6000smhq",
+      "ts": "2026-04-04T05:52:42Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "21 km SSE of Erci\u015f, Turkey",
+      "body": "21 km SSE of Erci\u015f, Turkey",
+      "mag": 5.1,
+      "lat": 38.8615,
+      "lon": 43.4874,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smhq"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "FL1103828",
+      "ts": "2026-04-04T06:18:42Z",
+      "type": "flood",
+      "severity": "info",
+      "title": "Green flood alert in Angola",
+      "body": "On 28/03/2026, a flood started in Angola, lasting until 31/03/2026 (last update). The flood caused 0 deaths and 100 displaced .",
+      "details": "On 28/03/2026, a flood started in Angola, lasting until 31/03/2026 (last update). The flood caused 0 deaths and 100 displaced .",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103828"
+      ],
+      "location": "Angola"
+    },
+    {
+      "source": "gdacs",
+      "id": "FL1103829",
+      "ts": "2026-04-04T06:28:05Z",
+      "type": "flood",
+      "severity": "info",
+      "title": "Green flood alert in Zimbabwe",
+      "body": "On 20/03/2026, a flood started in Zimbabwe, lasting until 31/03/2026 (last update). The flood caused 1 deaths and 0 displaced .",
+      "details": "On 20/03/2026, a flood started in Zimbabwe, lasting until 31/03/2026 (last update). The flood caused 1 deaths and 0 displaced .",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103829"
+      ],
+      "location": "Zimbabwe"
     }
   ]
 }
