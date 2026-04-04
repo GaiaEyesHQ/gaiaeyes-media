@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-04T17:32:34Z",
+  "generated_at": "2026-04-04T17:51:49Z",
   "items": [
     {
       "source": "gdacs",
@@ -432,21 +432,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028140"
       ],
       "location": "Laos"
-    },
-    {
-      "source": "media",
-      "id": "us6000smda",
-      "ts": "2026-04-03T16:12:58Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "35 km S of Jurm, Afghanistan",
-      "body": "35 km S of Jurm, Afghanistan",
-      "mag": 5.8,
-      "lat": 36.5479,
-      "lon": 70.852,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smda"
-      ]
     },
     {
       "source": "gdacs",
@@ -1366,6 +1351,37 @@
       "links": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smlm"
       ]
+    },
+    {
+      "source": "media",
+      "id": "us6000smlu",
+      "ts": "2026-04-04T17:14:57Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "4 km ENE of Hualien City, Taiwan",
+      "body": "4 km ENE of Hualien City, Taiwan",
+      "mag": 5.5,
+      "lat": 23.9901,
+      "lon": 121.6455,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smlu"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1533366",
+      "ts": "2026-04-04T17:33:33Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 5.5M, Depth:22.066km) in Taiwan 04/04/2026 17:14 UTC, 80 thousand in MMI VI.",
+      "body": "On 4/4/2026 5:14:57 PM, an earthquake occurred in Taiwan potentially affecting 80 thousand in MMI VI. The earthquake had Magnitude 5.5M, Depth:22.066km.",
+      "details": "On 4/4/2026 5:14:57 PM, an earthquake occurred in Taiwan potentially affecting 80 thousand in MMI VI. The earthquake had Magnitude 5.5M, Depth:22.066km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1533366"
+      ],
+      "location": "Taiwan 04/04/2026 17:14 UTC, 80 thousand in MMI VI."
     }
   ]
 }
