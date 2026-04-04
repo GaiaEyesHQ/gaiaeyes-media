@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-04T05:21:56Z",
+  "generated_at": "2026-04-04T05:49:48Z",
   "items": [
     {
       "source": "gdacs",
@@ -496,21 +496,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1532793"
       ],
       "location": "Indonesia 03/04/2026 00:22 UTC, 4 thousand in MMI IV."
-    },
-    {
-      "source": "media",
-      "id": "us6000sm96",
-      "ts": "2026-04-03T02:10:53Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "Kuril Islands",
-      "body": "Kuril Islands",
-      "mag": 5.1,
-      "lat": 46.886,
-      "lon": 152.8112,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sm96"
-      ]
     },
     {
       "source": "media",
@@ -1142,6 +1127,37 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028149"
       ],
       "location": "Myanmar"
+    },
+    {
+      "source": "media",
+      "id": "us6000smhl",
+      "ts": "2026-04-04T04:55:32Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "Mid-Indian Ridge",
+      "body": "Mid-Indian Ridge",
+      "mag": 5.5,
+      "lat": -21.8707,
+      "lon": 68.913,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smhl"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1533187",
+      "ts": "2026-04-04T05:13:22Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 5.5M, Depth:10km) in Mid-Indian Ridge 04/04/2026 04:55 UTC, [unknown].",
+      "body": "On 4/4/2026 4:55:32 AM, an earthquake occurred in Mid-Indian Ridge potentially affecting [unknown]. The earthquake had Magnitude 5.5M, Depth:10km.",
+      "details": "On 4/4/2026 4:55:32 AM, an earthquake occurred in Mid-Indian Ridge potentially affecting [unknown]. The earthquake had Magnitude 5.5M, Depth:10km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1533187"
+      ],
+      "location": "Mid-Indian Ridge 04/04/2026 04:55 UTC, [unknown]."
     }
   ]
 }
