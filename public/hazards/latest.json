@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-05T13:34:04Z",
+  "generated_at": "2026-04-05T13:58:44Z",
   "items": [
     {
       "source": "gdacs",
@@ -208,21 +208,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1533187"
       ],
       "location": "Mid-Indian Ridge 04/04/2026 04:55 UTC, [unknown]."
-    },
-    {
-      "source": "media",
-      "id": "us6000smhq",
-      "ts": "2026-04-04T05:52:42Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "21 km SSE of Erci\u015f, Turkey",
-      "body": "21 km SSE of Erci\u015f, Turkey",
-      "mag": 5.1,
-      "lat": 38.8615,
-      "lon": 43.4874,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smhq"
-      ]
     },
     {
       "source": "gdacs",
@@ -1222,6 +1207,37 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028114"
       ],
       "location": "China"
+    },
+    {
+      "source": "media",
+      "id": "us6000smui",
+      "ts": "2026-04-05T13:22:15Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "south of the Kermadec Islands",
+      "body": "south of the Kermadec Islands",
+      "mag": 5.5,
+      "lat": -32.0412,
+      "lon": -177.8645,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smui"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1533580",
+      "ts": "2026-04-05T13:42:18Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 5.5M, Depth:10km) in South Of Kermadec Islands 05/04/2026 13:22 UTC, [unknown].",
+      "body": "On 4/5/2026 1:22:15 PM, an earthquake occurred in South Of Kermadec Islands potentially affecting [unknown]. The earthquake had Magnitude 5.5M, Depth:10km.",
+      "details": "On 4/5/2026 1:22:15 PM, an earthquake occurred in South Of Kermadec Islands potentially affecting [unknown]. The earthquake had Magnitude 5.5M, Depth:10km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1533580"
+      ],
+      "location": "South Of Kermadec Islands 05/04/2026 13:22 UTC, [unknown]."
     }
   ]
 }
