@@ -1,22 +1,6 @@
 {
-  "generated_at": "2026-04-06T02:11:01Z",
+  "generated_at": "2026-04-06T03:31:34Z",
   "items": [
-    {
-      "source": "gdacs",
-      "id": "TC1001268",
-      "ts": "2026-04-04T02:23:07Z",
-      "type": "cyclone",
-      "severity": "info",
-      "title": "Green notification for tropical cyclone MAILA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 36328 .",
-      "body": "From 04/04/2026 to 05/04/2026, a Hurricane/Typhoon > 74 mph (maximum wind speed of 204 km/h) MAILA-26 was active in SWPacific. The cyclone affects these countries: Solomon Islands, Papua New Guinea (vulnerability High). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 36328 .",
-      "details": "From 04/04/2026 to 05/04/2026, a Hurricane/Typhoon > 74 mph (maximum wind speed of 204 km/h) MAILA-26 was active in SWPacific. The cyclone affects these countries: Solomon Islands, Papua New Guinea (vulnerability High). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 36328 .",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001268"
-      ],
-      "location": null
-    },
     {
       "source": "gdacs",
       "id": "EQ1533187",
@@ -564,8 +548,8 @@
       "type": "cyclone",
       "severity": "info",
       "title": "Green notification for tropical cyclone VAIANU-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
-      "body": "From 05/04/2026 to 05/04/2026, a Tropical Storm (maximum wind speed of 194 km/h) VAIANU-26 was active in SEPacific. The cyclone affects these countries: Fiji (vulnerability Medium). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
-      "details": "From 05/04/2026 to 05/04/2026, a Tropical Storm (maximum wind speed of 194 km/h) VAIANU-26 was active in SEPacific. The cyclone affects these countries: Fiji (vulnerability Medium). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
+      "body": "From 05/04/2026 to 06/04/2026, a Hurricane/Typhoon > 74 mph (maximum wind speed of 194 km/h) VAIANU-26 was active in SEPacific. The cyclone affects these countries: Fiji (vulnerability Medium). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
+      "details": "From 05/04/2026 to 06/04/2026, a Hurricane/Typhoon > 74 mph (maximum wind speed of 194 km/h) VAIANU-26 was active in SEPacific. The cyclone affects these countries: Fiji (vulnerability Medium). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
       "lat": null,
       "lon": null,
       "links": [
@@ -921,25 +905,24 @@
       "location": "Thailand"
     },
     {
-      "source": "gdacs",
-      "id": "WF1028180",
-      "ts": "2026-04-05T23:00:24Z",
-      "type": "wildfire",
+      "source": "media",
+      "id": "us6000smyb",
+      "ts": "2026-04-06T00:42:27Z",
+      "type": "quake",
       "severity": "info",
-      "title": "Green forest fire notification in Russian Federation",
-      "body": "On 04/04/2026, a forest fire started in Russian Federation,  until 05/04/2026.",
-      "details": "On 04/04/2026, a forest fire started in Russian Federation,  until 05/04/2026.",
-      "lat": null,
-      "lon": null,
+      "title": "south of the Kermadec Islands",
+      "body": "south of the Kermadec Islands",
+      "mag": 5.4,
+      "lat": -32.0588,
+      "lon": -178.0534,
       "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028180"
-      ],
-      "location": "Russian Federation"
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smyb"
+      ]
     },
     {
       "source": "gdacs",
       "id": "WF1028179",
-      "ts": "2026-04-05T23:00:30Z",
+      "ts": "2026-04-06T03:00:41Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Australia",
@@ -954,8 +937,24 @@
     },
     {
       "source": "gdacs",
+      "id": "WF1028180",
+      "ts": "2026-04-06T03:00:54Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Russian Federation",
+      "body": "On 04/04/2026, a forest fire started in Russian Federation,  until 05/04/2026.",
+      "details": "On 04/04/2026, a forest fire started in Russian Federation,  until 05/04/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028180"
+      ],
+      "location": "Russian Federation"
+    },
+    {
+      "source": "gdacs",
       "id": "WF1028167",
-      "ts": "2026-04-05T23:01:12Z",
+      "ts": "2026-04-06T03:01:20Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Myanmar",
@@ -971,7 +970,7 @@
     {
       "source": "gdacs",
       "id": "WF1028192",
-      "ts": "2026-04-05T23:02:07Z",
+      "ts": "2026-04-06T03:02:22Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in India",
@@ -987,7 +986,7 @@
     {
       "source": "gdacs",
       "id": "WF1028106",
-      "ts": "2026-04-05T23:03:18Z",
+      "ts": "2026-04-06T03:02:59Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in China",
@@ -1003,7 +1002,7 @@
     {
       "source": "gdacs",
       "id": "WF1028193",
-      "ts": "2026-04-05T23:04:31Z",
+      "ts": "2026-04-06T03:04:21Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Sierra Leone",
@@ -1019,7 +1018,7 @@
     {
       "source": "gdacs",
       "id": "WF1028185",
-      "ts": "2026-04-05T23:04:40Z",
+      "ts": "2026-04-06T03:04:51Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Thailand",
@@ -1035,7 +1034,7 @@
     {
       "source": "gdacs",
       "id": "WF1028195",
-      "ts": "2026-04-05T23:05:06Z",
+      "ts": "2026-04-06T03:05:07Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Laos",
@@ -1051,7 +1050,7 @@
     {
       "source": "gdacs",
       "id": "WF1028194",
-      "ts": "2026-04-05T23:05:52Z",
+      "ts": "2026-04-06T03:06:06Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Sierra Leone",
@@ -1067,7 +1066,7 @@
     {
       "source": "gdacs",
       "id": "WF1028161",
-      "ts": "2026-04-05T23:07:55Z",
+      "ts": "2026-04-06T03:10:11Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in China",
@@ -1083,7 +1082,7 @@
     {
       "source": "gdacs",
       "id": "WF1028113",
-      "ts": "2026-04-05T23:10:22Z",
+      "ts": "2026-04-06T03:11:10Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in China",
@@ -1099,7 +1098,7 @@
     {
       "source": "gdacs",
       "id": "WF1028189",
-      "ts": "2026-04-05T23:11:35Z",
+      "ts": "2026-04-06T03:11:48Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Myanmar",
@@ -1115,7 +1114,7 @@
     {
       "source": "gdacs",
       "id": "WF1028114",
-      "ts": "2026-04-05T23:12:35Z",
+      "ts": "2026-04-06T03:12:29Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in China",
@@ -1127,21 +1126,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028114"
       ],
       "location": "China"
-    },
-    {
-      "source": "media",
-      "id": "us6000smyb",
-      "ts": "2026-04-06T00:42:27Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "south of the Kermadec Islands",
-      "body": "south of the Kermadec Islands",
-      "mag": 5.4,
-      "lat": -32.0588,
-      "lon": -178.0534,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smyb"
-      ]
     }
   ]
 }
