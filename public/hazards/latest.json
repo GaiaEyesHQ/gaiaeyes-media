@@ -1,22 +1,6 @@
 {
-  "generated_at": "2026-04-06T01:20:08Z",
+  "generated_at": "2026-04-06T02:11:01Z",
   "items": [
-    {
-      "source": "gdacs",
-      "id": "EQ1533130",
-      "ts": "2026-04-04T01:53:12Z",
-      "type": "quake",
-      "severity": "red",
-      "title": "Green earthquake (Magnitude 5.9M, Depth:48.684km) in Indonesia 04/04/2026 01:35 UTC, 530 thousand in MMI IV.",
-      "body": "On 4/4/2026 1:35:00 AM, an earthquake occurred in Indonesia potentially affecting 530 thousand in MMI IV. The earthquake had Magnitude 5.9M, Depth:48.684km.",
-      "details": "On 4/4/2026 1:35:00 AM, an earthquake occurred in Indonesia potentially affecting 530 thousand in MMI IV. The earthquake had Magnitude 5.9M, Depth:48.684km.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1533130"
-      ],
-      "location": "Indonesia 04/04/2026 01:35 UTC, 530 thousand in MMI IV."
-    },
     {
       "source": "gdacs",
       "id": "TC1001268",
@@ -320,21 +304,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028160"
       ],
       "location": "Bangladesh"
-    },
-    {
-      "source": "media",
-      "id": "us6000smjx",
-      "ts": "2026-04-04T11:21:12Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "46 km E of Tuapejat, Indonesia",
-      "body": "46 km E of Tuapejat, Indonesia",
-      "mag": 5.2,
-      "lat": -2.0711,
-      "lon": 100.0086,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smjx"
-      ]
     },
     {
       "source": "gdacs",
@@ -1158,6 +1127,21 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028114"
       ],
       "location": "China"
+    },
+    {
+      "source": "media",
+      "id": "us6000smyb",
+      "ts": "2026-04-06T00:42:27Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "south of the Kermadec Islands",
+      "body": "south of the Kermadec Islands",
+      "mag": 5.4,
+      "lat": -32.0588,
+      "lon": -178.0534,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000smyb"
+      ]
     }
   ]
 }
