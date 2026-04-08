@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-08T02:39:02Z",
+  "generated_at": "2026-04-08T03:44:13Z",
   "items": [
     {
       "source": "media",
@@ -622,22 +622,6 @@
     },
     {
       "source": "gdacs",
-      "id": "WF1028219",
-      "ts": "2026-04-07T23:00:18Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Mongolia",
-      "body": "On 07/04/2026, a forest fire started in Mongolia,  until 07/04/2026.",
-      "details": "On 07/04/2026, a forest fire started in Mongolia,  until 07/04/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028219"
-      ],
-      "location": "Mongolia"
-    },
-    {
-      "source": "gdacs",
       "id": "WF1028228",
       "ts": "2026-04-07T23:00:43Z",
       "type": "wildfire",
@@ -651,54 +635,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028228"
       ],
       "location": "United States"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1028179",
-      "ts": "2026-04-07T23:01:17Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Australia",
-      "body": "On 04/04/2026, a forest fire started in Australia,  until 05/04/2026.",
-      "details": "On 04/04/2026, a forest fire started in Australia,  until 05/04/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028179"
-      ],
-      "location": "Australia"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1028207",
-      "ts": "2026-04-07T23:01:28Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Myanmar",
-      "body": "On 04/04/2026, a forest fire started in Myanmar,  until 06/04/2026.",
-      "details": "On 04/04/2026, a forest fire started in Myanmar,  until 06/04/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028207"
-      ],
-      "location": "Myanmar"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1028180",
-      "ts": "2026-04-07T23:01:41Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Russian Federation",
-      "body": "On 04/04/2026, a forest fire started in Russian Federation,  until 05/04/2026.",
-      "details": "On 04/04/2026, a forest fire started in Russian Federation,  until 05/04/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028180"
-      ],
-      "location": "Russian Federation"
     },
     {
       "source": "gdacs",
@@ -717,9 +653,88 @@
       "location": "Thailand"
     },
     {
+      "source": "media",
+      "id": "us7000sb8q",
+      "ts": "2026-04-08T00:11:27Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "99 km E of Tadine, New Caledonia",
+      "body": "99 km E of Tadine, New Caledonia",
+      "mag": 5.1,
+      "lat": -21.4657,
+      "lon": 168.8373,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sb8q"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1028219",
+      "ts": "2026-04-08T03:00:23Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Mongolia",
+      "body": "On 07/04/2026, a forest fire started in Mongolia,  until 07/04/2026.",
+      "details": "On 07/04/2026, a forest fire started in Mongolia,  until 07/04/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028219"
+      ],
+      "location": "Mongolia"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1028180",
+      "ts": "2026-04-08T03:01:21Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Russian Federation",
+      "body": "On 04/04/2026, a forest fire started in Russian Federation,  until 05/04/2026.",
+      "details": "On 04/04/2026, a forest fire started in Russian Federation,  until 05/04/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028180"
+      ],
+      "location": "Russian Federation"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1028179",
+      "ts": "2026-04-08T03:01:27Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Australia",
+      "body": "On 04/04/2026, a forest fire started in Australia,  until 05/04/2026.",
+      "details": "On 04/04/2026, a forest fire started in Australia,  until 05/04/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028179"
+      ],
+      "location": "Australia"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1028207",
+      "ts": "2026-04-08T03:01:42Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Myanmar",
+      "body": "On 04/04/2026, a forest fire started in Myanmar,  until 06/04/2026.",
+      "details": "On 04/04/2026, a forest fire started in Myanmar,  until 06/04/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028207"
+      ],
+      "location": "Myanmar"
+    },
+    {
       "source": "gdacs",
       "id": "WF1028192",
-      "ts": "2026-04-07T23:03:48Z",
+      "ts": "2026-04-08T03:03:33Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in India",
@@ -735,7 +750,7 @@
     {
       "source": "gdacs",
       "id": "WF1028226",
-      "ts": "2026-04-07T23:03:59Z",
+      "ts": "2026-04-08T03:03:43Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Liberia",
@@ -750,8 +765,24 @@
     },
     {
       "source": "gdacs",
+      "id": "WF1028232",
+      "ts": "2026-04-08T03:06:04Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Chile",
+      "body": "On 30/03/2026, a forest fire started in Chile,  until 07/04/2026.",
+      "details": "On 30/03/2026, a forest fire started in Chile,  until 07/04/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028232"
+      ],
+      "location": "Chile"
+    },
+    {
+      "source": "gdacs",
       "id": "WF1028223",
-      "ts": "2026-04-07T23:07:22Z",
+      "ts": "2026-04-08T03:06:54Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Thailand",
@@ -767,7 +798,7 @@
     {
       "source": "gdacs",
       "id": "WF1028230",
-      "ts": "2026-04-07T23:10:01Z",
+      "ts": "2026-04-08T03:09:28Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Laos",
@@ -783,7 +814,7 @@
     {
       "source": "gdacs",
       "id": "WF1028210",
-      "ts": "2026-04-07T23:10:57Z",
+      "ts": "2026-04-08T03:10:24Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Bangladesh",
@@ -799,7 +830,7 @@
     {
       "source": "gdacs",
       "id": "WF1028161",
-      "ts": "2026-04-07T23:11:36Z",
+      "ts": "2026-04-08T03:10:53Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in China",
@@ -815,7 +846,7 @@
     {
       "source": "gdacs",
       "id": "WF1028231",
-      "ts": "2026-04-07T23:11:42Z",
+      "ts": "2026-04-08T03:10:58Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Thailand",
@@ -831,7 +862,7 @@
     {
       "source": "gdacs",
       "id": "WF1028224",
-      "ts": "2026-04-07T23:11:51Z",
+      "ts": "2026-04-08T03:11:09Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in India",
@@ -847,7 +878,7 @@
     {
       "source": "gdacs",
       "id": "WF1028216",
-      "ts": "2026-04-07T23:14:43Z",
+      "ts": "2026-04-08T03:14:08Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Myanmar, Thailand",
@@ -863,7 +894,7 @@
     {
       "source": "gdacs",
       "id": "WF1028220",
-      "ts": "2026-04-07T23:15:59Z",
+      "ts": "2026-04-08T03:15:43Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Laos",
@@ -875,21 +906,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028220"
       ],
       "location": "Laos"
-    },
-    {
-      "source": "media",
-      "id": "us7000sb8q",
-      "ts": "2026-04-08T00:11:28Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "90 km E of Tadine, New Caledonia",
-      "body": "90 km E of Tadine, New Caledonia",
-      "mag": 5.1,
-      "lat": -21.4991,
-      "lon": 168.7522,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sb8q"
-      ]
     }
   ]
 }
