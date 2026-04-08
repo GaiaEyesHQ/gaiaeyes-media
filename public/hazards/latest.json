@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-08T09:06:27Z",
+  "generated_at": "2026-04-08T09:38:17Z",
   "items": [
     {
       "source": "gdacs",
@@ -780,6 +780,52 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028220"
       ],
       "location": "Laos"
+    },
+    {
+      "source": "media",
+      "id": "us7000sbap",
+      "ts": "2026-04-08T08:33:16Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "145 km SE of Kirakira, Solomon Islands",
+      "body": "145 km SE of Kirakira, Solomon Islands",
+      "mag": 5,
+      "lat": -11.273,
+      "lon": 162.9599,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sbap"
+      ]
+    },
+    {
+      "source": "media",
+      "id": "us7000sbau",
+      "ts": "2026-04-08T09:05:36Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "64 km SSE of Sovetabad, Azerbaijan",
+      "body": "64 km SSE of Sovetabad, Azerbaijan",
+      "mag": 5.6,
+      "lat": 38.8408,
+      "lon": 49.6001,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sbau"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1534201",
+      "ts": "2026-04-08T09:23:57Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 5.6M, Depth:10km) in Azerbaijan 08/04/2026 09:05 UTC, 1.9 million in MMI>=IV.",
+      "body": "On 4/8/2026 9:05:36 AM, an earthquake occurred in Azerbaijan potentially affecting 1.9 million in MMI>=IV. The earthquake had Magnitude 5.6M, Depth:10km.",
+      "details": "On 4/8/2026 9:05:36 AM, an earthquake occurred in Azerbaijan potentially affecting 1.9 million in MMI>=IV. The earthquake had Magnitude 5.6M, Depth:10km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1534201"
+      ],
+      "location": "Azerbaijan 08/04/2026 09:05 UTC, 1.9 million in MMI>=IV."
     }
   ]
 }
