@@ -1,22 +1,6 @@
 {
-  "generated_at": "2026-04-09T05:22:51Z",
+  "generated_at": "2026-04-09T06:04:19Z",
   "items": [
-    {
-      "source": "gdacs",
-      "id": "FL1103833",
-      "ts": "2026-04-07T05:39:09Z",
-      "type": "flood",
-      "severity": "info",
-      "title": "Green flood alert in T\u00fcrkiye",
-      "body": "On 05/04/2026, a flood started in T\u00fcrkiye, lasting until 07/04/2026 (last update). The flood caused 0 deaths and 0 displaced .",
-      "details": "On 05/04/2026, a flood started in T\u00fcrkiye, lasting until 07/04/2026 (last update). The flood caused 0 deaths and 0 displaced .",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103833"
-      ],
-      "location": "T\u00fcrkiye"
-    },
     {
       "source": "gdacs",
       "id": "WF1028214",
@@ -602,6 +586,21 @@
         "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001270"
       ],
       "location": null
+    },
+    {
+      "source": "media",
+      "id": "us6000snmg",
+      "ts": "2026-04-09T05:35:00Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "State of Yap, Federated States of Micronesia",
+      "body": "State of Yap, Federated States of Micronesia",
+      "mag": 5.1,
+      "lat": 9.8171,
+      "lon": 145.8264,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000snmg"
+      ]
     }
   ]
 }
