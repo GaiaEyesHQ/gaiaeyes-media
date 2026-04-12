@@ -1,21 +1,6 @@
 {
-  "generated_at": "2026-04-12T11:05:26Z",
+  "generated_at": "2026-04-12T11:22:26Z",
   "items": [
-    {
-      "source": "media",
-      "id": "us6000snwt",
-      "ts": "2026-04-10T11:08:53Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "20 km NW of Curup, Indonesia",
-      "body": "20 km NW of Curup, Indonesia",
-      "mag": 5.1,
-      "lat": -3.3432,
-      "lon": 102.382,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000snwt"
-      ]
-    },
     {
       "source": "media",
       "id": "us6000snxb",
@@ -862,22 +847,6 @@
     },
     {
       "source": "gdacs",
-      "id": "WF1028266",
-      "ts": "2026-04-12T07:12:00Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Laos",
-      "body": "On 29/03/2026, a forest fire started in Laos,  until 10/04/2026.",
-      "details": "On 29/03/2026, a forest fire started in Laos,  until 10/04/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028266"
-      ],
-      "location": "Laos"
-    },
-    {
-      "source": "gdacs",
       "id": "WF1028268",
       "ts": "2026-04-12T07:12:37Z",
       "type": "wildfire",
@@ -1019,6 +988,54 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028304"
       ],
       "location": "Laos"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1028266",
+      "ts": "2026-04-12T11:13:00Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Laos",
+      "body": "On 29/03/2026, a forest fire started in Laos,  until 10/04/2026.",
+      "details": "On 29/03/2026, a forest fire started in Laos,  until 10/04/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028266"
+      ],
+      "location": "Laos"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1028305",
+      "ts": "2026-04-12T11:13:25Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Laos",
+      "body": "On 29/03/2026, a forest fire started in Laos,  until 12/04/2026.",
+      "details": "On 29/03/2026, a forest fire started in Laos,  until 12/04/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028305"
+      ],
+      "location": "Laos"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1028306",
+      "ts": "2026-04-12T11:14:07Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Thailand",
+      "body": "On 28/03/2026, a forest fire started in Thailand,  until 12/04/2026.",
+      "details": "On 28/03/2026, a forest fire started in Thailand,  until 12/04/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028306"
+      ],
+      "location": "Thailand"
     }
   ]
 }
