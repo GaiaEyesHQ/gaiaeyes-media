@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-14T03:41:18Z",
+  "generated_at": "2026-04-14T04:47:17Z",
   "items": [
     {
       "source": "gdacs",
@@ -704,15 +704,15 @@
       "ts": "2026-04-14T01:34:51Z",
       "type": "quake",
       "severity": "red",
-      "title": "Green earthquake (Magnitude 5.68M, Depth:5km) in United States 14/04/2026 01:29 UTC, 600 thousand in 100km.",
-      "body": "On 4/14/2026 1:29:12 AM, an earthquake occurred in United States potentially affecting 600 thousand in 100km. The earthquake had Magnitude 5.68M, Depth:5km.",
-      "details": "On 4/14/2026 1:29:12 AM, an earthquake occurred in United States potentially affecting 600 thousand in 100km. The earthquake had Magnitude 5.68M, Depth:5km.",
+      "title": "Green earthquake (Magnitude 5.68M, Depth:5km) in United States 14/04/2026 01:29 UTC, 2 thousand in MMI VI.",
+      "body": "On 4/14/2026 1:29:12 AM, an earthquake occurred in United States potentially affecting 2 thousand in MMI VI. The earthquake had Magnitude 5.68M, Depth:5km.",
+      "details": "On 4/14/2026 1:29:12 AM, an earthquake occurred in United States potentially affecting 2 thousand in MMI VI. The earthquake had Magnitude 5.68M, Depth:5km.",
       "lat": null,
       "lon": null,
       "links": [
         "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1535249"
       ],
-      "location": "United States 14/04/2026 01:29 UTC, 600 thousand in 100km."
+      "location": "United States 14/04/2026 01:29 UTC, 2 thousand in MMI VI."
     },
     {
       "source": "gdacs",
@@ -873,6 +873,21 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028332"
       ],
       "location": "Laos"
+    },
+    {
+      "source": "media",
+      "id": "us6000spva",
+      "ts": "2026-04-14T03:04:21Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "Pagan region, Northern Mariana Islands",
+      "body": "Pagan region, Northern Mariana Islands",
+      "mag": 5.5,
+      "lat": 18.9342,
+      "lon": 145.4987,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000spva"
+      ]
     },
     {
       "source": "gdacs",
