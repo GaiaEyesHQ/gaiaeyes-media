@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-14T01:23:50Z",
+  "generated_at": "2026-04-14T02:20:38Z",
   "items": [
     {
       "source": "media",
@@ -921,6 +921,36 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028335"
       ],
       "location": "Laos"
+    },
+    {
+      "source": "media",
+      "id": "us6000sptw",
+      "ts": "2026-04-14T01:29:11Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "20 km ESE of Silver Springs, Nevada",
+      "body": "20 km ESE of Silver Springs, Nevada",
+      "mag": 5.7,
+      "lat": 39.3296,
+      "lon": -119.0147,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sptw"
+      ]
+    },
+    {
+      "source": "usgs",
+      "id": "00914068",
+      "ts": "2026-04-14T01:29:12Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "M 5.5 - 20 km ESE of Silver Springs, Nevada",
+      "body": "20 km ESE of Silver Springs, Nevada",
+      "mag": 5.49,
+      "lat": 39.3345,
+      "lon": -119.0075,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/nn00914068"
+      ]
     }
   ]
 }
