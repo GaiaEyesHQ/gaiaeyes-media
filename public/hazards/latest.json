@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-14T10:17:23Z",
+  "generated_at": "2026-04-14T10:47:48Z",
   "items": [
     {
       "source": "gdacs",
@@ -888,6 +888,37 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028335"
       ],
       "location": "Laos"
+    },
+    {
+      "source": "media",
+      "id": "us6000spye",
+      "ts": "2026-04-14T10:13:16Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "south of Africa",
+      "body": "south of Africa",
+      "mag": 5.7,
+      "lat": -49.3093,
+      "lon": 30.3996,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000spye"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1535327",
+      "ts": "2026-04-14T10:32:40Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 5.7M, Depth:10km) in South Of Africa 14/04/2026 10:13 UTC, [unknown].",
+      "body": "On 4/14/2026 10:13:16 AM, an earthquake occurred in South Of Africa potentially affecting [unknown]. The earthquake had Magnitude 5.7M, Depth:10km.",
+      "details": "On 4/14/2026 10:13:16 AM, an earthquake occurred in South Of Africa potentially affecting [unknown]. The earthquake had Magnitude 5.7M, Depth:10km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1535327"
+      ],
+      "location": "South Of Africa 14/04/2026 10:13 UTC, [unknown]."
     }
   ]
 }
