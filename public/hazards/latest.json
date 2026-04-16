@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-16T05:40:11Z",
+  "generated_at": "2026-04-16T06:21:41Z",
   "items": [
     {
       "source": "gdacs",
@@ -932,8 +932,8 @@
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in India",
-      "body": "On 11/04/2026, a forest fire started in India,  until 15/04/2026.",
-      "details": "On 11/04/2026, a forest fire started in India,  until 15/04/2026.",
+      "body": "On 10/04/2026, a forest fire started in India,  until 15/04/2026.",
+      "details": "On 10/04/2026, a forest fire started in India,  until 15/04/2026.",
       "lat": null,
       "lon": null,
       "links": [
@@ -1708,6 +1708,37 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028404"
       ],
       "location": "Viet Nam"
+    },
+    {
+      "source": "media",
+      "id": "us6000sqh2",
+      "ts": "2026-04-16T05:01:30Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "138 km SE of Kandrian, Papua New Guinea",
+      "body": "138 km SE of Kandrian, Papua New Guinea",
+      "mag": 5,
+      "lat": -7.0963,
+      "lon": 150.4314,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sqh2"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "FL1103840",
+      "ts": "2026-04-16T06:05:54Z",
+      "type": "flood",
+      "severity": "info",
+      "title": "Green flood alert in Canada",
+      "body": "On 13/04/2026, a flood started in Canada, lasting until 15/04/2026 (last update). The flood caused 0 deaths and 0 displaced .",
+      "details": "On 13/04/2026, a flood started in Canada, lasting until 15/04/2026 (last update). The flood caused 0 deaths and 0 displaced .",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103840"
+      ],
+      "location": "Canada"
     }
   ]
 }
