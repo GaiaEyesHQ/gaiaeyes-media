@@ -1,22 +1,6 @@
 {
-  "generated_at": "2026-04-16T10:17:31Z",
+  "generated_at": "2026-04-16T10:46:54Z",
   "items": [
-    {
-      "source": "gdacs",
-      "id": "EQ1535327",
-      "ts": "2026-04-14T10:32:40Z",
-      "type": "quake",
-      "severity": "red",
-      "title": "Green earthquake (Magnitude 5.7M, Depth:10km) in South Of Africa 14/04/2026 10:13 UTC, [unknown].",
-      "body": "On 4/14/2026 10:13:16 AM, an earthquake occurred in South Of Africa potentially affecting [unknown]. The earthquake had Magnitude 5.7M, Depth:10km.",
-      "details": "On 4/14/2026 10:13:16 AM, an earthquake occurred in South Of Africa potentially affecting [unknown]. The earthquake had Magnitude 5.7M, Depth:10km.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1535327"
-      ],
-      "location": "South Of Africa 14/04/2026 10:13 UTC, [unknown]."
-    },
     {
       "source": "gdacs",
       "id": "WF1028339",
@@ -1627,6 +1611,22 @@
       "links": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sqib"
       ]
+    },
+    {
+      "source": "gdacs",
+      "id": "FL1103841",
+      "ts": "2026-04-16T10:26:10Z",
+      "type": "flood",
+      "severity": "info",
+      "title": "Green flood alert in United States",
+      "body": "On 13/04/2026, a flood started in United States, lasting until 15/04/2026 (last update). The flood caused 0 deaths and 150 displaced .",
+      "details": "On 13/04/2026, a flood started in United States, lasting until 15/04/2026 (last update). The flood caused 0 deaths and 150 displaced .",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103841"
+      ],
+      "location": "United States"
     }
   ]
 }
