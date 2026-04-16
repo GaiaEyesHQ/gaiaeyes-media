@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-16T22:04:03Z",
+  "generated_at": "2026-04-16T22:24:28Z",
   "items": [
     {
       "source": "gdacs",
@@ -1580,22 +1580,6 @@
     },
     {
       "source": "gdacs",
-      "id": "WF1028298",
-      "ts": "2026-04-16T19:04:58Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Russian Federation",
-      "body": "On 11/04/2026, a forest fire started in Russian Federation,  until 12/04/2026.",
-      "details": "On 11/04/2026, a forest fire started in Russian Federation,  until 12/04/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028298"
-      ],
-      "location": "Russian Federation"
-    },
-    {
-      "source": "gdacs",
       "id": "WF1028433",
       "ts": "2026-04-16T19:05:03Z",
       "type": "wildfire",
@@ -1751,6 +1735,21 @@
       "lon": -16.4939,
       "links": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sqml"
+      ]
+    },
+    {
+      "source": "media",
+      "id": "us6000sqn6",
+      "ts": "2026-04-16T21:46:25Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "north of Ascension Island",
+      "body": "north of Ascension Island",
+      "mag": 5.1,
+      "lat": 0.2141,
+      "lon": -16.6026,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sqn6"
       ]
     }
   ]
