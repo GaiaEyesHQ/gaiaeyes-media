@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-17T21:52:06Z",
+  "generated_at": "2026-04-17T22:17:13Z",
   "items": [
     {
       "source": "gdacs",
@@ -1196,22 +1196,6 @@
     },
     {
       "source": "gdacs",
-      "id": "WF1028328",
-      "ts": "2026-04-17T19:12:31Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Sudan",
-      "body": "On 07/04/2026, a forest fire started in Sudan,  until 13/04/2026.",
-      "details": "On 07/04/2026, a forest fire started in Sudan,  until 13/04/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028328"
-      ],
-      "location": "Sudan"
-    },
-    {
-      "source": "gdacs",
       "id": "WF1028467",
       "ts": "2026-04-17T19:16:30Z",
       "type": "wildfire",
@@ -1273,6 +1257,21 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028469"
       ],
       "location": "Thailand"
+    },
+    {
+      "source": "media",
+      "id": "us6000sqz1",
+      "ts": "2026-04-17T21:46:30Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "99 km NE of Finschhafen, Papua New Guinea",
+      "body": "99 km NE of Finschhafen, Papua New Guinea",
+      "mag": 5.1,
+      "lat": -5.9581,
+      "lon": 148.5128,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sqz1"
+      ]
     }
   ]
 }
