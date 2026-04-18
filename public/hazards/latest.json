@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-18T15:20:50Z",
+  "generated_at": "2026-04-18T15:46:28Z",
   "items": [
     {
       "source": "gdacs",
@@ -104,8 +104,8 @@
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Sudan",
-      "body": "On 07/04/2026, a forest fire started in Sudan,  until 17/04/2026.",
-      "details": "On 07/04/2026, a forest fire started in Sudan,  until 17/04/2026.",
+      "body": "On 07/04/2026, a forest fire started in Sudan,  until 18/04/2026.",
+      "details": "On 07/04/2026, a forest fire started in Sudan,  until 18/04/2026.",
       "lat": null,
       "lon": null,
       "links": [
@@ -531,21 +531,6 @@
     },
     {
       "source": "media",
-      "id": "us6000sqzl",
-      "ts": "2026-04-17T23:21:27Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "83 km WSW of Modisi, Indonesia",
-      "body": "83 km WSW of Modisi, Indonesia",
-      "mag": 5.1,
-      "lat": 0.0691,
-      "lon": 123.7912,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sqzl"
-      ]
-    },
-    {
-      "source": "media",
       "id": "us6000sqzn",
       "ts": "2026-04-17T23:29:37Z",
       "type": "quake",
@@ -843,22 +828,6 @@
     },
     {
       "source": "gdacs",
-      "id": "WF1028404",
-      "ts": "2026-04-18T11:19:08Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Viet Nam",
-      "body": "On 04/04/2026, a forest fire started in Viet Nam,  until 15/04/2026.",
-      "details": "On 04/04/2026, a forest fire started in Viet Nam,  until 15/04/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028404"
-      ],
-      "location": "Viet Nam"
-    },
-    {
-      "source": "gdacs",
       "id": "WF1028469",
       "ts": "2026-04-18T11:21:09Z",
       "type": "wildfire",
@@ -966,6 +935,21 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028459"
       ],
       "location": "Australia"
+    },
+    {
+      "source": "media",
+      "id": "us6000sr4k",
+      "ts": "2026-04-18T15:03:00Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "44 km WSW of Kirakira, Solomon Islands",
+      "body": "44 km WSW of Kirakira, Solomon Islands",
+      "mag": 5.8,
+      "lat": -10.6594,
+      "lon": 161.575,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sr4k"
+      ]
     },
     {
       "source": "gdacs",
@@ -1126,6 +1110,38 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028486"
       ],
       "location": "India"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1028404",
+      "ts": "2026-04-18T15:19:01Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Viet Nam",
+      "body": "On 04/04/2026, a forest fire started in Viet Nam,  until 15/04/2026.",
+      "details": "On 04/04/2026, a forest fire started in Viet Nam,  until 15/04/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028404"
+      ],
+      "location": "Viet Nam"
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1536075",
+      "ts": "2026-04-18T15:21:52Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 5.8M, Depth:47.956km) in Solomon Islands 18/04/2026 15:03 UTC, 60 thousand in MMI>=IV.",
+      "body": "On 4/18/2026 3:03:00 PM, an earthquake occurred in Solomon Islands potentially affecting 60 thousand in MMI>=IV. The earthquake had Magnitude 5.8M, Depth:47.956km.",
+      "details": "On 4/18/2026 3:03:00 PM, an earthquake occurred in Solomon Islands potentially affecting 60 thousand in MMI>=IV. The earthquake had Magnitude 5.8M, Depth:47.956km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1536075"
+      ],
+      "location": "Solomon Islands 18/04/2026 15:03 UTC, 60 thousand in MMI>=IV."
     }
   ]
 }
