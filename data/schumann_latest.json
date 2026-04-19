@@ -1,100 +1,27 @@
 {
   "status": "ok",
-  "timestamp_utc": "2026-04-19T22:34:10.114687+00:00",
+  "timestamp_utc": "2026-04-19T22:59:49.297398+00:00",
   "primary": "cumiana",
   "primary_quality_score": 1.0,
   "primary_quality_reasons": [],
   "overlay_path": "runs/cumiana_overlay.png",
   "sources": {
     "tomsk": {
-      "status": "ok",
-      "source": "tomsk",
-      "timestamp_utc": "2026-04-19T22:34:09.001482+00:00",
-      "last_modified": null,
-      "fundamental_hz": 7.7,
-      "harmonics_hz": {
-        "F1": 7.7,
-        "F2": 13.799999999999999,
-        "F3": 21.0,
-        "F4": 28.621613848209382,
-        "F5": 35.4
-      },
-      "amplitude_idx": {},
-      "quality_score": 0.920897712833003,
-      "usable": true,
-      "quality_reasons": [],
-      "confidence": "high-panels",
+      "status": "error",
+      "message": "tomsk extractor did not produce JSON.",
+      "stdout": "",
+      "stderr": "/opt/hostedtoolcache/Python/3.10.20/x64/lib/python3.10/site-packages/urllib3/connectionpool.py:1097: InsecureRequestWarning: Unverified HTTPS request is being made to host 'sos70.ru'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings\n  warnings.warn(\nFailed to fetch image\n",
       "overlay_path": "runs/tomsk_overlay.png",
-      "raw": {
-        "tsst_time": "2026-04-20T05:34:08.974293+00:00",
-        "roi": {
-          "x0": 59,
-          "y0": 31,
-          "x1": 1539,
-          "y1": 431
-        },
-        "group_boundaries_px": {
-          "x_day0": 59,
-          "x_day1": 568,
-          "x_day2": 1078,
-          "day_w": 509.5,
-          "x_day1_time": 522,
-          "x_day2_time": 986,
-          "day_w_time": 463.3333333333333
-        },
-        "debug": {
-          "x_frontier": 1132,
-          "frontier_method": "activity_scan",
-          "frontier_activity_thr": 0.6288077890872955,
-          "frontier_activity_right_tail": 0.009267209097743034,
-          "frontier_activity_run_px": 8,
-          "x1_exclude_right_px": 90,
-          "guard_px": 6,
-          "x_time": 1094,
-          "x_ideal": 1094,
-          "x_now": 1126,
-          "right_guard": 1126,
-          "delta_min_to_guard": 99.45323741007195,
-          "pph": 19.305555555555554,
-          "pph_source": "day_width",
-          "tick_count": 22,
-          "tick_quality": 0.3055555555555556,
-          "tick_used": false,
-          "bias_minutes_applied": 0.0,
-          "measured_bias_minutes": null,
-          "guard_applied": true,
-          "age_hours": null,
-          "stale_hours": 6.0,
-          "plausibility_reject_f2_count": 0,
-          "plausibility_selected_f2_rank": 0,
-          "family_scoring_used": true,
-          "family_best_f1": 7.2,
-          "family_best_score": 3.4994113087654113,
-          "family_candidate_count": 31,
-          "family_top3": [
-            {
-              "f1": 7.2,
-              "score": 3.4994113087654113
-            },
-            {
-              "f1": 7.25,
-              "score": 3.494899809360504
-            },
-            {
-              "f1": 7.3,
-              "score": 3.4849136233329774
-            }
-          ],
-          "family_score_threshold": 1.35,
-          "family_fallback_used": false
-        },
-        "method": "tick-ruler px/h + adaptive frontier guard; day3(48–72h) time-anchor; stage1 plausibility gate + stage2 family scoring"
-      }
+      "quality_score": 0.0,
+      "usable": false,
+      "quality_reasons": [
+        "status_error"
+      ]
     },
     "cumiana": {
       "status": "ok",
       "source": "cumiana",
-      "timestamp_utc": "2026-04-19T22:34:10.084655+00:00",
+      "timestamp_utc": "2026-04-19T22:59:49.266574+00:00",
       "last_modified": "2026-04-19T22:00:10+00:00",
       "fundamental_hz": 7.63,
       "harmonics_hz": {
