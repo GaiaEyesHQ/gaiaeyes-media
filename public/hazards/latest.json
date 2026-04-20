@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T19:03:35Z",
+  "generated_at": "2026-04-20T19:36:33Z",
   "items": [
     {
       "source": "gdacs",
@@ -224,21 +224,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028496"
       ],
       "location": "Thailand"
-    },
-    {
-      "source": "media",
-      "id": "us6000sred",
-      "ts": "2026-04-19T17:34:47Z",
-      "type": "quake",
-      "severity": "yellow",
-      "title": "93 km NNE of Hihifo, Tonga",
-      "body": "93 km NNE of Hihifo, Tonga",
-      "mag": 6.1,
-      "lat": -15.1256,
-      "lon": -173.6164,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sred"
-      ]
     },
     {
       "source": "gdacs",
@@ -513,15 +498,15 @@
       "ts": "2026-04-20T08:03:52Z",
       "type": "quake",
       "severity": "red",
-      "title": "Orange earthquake (Magnitude 7.4M, Depth:35km) in Japan 20/04/2026 07:53 UTC, 330 thousand in MMI VI.",
-      "body": "On 4/20/2026 7:53:00 AM, an earthquake occurred in Japan potentially affecting 330 thousand in MMI VI. The earthquake had Magnitude 7.4M, Depth:35km.",
-      "details": "On 4/20/2026 7:53:00 AM, an earthquake occurred in Japan potentially affecting 330 thousand in MMI VI. The earthquake had Magnitude 7.4M, Depth:35km.",
+      "title": "Orange earthquake (Magnitude 7.4M, Depth:35km) in Japan 20/04/2026 07:53 UTC, 70 thousand in MMI VI.",
+      "body": "On 4/20/2026 7:53:00 AM, an earthquake occurred in Japan potentially affecting 70 thousand in MMI VI. The earthquake had Magnitude 7.4M, Depth:35km.",
+      "details": "On 4/20/2026 7:53:00 AM, an earthquake occurred in Japan potentially affecting 70 thousand in MMI VI. The earthquake had Magnitude 7.4M, Depth:35km.",
       "lat": null,
       "lon": null,
       "links": [
         "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1536386"
       ],
-      "location": "Japan 20/04/2026 07:53 UTC, 330 thousand in MMI VI."
+      "location": "Japan 20/04/2026 07:53 UTC, 70 thousand in MMI VI."
     },
     {
       "source": "media",
@@ -597,6 +582,21 @@
       "lon": 143.4485,
       "links": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/us6000srjx"
+      ]
+    },
+    {
+      "source": "media",
+      "id": "us6000srn6",
+      "ts": "2026-04-20T18:47:05Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "166 km W of Abepura, Indonesia",
+      "body": "166 km W of Abepura, Indonesia",
+      "mag": 5.3,
+      "lat": -2.374,
+      "lon": 139.1482,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000srn6"
       ]
     }
   ]
