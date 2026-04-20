@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T04:50:32Z",
+  "generated_at": "2026-04-20T05:55:19Z",
   "items": [
     {
       "source": "gdacs",
@@ -208,21 +208,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028469"
       ],
       "location": "Thailand"
-    },
-    {
-      "source": "media",
-      "id": "us6000sr3w",
-      "ts": "2026-04-18T12:16:26Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "south of the Kermadec Islands",
-      "body": "south of the Kermadec Islands",
-      "mag": 5.2,
-      "lat": -32.0442,
-      "lon": -177.9073,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sr3w"
-      ]
     },
     {
       "source": "media",
@@ -838,6 +823,37 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028447"
       ],
       "location": "Laos"
+    },
+    {
+      "source": "gdacs",
+      "id": "FL1103842",
+      "ts": "2026-04-20T04:45:27Z",
+      "type": "flood",
+      "severity": "info",
+      "title": "Green flood alert in New Zealand",
+      "body": "On 17/04/2026, a flood started in New Zealand, lasting until 19/04/2026 (last update). The flood caused 0 deaths and 26 displaced .",
+      "details": "On 17/04/2026, a flood started in New Zealand, lasting until 19/04/2026 (last update). The flood caused 0 deaths and 26 displaced .",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103842"
+      ],
+      "location": "New Zealand"
+    },
+    {
+      "source": "media",
+      "id": "us6000srhi",
+      "ts": "2026-04-20T05:19:35Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "122 km NW of Maubara, Timor Leste",
+      "body": "122 km NW of Maubara, Timor Leste",
+      "mag": 5.2,
+      "lat": -7.9677,
+      "lon": 124.3047,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000srhi"
+      ]
     }
   ]
 }
