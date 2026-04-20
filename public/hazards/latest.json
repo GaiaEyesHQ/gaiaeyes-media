@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T08:33:00Z",
+  "generated_at": "2026-04-20T09:21:23Z",
   "items": [
     {
       "source": "gdacs",
@@ -24,8 +24,8 @@
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Thailand",
-      "body": "On 12/04/2026, a forest fire started in Thailand,  until 19/04/2026.",
-      "details": "On 12/04/2026, a forest fire started in Thailand,  until 19/04/2026.",
+      "body": "On 12/04/2026, a forest fire started in Thailand,  until 20/04/2026.",
+      "details": "On 12/04/2026, a forest fire started in Thailand,  until 20/04/2026.",
       "lat": null,
       "lon": null,
       "links": [
@@ -112,21 +112,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028469"
       ],
       "location": "Thailand"
-    },
-    {
-      "source": "media",
-      "id": "us6000sr4k",
-      "ts": "2026-04-18T15:03:00Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "44 km WSW of Kirakira, Solomon Islands",
-      "body": "44 km WSW of Kirakira, Solomon Islands",
-      "mag": 5.8,
-      "lat": -10.6594,
-      "lon": 161.575,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sr4k"
-      ]
     },
     {
       "source": "gdacs",
@@ -467,8 +452,8 @@
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Thailand",
-      "body": "On 10/04/2026, a forest fire started in Thailand,  until 19/04/2026.",
-      "details": "On 10/04/2026, a forest fire started in Thailand,  until 19/04/2026.",
+      "body": "On 10/04/2026, a forest fire started in Thailand,  until 20/04/2026.",
+      "details": "On 10/04/2026, a forest fire started in Thailand,  until 20/04/2026.",
       "lat": null,
       "lon": null,
       "links": [
@@ -483,8 +468,8 @@
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Thailand",
-      "body": "On 09/04/2026, a forest fire started in Thailand,  until 19/04/2026.",
-      "details": "On 09/04/2026, a forest fire started in Thailand,  until 19/04/2026.",
+      "body": "On 09/04/2026, a forest fire started in Thailand,  until 20/04/2026.",
+      "details": "On 09/04/2026, a forest fire started in Thailand,  until 20/04/2026.",
       "lat": null,
       "lon": null,
       "links": [
@@ -576,8 +561,8 @@
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Nepal",
-      "body": "On 12/04/2026, a forest fire started in Nepal,  until 19/04/2026.",
-      "details": "On 12/04/2026, a forest fire started in Nepal,  until 19/04/2026.",
+      "body": "On 12/04/2026, a forest fire started in Nepal,  until 20/04/2026.",
+      "details": "On 12/04/2026, a forest fire started in Nepal,  until 20/04/2026.",
       "lat": null,
       "lon": null,
       "links": [
@@ -760,12 +745,12 @@
       "location": "Laos"
     },
     {
-      "source": "usgs",
-      "id": "6000sri7",
+      "source": "media",
+      "id": "us6000sri7",
       "ts": "2026-04-20T07:53:00Z",
       "type": "quake",
       "severity": "orange",
-      "title": "M 7.4 - 100 km ENE of Miyako, Japan",
+      "title": "100 km ENE of Miyako, Japan",
       "body": "100 km ENE of Miyako, Japan",
       "mag": 7.4,
       "lat": 39.9532,
@@ -780,7 +765,7 @@
       "ts": "2026-04-20T08:03:52Z",
       "type": "quake",
       "severity": "red",
-      "title": "Green earthquake (Magnitude 7.4M, Depth:35km) in Japan 20/04/2026 07:53 UTC, 330 thousand in MMI VI.",
+      "title": "Orange earthquake (Magnitude 7.4M, Depth:35km) in Japan 20/04/2026 07:53 UTC, 330 thousand in MMI VI.",
       "body": "On 4/20/2026 7:53:00 AM, an earthquake occurred in Japan potentially affecting 330 thousand in MMI VI. The earthquake had Magnitude 7.4M, Depth:35km.",
       "details": "On 4/20/2026 7:53:00 AM, an earthquake occurred in Japan potentially affecting 330 thousand in MMI VI. The earthquake had Magnitude 7.4M, Depth:35km.",
       "lat": null,
@@ -789,6 +774,22 @@
         "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1536386"
       ],
       "location": "Japan 20/04/2026 07:53 UTC, 330 thousand in MMI VI."
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1536392",
+      "ts": "2026-04-20T08:48:38Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 5.6M, Depth:24.452km) in Japan 20/04/2026 08:32 UTC, 2.2 million in MMI III.",
+      "body": "On 4/20/2026 8:32:46 AM, an earthquake occurred in Japan potentially affecting 2.2 million in MMI III. The earthquake had Magnitude 5.6M, Depth:24.452km.",
+      "details": "On 4/20/2026 8:32:46 AM, an earthquake occurred in Japan potentially affecting 2.2 million in MMI III. The earthquake had Magnitude 5.6M, Depth:24.452km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1536392"
+      ],
+      "location": "Japan 20/04/2026 08:32 UTC, 2.2 million in MMI III."
     }
   ]
 }
