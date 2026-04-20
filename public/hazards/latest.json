@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T07:40:57Z",
+  "generated_at": "2026-04-20T08:33:00Z",
   "items": [
     {
       "source": "gdacs",
@@ -324,8 +324,8 @@
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Thailand",
-      "body": "On 13/04/2026, a forest fire started in Thailand,  until 19/04/2026.",
-      "details": "On 13/04/2026, a forest fire started in Thailand,  until 19/04/2026.",
+      "body": "On 13/04/2026, a forest fire started in Thailand,  until 20/04/2026.",
+      "details": "On 13/04/2026, a forest fire started in Thailand,  until 20/04/2026.",
       "lat": null,
       "lon": null,
       "links": [
@@ -758,6 +758,37 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028447"
       ],
       "location": "Laos"
+    },
+    {
+      "source": "usgs",
+      "id": "6000sri7",
+      "ts": "2026-04-20T07:53:00Z",
+      "type": "quake",
+      "severity": "orange",
+      "title": "M 7.4 - 100 km ENE of Miyako, Japan",
+      "body": "100 km ENE of Miyako, Japan",
+      "mag": 7.4,
+      "lat": 39.9532,
+      "lon": 143.0462,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sri7"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1536386",
+      "ts": "2026-04-20T08:03:52Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 7.4M, Depth:35km) in Japan 20/04/2026 07:53 UTC, 330 thousand in MMI VI.",
+      "body": "On 4/20/2026 7:53:00 AM, an earthquake occurred in Japan potentially affecting 330 thousand in MMI VI. The earthquake had Magnitude 7.4M, Depth:35km.",
+      "details": "On 4/20/2026 7:53:00 AM, an earthquake occurred in Japan potentially affecting 330 thousand in MMI VI. The earthquake had Magnitude 7.4M, Depth:35km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1536386"
+      ],
+      "location": "Japan 20/04/2026 07:53 UTC, 330 thousand in MMI VI."
     }
   ]
 }
