@@ -1,22 +1,6 @@
 {
-  "generated_at": "2026-04-21T06:20:38Z",
+  "generated_at": "2026-04-21T07:08:04Z",
   "items": [
-    {
-      "source": "gdacs",
-      "id": "WF1028490",
-      "ts": "2026-04-19T07:04:52Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Australia",
-      "body": "On 13/04/2026, a forest fire started in Australia,  until 19/04/2026.",
-      "details": "On 13/04/2026, a forest fire started in Australia,  until 19/04/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028490"
-      ],
-      "location": "Australia"
-    },
     {
       "source": "gdacs",
       "id": "WF1028484",
@@ -242,21 +226,6 @@
       "location": "Sudan"
     },
     {
-      "source": "media",
-      "id": "us6000srhw",
-      "ts": "2026-04-20T07:04:23Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "south of the Kermadec Islands",
-      "body": "south of the Kermadec Islands",
-      "mag": 5.1,
-      "lat": -32.4235,
-      "lon": -178.3141,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000srhw"
-      ]
-    },
-    {
       "source": "gdacs",
       "id": "WF1028502",
       "ts": "2026-04-20T07:07:36Z",
@@ -454,6 +423,21 @@
         "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1536567"
       ],
       "location": "Timor-Leste 21/04/2026 03:17 UTC, 1 million in MMI IV."
+    },
+    {
+      "source": "media",
+      "id": "us6000srs6",
+      "ts": "2026-04-21T05:29:09Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "146 km E of Miyako, Japan",
+      "body": "146 km E of Miyako, Japan",
+      "mag": 5.4,
+      "lat": 39.8481,
+      "lon": 143.6273,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000srs6"
+      ]
     }
   ]
 }
