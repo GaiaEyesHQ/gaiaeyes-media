@@ -1,37 +1,6 @@
 {
-  "generated_at": "2026-04-23T09:50:21Z",
+  "generated_at": "2026-04-23T10:36:10Z",
   "items": [
-    {
-      "source": "gdacs",
-      "id": "FL1103843",
-      "ts": "2026-04-21T10:14:35Z",
-      "type": "flood",
-      "severity": "info",
-      "title": "Green flood alert in Colombia",
-      "body": "On 17/04/2026, a flood started in Colombia, lasting until 19/04/2026 (last update). The flood caused 0 deaths and 0 displaced .",
-      "details": "On 17/04/2026, a flood started in Colombia, lasting until 19/04/2026 (last update). The flood caused 0 deaths and 0 displaced .",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103843"
-      ],
-      "location": "Colombia"
-    },
-    {
-      "source": "media",
-      "id": "us6000srtd",
-      "ts": "2026-04-21T10:30:27Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "Balleny Islands region",
-      "body": "Balleny Islands region",
-      "mag": 5.7,
-      "lat": -62.0123,
-      "lon": 164.998,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000srtd"
-      ]
-    },
     {
       "source": "gdacs",
       "id": "EQ1536619",
@@ -536,6 +505,21 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028520"
       ],
       "location": "India"
+    },
+    {
+      "source": "media",
+      "id": "us6000ss9m",
+      "ts": "2026-04-23T10:07:48Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "southern Mid-Atlantic Ridge",
+      "body": "southern Mid-Atlantic Ridge",
+      "mag": 5.2,
+      "lat": -42.2859,
+      "lon": -18.4093,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ss9m"
+      ]
     }
   ]
 }
