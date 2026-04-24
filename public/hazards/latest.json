@@ -1,22 +1,6 @@
 {
-  "generated_at": "2026-04-24T09:16:36Z",
+  "generated_at": "2026-04-24T09:55:56Z",
   "items": [
-    {
-      "source": "gdacs",
-      "id": "FL1103845",
-      "ts": "2026-04-22T09:24:38Z",
-      "type": "flood",
-      "severity": "info",
-      "title": "Green flood alert in T\u00fcrkiye",
-      "body": "On 20/04/2026, a flood started in T\u00fcrkiye, lasting until 22/04/2026 (last update). The flood caused 0 deaths and 0 displaced .",
-      "details": "On 20/04/2026, a flood started in T\u00fcrkiye, lasting until 22/04/2026 (last update). The flood caused 0 deaths and 0 displaced .",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103845"
-      ],
-      "location": "T\u00fcrkiye"
-    },
     {
       "source": "gdacs",
       "id": "FL1103846",
@@ -32,36 +16,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103846"
       ],
       "location": "Mexico"
-    },
-    {
-      "source": "media",
-      "id": "us6000ss1u",
-      "ts": "2026-04-22T12:18:37Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "93 km ENE of Miyako, Japan",
-      "body": "93 km ENE of Miyako, Japan",
-      "mag": 5,
-      "lat": 39.9953,
-      "lon": 142.9285,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ss1u"
-      ]
-    },
-    {
-      "source": "media",
-      "id": "us6000ss20",
-      "ts": "2026-04-22T13:20:45Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "31 km ENE of Luganville, Vanuatu",
-      "body": "31 km ENE of Luganville, Vanuatu",
-      "mag": 5,
-      "lat": -15.4409,
-      "lon": 167.4412,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ss20"
-      ]
     },
     {
       "source": "gdacs",
@@ -485,6 +439,36 @@
       "lon": 142.8333,
       "links": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sshp"
+      ]
+    },
+    {
+      "source": "media",
+      "id": "us6000ssij",
+      "ts": "2026-04-24T08:58:17Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "24 km S of Sitia, Greece",
+      "body": "24 km S of Sitia, Greece",
+      "mag": 5,
+      "lat": 34.9902,
+      "lon": 26.1319,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ssij"
+      ]
+    },
+    {
+      "source": "media",
+      "id": "us6000ssik",
+      "ts": "2026-04-24T08:59:28Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "167 km E of Petropavlovsk-Kamchatsky, Russia",
+      "body": "167 km E of Petropavlovsk-Kamchatsky, Russia",
+      "mag": 5.3,
+      "lat": 52.9231,
+      "lon": 161.1117,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ssik"
       ]
     }
   ]
