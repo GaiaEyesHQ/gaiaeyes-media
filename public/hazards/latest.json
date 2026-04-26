@@ -1,36 +1,6 @@
 {
-  "generated_at": "2026-04-26T04:29:18Z",
+  "generated_at": "2026-04-26T05:28:14Z",
   "items": [
-    {
-      "source": "media",
-      "id": "us6000sshk",
-      "ts": "2026-04-24T04:45:20Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "119 km WNW of Ternate, Indonesia",
-      "body": "119 km WNW of Ternate, Indonesia",
-      "mag": 5.3,
-      "lat": 1.1341,
-      "lon": 126.3665,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sshk"
-      ]
-    },
-    {
-      "source": "media",
-      "id": "us6000sshp",
-      "ts": "2026-04-24T05:13:10Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "86 km E of Noda, Japan",
-      "body": "86 km E of Noda, Japan",
-      "mag": 5,
-      "lat": 40.095,
-      "lon": 142.8333,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sshp"
-      ]
-    },
     {
       "source": "media",
       "id": "us6000ssij",
@@ -182,6 +152,22 @@
       "links": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ssvq"
       ]
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1537489",
+      "ts": "2026-04-26T04:45:17Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 5.9M, Depth:10km) in Mongolia 26/04/2026 04:23 UTC, 3 thousand in MMI VI.",
+      "body": "On 4/26/2026 4:23:24 AM, an earthquake occurred in Mongolia potentially affecting 3 thousand in MMI VI. The earthquake had Magnitude 5.9M, Depth:10km.",
+      "details": "On 4/26/2026 4:23:24 AM, an earthquake occurred in Mongolia potentially affecting 3 thousand in MMI VI. The earthquake had Magnitude 5.9M, Depth:10km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1537489"
+      ],
+      "location": "Mongolia 26/04/2026 04:23 UTC, 3 thousand in MMI VI."
     }
   ]
 }
