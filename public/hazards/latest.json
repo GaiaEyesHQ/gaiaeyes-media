@@ -1,22 +1,6 @@
 {
-  "generated_at": "2026-05-01T06:33:48Z",
+  "generated_at": "2026-05-01T07:31:06Z",
   "items": [
-    {
-      "source": "gdacs",
-      "id": "FL1103852",
-      "ts": "2026-04-29T06:34:10Z",
-      "type": "flood",
-      "severity": "info",
-      "title": "Green flood alert in Brazil",
-      "body": "On 27/04/2026, a flood started in Brazil, lasting until 30/04/2026 (last update). The flood caused 2 deaths and 0 displaced .",
-      "details": "On 27/04/2026, a flood started in Brazil, lasting until 30/04/2026 (last update). The flood caused 2 deaths and 0 displaced .",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103852"
-      ],
-      "location": "Brazil"
-    },
     {
       "source": "gdacs",
       "id": "WF1028567",
@@ -132,8 +116,8 @@
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in United Kingdom",
-      "body": "On 25/04/2026, a forest fire started in United Kingdom,  until 30/04/2026.",
-      "details": "On 25/04/2026, a forest fire started in United Kingdom,  until 30/04/2026.",
+      "body": "On 25/04/2026, a forest fire started in United Kingdom,  until 01/05/2026.",
+      "details": "On 25/04/2026, a forest fire started in United Kingdom,  until 01/05/2026.",
       "lat": null,
       "lon": null,
       "links": [
@@ -227,8 +211,8 @@
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Venezuela",
-      "body": "On 25/04/2026, a forest fire started in Venezuela,  until 30/04/2026.",
-      "details": "On 25/04/2026, a forest fire started in Venezuela,  until 30/04/2026.",
+      "body": "On 25/04/2026, a forest fire started in Venezuela,  until 01/05/2026.",
+      "details": "On 25/04/2026, a forest fire started in Venezuela,  until 01/05/2026.",
       "lat": null,
       "lon": null,
       "links": [
@@ -363,9 +347,72 @@
       ]
     },
     {
+      "source": "media",
+      "id": "us7000shh1",
+      "ts": "2026-05-01T04:03:16Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "70 km ENE of Severo-Kuril\u2019sk, Russia",
+      "body": "70 km ENE of Severo-Kuril\u2019sk, Russia",
+      "mag": 5.1,
+      "lat": 50.859,
+      "lon": 157.0891,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000shh1"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "FL1103855",
+      "ts": "2026-05-01T06:44:24Z",
+      "type": "flood",
+      "severity": "info",
+      "title": "Green flood alert in Spain",
+      "body": "On 28/04/2026, a flood started in Spain, lasting until 30/04/2026 (last update). The flood caused 0 deaths and 0 displaced .",
+      "details": "On 28/04/2026, a flood started in Spain, lasting until 30/04/2026 (last update). The flood caused 0 deaths and 0 displaced .",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103855"
+      ],
+      "location": "Spain"
+    },
+    {
+      "source": "gdacs",
+      "id": "FL1103856",
+      "ts": "2026-05-01T06:44:44Z",
+      "type": "flood",
+      "severity": "info",
+      "title": "Green flood alert in France",
+      "body": "On 27/04/2026, a flood started in France, lasting until 29/04/2026 (last update). The flood caused 0 deaths and 0 displaced .",
+      "details": "On 27/04/2026, a flood started in France, lasting until 29/04/2026 (last update). The flood caused 0 deaths and 0 displaced .",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103856"
+      ],
+      "location": "France"
+    },
+    {
+      "source": "gdacs",
+      "id": "FL1103857",
+      "ts": "2026-05-01T06:54:37Z",
+      "type": "flood",
+      "severity": "info",
+      "title": "Green flood alert in Kyrgyzstan",
+      "body": "On 28/04/2026, a flood started in Kyrgyzstan, lasting until 30/04/2026 (last update). The flood caused 0 deaths and 0 displaced .",
+      "details": "On 28/04/2026, a flood started in Kyrgyzstan, lasting until 30/04/2026 (last update). The flood caused 0 deaths and 0 displaced .",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103857"
+      ],
+      "location": "Kyrgyzstan"
+    },
+    {
       "source": "gdacs",
       "id": "WF1028573",
-      "ts": "2026-05-01T03:00:27Z",
+      "ts": "2026-05-01T07:00:22Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Russian Federation",
@@ -381,7 +428,7 @@
     {
       "source": "gdacs",
       "id": "WF1028522",
-      "ts": "2026-05-01T03:00:33Z",
+      "ts": "2026-05-01T07:00:27Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Australia",
@@ -397,7 +444,7 @@
     {
       "source": "gdacs",
       "id": "WF1028533",
-      "ts": "2026-05-01T03:01:58Z",
+      "ts": "2026-05-01T07:01:41Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Australia",
@@ -413,7 +460,7 @@
     {
       "source": "gdacs",
       "id": "WF1028532",
-      "ts": "2026-05-01T03:02:18Z",
+      "ts": "2026-05-01T07:02:00Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Australia",
@@ -429,7 +476,7 @@
     {
       "source": "gdacs",
       "id": "WF1028537",
-      "ts": "2026-05-01T03:02:35Z",
+      "ts": "2026-05-01T07:02:17Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Australia",
@@ -445,7 +492,7 @@
     {
       "source": "gdacs",
       "id": "WF1028549",
-      "ts": "2026-05-01T03:03:12Z",
+      "ts": "2026-05-01T07:02:51Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Australia",
@@ -461,7 +508,7 @@
     {
       "source": "gdacs",
       "id": "WF1028552",
-      "ts": "2026-05-01T03:04:32Z",
+      "ts": "2026-05-01T07:03:55Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in United States",
@@ -476,8 +523,24 @@
     },
     {
       "source": "gdacs",
+      "id": "FL1103858",
+      "ts": "2026-05-01T07:04:33Z",
+      "type": "flood",
+      "severity": "info",
+      "title": "Green flood alert in India",
+      "body": "On 29/04/2026, a flood started in India, lasting until 01/05/2026 (last update). The flood caused 8 deaths and 0 displaced .",
+      "details": "On 29/04/2026, a flood started in India, lasting until 01/05/2026 (last update). The flood caused 8 deaths and 0 displaced .",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103858"
+      ],
+      "location": "India"
+    },
+    {
+      "source": "gdacs",
       "id": "WF1028560",
-      "ts": "2026-05-01T03:05:51Z",
+      "ts": "2026-05-01T07:05:01Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Australia",
@@ -491,19 +554,20 @@
       "location": "Australia"
     },
     {
-      "source": "media",
-      "id": "us7000shh1",
-      "ts": "2026-05-01T04:03:16Z",
-      "type": "quake",
+      "source": "gdacs",
+      "id": "FL1103859",
+      "ts": "2026-05-01T07:14:21Z",
+      "type": "flood",
       "severity": "info",
-      "title": "70 km ENE of Severo-Kuril\u2019sk, Russia",
-      "body": "70 km ENE of Severo-Kuril\u2019sk, Russia",
-      "mag": 5.1,
-      "lat": 50.859,
-      "lon": 157.0891,
+      "title": "Green flood alert in Somalia",
+      "body": "On 26/04/2026, a flood started in Somalia, lasting until 28/04/2026 (last update). The flood caused 0 deaths and 4068 displaced .",
+      "details": "On 26/04/2026, a flood started in Somalia, lasting until 28/04/2026 (last update). The flood caused 0 deaths and 4068 displaced .",
+      "lat": null,
+      "lon": null,
       "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000shh1"
-      ]
+        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103859"
+      ],
+      "location": "Somalia"
     }
   ]
 }
