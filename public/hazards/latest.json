@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-01T13:04:46Z",
+  "generated_at": "2026-05-01T13:46:52Z",
   "items": [
     {
       "source": "gdacs",
@@ -16,21 +16,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028567"
       ],
       "location": "Mexico"
-    },
-    {
-      "source": "media",
-      "id": "us7000sh18",
-      "ts": "2026-04-29T16:11:26Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "Prince Edward Islands region",
-      "body": "Prince Edward Islands region",
-      "mag": 5.1,
-      "lat": -44.652,
-      "lon": 37.4301,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sh18"
-      ]
     },
     {
       "source": "media",
@@ -663,6 +648,37 @@
         "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103860"
       ],
       "location": "Dominican Republic"
+    },
+    {
+      "source": "media",
+      "id": "us7000shjp",
+      "ts": "2026-05-01T12:39:55Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "29 km ENE of Yilan, Taiwan",
+      "body": "29 km ENE of Yilan, Taiwan",
+      "mag": 5.8,
+      "lat": 24.8748,
+      "lon": 122.02,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000shjp"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1538458",
+      "ts": "2026-05-01T12:56:20Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 5.8M, Depth:97.333km) in Taiwan 01/05/2026 12:39 UTC, 5 million in MMI IV.",
+      "body": "On 5/1/2026 12:39:55 PM, an earthquake occurred in Taiwan potentially affecting 5 million in MMI IV. The earthquake had Magnitude 5.8M, Depth:97.333km.",
+      "details": "On 5/1/2026 12:39:55 PM, an earthquake occurred in Taiwan potentially affecting 5 million in MMI IV. The earthquake had Magnitude 5.8M, Depth:97.333km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1538458"
+      ],
+      "location": "Taiwan 01/05/2026 12:39 UTC, 5 million in MMI IV."
     }
   ]
 }
