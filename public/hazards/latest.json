@@ -1,38 +1,6 @@
 {
-  "generated_at": "2026-05-01T02:48:43Z",
+  "generated_at": "2026-05-01T04:15:53Z",
   "items": [
-    {
-      "source": "gdacs",
-      "id": "WF1028527",
-      "ts": "2026-04-29T03:00:54Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Australia",
-      "body": "On 25/04/2026, a forest fire started in Australia,  until 29/04/2026.",
-      "details": "On 25/04/2026, a forest fire started in Australia,  until 29/04/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028527"
-      ],
-      "location": "Australia"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1028545",
-      "ts": "2026-04-29T03:02:37Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Australia",
-      "body": "On 22/04/2026, a forest fire started in Australia,  until 29/04/2026.",
-      "details": "On 22/04/2026, a forest fire started in Australia,  until 29/04/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028545"
-      ],
-      "location": "Australia"
-    },
     {
       "source": "gdacs",
       "id": "FL1103852",
@@ -380,9 +348,24 @@
       "location": "Australia"
     },
     {
+      "source": "media",
+      "id": "us7000shg3",
+      "ts": "2026-05-01T00:49:08Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "southern Mid-Atlantic Ridge",
+      "body": "southern Mid-Atlantic Ridge",
+      "mag": 5,
+      "lat": -42.2007,
+      "lon": -18.4175,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000shg3"
+      ]
+    },
+    {
       "source": "gdacs",
       "id": "WF1028573",
-      "ts": "2026-04-30T23:00:20Z",
+      "ts": "2026-05-01T03:00:27Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Russian Federation",
@@ -398,7 +381,7 @@
     {
       "source": "gdacs",
       "id": "WF1028522",
-      "ts": "2026-04-30T23:00:26Z",
+      "ts": "2026-05-01T03:00:33Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Australia",
@@ -414,7 +397,7 @@
     {
       "source": "gdacs",
       "id": "WF1028533",
-      "ts": "2026-04-30T23:01:42Z",
+      "ts": "2026-05-01T03:01:58Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Australia",
@@ -430,7 +413,7 @@
     {
       "source": "gdacs",
       "id": "WF1028532",
-      "ts": "2026-04-30T23:02:01Z",
+      "ts": "2026-05-01T03:02:18Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Australia",
@@ -446,7 +429,7 @@
     {
       "source": "gdacs",
       "id": "WF1028537",
-      "ts": "2026-04-30T23:02:17Z",
+      "ts": "2026-05-01T03:02:35Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Australia",
@@ -462,7 +445,7 @@
     {
       "source": "gdacs",
       "id": "WF1028549",
-      "ts": "2026-04-30T23:02:50Z",
+      "ts": "2026-05-01T03:03:12Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Australia",
@@ -478,7 +461,7 @@
     {
       "source": "gdacs",
       "id": "WF1028552",
-      "ts": "2026-04-30T23:03:54Z",
+      "ts": "2026-05-01T03:04:32Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in United States",
@@ -494,7 +477,7 @@
     {
       "source": "gdacs",
       "id": "WF1028560",
-      "ts": "2026-04-30T23:04:58Z",
+      "ts": "2026-05-01T03:05:51Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Australia",
@@ -506,21 +489,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028560"
       ],
       "location": "Australia"
-    },
-    {
-      "source": "media",
-      "id": "us7000shg3",
-      "ts": "2026-05-01T00:49:08Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "southern Mid-Atlantic Ridge",
-      "body": "southern Mid-Atlantic Ridge",
-      "mag": 5,
-      "lat": -42.2007,
-      "lon": -18.4175,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000shg3"
-      ]
     }
   ]
 }
