@@ -1,38 +1,6 @@
 {
-  "generated_at": "2026-05-02T10:37:06Z",
+  "generated_at": "2026-05-02T11:01:52Z",
   "items": [
-    {
-      "source": "gdacs",
-      "id": "WF1028570",
-      "ts": "2026-04-30T11:00:06Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Brazil",
-      "body": "On 29/04/2026, a forest fire started in Brazil,  until 01/05/2026.",
-      "details": "On 29/04/2026, a forest fire started in Brazil,  until 01/05/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028570"
-      ],
-      "location": "Brazil"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1028571",
-      "ts": "2026-04-30T11:01:17Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Venezuela",
-      "body": "On 25/04/2026, a forest fire started in Venezuela,  until 02/05/2026.",
-      "details": "On 25/04/2026, a forest fire started in Venezuela,  until 02/05/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028571"
-      ],
-      "location": "Venezuela"
-    },
     {
       "source": "gdacs",
       "id": "DR1018431",
@@ -583,6 +551,21 @@
         "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1538608"
       ],
       "location": "Japan 02/05/2026 09:28 UTC, 140 thousand in MMI V."
+    },
+    {
+      "source": "media",
+      "id": "us7000shsh",
+      "ts": "2026-05-02T10:27:07Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "217 km W of Tual, Indonesia",
+      "body": "217 km W of Tual, Indonesia",
+      "mag": 5.2,
+      "lat": -5.9589,
+      "lon": 130.8204,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000shsh"
+      ]
     }
   ]
 }
