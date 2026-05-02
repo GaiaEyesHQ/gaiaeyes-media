@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "timestamp_utc": "2026-05-02T17:21:50.715270+00:00",
+  "timestamp_utc": "2026-05-02T17:48:33.680091+00:00",
   "primary": "cumiana",
   "primary_quality_score": 1.0,
   "primary_quality_reasons": [],
@@ -9,24 +9,24 @@
     "tomsk": {
       "status": "ok",
       "source": "tomsk",
-      "timestamp_utc": "2026-05-02T17:21:49.780889+00:00",
+      "timestamp_utc": "2026-05-02T17:48:32.399339+00:00",
       "last_modified": null,
-      "fundamental_hz": 7.479227243363857,
+      "fundamental_hz": null,
       "harmonics_hz": {
-        "F1": 7.479227243363857,
-        "F2": 15.000900555681438,
-        "F3": 19.410854548215866,
-        "F4": 25.491840226203202,
-        "F5": 30.577655932307245
+        "F1": null,
+        "F2": 14.0,
+        "F3": 18.660677951574325,
+        "F4": 32.62927437722683,
+        "F5": 32.62927437722683
       },
       "amplitude_idx": {},
-      "quality_score": 0.8471157111619648,
-      "usable": true,
+      "quality_score": 0.2,
+      "usable": false,
       "quality_reasons": [],
       "confidence": "high-panels",
       "overlay_path": "runs/tomsk_overlay.png",
       "raw": {
-        "tsst_time": "2026-05-03T00:21:49.755956+00:00",
+        "tsst_time": "2026-05-03T00:48:32.372542+00:00",
         "roi": {
           "x0": 59,
           "y0": 31,
@@ -35,54 +35,54 @@
         },
         "group_boundaries_px": {
           "x_day0": 59,
-          "x_day1": 570,
-          "x_day2": 1081,
-          "day_w": 511.0,
+          "x_day1": 554,
+          "x_day2": 1048,
+          "day_w": 494.5,
           "x_day1_time": 522,
           "x_day2_time": 986,
           "day_w_time": 463.3333333333333
         },
         "debug": {
-          "x_frontier": 1307,
+          "x_frontier": 1037,
           "frontier_method": "activity_scan",
-          "frontier_activity_thr": 0.5822781711816788,
-          "frontier_activity_right_tail": 0.45989546179771423,
+          "frontier_activity_thr": 0.6717632174491882,
+          "frontier_activity_right_tail": 0.009487641975283623,
           "frontier_activity_run_px": 8,
           "x1_exclude_right_px": 90,
           "guard_px": 6,
-          "x_time": 993,
-          "x_ideal": 993,
-          "x_now": 1301,
-          "right_guard": 1301,
-          "delta_min_to_guard": 957.2374100719426,
+          "x_time": 1002,
+          "x_ideal": 1002,
+          "x_now": 1031,
+          "right_guard": 1031,
+          "delta_min_to_guard": 90.1294964028777,
           "pph": 19.305555555555554,
           "pph_source": "day_width",
-          "tick_count": 21,
-          "tick_quality": 0.2916666666666667,
+          "tick_count": 22,
+          "tick_quality": 0.3055555555555556,
           "tick_used": false,
           "bias_minutes_applied": 0.0,
           "measured_bias_minutes": null,
           "guard_applied": true,
           "age_hours": null,
           "stale_hours": 6.0,
-          "plausibility_reject_f2_count": 1,
-          "plausibility_selected_f2_rank": 1,
+          "plausibility_reject_f2_count": 2,
+          "plausibility_selected_f2_rank": null,
           "family_scoring_used": false,
-          "family_best_f1": 7.2,
-          "family_best_score": 3.219039702415466,
+          "family_best_f1": 7.3,
+          "family_best_score": 3.420212519168854,
           "family_candidate_count": 29,
           "family_top3": [
             {
-              "f1": 7.2,
-              "score": 3.219039702415466
+              "f1": 7.3,
+              "score": 3.420212519168854
             },
             {
               "f1": 7.35,
-              "score": 3.214107489585876
+              "score": 3.420212519168854
             },
             {
-              "f1": 7.3,
-              "score": 3.2097211122512816
+              "f1": 7.3999999999999995,
+              "score": 3.420212519168854
             }
           ],
           "family_score_threshold": 1.35,
@@ -94,7 +94,7 @@
     "cumiana": {
       "status": "ok",
       "source": "cumiana",
-      "timestamp_utc": "2026-05-02T17:21:50.689070+00:00",
+      "timestamp_utc": "2026-05-02T17:48:33.645853+00:00",
       "last_modified": "2026-05-02T17:00:10+00:00",
       "fundamental_hz": 7.66,
       "harmonics_hz": {
