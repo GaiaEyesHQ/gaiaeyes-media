@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-02T09:45:21Z",
+  "generated_at": "2026-05-02T10:10:30Z",
   "items": [
     {
       "source": "gdacs",
@@ -568,6 +568,37 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028560"
       ],
       "location": "Australia"
+    },
+    {
+      "source": "media",
+      "id": "us7000shs2",
+      "ts": "2026-05-02T09:28:40Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "17 km SW of K\u014dya, Japan",
+      "body": "17 km SW of K\u014dya, Japan",
+      "mag": 5.7,
+      "lat": 34.107,
+      "lon": 135.4857,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000shs2"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1538608",
+      "ts": "2026-05-02T09:44:52Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 5.7M, Depth:59.087km) in Japan 02/05/2026 09:28 UTC, 140 thousand in MMI V.",
+      "body": "On 5/2/2026 9:28:40 AM, an earthquake occurred in Japan potentially affecting 140 thousand in MMI V. The earthquake had Magnitude 5.7M, Depth:59.087km.",
+      "details": "On 5/2/2026 9:28:40 AM, an earthquake occurred in Japan potentially affecting 140 thousand in MMI V. The earthquake had Magnitude 5.7M, Depth:59.087km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1538608"
+      ],
+      "location": "Japan 02/05/2026 09:28 UTC, 140 thousand in MMI V."
     }
   ]
 }
