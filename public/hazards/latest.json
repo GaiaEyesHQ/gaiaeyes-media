@@ -1,21 +1,6 @@
 {
-  "generated_at": "2026-05-03T11:01:02Z",
+  "generated_at": "2026-05-03T11:26:18Z",
   "items": [
-    {
-      "source": "media",
-      "id": "us7000shj5",
-      "ts": "2026-05-01T11:04:39Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "South Sandwich Islands region",
-      "body": "South Sandwich Islands region",
-      "mag": 5.1,
-      "lat": -57.7679,
-      "lon": -25.3328,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000shj5"
-      ]
-    },
     {
       "source": "media",
       "id": "us7000shjp",
@@ -234,9 +219,40 @@
       ]
     },
     {
+      "source": "media",
+      "id": "us7000shy4",
+      "ts": "2026-05-03T10:00:34Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "111 km SW of Turpan, China",
+      "body": "111 km SW of Turpan, China",
+      "mag": 5.1,
+      "lat": 42.2525,
+      "lon": 88.2014,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000shy4"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1028583",
+      "ts": "2026-05-03T11:00:15Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Australia",
+      "body": "On 30/04/2026, a forest fire started in Australia,  until 03/05/2026.",
+      "details": "On 30/04/2026, a forest fire started in Australia,  until 03/05/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028583"
+      ],
+      "location": "Australia"
+    },
+    {
       "source": "gdacs",
       "id": "WF1028581",
-      "ts": "2026-05-03T07:01:18Z",
+      "ts": "2026-05-03T11:01:27Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Guinea",
@@ -252,7 +268,7 @@
     {
       "source": "gdacs",
       "id": "WF1028577",
-      "ts": "2026-05-03T07:01:27Z",
+      "ts": "2026-05-03T11:01:43Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Australia",
@@ -268,7 +284,7 @@
     {
       "source": "gdacs",
       "id": "WF1028582",
-      "ts": "2026-05-03T07:05:41Z",
+      "ts": "2026-05-03T11:06:05Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Guinea",
@@ -280,21 +296,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028582"
       ],
       "location": "Guinea"
-    },
-    {
-      "source": "media",
-      "id": "us7000shy4",
-      "ts": "2026-05-03T10:00:34Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "111 km SW of Turpan, China",
-      "body": "111 km SW of Turpan, China",
-      "mag": 5.1,
-      "lat": 42.2525,
-      "lon": 88.2014,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000shy4"
-      ]
     }
   ]
 }
