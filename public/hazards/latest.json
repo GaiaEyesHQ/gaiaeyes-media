@@ -1,22 +1,6 @@
 {
-  "generated_at": "2026-05-04T06:34:14Z",
+  "generated_at": "2026-05-04T07:39:14Z",
   "items": [
-    {
-      "source": "gdacs",
-      "id": "WF1028580",
-      "ts": "2026-05-02T07:00:07Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Russian Federation",
-      "body": "On 30/04/2026, a forest fire started in Russian Federation,  until 02/05/2026.",
-      "details": "On 30/04/2026, a forest fire started in Russian Federation,  until 02/05/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028580"
-      ],
-      "location": "Russian Federation"
-    },
     {
       "source": "media",
       "id": "us7000shs2",
@@ -221,38 +205,6 @@
     },
     {
       "source": "gdacs",
-      "id": "WF1028584",
-      "ts": "2026-05-04T03:00:39Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Ethiopia",
-      "body": "On 30/04/2026, a forest fire started in Ethiopia,  until 03/05/2026.",
-      "details": "On 30/04/2026, a forest fire started in Ethiopia,  until 03/05/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028584"
-      ],
-      "location": "Ethiopia"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1028577",
-      "ts": "2026-05-04T03:02:30Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Australia",
-      "body": "On 25/04/2026, a forest fire started in Australia,  until 01/05/2026.",
-      "details": "On 25/04/2026, a forest fire started in Australia,  until 01/05/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028577"
-      ],
-      "location": "Australia"
-    },
-    {
-      "source": "gdacs",
       "id": "FL1103861",
       "ts": "2026-05-04T05:34:48Z",
       "type": "flood",
@@ -282,6 +234,133 @@
         "https://www.gdacs.org/report.aspx?eventtype=VO&eventid=1000139"
       ],
       "location": "Philippines"
+    },
+    {
+      "source": "media",
+      "id": "us7000si2z",
+      "ts": "2026-05-04T06:09:50Z",
+      "type": "quake",
+      "severity": "yellow",
+      "title": "5 km WNW of Nena, Philippines",
+      "body": "5 km WNW of Nena, Philippines",
+      "mag": 6,
+      "lat": 11.7774,
+      "lon": 125.3718,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000si2z"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1538909",
+      "ts": "2026-05-04T06:24:52Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 6M, Depth:73.268km) in Philippines 04/05/2026 06:09 UTC, 230 thousand in MMI V.",
+      "body": "On 5/4/2026 6:09:50 AM, an earthquake occurred in Philippines potentially affecting 230 thousand in MMI V. The earthquake had Magnitude 6M, Depth:73.268km.",
+      "details": "On 5/4/2026 6:09:50 AM, an earthquake occurred in Philippines potentially affecting 230 thousand in MMI V. The earthquake had Magnitude 6M, Depth:73.268km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1538909"
+      ],
+      "location": "Philippines 04/05/2026 06:09 UTC, 230 thousand in MMI V."
+    },
+    {
+      "source": "gdacs",
+      "id": "FL1103862",
+      "ts": "2026-05-04T06:44:27Z",
+      "type": "flood",
+      "severity": "info",
+      "title": "Green flood alert in Germany",
+      "body": "On 02/05/2026, a flood started in Germany, lasting until 04/05/2026 (last update). The flood caused 0 deaths and 0 displaced .",
+      "details": "On 02/05/2026, a flood started in Germany, lasting until 04/05/2026 (last update). The flood caused 0 deaths and 0 displaced .",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103862"
+      ],
+      "location": "Germany"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1028584",
+      "ts": "2026-05-04T07:00:35Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Ethiopia",
+      "body": "On 30/04/2026, a forest fire started in Ethiopia,  until 03/05/2026.",
+      "details": "On 30/04/2026, a forest fire started in Ethiopia,  until 03/05/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028584"
+      ],
+      "location": "Ethiopia"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1028577",
+      "ts": "2026-05-04T07:02:25Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Australia",
+      "body": "On 25/04/2026, a forest fire started in Australia,  until 01/05/2026.",
+      "details": "On 25/04/2026, a forest fire started in Australia,  until 01/05/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028577"
+      ],
+      "location": "Australia"
+    },
+    {
+      "source": "gdacs",
+      "id": "FL1103863",
+      "ts": "2026-05-04T07:04:46Z",
+      "type": "flood",
+      "severity": "info",
+      "title": "Green flood alert in Algeria",
+      "body": "On 01/05/2026, a flood started in Algeria, lasting until 03/05/2026 (last update). The flood caused 7 deaths and 0 displaced .",
+      "details": "On 01/05/2026, a flood started in Algeria, lasting until 03/05/2026 (last update). The flood caused 7 deaths and 0 displaced .",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103863"
+      ],
+      "location": "Algeria"
+    },
+    {
+      "source": "gdacs",
+      "id": "FL1103864",
+      "ts": "2026-05-04T07:05:07Z",
+      "type": "flood",
+      "severity": "info",
+      "title": "Green flood alert in Democratic Republic of Congo",
+      "body": "On 01/05/2026, a flood started in Democratic Republic of Congo, lasting until 03/05/2026 (last update). The flood caused 6 deaths and 414 displaced .",
+      "details": "On 01/05/2026, a flood started in Democratic Republic of Congo, lasting until 03/05/2026 (last update). The flood caused 6 deaths and 414 displaced .",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103864"
+      ],
+      "location": "Democratic Republic of Congo"
+    },
+    {
+      "source": "gdacs",
+      "id": "FL1103865",
+      "ts": "2026-05-04T07:34:31Z",
+      "type": "flood",
+      "severity": "info",
+      "title": "Green flood alert in South Africa",
+      "body": "On 01/05/2026, a flood started in South Africa, lasting until 03/05/2026 (last update). The flood caused 0 deaths and 500 displaced .",
+      "details": "On 01/05/2026, a flood started in South Africa, lasting until 03/05/2026 (last update). The flood caused 0 deaths and 500 displaced .",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103865"
+      ],
+      "location": "South Africa"
     }
   ]
 }
