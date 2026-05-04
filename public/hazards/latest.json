@@ -1,36 +1,6 @@
 {
-  "generated_at": "2026-05-04T10:22:10Z",
+  "generated_at": "2026-05-04T11:13:32Z",
   "items": [
-    {
-      "source": "media",
-      "id": "us7000shsh",
-      "ts": "2026-05-02T10:27:07Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "217 km W of Tual, Indonesia",
-      "body": "217 km W of Tual, Indonesia",
-      "mag": 5.2,
-      "lat": -5.9589,
-      "lon": 130.8204,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000shsh"
-      ]
-    },
-    {
-      "source": "media",
-      "id": "us7000shsi",
-      "ts": "2026-05-02T10:31:40Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "South Sandwich Islands region",
-      "body": "South Sandwich Islands region",
-      "mag": 5,
-      "lat": -59.3027,
-      "lon": -25.0767,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000shsi"
-      ]
-    },
     {
       "source": "media",
       "id": "us7000shut",
@@ -253,38 +223,6 @@
     },
     {
       "source": "gdacs",
-      "id": "WF1028584",
-      "ts": "2026-05-04T07:00:35Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Ethiopia",
-      "body": "On 30/04/2026, a forest fire started in Ethiopia,  until 03/05/2026.",
-      "details": "On 30/04/2026, a forest fire started in Ethiopia,  until 03/05/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028584"
-      ],
-      "location": "Ethiopia"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1028577",
-      "ts": "2026-05-04T07:02:25Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Australia",
-      "body": "On 25/04/2026, a forest fire started in Australia,  until 01/05/2026.",
-      "details": "On 25/04/2026, a forest fire started in Australia,  until 01/05/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028577"
-      ],
-      "location": "Australia"
-    },
-    {
-      "source": "gdacs",
       "id": "FL1103863",
       "ts": "2026-05-04T07:04:46Z",
       "type": "flood",
@@ -330,6 +268,38 @@
         "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103865"
       ],
       "location": "South Africa"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1028584",
+      "ts": "2026-05-04T11:00:15Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Ethiopia",
+      "body": "On 30/04/2026, a forest fire started in Ethiopia,  until 03/05/2026.",
+      "details": "On 30/04/2026, a forest fire started in Ethiopia,  until 03/05/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028584"
+      ],
+      "location": "Ethiopia"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1028577",
+      "ts": "2026-05-04T11:02:37Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Australia",
+      "body": "On 25/04/2026, a forest fire started in Australia,  until 01/05/2026.",
+      "details": "On 25/04/2026, a forest fire started in Australia,  until 01/05/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028577"
+      ],
+      "location": "Australia"
     }
   ]
 }
