@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-04T15:23:41Z",
+  "generated_at": "2026-05-04T16:12:47Z",
   "items": [
     {
       "source": "media",
@@ -276,8 +276,8 @@
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Ethiopia",
-      "body": "On 30/04/2026, a forest fire started in Ethiopia,  until 03/05/2026.",
-      "details": "On 30/04/2026, a forest fire started in Ethiopia,  until 03/05/2026.",
+      "body": "On 30/04/2026, a forest fire started in Ethiopia,  until 04/05/2026.",
+      "details": "On 30/04/2026, a forest fire started in Ethiopia,  until 04/05/2026.",
       "lat": null,
       "lon": null,
       "links": [
@@ -364,6 +364,37 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028577"
       ],
       "location": "Australia"
+    },
+    {
+      "source": "media",
+      "id": "us7000si51",
+      "ts": "2026-05-04T15:19:26Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "2 km SE of Zocoteaca de Le\u00f3n, Mexico",
+      "body": "2 km SE of Zocoteaca de Le\u00f3n, Mexico",
+      "mag": 5.7,
+      "lat": 16.6223,
+      "lon": -97.9846,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000si51"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1538965",
+      "ts": "2026-05-04T15:37:51Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 5.7M, Depth:22.194km) in Mexico 04/05/2026 15:19 UTC, 80 thousand in MMI V.",
+      "body": "On 5/4/2026 3:19:26 PM, an earthquake occurred in Mexico potentially affecting 80 thousand in MMI V. The earthquake had Magnitude 5.7M, Depth:22.194km.",
+      "details": "On 5/4/2026 3:19:26 PM, an earthquake occurred in Mexico potentially affecting 80 thousand in MMI V. The earthquake had Magnitude 5.7M, Depth:22.194km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1538965"
+      ],
+      "location": "Mexico 04/05/2026 15:19 UTC, 80 thousand in MMI V."
     }
   ]
 }
