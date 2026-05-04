@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-04T18:55:14Z",
+  "generated_at": "2026-05-04T19:37:05Z",
   "items": [
     {
       "source": "media",
@@ -38,8 +38,8 @@
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Guinea",
-      "body": "On 25/04/2026, a forest fire started in Guinea,  until 03/05/2026.",
-      "details": "On 25/04/2026, a forest fire started in Guinea,  until 03/05/2026.",
+      "body": "On 25/04/2026, a forest fire started in Guinea,  until 04/05/2026.",
+      "details": "On 25/04/2026, a forest fire started in Guinea,  until 04/05/2026.",
       "lat": null,
       "lon": null,
       "links": [
@@ -54,8 +54,8 @@
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Guinea",
-      "body": "On 19/04/2026, a forest fire started in Guinea,  until 03/05/2026.",
-      "details": "On 19/04/2026, a forest fire started in Guinea,  until 03/05/2026.",
+      "body": "On 19/04/2026, a forest fire started in Guinea,  until 04/05/2026.",
+      "details": "On 19/04/2026, a forest fire started in Guinea,  until 04/05/2026.",
       "lat": null,
       "lon": null,
       "links": [
@@ -287,54 +287,6 @@
     },
     {
       "source": "gdacs",
-      "id": "WF1028588",
-      "ts": "2026-05-04T15:00:15Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Czech Republic",
-      "body": "On 02/05/2026, a forest fire started in Czech Republic,  until 03/05/2026.",
-      "details": "On 02/05/2026, a forest fire started in Czech Republic,  until 03/05/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028588"
-      ],
-      "location": "Czech Republic"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1028589",
-      "ts": "2026-05-04T15:00:21Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Netherlands",
-      "body": "On 30/04/2026, a forest fire started in Netherlands,  until 01/05/2026.",
-      "details": "On 30/04/2026, a forest fire started in Netherlands,  until 01/05/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028589"
-      ],
-      "location": "Netherlands"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1028590",
-      "ts": "2026-05-04T15:01:12Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Netherlands",
-      "body": "On 29/04/2026, a forest fire started in Netherlands,  until 30/04/2026.",
-      "details": "On 29/04/2026, a forest fire started in Netherlands,  until 30/04/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028590"
-      ],
-      "location": "Netherlands"
-    },
-    {
-      "source": "gdacs",
       "id": "WF1028591",
       "ts": "2026-05-04T15:01:43Z",
       "type": "wildfire",
@@ -348,22 +300,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028591"
       ],
       "location": "Sudan"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1028577",
-      "ts": "2026-05-04T15:02:01Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Australia",
-      "body": "On 25/04/2026, a forest fire started in Australia,  until 01/05/2026.",
-      "details": "On 25/04/2026, a forest fire started in Australia,  until 01/05/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028577"
-      ],
-      "location": "Australia"
     },
     {
       "source": "media",
@@ -395,6 +331,86 @@
         "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1538965"
       ],
       "location": "Mexico 04/05/2026 15:19 UTC, 80 thousand in MMI V."
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1028588",
+      "ts": "2026-05-04T19:00:13Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Czech Republic",
+      "body": "On 02/05/2026, a forest fire started in Czech Republic,  until 03/05/2026.",
+      "details": "On 02/05/2026, a forest fire started in Czech Republic,  until 03/05/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028588"
+      ],
+      "location": "Czech Republic"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1028592",
+      "ts": "2026-05-04T19:00:17Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Guinea",
+      "body": "On 02/05/2026, a forest fire started in Guinea,  until 04/05/2026.",
+      "details": "On 02/05/2026, a forest fire started in Guinea,  until 04/05/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028592"
+      ],
+      "location": "Guinea"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1028589",
+      "ts": "2026-05-04T19:00:32Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Netherlands",
+      "body": "On 30/04/2026, a forest fire started in Netherlands,  until 01/05/2026.",
+      "details": "On 30/04/2026, a forest fire started in Netherlands,  until 01/05/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028589"
+      ],
+      "location": "Netherlands"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1028590",
+      "ts": "2026-05-04T19:01:02Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Netherlands",
+      "body": "On 29/04/2026, a forest fire started in Netherlands,  until 30/04/2026.",
+      "details": "On 29/04/2026, a forest fire started in Netherlands,  until 30/04/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028590"
+      ],
+      "location": "Netherlands"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1028577",
+      "ts": "2026-05-04T19:02:58Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Australia",
+      "body": "On 25/04/2026, a forest fire started in Australia,  until 01/05/2026.",
+      "details": "On 25/04/2026, a forest fire started in Australia,  until 01/05/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028577"
+      ],
+      "location": "Australia"
     }
   ]
 }
