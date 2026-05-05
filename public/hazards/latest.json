@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-05T08:19:23Z",
+  "generated_at": "2026-05-05T09:08:38Z",
   "items": [
     {
       "source": "media",
@@ -70,8 +70,8 @@
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Australia",
-      "body": "On 30/04/2026, a forest fire started in Australia,  until 04/05/2026.",
-      "details": "On 30/04/2026, a forest fire started in Australia,  until 04/05/2026.",
+      "body": "On 30/04/2026, a forest fire started in Australia,  until 05/05/2026.",
+      "details": "On 30/04/2026, a forest fire started in Australia,  until 05/05/2026.",
       "lat": null,
       "lon": null,
       "links": [
@@ -354,8 +354,8 @@
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Australia",
-      "body": "On 01/05/2026, a forest fire started in Australia,  until 04/05/2026.",
-      "details": "On 01/05/2026, a forest fire started in Australia,  until 04/05/2026.",
+      "body": "On 01/05/2026, a forest fire started in Australia,  until 05/05/2026.",
+      "details": "On 01/05/2026, a forest fire started in Australia,  until 05/05/2026.",
       "lat": null,
       "lon": null,
       "links": [
@@ -505,6 +505,37 @@
         "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1539109"
       ],
       "location": "Indonesia 05/05/2026 06:44 UTC, 740 thousand in MMI IV."
+    },
+    {
+      "source": "media",
+      "id": "us7000sidq",
+      "ts": "2026-05-05T08:00:43Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "127 km ENE of Pauanui, New Zealand",
+      "body": "127 km ENE of Pauanui, New Zealand",
+      "mag": 5.8,
+      "lat": -36.7452,
+      "lon": 177.2617,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sidq"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1539122",
+      "ts": "2026-05-05T08:21:18Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 5.8M, Depth:10km) in New Zealand 05/05/2026 08:00 UTC, 70 thousand in MMI IV.",
+      "body": "On 5/5/2026 8:00:43 AM, an earthquake occurred in New Zealand potentially affecting 70 thousand in MMI IV. The earthquake had Magnitude 5.8M, Depth:10km.",
+      "details": "On 5/5/2026 8:00:43 AM, an earthquake occurred in New Zealand potentially affecting 70 thousand in MMI IV. The earthquake had Magnitude 5.8M, Depth:10km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1539122"
+      ],
+      "location": "New Zealand 05/05/2026 08:00 UTC, 70 thousand in MMI IV."
     }
   ]
 }
