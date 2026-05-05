@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-05T02:21:52Z",
+  "generated_at": "2026-05-05T03:44:32Z",
   "items": [
     {
       "source": "media",
@@ -318,25 +318,39 @@
       "location": "Mexico 04/05/2026 15:19 UTC, 80 thousand in MMI V."
     },
     {
-      "source": "gdacs",
-      "id": "WF1028592",
-      "ts": "2026-05-04T23:00:15Z",
-      "type": "wildfire",
+      "source": "media",
+      "id": "us7000si9t",
+      "ts": "2026-05-04T23:54:06Z",
+      "type": "quake",
       "severity": "info",
-      "title": "Green forest fire notification in Guinea",
-      "body": "On 02/05/2026, a forest fire started in Guinea,  until 04/05/2026.",
-      "details": "On 02/05/2026, a forest fire started in Guinea,  until 04/05/2026.",
-      "lat": null,
-      "lon": null,
+      "title": "98 km ENE of Miyako, Japan",
+      "body": "98 km ENE of Miyako, Japan",
+      "mag": 5.2,
+      "lat": 39.9667,
+      "lon": 143.0076,
       "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028592"
-      ],
-      "location": "Guinea"
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000si9t"
+      ]
+    },
+    {
+      "source": "media",
+      "id": "us7000siat",
+      "ts": "2026-05-05T02:38:49Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "Banda Sea",
+      "body": "Banda Sea",
+      "mag": 5.3,
+      "lat": -6.4335,
+      "lon": 130.1627,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000siat"
+      ]
     },
     {
       "source": "gdacs",
       "id": "WF1028588",
-      "ts": "2026-05-04T23:00:19Z",
+      "ts": "2026-05-05T03:00:13Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Czech Republic",
@@ -351,24 +365,24 @@
     },
     {
       "source": "gdacs",
-      "id": "WF1028593",
-      "ts": "2026-05-04T23:00:26Z",
+      "id": "WF1028592",
+      "ts": "2026-05-05T03:00:17Z",
       "type": "wildfire",
       "severity": "info",
-      "title": "Green forest fire notification in Russian Federation",
-      "body": "On 01/05/2026, a forest fire started in Russian Federation,  until 04/05/2026.",
-      "details": "On 01/05/2026, a forest fire started in Russian Federation,  until 04/05/2026.",
+      "title": "Green forest fire notification in Guinea",
+      "body": "On 02/05/2026, a forest fire started in Guinea,  until 04/05/2026.",
+      "details": "On 02/05/2026, a forest fire started in Guinea,  until 04/05/2026.",
       "lat": null,
       "lon": null,
       "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028593"
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028592"
       ],
-      "location": "Russian Federation"
+      "location": "Guinea"
     },
     {
       "source": "gdacs",
       "id": "WF1028594",
-      "ts": "2026-05-04T23:00:34Z",
+      "ts": "2026-05-05T03:00:24Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Australia",
@@ -383,8 +397,24 @@
     },
     {
       "source": "gdacs",
+      "id": "WF1028593",
+      "ts": "2026-05-05T03:00:32Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Russian Federation",
+      "body": "On 01/05/2026, a forest fire started in Russian Federation,  until 04/05/2026.",
+      "details": "On 01/05/2026, a forest fire started in Russian Federation,  until 04/05/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028593"
+      ],
+      "location": "Russian Federation"
+    },
+    {
+      "source": "gdacs",
       "id": "WF1028589",
-      "ts": "2026-05-04T23:01:10Z",
+      "ts": "2026-05-05T03:01:09Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Netherlands",
@@ -400,7 +430,7 @@
     {
       "source": "gdacs",
       "id": "WF1028577",
-      "ts": "2026-05-04T23:02:11Z",
+      "ts": "2026-05-05T03:02:19Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Australia",
@@ -412,21 +442,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028577"
       ],
       "location": "Australia"
-    },
-    {
-      "source": "media",
-      "id": "us7000si9t",
-      "ts": "2026-05-04T23:54:07Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "95 km ENE of Miyako, Japan",
-      "body": "95 km ENE of Miyako, Japan",
-      "mag": 5.2,
-      "lat": 39.959,
-      "lon": 142.9841,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000si9t"
-      ]
     }
   ]
 }
