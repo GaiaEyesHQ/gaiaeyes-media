@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-06T22:49:06Z",
+  "generated_at": "2026-05-06T23:10:30Z",
   "items": [
     {
       "source": "media",
@@ -346,22 +346,6 @@
     },
     {
       "source": "gdacs",
-      "id": "WF1028597",
-      "ts": "2026-05-06T19:00:07Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Australia",
-      "body": "On 06/05/2026, a forest fire started in Australia,  until 06/05/2026.",
-      "details": "On 06/05/2026, a forest fire started in Australia,  until 06/05/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028597"
-      ],
-      "location": "Australia"
-    },
-    {
-      "source": "gdacs",
       "id": "WF1028598",
       "ts": "2026-05-06T19:00:13Z",
       "type": "wildfire",
@@ -393,9 +377,56 @@
       "location": "Australia"
     },
     {
+      "source": "media",
+      "id": "us6000svrl",
+      "ts": "2026-05-06T19:19:17Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "South Sandwich Islands region",
+      "body": "South Sandwich Islands region",
+      "mag": 5,
+      "lat": -59.5634,
+      "lon": -24.0873,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000svrl"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1028597",
+      "ts": "2026-05-06T23:00:07Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Australia",
+      "body": "On 06/05/2026, a forest fire started in Australia,  until 06/05/2026.",
+      "details": "On 06/05/2026, a forest fire started in Australia,  until 06/05/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028597"
+      ],
+      "location": "Australia"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1028601",
+      "ts": "2026-05-06T23:00:13Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Australia",
+      "body": "On 05/05/2026, a forest fire started in Australia,  until 06/05/2026.",
+      "details": "On 05/05/2026, a forest fire started in Australia,  until 06/05/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028601"
+      ],
+      "location": "Australia"
+    },
+    {
       "source": "gdacs",
       "id": "WF1028588",
-      "ts": "2026-05-06T19:00:35Z",
+      "ts": "2026-05-06T23:00:38Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Czech Republic",
@@ -411,7 +442,7 @@
     {
       "source": "gdacs",
       "id": "WF1028600",
-      "ts": "2026-05-06T19:00:41Z",
+      "ts": "2026-05-06T23:00:44Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Australia",
@@ -427,7 +458,7 @@
     {
       "source": "gdacs",
       "id": "WF1028593",
-      "ts": "2026-05-06T19:00:56Z",
+      "ts": "2026-05-06T23:00:58Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Russian Federation",
@@ -441,19 +472,20 @@
       "location": "Russian Federation"
     },
     {
-      "source": "media",
-      "id": "us6000svrl",
-      "ts": "2026-05-06T19:19:17Z",
-      "type": "quake",
+      "source": "gdacs",
+      "id": "WF1028602",
+      "ts": "2026-05-06T23:02:11Z",
+      "type": "wildfire",
       "severity": "info",
-      "title": "South Sandwich Islands region",
-      "body": "South Sandwich Islands region",
-      "mag": 5,
-      "lat": -59.5634,
-      "lon": -24.0873,
+      "title": "Green forest fire notification in Mexico",
+      "body": "On 28/04/2026, a forest fire started in Mexico,  until 06/05/2026.",
+      "details": "On 28/04/2026, a forest fire started in Mexico,  until 06/05/2026.",
+      "lat": null,
+      "lon": null,
       "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000svrl"
-      ]
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028602"
+      ],
+      "location": "Mexico"
     }
   ]
 }
