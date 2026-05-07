@@ -1,37 +1,6 @@
 {
-  "generated_at": "2026-05-07T01:51:26Z",
+  "generated_at": "2026-05-07T03:14:41Z",
   "items": [
-    {
-      "source": "media",
-      "id": "us7000siat",
-      "ts": "2026-05-05T02:38:49Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "Banda Sea",
-      "body": "Banda Sea",
-      "mag": 5.3,
-      "lat": -6.4335,
-      "lon": 130.1627,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000siat"
-      ]
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1028594",
-      "ts": "2026-05-05T03:00:24Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Australia",
-      "body": "On 01/05/2026, a forest fire started in Australia,  until 06/05/2026.",
-      "details": "On 01/05/2026, a forest fire started in Australia,  until 06/05/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028594"
-      ],
-      "location": "Australia"
-    },
     {
       "source": "gdacs",
       "id": "FL1103867",
@@ -211,8 +180,8 @@
       "type": "cyclone",
       "severity": "info",
       "title": "Green notification for tropical cyclone HAGUPIT-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (488 in Tropical Storm).",
-      "body": "From 05/05/2026 to 06/05/2026, a Tropical Storm (maximum wind speed of 93 km/h) HAGUPIT-26 was active in NWPacific. The cyclone affects these countries: [unknown] (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (488 in tropical storm).",
-      "details": "From 05/05/2026 to 06/05/2026, a Tropical Storm (maximum wind speed of 93 km/h) HAGUPIT-26 was active in NWPacific. The cyclone affects these countries: [unknown] (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (488 in tropical storm).",
+      "body": "From 05/05/2026 to 07/05/2026, a Tropical Storm (maximum wind speed of 83 km/h) HAGUPIT-26 was active in NWPacific. The cyclone affects these countries: [unknown] (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (488 in tropical storm).",
+      "details": "From 05/05/2026 to 07/05/2026, a Tropical Storm (maximum wind speed of 83 km/h) HAGUPIT-26 was active in NWPacific. The cyclone affects these countries: [unknown] (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (488 in tropical storm).",
       "lat": null,
       "lon": null,
       "links": [
@@ -393,22 +362,6 @@
     },
     {
       "source": "gdacs",
-      "id": "WF1028597",
-      "ts": "2026-05-06T23:00:07Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Australia",
-      "body": "On 06/05/2026, a forest fire started in Australia,  until 06/05/2026.",
-      "details": "On 06/05/2026, a forest fire started in Australia,  until 06/05/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028597"
-      ],
-      "location": "Australia"
-    },
-    {
-      "source": "gdacs",
       "id": "WF1028601",
       "ts": "2026-05-06T23:00:13Z",
       "type": "wildfire",
@@ -424,25 +377,40 @@
       "location": "Australia"
     },
     {
+      "source": "media",
+      "id": "us6000svu7",
+      "ts": "2026-05-07T01:23:05Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "151 km WNW of Panguna, Papua New Guinea",
+      "body": "151 km WNW of Panguna, Papua New Guinea",
+      "mag": 5.1,
+      "lat": -5.7445,
+      "lon": 154.2368,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000svu7"
+      ]
+    },
+    {
       "source": "gdacs",
-      "id": "WF1028588",
-      "ts": "2026-05-06T23:00:38Z",
+      "id": "WF1028597",
+      "ts": "2026-05-07T03:00:07Z",
       "type": "wildfire",
       "severity": "info",
-      "title": "Green forest fire notification in Czech Republic",
-      "body": "On 02/05/2026, a forest fire started in Czech Republic,  until 03/05/2026.",
-      "details": "On 02/05/2026, a forest fire started in Czech Republic,  until 03/05/2026.",
+      "title": "Green forest fire notification in Australia",
+      "body": "On 06/05/2026, a forest fire started in Australia,  until 06/05/2026.",
+      "details": "On 06/05/2026, a forest fire started in Australia,  until 06/05/2026.",
       "lat": null,
       "lon": null,
       "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028588"
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028597"
       ],
-      "location": "Czech Republic"
+      "location": "Australia"
     },
     {
       "source": "gdacs",
       "id": "WF1028600",
-      "ts": "2026-05-06T23:00:44Z",
+      "ts": "2026-05-07T03:00:52Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Australia",
@@ -457,8 +425,24 @@
     },
     {
       "source": "gdacs",
+      "id": "WF1028588",
+      "ts": "2026-05-07T03:00:57Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Czech Republic",
+      "body": "On 02/05/2026, a forest fire started in Czech Republic,  until 03/05/2026.",
+      "details": "On 02/05/2026, a forest fire started in Czech Republic,  until 03/05/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028588"
+      ],
+      "location": "Czech Republic"
+    },
+    {
+      "source": "gdacs",
       "id": "WF1028593",
-      "ts": "2026-05-06T23:00:58Z",
+      "ts": "2026-05-07T03:01:09Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Russian Federation",
@@ -474,7 +458,7 @@
     {
       "source": "gdacs",
       "id": "WF1028602",
-      "ts": "2026-05-06T23:02:11Z",
+      "ts": "2026-05-07T03:02:33Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Mexico",
