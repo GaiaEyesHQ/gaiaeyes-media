@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-09T22:50:54Z",
+  "generated_at": "2026-05-09T23:20:55Z",
   "items": [
     {
       "source": "gdacs",
@@ -398,22 +398,6 @@
     },
     {
       "source": "gdacs",
-      "id": "WF1028626",
-      "ts": "2026-05-09T15:00:14Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Australia",
-      "body": "On 08/05/2026, a forest fire started in Australia,  until 09/05/2026.",
-      "details": "On 08/05/2026, a forest fire started in Australia,  until 09/05/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028626"
-      ],
-      "location": "Australia"
-    },
-    {
-      "source": "gdacs",
       "id": "WF1028627",
       "ts": "2026-05-09T15:00:30Z",
       "type": "wildfire",
@@ -442,6 +426,22 @@
       "links": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/us6000swhy"
       ]
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1028626",
+      "ts": "2026-05-09T23:00:21Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Australia",
+      "body": "On 08/05/2026, a forest fire started in Australia,  until 09/05/2026.",
+      "details": "On 08/05/2026, a forest fire started in Australia,  until 09/05/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028626"
+      ],
+      "location": "Australia"
     }
   ]
 }
