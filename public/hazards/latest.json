@@ -1,22 +1,6 @@
 {
-  "generated_at": "2026-05-10T02:04:40Z",
+  "generated_at": "2026-05-10T03:21:20Z",
   "items": [
-    {
-      "source": "gdacs",
-      "id": "WF1028614",
-      "ts": "2026-05-08T03:01:07Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Australia",
-      "body": "On 04/05/2026, a forest fire started in Australia,  until 09/05/2026.",
-      "details": "On 04/05/2026, a forest fire started in Australia,  until 09/05/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028614"
-      ],
-      "location": "Australia"
-    },
     {
       "source": "gdacs",
       "id": "WF1028613",
@@ -428,9 +412,55 @@
       ]
     },
     {
+      "source": "media",
+      "id": "us6000swk0",
+      "ts": "2026-05-10T02:34:07Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "27 km ENE of Ca\u00f1ete, Chile",
+      "body": "27 km ENE of Ca\u00f1ete, Chile",
+      "mag": 5.5,
+      "lat": -37.7219,
+      "lon": -73.1062,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000swk0"
+      ]
+    },
+    {
+      "source": "media",
+      "id": "us6000swk8",
+      "ts": "2026-05-10T02:42:23Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "174 km SSW of Tual, Indonesia",
+      "body": "174 km SSW of Tual, Indonesia",
+      "mag": 5,
+      "lat": -7.0242,
+      "lon": 132.0136,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000swk8"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1539988",
+      "ts": "2026-05-10T02:50:51Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 5.5M, Depth:34.251km) in Chile 10/05/2026 02:34 UTC, 4 thousand in MMI V.",
+      "body": "On 5/10/2026 2:34:07 AM, an earthquake occurred in Chile potentially affecting 4 thousand in MMI V. The earthquake had Magnitude 5.5M, Depth:34.251km.",
+      "details": "On 5/10/2026 2:34:07 AM, an earthquake occurred in Chile potentially affecting 4 thousand in MMI V. The earthquake had Magnitude 5.5M, Depth:34.251km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1539988"
+      ],
+      "location": "Chile 10/05/2026 02:34 UTC, 4 thousand in MMI V."
+    },
+    {
       "source": "gdacs",
       "id": "WF1028626",
-      "ts": "2026-05-09T23:00:21Z",
+      "ts": "2026-05-10T03:00:22Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Australia",
