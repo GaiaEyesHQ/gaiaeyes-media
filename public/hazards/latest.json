@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-11T13:35:15Z",
+  "generated_at": "2026-05-11T14:34:35Z",
   "items": [
     {
       "source": "gdacs",
@@ -68,15 +68,15 @@
       "ts": "2026-05-10T02:50:51Z",
       "type": "quake",
       "severity": "red",
-      "title": "Green earthquake (Magnitude 5.5M, Depth:34.251km) in Chile 10/05/2026 02:34 UTC, 4 thousand in MMI V.",
-      "body": "On 5/10/2026 2:34:07 AM, an earthquake occurred in Chile potentially affecting 4 thousand in MMI V. The earthquake had Magnitude 5.5M, Depth:34.251km.",
-      "details": "On 5/10/2026 2:34:07 AM, an earthquake occurred in Chile potentially affecting 4 thousand in MMI V. The earthquake had Magnitude 5.5M, Depth:34.251km.",
+      "title": "Green earthquake (Magnitude 5.5M, Depth:34.251km) in Chile 10/05/2026 02:34 UTC, 1.8 million in MMI>=IV.",
+      "body": "On 5/10/2026 2:34:07 AM, an earthquake occurred in Chile potentially affecting 1.8 million in MMI>=IV. The earthquake had Magnitude 5.5M, Depth:34.251km.",
+      "details": "On 5/10/2026 2:34:07 AM, an earthquake occurred in Chile potentially affecting 1.8 million in MMI>=IV. The earthquake had Magnitude 5.5M, Depth:34.251km.",
       "lat": null,
       "lon": null,
       "links": [
         "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1539988"
       ],
-      "location": "Chile 10/05/2026 02:34 UTC, 4 thousand in MMI V."
+      "location": "Chile 10/05/2026 02:34 UTC, 1.8 million in MMI>=IV."
     },
     {
       "source": "gdacs",
@@ -535,6 +535,86 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028649"
       ],
       "location": "China"
+    },
+    {
+      "source": "gdacs",
+      "id": "FL1103871",
+      "ts": "2026-05-11T13:45:35Z",
+      "type": "flood",
+      "severity": "info",
+      "title": "Green flood alert in Italy",
+      "body": "On 05/05/2026, a flood started in Italy, lasting until 07/05/2026 (last update). The flood caused 0 deaths and 0 displaced .",
+      "details": "On 05/05/2026, a flood started in Italy, lasting until 07/05/2026 (last update). The flood caused 0 deaths and 0 displaced .",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103871"
+      ],
+      "location": "Italy"
+    },
+    {
+      "source": "gdacs",
+      "id": "FL1103872",
+      "ts": "2026-05-11T13:46:00Z",
+      "type": "flood",
+      "severity": "info",
+      "title": "Green flood alert in Austria",
+      "body": "On 06/05/2026, a flood started in Austria, lasting until 07/05/2026 (last update). The flood caused 0 deaths and 0 displaced .",
+      "details": "On 06/05/2026, a flood started in Austria, lasting until 07/05/2026 (last update). The flood caused 0 deaths and 0 displaced .",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103872"
+      ],
+      "location": "Austria"
+    },
+    {
+      "source": "gdacs",
+      "id": "FL1103873",
+      "ts": "2026-05-11T13:46:30Z",
+      "type": "flood",
+      "severity": "info",
+      "title": "Green flood alert in Argentina",
+      "body": "On 08/05/2026, a flood started in Argentina, lasting until 10/05/2026 (last update). The flood caused 0 deaths and 0 displaced .",
+      "details": "On 08/05/2026, a flood started in Argentina, lasting until 10/05/2026 (last update). The flood caused 0 deaths and 0 displaced .",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103873"
+      ],
+      "location": "Argentina"
+    },
+    {
+      "source": "gdacs",
+      "id": "FL1103874",
+      "ts": "2026-05-11T13:46:43Z",
+      "type": "flood",
+      "severity": "info",
+      "title": "Green flood alert in Mexico",
+      "body": "On 07/05/2026, a flood started in Mexico, lasting until 09/05/2026 (last update). The flood caused 0 deaths and 0 displaced .",
+      "details": "On 07/05/2026, a flood started in Mexico, lasting until 09/05/2026 (last update). The flood caused 0 deaths and 0 displaced .",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103874"
+      ],
+      "location": "Mexico"
+    },
+    {
+      "source": "gdacs",
+      "id": "FL1103875",
+      "ts": "2026-05-11T13:46:51Z",
+      "type": "flood",
+      "severity": "info",
+      "title": "Green flood alert in Canada",
+      "body": "On 07/05/2026, a flood started in Canada, lasting until 09/05/2026 (last update). The flood caused 0 deaths and 0 displaced .",
+      "details": "On 07/05/2026, a flood started in Canada, lasting until 09/05/2026 (last update). The flood caused 0 deaths and 0 displaced .",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103875"
+      ],
+      "location": "Canada"
     }
   ]
 }
