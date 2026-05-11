@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-11T02:04:56Z",
+  "generated_at": "2026-05-11T03:24:12Z",
   "items": [
     {
       "source": "gdacs",
@@ -16,21 +16,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1539839"
       ],
       "location": "Rat Islands, Aleutian Islands 09/05/2026 04:42 UTC, [unknown]."
-    },
-    {
-      "source": "media",
-      "id": "us6000swg6",
-      "ts": "2026-05-09T09:12:13Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "113 km SSE of Lorengau, Papua New Guinea",
-      "body": "113 km SSE of Lorengau, Papua New Guinea",
-      "mag": 5,
-      "lat": -2.9287,
-      "lon": 147.7678,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000swg6"
-      ]
     },
     {
       "source": "gdacs",
@@ -298,25 +283,55 @@
       "location": "Russian Federation"
     },
     {
+      "source": "media",
+      "id": "us6000swte",
+      "ts": "2026-05-10T23:20:53Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "south of the Fiji Islands",
+      "body": "south of the Fiji Islands",
+      "mag": 5,
+      "lat": -23.4524,
+      "lon": -179.8403,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000swte"
+      ]
+    },
+    {
+      "source": "media",
+      "id": "us6000swtz",
+      "ts": "2026-05-11T01:41:17Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "60 km ESE of Isen, Japan",
+      "body": "60 km ESE of Isen, Japan",
+      "mag": 5,
+      "lat": 27.3989,
+      "lon": 129.4593,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000swtz"
+      ]
+    },
+    {
       "source": "gdacs",
-      "id": "WF1028630",
-      "ts": "2026-05-10T23:00:22Z",
+      "id": "WF1028639",
+      "ts": "2026-05-11T03:00:16Z",
       "type": "wildfire",
       "severity": "info",
-      "title": "Green forest fire notification in Australia",
-      "body": "On 08/05/2026, a forest fire started in Australia,  until 10/05/2026.",
-      "details": "On 08/05/2026, a forest fire started in Australia,  until 10/05/2026.",
+      "title": "Green forest fire notification in Russian Federation",
+      "body": "On 10/05/2026, a forest fire started in Russian Federation,  until 10/05/2026.",
+      "details": "On 10/05/2026, a forest fire started in Russian Federation,  until 10/05/2026.",
       "lat": null,
       "lon": null,
       "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028630"
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028639"
       ],
-      "location": "Australia"
+      "location": "Russian Federation"
     },
     {
       "source": "gdacs",
       "id": "WF1028637",
-      "ts": "2026-05-10T23:00:34Z",
+      "ts": "2026-05-11T03:00:30Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Russian Federation",
@@ -331,8 +346,24 @@
     },
     {
       "source": "gdacs",
+      "id": "WF1028630",
+      "ts": "2026-05-11T03:00:41Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Australia",
+      "body": "On 08/05/2026, a forest fire started in Australia,  until 10/05/2026.",
+      "details": "On 08/05/2026, a forest fire started in Australia,  until 10/05/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028630"
+      ],
+      "location": "Australia"
+    },
+    {
+      "source": "gdacs",
       "id": "WF1028632",
-      "ts": "2026-05-10T23:01:01Z",
+      "ts": "2026-05-11T03:01:01Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Australia",
@@ -348,7 +379,7 @@
     {
       "source": "gdacs",
       "id": "WF1028638",
-      "ts": "2026-05-10T23:02:10Z",
+      "ts": "2026-05-11T03:02:16Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Australia",
@@ -364,7 +395,7 @@
     {
       "source": "gdacs",
       "id": "WF1028635",
-      "ts": "2026-05-10T23:02:53Z",
+      "ts": "2026-05-11T03:02:59Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Russian Federation",
@@ -376,21 +407,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028635"
       ],
       "location": "Russian Federation"
-    },
-    {
-      "source": "media",
-      "id": "us6000swte",
-      "ts": "2026-05-10T23:20:53Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "south of the Fiji Islands",
-      "body": "south of the Fiji Islands",
-      "mag": 5,
-      "lat": -23.4524,
-      "lon": -179.8403,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000swte"
-      ]
     }
   ]
 }
