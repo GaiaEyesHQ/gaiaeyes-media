@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-12T21:51:04Z",
+  "generated_at": "2026-05-12T22:31:21Z",
   "items": [
     {
       "source": "gdacs",
@@ -587,20 +587,50 @@
       "location": "Russian Federation"
     },
     {
+      "source": "media",
+      "id": "us6000sx9x",
+      "ts": "2026-05-12T21:19:34Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "289 km SW of Houma, Tonga",
+      "body": "289 km SW of Houma, Tonga",
+      "mag": 5.7,
+      "lat": -23.3443,
+      "lon": -176.8634,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sx9x"
+      ]
+    },
+    {
       "source": "gdacs",
       "id": "EQ1540431",
-      "ts": "2026-05-12T21:40:03Z",
+      "ts": "2026-05-12T21:38:38Z",
       "type": "quake",
       "severity": "red",
-      "title": "Green earthquake (Magnitude 5.7M, Depth:135.588km) in South Of Fiji Islands 12/05/2026 21:19 UTC, No people affected in 100km.",
-      "body": "On 5/12/2026 9:19:34 PM, an earthquake occurred in South Of Fiji Islands potentially affecting No people affected in 100km. The earthquake had Magnitude 5.7M, Depth:135.588km.",
-      "details": "On 5/12/2026 9:19:34 PM, an earthquake occurred in South Of Fiji Islands potentially affecting No people affected in 100km. The earthquake had Magnitude 5.7M, Depth:135.588km.",
+      "title": "Green earthquake (Magnitude 5.7M, Depth:135.588km) in South Of Fiji Islands 12/05/2026 21:19 UTC, [unknown].",
+      "body": "On 5/12/2026 9:19:34 PM, an earthquake occurred in South Of Fiji Islands potentially affecting [unknown]. The earthquake had Magnitude 5.7M, Depth:135.588km.",
+      "details": "On 5/12/2026 9:19:34 PM, an earthquake occurred in South Of Fiji Islands potentially affecting [unknown]. The earthquake had Magnitude 5.7M, Depth:135.588km.",
       "lat": null,
       "lon": null,
       "links": [
         "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1540431"
       ],
-      "location": "South Of Fiji Islands 12/05/2026 21:19 UTC, No people affected in 100km."
+      "location": "South Of Fiji Islands 12/05/2026 21:19 UTC, [unknown]."
+    },
+    {
+      "source": "media",
+      "id": "us6000sxaj",
+      "ts": "2026-05-12T21:53:48Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "62 km E of \u2018Ohonua, Tonga",
+      "body": "62 km E of \u2018Ohonua, Tonga",
+      "mag": 5.1,
+      "lat": -21.2349,
+      "lon": -174.3689,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxaj"
+      ]
     }
   ]
 }
