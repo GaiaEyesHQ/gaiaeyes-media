@@ -1,22 +1,6 @@
 {
-  "generated_at": "2026-05-12T06:47:48Z",
+  "generated_at": "2026-05-12T07:49:49Z",
   "items": [
-    {
-      "source": "gdacs",
-      "id": "WF1028626",
-      "ts": "2026-05-10T07:00:20Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Australia",
-      "body": "On 08/05/2026, a forest fire started in Australia,  until 10/05/2026.",
-      "details": "On 08/05/2026, a forest fire started in Australia,  until 10/05/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028626"
-      ],
-      "location": "Australia"
-    },
     {
       "source": "gdacs",
       "id": "WF1028631",
@@ -568,6 +552,21 @@
       "lon": 161.21,
       "links": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sx2s"
+      ]
+    },
+    {
+      "source": "media",
+      "id": "us6000sx3h",
+      "ts": "2026-05-12T06:53:32Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "79 km S of Hualien City, Taiwan",
+      "body": "79 km S of Hualien City, Taiwan",
+      "mag": 5.1,
+      "lat": 23.2629,
+      "lon": 121.4893,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sx3h"
       ]
     }
   ]
