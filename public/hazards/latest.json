@@ -1,22 +1,6 @@
 {
-  "generated_at": "2026-05-13T04:47:36Z",
+  "generated_at": "2026-05-13T06:03:32Z",
   "items": [
-    {
-      "source": "gdacs",
-      "id": "VO1000141",
-      "ts": "2026-05-11T05:33:33Z",
-      "type": "ash",
-      "severity": "info",
-      "title": "Volcanic eruption is on going for Ibu in Indonesia",
-      "body": "Volcano Ibu is emitting ash clouds according to the regional VAAC. The aviation alert level is Green.",
-      "details": "Volcano Ibu is emitting ash clouds according to the regional VAAC. The aviation alert level is Green.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=VO&eventid=1000141"
-      ],
-      "location": "Indonesia"
-    },
     {
       "source": "gdacs",
       "id": "WF1028640",
@@ -600,6 +584,22 @@
       "links": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxc0"
       ]
+    },
+    {
+      "source": "gdacs",
+      "id": "FL1103877",
+      "ts": "2026-05-13T05:35:47Z",
+      "type": "flood",
+      "severity": "info",
+      "title": "Green flood alert in Pakistan",
+      "body": "On 10/05/2026, a flood started in Pakistan, lasting until 11/05/2026 (last update). The flood caused 8 deaths and 0 displaced .",
+      "details": "On 10/05/2026, a flood started in Pakistan, lasting until 11/05/2026 (last update). The flood caused 8 deaths and 0 displaced .",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103877"
+      ],
+      "location": "Pakistan"
     }
   ]
 }
