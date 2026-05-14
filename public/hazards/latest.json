@@ -1,22 +1,6 @@
 {
-  "generated_at": "2026-05-14T18:10:38Z",
+  "generated_at": "2026-05-14T19:00:36Z",
   "items": [
-    {
-      "source": "gdacs",
-      "id": "WF1028653",
-      "ts": "2026-05-12T19:00:19Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Australia",
-      "body": "On 11/05/2026, a forest fire started in Australia,  until 12/05/2026.",
-      "details": "On 11/05/2026, a forest fire started in Australia,  until 12/05/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028653"
-      ],
-      "location": "Australia"
-    },
     {
       "source": "gdacs",
       "id": "WF1028654",
@@ -519,6 +503,22 @@
       "links": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxnw"
       ]
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1540730",
+      "ts": "2026-05-14T18:12:31Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 6.2M, Depth:146.066km) in Indonesia 14/05/2026 17:53 UTC, 10 thousand in MMI IV.",
+      "body": "On 5/14/2026 5:53:14 PM, an earthquake occurred in Indonesia potentially affecting 10 thousand in MMI IV. The earthquake had Magnitude 6.2M, Depth:146.066km.",
+      "details": "On 5/14/2026 5:53:14 PM, an earthquake occurred in Indonesia potentially affecting 10 thousand in MMI IV. The earthquake had Magnitude 6.2M, Depth:146.066km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1540730"
+      ],
+      "location": "Indonesia 14/05/2026 17:53 UTC, 10 thousand in MMI IV."
     }
   ]
 }
