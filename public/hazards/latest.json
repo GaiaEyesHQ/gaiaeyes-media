@@ -1,21 +1,6 @@
 {
-  "generated_at": "2026-05-14T14:56:47Z",
+  "generated_at": "2026-05-14T15:54:26Z",
   "items": [
-    {
-      "source": "media",
-      "id": "us6000sx5k",
-      "ts": "2026-05-12T15:39:31Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "88 km W of Lata, Solomon Islands",
-      "body": "88 km W of Lata, Solomon Islands",
-      "mag": 5.6,
-      "lat": -10.649,
-      "lon": 164.9925,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sx5k"
-      ]
-    },
     {
       "source": "gdacs",
       "id": "EQ1540398",
@@ -410,9 +395,24 @@
       "location": "Australia"
     },
     {
+      "source": "media",
+      "id": "us6000sxn9",
+      "ts": "2026-05-14T12:48:22Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "32 km WNW of Darien, Colombia",
+      "body": "32 km WNW of Darien, Colombia",
+      "mag": 5.3,
+      "lat": 4.0895,
+      "lon": -76.7348,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxn9"
+      ]
+    },
+    {
       "source": "gdacs",
       "id": "WF1028662",
-      "ts": "2026-05-14T11:00:44Z",
+      "ts": "2026-05-14T15:00:44Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Mongolia",
@@ -428,7 +428,7 @@
     {
       "source": "gdacs",
       "id": "WF1028668",
-      "ts": "2026-05-14T11:01:08Z",
+      "ts": "2026-05-14T15:01:04Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Russian Federation",
@@ -444,7 +444,7 @@
     {
       "source": "gdacs",
       "id": "WF1028642",
-      "ts": "2026-05-14T11:01:37Z",
+      "ts": "2026-05-14T15:01:34Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Russian Federation",
@@ -460,7 +460,7 @@
     {
       "source": "gdacs",
       "id": "WF1028630",
-      "ts": "2026-05-14T11:02:52Z",
+      "ts": "2026-05-14T15:02:52Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Australia",
@@ -476,7 +476,7 @@
     {
       "source": "gdacs",
       "id": "WF1028669",
-      "ts": "2026-05-14T11:04:55Z",
+      "ts": "2026-05-14T15:05:22Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Australia",
@@ -492,7 +492,7 @@
     {
       "source": "gdacs",
       "id": "WF1028670",
-      "ts": "2026-05-14T11:05:08Z",
+      "ts": "2026-05-14T15:05:36Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Australia",
@@ -508,7 +508,7 @@
     {
       "source": "gdacs",
       "id": "WF1028635",
-      "ts": "2026-05-14T11:06:22Z",
+      "ts": "2026-05-14T15:06:57Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Russian Federation",
@@ -520,21 +520,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028635"
       ],
       "location": "Russian Federation"
-    },
-    {
-      "source": "media",
-      "id": "us6000sxn9",
-      "ts": "2026-05-14T12:48:22Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "32 km WNW of Darien, Colombia",
-      "body": "32 km WNW of Darien, Colombia",
-      "mag": 5.3,
-      "lat": 4.0895,
-      "lon": -76.7348,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxn9"
-      ]
     }
   ]
 }
