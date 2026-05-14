@@ -1,22 +1,6 @@
 {
-  "generated_at": "2026-05-14T15:54:26Z",
+  "generated_at": "2026-05-14T16:45:49Z",
   "items": [
-    {
-      "source": "gdacs",
-      "id": "EQ1540398",
-      "ts": "2026-05-12T15:56:58Z",
-      "type": "quake",
-      "severity": "red",
-      "title": "Green earthquake (Magnitude 5.6M, Depth:68.161km) in Solomon Is. 12/05/2026 15:39 UTC, 4 thousand in MMI IV.",
-      "body": "On 5/12/2026 3:39:31 PM, an earthquake occurred in Solomon Is. potentially affecting 4 thousand in MMI IV. The earthquake had Magnitude 5.6M, Depth:68.161km.",
-      "details": "On 5/12/2026 3:39:31 PM, an earthquake occurred in Solomon Is. potentially affecting 4 thousand in MMI IV. The earthquake had Magnitude 5.6M, Depth:68.161km.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1540398"
-      ],
-      "location": "Solomon Is. 12/05/2026 15:39 UTC, 4 thousand in MMI IV."
-    },
     {
       "source": "gdacs",
       "id": "WF1028653",
@@ -520,6 +504,21 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028635"
       ],
       "location": "Russian Federation"
+    },
+    {
+      "source": "media",
+      "id": "us6000sxnw",
+      "ts": "2026-05-14T15:34:06Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "Volcano Islands, Japan region",
+      "body": "Volcano Islands, Japan region",
+      "mag": 5.2,
+      "lat": 25.1362,
+      "lon": 141.443,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxnw"
+      ]
     }
   ]
 }
