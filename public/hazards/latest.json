@@ -1,37 +1,6 @@
 {
-  "generated_at": "2026-05-15T06:07:48Z",
+  "generated_at": "2026-05-15T07:25:20Z",
   "items": [
-    {
-      "source": "media",
-      "id": "us6000sxd4",
-      "ts": "2026-05-13T06:36:37Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "South Sandwich Islands region",
-      "body": "South Sandwich Islands region",
-      "mag": 5,
-      "lat": -55.3734,
-      "lon": -28.3706,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxd4"
-      ]
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1028658",
-      "ts": "2026-05-13T07:00:14Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Australia",
-      "body": "On 11/05/2026, a forest fire started in Australia,  until 14/05/2026.",
-      "details": "On 11/05/2026, a forest fire started in Australia,  until 14/05/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028658"
-      ],
-      "location": "Australia"
-    },
     {
       "source": "media",
       "id": "us6000sxdf",
@@ -347,8 +316,24 @@
     },
     {
       "source": "gdacs",
+      "id": "FL1103878",
+      "ts": "2026-05-15T05:36:10Z",
+      "type": "flood",
+      "severity": "info",
+      "title": "Green flood alert in Bangladesh",
+      "body": "On 13/05/2026, a flood started in Bangladesh, lasting until 15/05/2026 (last update). The flood caused 0 deaths and 0 displaced .",
+      "details": "On 13/05/2026, a flood started in Bangladesh, lasting until 15/05/2026 (last update). The flood caused 0 deaths and 0 displaced .",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103878"
+      ],
+      "location": "Bangladesh"
+    },
+    {
+      "source": "gdacs",
       "id": "WF1028662",
-      "ts": "2026-05-15T03:00:39Z",
+      "ts": "2026-05-15T07:00:38Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Mongolia",
@@ -364,7 +349,7 @@
     {
       "source": "gdacs",
       "id": "WF1028642",
-      "ts": "2026-05-15T03:01:58Z",
+      "ts": "2026-05-15T07:01:58Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Russian Federation",
@@ -380,7 +365,7 @@
     {
       "source": "gdacs",
       "id": "WF1028671",
-      "ts": "2026-05-15T03:02:24Z",
+      "ts": "2026-05-15T07:02:24Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Ethiopia",
@@ -392,22 +377,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028671"
       ],
       "location": "Ethiopia"
-    },
-    {
-      "source": "gdacs",
-      "id": "FL1103878",
-      "ts": "2026-05-15T05:36:10Z",
-      "type": "flood",
-      "severity": "info",
-      "title": "Green flood alert in Bangladesh",
-      "body": "On 13/05/2026, a flood started in Bangladesh, lasting until 15/05/2026 (last update). The flood caused 0 deaths and 0 displaced .",
-      "details": "On 13/05/2026, a flood started in Bangladesh, lasting until 15/05/2026 (last update). The flood caused 0 deaths and 0 displaced .",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103878"
-      ],
-      "location": "Bangladesh"
     }
   ]
 }
