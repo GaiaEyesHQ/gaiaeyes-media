@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T11:28:09Z",
+  "generated_at": "2026-05-15T12:13:30Z",
   "items": [
     {
       "source": "gdacs",
@@ -538,6 +538,37 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028671"
       ],
       "location": "Ethiopia"
+    },
+    {
+      "source": "usgs",
+      "id": "6000sxwq",
+      "ts": "2026-05-15T11:22:01Z",
+      "type": "quake",
+      "severity": "yellow",
+      "title": "M 6.7 - 49 km ESE of \u014cfunato, Japan",
+      "body": "49 km ESE of \u014cfunato, Japan",
+      "mag": 6.7,
+      "lat": 38.9127,
+      "lon": 142.2498,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxwq"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1540842",
+      "ts": "2026-05-15T11:37:31Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 6.7M, Depth:43.592km) in Japan 15/05/2026 11:22 UTC, 20 thousand in MMI VI.",
+      "body": "On 5/15/2026 11:22:01 AM, an earthquake occurred in Japan potentially affecting 20 thousand in MMI VI. The earthquake had Magnitude 6.7M, Depth:43.592km.",
+      "details": "On 5/15/2026 11:22:01 AM, an earthquake occurred in Japan potentially affecting 20 thousand in MMI VI. The earthquake had Magnitude 6.7M, Depth:43.592km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1540842"
+      ],
+      "location": "Japan 15/05/2026 11:22 UTC, 20 thousand in MMI VI."
     }
   ]
 }
