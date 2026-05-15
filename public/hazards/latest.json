@@ -1,21 +1,6 @@
 {
-  "generated_at": "2026-05-15T02:05:02Z",
+  "generated_at": "2026-05-15T03:23:00Z",
   "items": [
-    {
-      "source": "media",
-      "id": "us6000sxc0",
-      "ts": "2026-05-13T03:08:33Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "Izu Islands, Japan region",
-      "body": "Izu Islands, Japan region",
-      "mag": 5.1,
-      "lat": 30.3722,
-      "lon": 138.4279,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxc0"
-      ]
-    },
     {
       "source": "gdacs",
       "id": "FL1103877",
@@ -362,9 +347,24 @@
       "location": "Australia"
     },
     {
+      "source": "media",
+      "id": "us6000sxu9",
+      "ts": "2026-05-15T01:13:58Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "119 km SSE of Lorengau, Papua New Guinea",
+      "body": "119 km SSE of Lorengau, Papua New Guinea",
+      "mag": 5.4,
+      "lat": -2.9915,
+      "lon": 147.7607,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxu9"
+      ]
+    },
+    {
       "source": "gdacs",
       "id": "WF1028662",
-      "ts": "2026-05-14T23:00:44Z",
+      "ts": "2026-05-15T03:00:39Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Mongolia",
@@ -380,7 +380,7 @@
     {
       "source": "gdacs",
       "id": "WF1028642",
-      "ts": "2026-05-14T23:02:04Z",
+      "ts": "2026-05-15T03:01:58Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Russian Federation",
@@ -396,7 +396,7 @@
     {
       "source": "gdacs",
       "id": "WF1028671",
-      "ts": "2026-05-14T23:02:29Z",
+      "ts": "2026-05-15T03:02:24Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Ethiopia",
@@ -408,21 +408,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028671"
       ],
       "location": "Ethiopia"
-    },
-    {
-      "source": "media",
-      "id": "us6000sxu9",
-      "ts": "2026-05-15T01:13:58Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "119 km SSE of Lorengau, Papua New Guinea",
-      "body": "119 km SSE of Lorengau, Papua New Guinea",
-      "mag": 5.4,
-      "lat": -2.9915,
-      "lon": 147.7607,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxu9"
-      ]
     }
   ]
 }
