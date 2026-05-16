@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T15:41:08Z",
+  "generated_at": "2026-05-16T16:09:56Z",
   "items": [
     {
       "source": "media",
@@ -511,15 +511,15 @@
       "ts": "2026-05-16T14:58:31Z",
       "type": "quake",
       "severity": "red",
-      "title": "Green earthquake (Magnitude 6M, Depth:30.038km) in Antigua & Barbuda 16/05/2026 14:50 UTC, 280 thousand in MMI>=IV.",
-      "body": "On 5/16/2026 2:50:03 PM, an earthquake occurred in Antigua & Barbuda potentially affecting 280 thousand in MMI>=IV. The earthquake had Magnitude 6M, Depth:30.038km.",
-      "details": "On 5/16/2026 2:50:03 PM, an earthquake occurred in Antigua & Barbuda potentially affecting 280 thousand in MMI>=IV. The earthquake had Magnitude 6M, Depth:30.038km.",
+      "title": "Green earthquake (Magnitude 6M, Depth:30.038km) in Antigua & Barbuda 16/05/2026 14:50 UTC, 420 thousand in MMI>=IV.",
+      "body": "On 5/16/2026 2:50:03 PM, an earthquake occurred in Antigua & Barbuda potentially affecting 420 thousand in MMI>=IV. The earthquake had Magnitude 6M, Depth:30.038km.",
+      "details": "On 5/16/2026 2:50:03 PM, an earthquake occurred in Antigua & Barbuda potentially affecting 420 thousand in MMI>=IV. The earthquake had Magnitude 6M, Depth:30.038km.",
       "lat": null,
       "lon": null,
       "links": [
         "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1541033"
       ],
-      "location": "Antigua & Barbuda 16/05/2026 14:50 UTC, 280 thousand in MMI>=IV."
+      "location": "Antigua & Barbuda 16/05/2026 14:50 UTC, 420 thousand in MMI>=IV."
     },
     {
       "source": "gdacs",
@@ -648,6 +648,37 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028692"
       ],
       "location": "Australia"
+    },
+    {
+      "source": "media",
+      "id": "us6000sy8k",
+      "ts": "2026-05-16T15:17:56Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "33 km NE of Auki, Solomon Islands",
+      "body": "33 km NE of Auki, Solomon Islands",
+      "mag": 5.7,
+      "lat": -8.5526,
+      "lon": 160.9161,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sy8k"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1541036",
+      "ts": "2026-05-16T15:38:05Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 5.7M, Depth:23.374km) in Solomon Islands 16/05/2026 15:17 UTC, 20 thousand in MMI VI.",
+      "body": "On 5/16/2026 3:17:56 PM, an earthquake occurred in Solomon Islands potentially affecting 20 thousand in MMI VI. The earthquake had Magnitude 5.7M, Depth:23.374km.",
+      "details": "On 5/16/2026 3:17:56 PM, an earthquake occurred in Solomon Islands potentially affecting 20 thousand in MMI VI. The earthquake had Magnitude 5.7M, Depth:23.374km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1541036"
+      ],
+      "location": "Solomon Islands 16/05/2026 15:17 UTC, 20 thousand in MMI VI."
     }
   ]
 }
