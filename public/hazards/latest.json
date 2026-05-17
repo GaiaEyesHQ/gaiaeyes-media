@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-17T23:04:39Z",
+  "generated_at": "2026-05-17T23:31:47Z",
   "items": [
     {
       "source": "gdacs",
@@ -96,21 +96,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103882"
       ],
       "location": "Yemen"
-    },
-    {
-      "source": "media",
-      "id": "us6000sy5x",
-      "ts": "2026-05-16T06:48:55Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "Kermadec Islands region",
-      "body": "Kermadec Islands region",
-      "mag": 5,
-      "lat": -31.9282,
-      "lon": -178.203,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sy5x"
-      ]
     },
     {
       "source": "gdacs",
@@ -522,22 +507,6 @@
     },
     {
       "source": "gdacs",
-      "id": "WF1028685",
-      "ts": "2026-05-17T15:00:10Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Australia",
-      "body": "On 16/05/2026, a forest fire started in Australia,  until 16/05/2026.",
-      "details": "On 16/05/2026, a forest fire started in Australia,  until 16/05/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028685"
-      ],
-      "location": "Australia"
-    },
-    {
-      "source": "gdacs",
       "id": "WF1028698",
       "ts": "2026-05-17T15:00:16Z",
       "type": "wildfire",
@@ -551,38 +520,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028698"
       ],
       "location": "Russian Federation"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1028699",
-      "ts": "2026-05-17T15:00:24Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Russian Federation",
-      "body": "On 15/05/2026, a forest fire started in Russian Federation,  until 17/05/2026.",
-      "details": "On 15/05/2026, a forest fire started in Russian Federation,  until 17/05/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028699"
-      ],
-      "location": "Russian Federation"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1028688",
-      "ts": "2026-05-17T15:00:39Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Australia",
-      "body": "On 15/05/2026, a forest fire started in Australia,  until 16/05/2026.",
-      "details": "On 15/05/2026, a forest fire started in Australia,  until 16/05/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028688"
-      ],
-      "location": "Australia"
     },
     {
       "source": "gdacs",
@@ -618,22 +555,6 @@
     },
     {
       "source": "gdacs",
-      "id": "WF1028675",
-      "ts": "2026-05-17T15:01:45Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Australia",
-      "body": "On 14/05/2026, a forest fire started in Australia,  until 15/05/2026.",
-      "details": "On 14/05/2026, a forest fire started in Australia,  until 15/05/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028675"
-      ],
-      "location": "Australia"
-    },
-    {
-      "source": "gdacs",
       "id": "WF1028703",
       "ts": "2026-05-17T15:01:58Z",
       "type": "wildfire",
@@ -649,9 +570,103 @@
       "location": "Russian Federation"
     },
     {
+      "source": "media",
+      "id": "us6000sye4",
+      "ts": "2026-05-17T16:21:06Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "24 km NW of Liuzhou, China",
+      "body": "24 km NW of Liuzhou, China",
+      "mag": 5,
+      "lat": 24.457,
+      "lon": 109.2182,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sye4"
+      ]
+    },
+    {
+      "source": "media",
+      "id": "us6000syfk",
+      "ts": "2026-05-17T22:58:31Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "35 km W of Finschhafen, Papua New Guinea",
+      "body": "35 km W of Finschhafen, Papua New Guinea",
+      "mag": 5.1,
+      "lat": -6.5005,
+      "lon": 147.53,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000syfk"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1028685",
+      "ts": "2026-05-17T23:00:11Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Australia",
+      "body": "On 16/05/2026, a forest fire started in Australia,  until 16/05/2026.",
+      "details": "On 16/05/2026, a forest fire started in Australia,  until 16/05/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028685"
+      ],
+      "location": "Australia"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1028688",
+      "ts": "2026-05-17T23:00:34Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Australia",
+      "body": "On 15/05/2026, a forest fire started in Australia,  until 16/05/2026.",
+      "details": "On 15/05/2026, a forest fire started in Australia,  until 16/05/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028688"
+      ],
+      "location": "Australia"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1028699",
+      "ts": "2026-05-17T23:00:46Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Russian Federation",
+      "body": "On 15/05/2026, a forest fire started in Russian Federation,  until 17/05/2026.",
+      "details": "On 15/05/2026, a forest fire started in Russian Federation,  until 17/05/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028699"
+      ],
+      "location": "Russian Federation"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1028675",
+      "ts": "2026-05-17T23:01:43Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Australia",
+      "body": "On 14/05/2026, a forest fire started in Australia,  until 15/05/2026.",
+      "details": "On 14/05/2026, a forest fire started in Australia,  until 15/05/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028675"
+      ],
+      "location": "Australia"
+    },
+    {
       "source": "gdacs",
       "id": "WF1028676",
-      "ts": "2026-05-17T15:02:36Z",
+      "ts": "2026-05-17T23:02:31Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Australia",
@@ -667,7 +682,7 @@
     {
       "source": "gdacs",
       "id": "WF1028691",
-      "ts": "2026-05-17T15:05:08Z",
+      "ts": "2026-05-17T23:04:54Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Australia",
@@ -683,7 +698,7 @@
     {
       "source": "gdacs",
       "id": "WF1028692",
-      "ts": "2026-05-17T15:05:43Z",
+      "ts": "2026-05-17T23:05:49Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Australia",
@@ -695,21 +710,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028692"
       ],
       "location": "Australia"
-    },
-    {
-      "source": "media",
-      "id": "us6000sye4",
-      "ts": "2026-05-17T16:21:06Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "24 km NW of Liuzhou, China",
-      "body": "24 km NW of Liuzhou, China",
-      "mag": 5,
-      "lat": 24.457,
-      "lon": 109.2182,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sye4"
-      ]
     }
   ]
 }
