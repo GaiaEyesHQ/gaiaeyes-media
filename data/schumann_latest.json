@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "timestamp_utc": "2026-05-17T19:11:31.147889+00:00",
+  "timestamp_utc": "2026-05-17T19:43:36.461861+00:00",
   "primary": "cumiana",
   "primary_quality_score": 1.0,
   "primary_quality_reasons": [],
@@ -9,24 +9,24 @@
     "tomsk": {
       "status": "ok",
       "source": "tomsk",
-      "timestamp_utc": "2026-05-17T19:11:29.977420+00:00",
+      "timestamp_utc": "2026-05-17T19:43:35.471297+00:00",
       "last_modified": null,
       "fundamental_hz": 7.7,
       "harmonics_hz": {
         "F1": 7.7,
-        "F2": 14.9,
-        "F3": 21.050446701049804,
+        "F2": 13.799999999999999,
+        "F3": 21.0,
         "F4": 28.2,
         "F5": 35.4
       },
       "amplitude_idx": {},
-      "quality_score": 0.8832086167837444,
+      "quality_score": 0.8522600813915857,
       "usable": true,
       "quality_reasons": [],
       "confidence": "high-panels",
       "overlay_path": "runs/tomsk_overlay.png",
       "raw": {
-        "tsst_time": "2026-05-18T02:11:29.950767+00:00",
+        "tsst_time": "2026-05-18T02:43:35.444512+00:00",
         "roi": {
           "x0": 59,
           "y0": 31,
@@ -43,17 +43,17 @@
           "day_w_time": 463.3333333333333
         },
         "debug": {
-          "x_frontier": 1060,
+          "x_frontier": 1071,
           "frontier_method": "activity_scan",
-          "frontier_activity_thr": 0.6636532366275787,
+          "frontier_activity_thr": 0.665150710940361,
           "frontier_activity_right_tail": 0.009893945418298244,
           "frontier_activity_run_px": 8,
           "x1_exclude_right_px": 90,
           "guard_px": 6,
-          "x_time": 1028,
-          "x_ideal": 1028,
-          "x_now": 1054,
-          "right_guard": 1054,
+          "x_time": 1039,
+          "x_ideal": 1039,
+          "x_now": 1065,
+          "right_guard": 1065,
           "delta_min_to_guard": 80.80575539568346,
           "pph": 19.305555555555554,
           "pph_source": "day_width",
@@ -65,24 +65,24 @@
           "guard_applied": true,
           "age_hours": null,
           "stale_hours": 6.0,
-          "plausibility_reject_f2_count": 0,
-          "plausibility_selected_f2_rank": 0,
+          "plausibility_reject_f2_count": 1,
+          "plausibility_selected_f2_rank": 1,
           "family_scoring_used": true,
           "family_best_f1": 7.2,
-          "family_best_score": 3.3561927437782284,
-          "family_candidate_count": 32,
+          "family_best_score": 3.2385883092880254,
+          "family_candidate_count": 30,
           "family_top3": [
             {
               "f1": 7.2,
-              "score": 3.3561927437782284
+              "score": 3.2385883092880254
             },
             {
               "f1": 7.25,
-              "score": 3.3490062832832335
+              "score": 3.206002712249756
             },
             {
-              "f1": 7.270933662354945,
-              "score": 3.340508687496185
+              "f1": 7.3,
+              "score": 3.20085666179657
             }
           ],
           "family_score_threshold": 1.35,
@@ -94,7 +94,7 @@
     "cumiana": {
       "status": "ok",
       "source": "cumiana",
-      "timestamp_utc": "2026-05-17T19:11:31.118036+00:00",
+      "timestamp_utc": "2026-05-17T19:43:36.429177+00:00",
       "last_modified": "2026-05-17T19:00:10+00:00",
       "fundamental_hz": 7.5,
       "harmonics_hz": {
