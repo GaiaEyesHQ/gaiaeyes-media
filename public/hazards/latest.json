@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-17T08:05:11Z",
+  "generated_at": "2026-05-17T08:54:51Z",
   "items": [
     {
       "source": "gdacs",
@@ -326,8 +326,8 @@
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Russian Federation",
-      "body": "On 14/05/2026, a forest fire started in Russian Federation,  until 16/05/2026.",
-      "details": "On 14/05/2026, a forest fire started in Russian Federation,  until 16/05/2026.",
+      "body": "On 14/05/2026, a forest fire started in Russian Federation,  until 17/05/2026.",
+      "details": "On 14/05/2026, a forest fire started in Russian Federation,  until 17/05/2026.",
       "lat": null,
       "lon": null,
       "links": [
@@ -464,8 +464,8 @@
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Russian Federation",
-      "body": "On 16/05/2026, a forest fire started in Russian Federation,  until 16/05/2026.",
-      "details": "On 16/05/2026, a forest fire started in Russian Federation,  until 16/05/2026.",
+      "body": "On 16/05/2026, a forest fire started in Russian Federation,  until 17/05/2026.",
+      "details": "On 16/05/2026, a forest fire started in Russian Federation,  until 17/05/2026.",
       "lat": null,
       "lon": null,
       "links": [
@@ -664,6 +664,37 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028695"
       ],
       "location": "Australia"
+    },
+    {
+      "source": "media",
+      "id": "us6000syby",
+      "ts": "2026-05-17T07:51:56Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "109 km SSE of Lorengau, Papua New Guinea",
+      "body": "109 km SSE of Lorengau, Papua New Guinea",
+      "mag": 5.1,
+      "lat": -2.8876,
+      "lon": 147.7681,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000syby"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1541138",
+      "ts": "2026-05-17T08:24:38Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 5.7M, Depth:56.032km) in Russia 17/05/2026 08:04 UTC, 3 thousand in MMI IV.",
+      "body": "On 5/17/2026 8:04:18 AM, an earthquake occurred in Russia potentially affecting 3 thousand in MMI IV. The earthquake had Magnitude 5.7M, Depth:56.032km.",
+      "details": "On 5/17/2026 8:04:18 AM, an earthquake occurred in Russia potentially affecting 3 thousand in MMI IV. The earthquake had Magnitude 5.7M, Depth:56.032km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1541138"
+      ],
+      "location": "Russia 17/05/2026 08:04 UTC, 3 thousand in MMI IV."
     }
   ]
 }
