@@ -1,83 +1,6 @@
 {
-  "generated_at": "2026-05-18T14:44:05Z",
+  "generated_at": "2026-05-18T16:02:19Z",
   "items": [
-    {
-      "source": "media",
-      "id": "us6000sy84",
-      "ts": "2026-05-16T14:50:03Z",
-      "type": "quake",
-      "severity": "yellow",
-      "title": "70 km ESE of Codrington, Antigua and Barbuda",
-      "body": "70 km ESE of Codrington, Antigua and Barbuda",
-      "mag": 6,
-      "lat": 17.5127,
-      "lon": -61.1771,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sy84"
-      ]
-    },
-    {
-      "source": "gdacs",
-      "id": "EQ1541033",
-      "ts": "2026-05-16T14:58:31Z",
-      "type": "quake",
-      "severity": "red",
-      "title": "Green earthquake (Magnitude 6M, Depth:30.038km) in Antigua & Barbuda 16/05/2026 14:50 UTC, 390 thousand in MMI>=IV.",
-      "body": "On 5/16/2026 2:50:03 PM, an earthquake occurred in Antigua & Barbuda potentially affecting 390 thousand in MMI>=IV. The earthquake had Magnitude 6M, Depth:30.038km.",
-      "details": "On 5/16/2026 2:50:03 PM, an earthquake occurred in Antigua & Barbuda potentially affecting 390 thousand in MMI>=IV. The earthquake had Magnitude 6M, Depth:30.038km.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1541033"
-      ],
-      "location": "Antigua & Barbuda 16/05/2026 14:50 UTC, 390 thousand in MMI>=IV."
-    },
-    {
-      "source": "media",
-      "id": "us6000sy8k",
-      "ts": "2026-05-16T15:17:56Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "33 km NE of Auki, Solomon Islands",
-      "body": "33 km NE of Auki, Solomon Islands",
-      "mag": 5.7,
-      "lat": -8.5526,
-      "lon": 160.9161,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sy8k"
-      ]
-    },
-    {
-      "source": "gdacs",
-      "id": "EQ1541036",
-      "ts": "2026-05-16T15:38:05Z",
-      "type": "quake",
-      "severity": "red",
-      "title": "Green earthquake (Magnitude 5.7M, Depth:23.374km) in Solomon Islands 16/05/2026 15:17 UTC, 2 thousand (in MMI>=VII).",
-      "body": "On 5/16/2026 3:17:56 PM, an earthquake occurred in Solomon Islands potentially affecting 2 thousand (in MMI>=VII). The earthquake had Magnitude 5.7M, Depth:23.374km.",
-      "details": "On 5/16/2026 3:17:56 PM, an earthquake occurred in Solomon Islands potentially affecting 2 thousand (in MMI>=VII). The earthquake had Magnitude 5.7M, Depth:23.374km.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1541036"
-      ],
-      "location": "Solomon Islands 16/05/2026 15:17 UTC, 2 thousand (in MMI>=VII)."
-    },
-    {
-      "source": "media",
-      "id": "us6000sy90",
-      "ts": "2026-05-16T15:58:04Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "92 km E of Port-Vila, Vanuatu",
-      "body": "92 km E of Port-Vila, Vanuatu",
-      "mag": 5.4,
-      "lat": -17.8726,
-      "lon": 169.1752,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sy90"
-      ]
-    },
     {
       "source": "gdacs",
       "id": "WF1028693",
@@ -457,22 +380,6 @@
     },
     {
       "source": "gdacs",
-      "id": "WF1028688",
-      "ts": "2026-05-18T11:00:44Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Australia",
-      "body": "On 15/05/2026, a forest fire started in Australia,  until 16/05/2026.",
-      "details": "On 15/05/2026, a forest fire started in Australia,  until 16/05/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028688"
-      ],
-      "location": "Australia"
-    },
-    {
-      "source": "gdacs",
       "id": "WF1028706",
       "ts": "2026-05-18T11:01:57Z",
       "type": "wildfire",
@@ -489,8 +396,55 @@
     },
     {
       "source": "gdacs",
+      "id": "FL1103885",
+      "ts": "2026-05-18T11:15:36Z",
+      "type": "flood",
+      "severity": "info",
+      "title": "Green flood alert in Austria",
+      "body": "On 15/05/2026, a flood started in Austria, lasting until 17/05/2026 (last update). The flood caused 0 deaths and 7 displaced .",
+      "details": "On 15/05/2026, a flood started in Austria, lasting until 17/05/2026 (last update). The flood caused 0 deaths and 7 displaced .",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103885"
+      ],
+      "location": "Austria"
+    },
+    {
+      "source": "media",
+      "id": "us6000syik",
+      "ts": "2026-05-18T13:44:26Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "26 km NW of Liuzhou, China",
+      "body": "26 km NW of Liuzhou, China",
+      "mag": 5.1,
+      "lat": 24.4799,
+      "lon": 109.2073,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000syik"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1028688",
+      "ts": "2026-05-18T15:00:34Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Australia",
+      "body": "On 15/05/2026, a forest fire started in Australia,  until 16/05/2026.",
+      "details": "On 15/05/2026, a forest fire started in Australia,  until 16/05/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028688"
+      ],
+      "location": "Australia"
+    },
+    {
+      "source": "gdacs",
       "id": "WF1028675",
-      "ts": "2026-05-18T11:02:11Z",
+      "ts": "2026-05-18T15:02:02Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Australia",
@@ -506,7 +460,7 @@
     {
       "source": "gdacs",
       "id": "WF1028707",
-      "ts": "2026-05-18T11:02:24Z",
+      "ts": "2026-05-18T15:02:15Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Russian Federation",
@@ -522,7 +476,7 @@
     {
       "source": "gdacs",
       "id": "WF1028676",
-      "ts": "2026-05-18T11:03:12Z",
+      "ts": "2026-05-18T15:03:04Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Australia",
@@ -538,7 +492,7 @@
     {
       "source": "gdacs",
       "id": "WF1028691",
-      "ts": "2026-05-18T11:05:36Z",
+      "ts": "2026-05-18T15:05:35Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Australia",
@@ -554,7 +508,7 @@
     {
       "source": "gdacs",
       "id": "WF1028692",
-      "ts": "2026-05-18T11:06:17Z",
+      "ts": "2026-05-18T15:06:18Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Australia",
@@ -566,22 +520,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028692"
       ],
       "location": "Australia"
-    },
-    {
-      "source": "gdacs",
-      "id": "FL1103885",
-      "ts": "2026-05-18T11:15:36Z",
-      "type": "flood",
-      "severity": "info",
-      "title": "Green flood alert in Austria",
-      "body": "On 15/05/2026, a flood started in Austria, lasting until 17/05/2026 (last update). The flood caused 0 deaths and 7 displaced .",
-      "details": "On 15/05/2026, a flood started in Austria, lasting until 17/05/2026 (last update). The flood caused 0 deaths and 7 displaced .",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103885"
-      ],
-      "location": "Austria"
     }
   ]
 }
