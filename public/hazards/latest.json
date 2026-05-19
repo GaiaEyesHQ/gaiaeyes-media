@@ -1,21 +1,6 @@
 {
-  "generated_at": "2026-05-19T22:39:20Z",
+  "generated_at": "2026-05-19T23:08:08Z",
   "items": [
-    {
-      "source": "media",
-      "id": "us6000syfk",
-      "ts": "2026-05-17T22:58:32Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "31 km WNW of Finschhafen, Papua New Guinea",
-      "body": "31 km WNW of Finschhafen, Papua New Guinea",
-      "mag": 5,
-      "lat": -6.4496,
-      "lon": 147.5796,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000syfk"
-      ]
-    },
     {
       "source": "media",
       "id": "us6000syg0",
@@ -283,22 +268,6 @@
     },
     {
       "source": "gdacs",
-      "id": "WF1028710",
-      "ts": "2026-05-19T19:00:10Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Zambia",
-      "body": "On 18/05/2026, a forest fire started in Zambia,  until 19/05/2026.",
-      "details": "On 18/05/2026, a forest fire started in Zambia,  until 19/05/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028710"
-      ],
-      "location": "Zambia"
-    },
-    {
-      "source": "gdacs",
       "id": "WF1028709",
       "ts": "2026-05-19T19:00:17Z",
       "type": "wildfire",
@@ -312,38 +281,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028709"
       ],
       "location": "Russian Federation"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1028711",
-      "ts": "2026-05-19T19:00:23Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Zambia",
-      "body": "On 18/05/2026, a forest fire started in Zambia,  until 19/05/2026.",
-      "details": "On 18/05/2026, a forest fire started in Zambia,  until 19/05/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028711"
-      ],
-      "location": "Zambia"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1028688",
-      "ts": "2026-05-19T19:01:22Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Australia",
-      "body": "On 15/05/2026, a forest fire started in Australia,  until 16/05/2026.",
-      "details": "On 15/05/2026, a forest fire started in Australia,  until 16/05/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028688"
-      ],
-      "location": "Australia"
     },
     {
       "source": "gdacs",
@@ -391,6 +328,86 @@
       "links": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/us6000syu7"
       ]
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1028712",
+      "ts": "2026-05-19T23:00:09Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Australia",
+      "body": "On 19/05/2026, a forest fire started in Australia,  until 19/05/2026.",
+      "details": "On 19/05/2026, a forest fire started in Australia,  until 19/05/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028712"
+      ],
+      "location": "Australia"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1028711",
+      "ts": "2026-05-19T23:00:23Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Zambia",
+      "body": "On 18/05/2026, a forest fire started in Zambia,  until 19/05/2026.",
+      "details": "On 18/05/2026, a forest fire started in Zambia,  until 19/05/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028711"
+      ],
+      "location": "Zambia"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1028710",
+      "ts": "2026-05-19T23:00:29Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Zambia",
+      "body": "On 18/05/2026, a forest fire started in Zambia,  until 19/05/2026.",
+      "details": "On 18/05/2026, a forest fire started in Zambia,  until 19/05/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028710"
+      ],
+      "location": "Zambia"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1028688",
+      "ts": "2026-05-19T23:01:32Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Australia",
+      "body": "On 15/05/2026, a forest fire started in Australia,  until 16/05/2026.",
+      "details": "On 15/05/2026, a forest fire started in Australia,  until 16/05/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028688"
+      ],
+      "location": "Australia"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1028713",
+      "ts": "2026-05-19T23:02:28Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Honduras",
+      "body": "On 14/05/2026, a forest fire started in Honduras,  until 19/05/2026.",
+      "details": "On 14/05/2026, a forest fire started in Honduras,  until 19/05/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028713"
+      ],
+      "location": "Honduras"
     }
   ]
 }
