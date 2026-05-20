@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T04:54:14Z",
+  "generated_at": "2026-05-20T06:26:50Z",
   "items": [
     {
       "source": "gdacs",
@@ -270,14 +270,14 @@
     {
       "source": "media",
       "id": "us6000syw4",
-      "ts": "2026-05-20T02:46:25Z",
+      "ts": "2026-05-20T02:46:24Z",
       "type": "quake",
       "severity": "info",
-      "title": "10 km NNW of China, Japan",
-      "body": "10 km NNW of China, Japan",
+      "title": "8 km E of Wadomari, Japan",
+      "body": "8 km E of Wadomari, Japan",
       "mag": 5.9,
-      "lat": 27.4272,
-      "lon": 128.544,
+      "lat": 27.392,
+      "lon": 128.7336,
       "links": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/us6000syw4"
       ]
@@ -352,15 +352,15 @@
       "ts": "2026-05-20T03:02:14Z",
       "type": "quake",
       "severity": "red",
-      "title": "Green earthquake (Magnitude 5.9M, Depth:49.74km) in Japan 20/05/2026 02:46 UTC, 3 thousand in MMI V.",
-      "body": "On 5/20/2026 2:46:25 AM, an earthquake occurred in Japan potentially affecting 3 thousand in MMI V. The earthquake had Magnitude 5.9M, Depth:49.74km.",
-      "details": "On 5/20/2026 2:46:25 AM, an earthquake occurred in Japan potentially affecting 3 thousand in MMI V. The earthquake had Magnitude 5.9M, Depth:49.74km.",
+      "title": "Green earthquake (Magnitude 5.9M, Depth:42km) in Japan 20/05/2026 02:46 UTC, 2 thousand in MMI V.",
+      "body": "On 5/20/2026 2:46:25 AM, an earthquake occurred in Japan potentially affecting 2 thousand in MMI V. The earthquake had Magnitude 5.9M, Depth:42km.",
+      "details": "On 5/20/2026 2:46:25 AM, an earthquake occurred in Japan potentially affecting 2 thousand in MMI V. The earthquake had Magnitude 5.9M, Depth:42km.",
       "lat": null,
       "lon": null,
       "links": [
         "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1541508"
       ],
-      "location": "Japan 20/05/2026 02:46 UTC, 3 thousand in MMI V."
+      "location": "Japan 20/05/2026 02:46 UTC, 2 thousand in MMI V."
     },
     {
       "source": "gdacs",
@@ -393,6 +393,37 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028692"
       ],
       "location": "Australia"
+    },
+    {
+      "source": "gdacs",
+      "id": "FL1103887",
+      "ts": "2026-05-20T05:45:58Z",
+      "type": "flood",
+      "severity": "info",
+      "title": "Green flood alert in Australia",
+      "body": "On 18/05/2026, a flood started in Australia, lasting until 20/05/2026 (last update). The flood caused 0 deaths and 48 displaced .",
+      "details": "On 18/05/2026, a flood started in Australia, lasting until 20/05/2026 (last update). The flood caused 0 deaths and 48 displaced .",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103887"
+      ],
+      "location": "Australia"
+    },
+    {
+      "source": "media",
+      "id": "us6000syx6",
+      "ts": "2026-05-20T06:00:16Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "19 km N of Sincik, Turkey",
+      "body": "19 km N of Sincik, Turkey",
+      "mag": 5.4,
+      "lat": 38.2157,
+      "lon": 38.6061,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000syx6"
+      ]
     }
   ]
 }
