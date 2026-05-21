@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T05:18:01Z",
+  "generated_at": "2026-05-21T06:39:12Z",
   "items": [
     {
       "source": "media",
@@ -380,14 +380,14 @@
     {
       "source": "media",
       "id": "us6000sz3x",
-      "ts": "2026-05-20T23:00:58Z",
+      "ts": "2026-05-20T23:01:01Z",
       "type": "quake",
       "severity": "info",
       "title": "South Sandwich Islands region",
       "body": "South Sandwich Islands region",
       "mag": 5.7,
-      "lat": -56.113,
-      "lon": -28.0502,
+      "lat": -56.1584,
+      "lon": -28.1034,
       "links": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sz3x"
       ]
@@ -398,15 +398,15 @@
       "ts": "2026-05-20T23:18:04Z",
       "type": "quake",
       "severity": "red",
-      "title": "Green earthquake (Magnitude 5.7M, Depth:112.069km) in South Sandwich Islands Region 20/05/2026 23:00 UTC, [unknown].",
-      "body": "On 5/20/2026 11:00:58 PM, an earthquake occurred in South Sandwich Islands Region potentially affecting [unknown]. The earthquake had Magnitude 5.7M, Depth:112.069km.",
-      "details": "On 5/20/2026 11:00:58 PM, an earthquake occurred in South Sandwich Islands Region potentially affecting [unknown]. The earthquake had Magnitude 5.7M, Depth:112.069km.",
+      "title": "Green earthquake (Magnitude 5.7M, Depth:137.015km) in South Sandwich Islands Region 20/05/2026 23:00 UTC, No people affected in 100km.",
+      "body": "On 5/20/2026 11:00:58 PM, an earthquake occurred in South Sandwich Islands Region potentially affecting No people affected in 100km. The earthquake had Magnitude 5.7M, Depth:137.015km.",
+      "details": "On 5/20/2026 11:00:58 PM, an earthquake occurred in South Sandwich Islands Region potentially affecting No people affected in 100km. The earthquake had Magnitude 5.7M, Depth:137.015km.",
       "lat": null,
       "lon": null,
       "links": [
         "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1541651"
       ],
-      "location": "South Sandwich Islands Region 20/05/2026 23:00 UTC, [unknown]."
+      "location": "South Sandwich Islands Region 20/05/2026 23:00 UTC, No people affected in 100km."
     },
     {
       "source": "gdacs",
@@ -423,6 +423,22 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028710"
       ],
       "location": "Zambia"
+    },
+    {
+      "source": "gdacs",
+      "id": "FL1103888",
+      "ts": "2026-05-21T06:15:32Z",
+      "type": "flood",
+      "severity": "info",
+      "title": "Green flood alert in United States",
+      "body": "On 19/05/2026, a flood started in United States, lasting until 20/05/2026 (last update). The flood caused 0 deaths and 0 displaced .",
+      "details": "On 19/05/2026, a flood started in United States, lasting until 20/05/2026 (last update). The flood caused 0 deaths and 0 displaced .",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103888"
+      ],
+      "location": "United States"
     }
   ]
 }
