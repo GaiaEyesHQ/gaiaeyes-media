@@ -1,53 +1,6 @@
 {
-  "generated_at": "2026-05-21T02:24:01Z",
+  "generated_at": "2026-05-21T03:47:54Z",
   "items": [
-    {
-      "source": "media",
-      "id": "us6000synm",
-      "ts": "2026-05-19T02:29:24Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "51 km SSW of Port-Vila, Vanuatu",
-      "body": "51 km SSW of Port-Vila, Vanuatu",
-      "mag": 5.7,
-      "lat": -18.1511,
-      "lon": 168.0931,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000synm"
-      ]
-    },
-    {
-      "source": "gdacs",
-      "id": "EQ1541360",
-      "ts": "2026-05-19T02:41:13Z",
-      "type": "quake",
-      "severity": "red",
-      "title": "Green earthquake (Magnitude 5.7M, Depth:27km) in Vanuatu 19/05/2026 02:29 UTC, 100 thousand in MMI IV.",
-      "body": "On 5/19/2026 2:29:24 AM, an earthquake occurred in Vanuatu potentially affecting 100 thousand in MMI IV. The earthquake had Magnitude 5.7M, Depth:27km.",
-      "details": "On 5/19/2026 2:29:24 AM, an earthquake occurred in Vanuatu potentially affecting 100 thousand in MMI IV. The earthquake had Magnitude 5.7M, Depth:27km.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1541360"
-      ],
-      "location": "Vanuatu 19/05/2026 02:29 UTC, 100 thousand in MMI IV."
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1028707",
-      "ts": "2026-05-19T03:02:12Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Russian Federation",
-      "body": "On 14/05/2026, a forest fire started in Russian Federation,  until 19/05/2026.",
-      "details": "On 14/05/2026, a forest fire started in Russian Federation,  until 19/05/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028707"
-      ],
-      "location": "Russian Federation"
-    },
     {
       "source": "media",
       "id": "us6000syt5",
@@ -425,22 +378,6 @@
       "location": "Australia"
     },
     {
-      "source": "gdacs",
-      "id": "WF1028710",
-      "ts": "2026-05-20T23:00:41Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Zambia",
-      "body": "On 18/05/2026, a forest fire started in Zambia,  until 19/05/2026.",
-      "details": "On 18/05/2026, a forest fire started in Zambia,  until 19/05/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028710"
-      ],
-      "location": "Zambia"
-    },
-    {
       "source": "media",
       "id": "us6000sz3x",
       "ts": "2026-05-20T23:00:58Z",
@@ -470,6 +407,22 @@
         "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1541651"
       ],
       "location": "South Sandwich Islands Region 20/05/2026 23:00 UTC, [unknown]."
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1028710",
+      "ts": "2026-05-21T03:00:51Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Zambia",
+      "body": "On 18/05/2026, a forest fire started in Zambia,  until 19/05/2026.",
+      "details": "On 18/05/2026, a forest fire started in Zambia,  until 19/05/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028710"
+      ],
+      "location": "Zambia"
     }
   ]
 }
