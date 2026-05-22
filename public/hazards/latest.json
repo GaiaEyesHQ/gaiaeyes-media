@@ -1,53 +1,6 @@
 {
-  "generated_at": "2026-05-22T18:24:15Z",
+  "generated_at": "2026-05-22T19:06:55Z",
   "items": [
-    {
-      "source": "media",
-      "id": "us6000sz1t",
-      "ts": "2026-05-20T18:36:39Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "southern East Pacific Rise",
-      "body": "southern East Pacific Rise",
-      "mag": 5,
-      "lat": -54.7454,
-      "lon": -118.6623,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sz1t"
-      ]
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1028720",
-      "ts": "2026-05-20T19:00:10Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Russian Federation",
-      "body": "On 19/05/2026, a forest fire started in Russian Federation,  until 21/05/2026.",
-      "details": "On 19/05/2026, a forest fire started in Russian Federation,  until 21/05/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028720"
-      ],
-      "location": "Russian Federation"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1028721",
-      "ts": "2026-05-20T19:00:22Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Australia",
-      "body": "On 18/05/2026, a forest fire started in Australia,  until 21/05/2026.",
-      "details": "On 18/05/2026, a forest fire started in Australia,  until 21/05/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028721"
-      ],
-      "location": "Australia"
-    },
     {
       "source": "media",
       "id": "us6000sz3x",
@@ -314,6 +267,21 @@
         "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1541922"
       ],
       "location": "United States 22/05/2026 12:16 UTC, Few people affected in MMI III."
+    },
+    {
+      "source": "media",
+      "id": "us6000szjs",
+      "ts": "2026-05-22T17:16:27Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "296 km NW of Nagqu, China",
+      "body": "296 km NW of Nagqu, China",
+      "mag": 5.1,
+      "lat": 33.6084,
+      "lon": 90.147,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szjs"
+      ]
     }
   ]
 }
