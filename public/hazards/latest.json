@@ -1,101 +1,6 @@
 {
-  "generated_at": "2026-05-22T10:08:57Z",
+  "generated_at": "2026-05-22T11:16:46Z",
   "items": [
-    {
-      "source": "media",
-      "id": "us6000syy1",
-      "ts": "2026-05-20T10:28:49Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "45 km NE of Sape, Indonesia",
-      "body": "45 km NE of Sape, Indonesia",
-      "mag": 5.2,
-      "lat": -8.2248,
-      "lon": 119.2187,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000syy1"
-      ]
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1028711",
-      "ts": "2026-05-20T11:00:29Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Zambia",
-      "body": "On 18/05/2026, a forest fire started in Zambia,  until 20/05/2026.",
-      "details": "On 18/05/2026, a forest fire started in Zambia,  until 20/05/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028711"
-      ],
-      "location": "Zambia"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1028716",
-      "ts": "2026-05-20T11:00:48Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Russian Federation",
-      "body": "On 17/05/2026, a forest fire started in Russian Federation,  until 21/05/2026.",
-      "details": "On 17/05/2026, a forest fire started in Russian Federation,  until 21/05/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028716"
-      ],
-      "location": "Russian Federation"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1028717",
-      "ts": "2026-05-20T11:01:02Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Russian Federation",
-      "body": "On 16/05/2026, a forest fire started in Russian Federation,  until 21/05/2026.",
-      "details": "On 16/05/2026, a forest fire started in Russian Federation,  until 21/05/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028717"
-      ],
-      "location": "Russian Federation"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1028718",
-      "ts": "2026-05-20T11:01:13Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Russian Federation",
-      "body": "On 16/05/2026, a forest fire started in Russian Federation,  until 21/05/2026.",
-      "details": "On 16/05/2026, a forest fire started in Russian Federation,  until 21/05/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028718"
-      ],
-      "location": "Russian Federation"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1028719",
-      "ts": "2026-05-20T11:04:46Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Russian Federation",
-      "body": "On 13/05/2026, a forest fire started in Russian Federation,  until 21/05/2026.",
-      "details": "On 13/05/2026, a forest fire started in Russian Federation,  until 21/05/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028719"
-      ],
-      "location": "Russian Federation"
-    },
     {
       "source": "media",
       "id": "us6000sz1d",
@@ -378,6 +283,37 @@
         "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1541847"
       ],
       "location": "Indonesia 22/05/2026 01:05 UTC, 200 thousand in MMI>=IV."
+    },
+    {
+      "source": "media",
+      "id": "us6000szgb",
+      "ts": "2026-05-22T10:08:19Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "103 km SSE of Lorengau, Papua New Guinea",
+      "body": "103 km SSE of Lorengau, Papua New Guinea",
+      "mag": 5.7,
+      "lat": -2.857,
+      "lon": 147.713,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szgb"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1541910",
+      "ts": "2026-05-22T10:26:38Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 5.7M, Depth:10km) in Papua New Guinea 22/05/2026 10:08 UTC, 10 thousand in MMI IV.",
+      "body": "On 5/22/2026 10:08:19 AM, an earthquake occurred in Papua New Guinea potentially affecting 10 thousand in MMI IV. The earthquake had Magnitude 5.7M, Depth:10km.",
+      "details": "On 5/22/2026 10:08:19 AM, an earthquake occurred in Papua New Guinea potentially affecting 10 thousand in MMI IV. The earthquake had Magnitude 5.7M, Depth:10km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1541910"
+      ],
+      "location": "Papua New Guinea 22/05/2026 10:08 UTC, 10 thousand in MMI IV."
     }
   ]
 }
