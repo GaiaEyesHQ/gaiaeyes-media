@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T21:54:50Z",
+  "generated_at": "2026-05-23T22:21:40Z",
   "items": [
     {
       "source": "media",
@@ -141,22 +141,6 @@
     },
     {
       "source": "gdacs",
-      "id": "WF1028710",
-      "ts": "2026-05-23T03:00:27Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Zambia",
-      "body": "On 18/05/2026, a forest fire started in Zambia,  until 19/05/2026.",
-      "details": "On 18/05/2026, a forest fire started in Zambia,  until 19/05/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028710"
-      ],
-      "location": "Zambia"
-    },
-    {
-      "source": "gdacs",
       "id": "WF1028727",
       "ts": "2026-05-23T03:00:31Z",
       "type": "wildfire",
@@ -262,6 +246,21 @@
       "lon": 102.5556,
       "links": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szq3"
+      ]
+    },
+    {
+      "source": "media",
+      "id": "us6000szt5",
+      "ts": "2026-05-23T21:49:16Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "168 km SW of Nikolski, Alaska",
+      "body": "168 km SW of Nikolski, Alaska",
+      "mag": 5.3,
+      "lat": 51.7344,
+      "lon": -170.3491,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szt5"
       ]
     }
   ]
