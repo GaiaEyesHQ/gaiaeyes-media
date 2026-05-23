@@ -1,22 +1,6 @@
 {
-  "generated_at": "2026-05-23T05:53:17Z",
+  "generated_at": "2026-05-23T07:02:46Z",
   "items": [
-    {
-      "source": "gdacs",
-      "id": "FL1103888",
-      "ts": "2026-05-21T06:15:32Z",
-      "type": "flood",
-      "severity": "info",
-      "title": "Green flood alert in United States",
-      "body": "On 19/05/2026, a flood started in United States, lasting until 22/05/2026 (last update). The flood caused 0 deaths and 0 displaced .",
-      "details": "On 19/05/2026, a flood started in United States, lasting until 22/05/2026 (last update). The flood caused 0 deaths and 0 displaced .",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103888"
-      ],
-      "location": "United States"
-    },
     {
       "source": "gdacs",
       "id": "WF1028722",
@@ -282,6 +266,37 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028724"
       ],
       "location": "Australia"
+    },
+    {
+      "source": "media",
+      "id": "us6000szmu",
+      "ts": "2026-05-23T05:41:34Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "southeast Indian Ridge",
+      "body": "southeast Indian Ridge",
+      "mag": 5.7,
+      "lat": -47.488,
+      "lon": 99.9967,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szmu"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1542046",
+      "ts": "2026-05-23T06:00:52Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 5.7M, Depth:10km) in Southeast Indian Ridge 23/05/2026 05:41 UTC, [unknown].",
+      "body": "On 5/23/2026 5:41:34 AM, an earthquake occurred in Southeast Indian Ridge potentially affecting [unknown]. The earthquake had Magnitude 5.7M, Depth:10km.",
+      "details": "On 5/23/2026 5:41:34 AM, an earthquake occurred in Southeast Indian Ridge potentially affecting [unknown]. The earthquake had Magnitude 5.7M, Depth:10km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1542046"
+      ],
+      "location": "Southeast Indian Ridge 23/05/2026 05:41 UTC, [unknown]."
     }
   ]
 }
