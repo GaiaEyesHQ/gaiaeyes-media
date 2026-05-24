@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "timestamp_utc": "2026-05-24T18:08:28.472715+00:00",
+  "timestamp_utc": "2026-05-24T18:40:30.105871+00:00",
   "primary": "cumiana",
   "primary_quality_score": 1.0,
   "primary_quality_reasons": [],
@@ -9,24 +9,24 @@
     "tomsk": {
       "status": "ok",
       "source": "tomsk",
-      "timestamp_utc": "2026-05-24T18:08:27.377622+00:00",
+      "timestamp_utc": "2026-05-24T18:40:29.049642+00:00",
       "last_modified": null,
-      "fundamental_hz": 7.680890236794948,
+      "fundamental_hz": 7.7,
       "harmonics_hz": {
-        "F1": 7.680890236794948,
-        "F2": 15.361780473589896,
-        "F3": 20.971235692501068,
-        "F4": 26.512579332292077,
-        "F5": 30.0
+        "F1": 7.7,
+        "F2": 15.0,
+        "F3": 21.48106411099434,
+        "F4": 29.5,
+        "F5": 35.699999999999996
       },
       "amplitude_idx": {},
-      "quality_score": 0.8952246371068453,
+      "quality_score": 0.8988213037189684,
       "usable": true,
       "quality_reasons": [],
       "confidence": "high-panels",
       "overlay_path": "runs/tomsk_overlay.png",
       "raw": {
-        "tsst_time": "2026-05-25T01:08:27.351398+00:00",
+        "tsst_time": "2026-05-25T01:40:29.023115+00:00",
         "roi": {
           "x0": 59,
           "y0": 31,
@@ -35,26 +35,26 @@
         },
         "group_boundaries_px": {
           "x_day0": 59,
-          "x_day1": 554,
-          "x_day2": 1048,
-          "day_w": 494.5,
+          "x_day1": 558,
+          "x_day2": 1057,
+          "day_w": 499.0,
           "x_day1_time": 522,
           "x_day2_time": 986,
           "day_w_time": 463.3333333333333
         },
         "debug": {
-          "x_frontier": 1042,
+          "x_frontier": 1051,
           "frontier_method": "activity_scan",
-          "frontier_activity_thr": 0.660189089179039,
-          "frontier_activity_right_tail": 0.009687746874988079,
+          "frontier_activity_thr": 0.6619357287883758,
+          "frontier_activity_right_tail": 0.009686147794127464,
           "frontier_activity_run_px": 8,
           "x1_exclude_right_px": 90,
           "guard_px": 6,
-          "x_time": 1008,
-          "x_ideal": 1008,
-          "x_now": 1036,
-          "right_guard": 1036,
-          "delta_min_to_guard": 87.02158273381295,
+          "x_time": 1018,
+          "x_ideal": 1018,
+          "x_now": 1045,
+          "right_guard": 1045,
+          "delta_min_to_guard": 83.91366906474822,
           "pph": 19.305555555555554,
           "pph_source": "day_width",
           "tick_count": 20,
@@ -67,26 +67,26 @@
           "stale_hours": 6.0,
           "plausibility_reject_f2_count": 0,
           "plausibility_selected_f2_rank": 0,
-          "family_scoring_used": false,
-          "family_best_f1": 7.2,
-          "family_best_score": 3.401853621006012,
-          "family_candidate_count": 30,
+          "family_scoring_used": true,
+          "family_best_f1": 7.25,
+          "family_best_score": 3.41552095413208,
+          "family_candidate_count": 32,
           "family_top3": [
             {
-              "f1": 7.2,
-              "score": 3.401853621006012
-            },
-            {
               "f1": 7.25,
-              "score": 3.386461579799652
+              "score": 3.41552095413208
             },
             {
-              "f1": 7.35,
-              "score": 3.38535817861557
+              "f1": 7.2,
+              "score": 3.407436430454254
+            },
+            {
+              "f1": 7.3,
+              "score": 3.4066507220268245
             }
           ],
           "family_score_threshold": 1.35,
-          "family_fallback_used": true
+          "family_fallback_used": false
         },
         "method": "tick-ruler px/h + adaptive frontier guard; day3(48–72h) time-anchor; stage1 plausibility gate + stage2 family scoring"
       }
@@ -94,7 +94,7 @@
     "cumiana": {
       "status": "ok",
       "source": "cumiana",
-      "timestamp_utc": "2026-05-24T18:08:28.439734+00:00",
+      "timestamp_utc": "2026-05-24T18:40:30.074867+00:00",
       "last_modified": "2026-05-24T08:00:10+00:00",
       "fundamental_hz": 7.82,
       "harmonics_hz": {
