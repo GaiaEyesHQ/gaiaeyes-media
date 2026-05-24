@@ -1,21 +1,6 @@
 {
-  "generated_at": "2026-05-24T17:02:41Z",
+  "generated_at": "2026-05-24T17:32:02Z",
   "items": [
-    {
-      "source": "media",
-      "id": "us6000szjs",
-      "ts": "2026-05-22T17:16:27Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "296 km NW of Nagqu, China",
-      "body": "296 km NW of Nagqu, China",
-      "mag": 5.1,
-      "lat": 33.6084,
-      "lon": 90.147,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szjs"
-      ]
-    },
     {
       "source": "media",
       "id": "us6000szk5",
@@ -232,6 +217,37 @@
       "links": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szxh"
       ]
+    },
+    {
+      "source": "media",
+      "id": "us6000szxz",
+      "ts": "2026-05-24T16:48:37Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "12 km ENE of Cortes, Philippines",
+      "body": "12 km ENE of Cortes, Philippines",
+      "mag": 5.8,
+      "lat": 9.3137,
+      "lon": 126.3038,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szxz"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1542305",
+      "ts": "2026-05-24T17:09:32Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 5.8M, Depth:10km) in Philippines 24/05/2026 16:48 UTC, 10 thousand in MMI VI.",
+      "body": "On 5/24/2026 4:48:37 PM, an earthquake occurred in Philippines potentially affecting 10 thousand in MMI VI. The earthquake had Magnitude 5.8M, Depth:10km.",
+      "details": "On 5/24/2026 4:48:37 PM, an earthquake occurred in Philippines potentially affecting 10 thousand in MMI VI. The earthquake had Magnitude 5.8M, Depth:10km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1542305"
+      ],
+      "location": "Philippines 24/05/2026 16:48 UTC, 10 thousand in MMI VI."
     }
   ]
 }
