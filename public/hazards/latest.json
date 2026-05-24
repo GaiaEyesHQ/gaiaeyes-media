@@ -1,21 +1,6 @@
 {
-  "generated_at": "2026-05-24T09:29:30Z",
+  "generated_at": "2026-05-24T10:13:26Z",
   "items": [
-    {
-      "source": "media",
-      "id": "us6000szgb",
-      "ts": "2026-05-22T10:08:19Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "103 km SSE of Lorengau, Papua New Guinea",
-      "body": "103 km SSE of Lorengau, Papua New Guinea",
-      "mag": 5.7,
-      "lat": -2.857,
-      "lon": 147.713,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szgb"
-      ]
-    },
     {
       "source": "gdacs",
       "id": "EQ1541910",
@@ -248,6 +233,22 @@
         "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103891"
       ],
       "location": "Moldova"
+    },
+    {
+      "source": "gdacs",
+      "id": "FL1103892",
+      "ts": "2026-05-24T09:25:42Z",
+      "type": "flood",
+      "severity": "info",
+      "title": "Green flood alert in Peru",
+      "body": "On 21/05/2026, a flood started in Peru, lasting until 23/05/2026 (last update). The flood caused 0 deaths and 0 displaced .",
+      "details": "On 21/05/2026, a flood started in Peru, lasting until 23/05/2026 (last update). The flood caused 0 deaths and 0 displaced .",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103892"
+      ],
+      "location": "Peru"
     }
   ]
 }
