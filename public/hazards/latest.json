@@ -1,21 +1,6 @@
 {
-  "generated_at": "2026-05-25T21:47:03Z",
+  "generated_at": "2026-05-25T22:15:22Z",
   "items": [
-    {
-      "source": "media",
-      "id": "us6000szt5",
-      "ts": "2026-05-23T21:49:16Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "168 km SW of Nikolski, Alaska",
-      "body": "168 km SW of Nikolski, Alaska",
-      "mag": 5.3,
-      "lat": 51.7344,
-      "lon": -170.3491,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szt5"
-      ]
-    },
     {
       "source": "gdacs",
       "id": "FL1103890",
@@ -201,6 +186,21 @@
         "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1542484"
       ],
       "location": "Indonesia 25/05/2026 20:39 UTC, 3 thousand in MMI IV."
+    },
+    {
+      "source": "usgs",
+      "id": "6000t04s",
+      "ts": "2026-05-25T21:52:18Z",
+      "type": "quake",
+      "severity": "yellow",
+      "title": "M 6.7 - 16 km ESE of Calama, Chile",
+      "body": "16 km ESE of Calama, Chile",
+      "mag": 6.7,
+      "lat": -22.4902,
+      "lon": -68.7683,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t04s"
+      ]
     }
   ]
 }
