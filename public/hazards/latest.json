@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25T22:15:22Z",
+  "generated_at": "2026-05-25T22:41:00Z",
   "items": [
     {
       "source": "gdacs",
@@ -190,17 +190,33 @@
     {
       "source": "usgs",
       "id": "6000t04s",
-      "ts": "2026-05-25T21:52:18Z",
+      "ts": "2026-05-25T21:52:19Z",
       "type": "quake",
       "severity": "yellow",
-      "title": "M 6.7 - 16 km ESE of Calama, Chile",
-      "body": "16 km ESE of Calama, Chile",
-      "mag": 6.7,
-      "lat": -22.4902,
-      "lon": -68.7683,
+      "title": "M 6.9 - 31 km E of Calama, Chile",
+      "body": "31 km E of Calama, Chile",
+      "mag": 6.9,
+      "lat": -22.4015,
+      "lon": -68.6229,
       "links": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t04s"
       ]
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1542497",
+      "ts": "2026-05-25T21:59:52Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 6.9M, Depth:101.331km) in Chile 25/05/2026 21:52 UTC, 160 thousand in 100km.",
+      "body": "On 5/25/2026 9:52:19 PM, an earthquake occurred in Chile potentially affecting 160 thousand in 100km. The earthquake had Magnitude 6.9M, Depth:101.331km.",
+      "details": "On 5/25/2026 9:52:19 PM, an earthquake occurred in Chile potentially affecting 160 thousand in 100km. The earthquake had Magnitude 6.9M, Depth:101.331km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1542497"
+      ],
+      "location": "Chile 25/05/2026 21:52 UTC, 160 thousand in 100km."
     }
   ]
 }
