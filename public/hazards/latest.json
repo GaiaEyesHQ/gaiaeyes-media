@@ -1,22 +1,6 @@
 {
-  "generated_at": "2026-05-25T02:10:31Z",
+  "generated_at": "2026-05-25T03:33:35Z",
   "items": [
-    {
-      "source": "gdacs",
-      "id": "WF1028724",
-      "ts": "2026-05-23T03:01:08Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Australia",
-      "body": "On 16/05/2026, a forest fire started in Australia,  until 21/05/2026.",
-      "details": "On 16/05/2026, a forest fire started in Australia,  until 21/05/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028724"
-      ],
-      "location": "Australia"
-    },
     {
       "source": "media",
       "id": "us6000szmu",
@@ -217,6 +201,21 @@
         "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1542305"
       ],
       "location": "Philippines 24/05/2026 16:48 UTC, 7 thousand in MMI V."
+    },
+    {
+      "source": "media",
+      "id": "us6000szzw",
+      "ts": "2026-05-25T02:32:38Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "54 km E of Santa Maria, Philippines",
+      "body": "54 km E of Santa Maria, Philippines",
+      "mag": 5,
+      "lat": 8.0315,
+      "lon": 126.9336,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000szzw"
+      ]
     }
   ]
 }
