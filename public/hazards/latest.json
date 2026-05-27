@@ -1,36 +1,6 @@
 {
-  "generated_at": "2026-05-27T14:41:47Z",
+  "generated_at": "2026-05-27T16:11:16Z",
   "items": [
-    {
-      "source": "media",
-      "id": "us6000t028",
-      "ts": "2026-05-25T15:00:31Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "104 km ESE of Kokopo, Papua New Guinea",
-      "body": "104 km ESE of Kokopo, Papua New Guinea",
-      "mag": 5,
-      "lat": -4.7343,
-      "lon": 153.126,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t028"
-      ]
-    },
-    {
-      "source": "media",
-      "id": "us6000t04f",
-      "ts": "2026-05-25T20:39:20Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "113 km ESE of Bitung, Indonesia",
-      "body": "113 km ESE of Bitung, Indonesia",
-      "mag": 5.6,
-      "lat": 1.1115,
-      "lon": 126.0911,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t04f"
-      ]
-    },
     {
       "source": "gdacs",
       "id": "EQ1542484",
@@ -374,6 +344,132 @@
         "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103896"
       ],
       "location": "Vietnam"
+    },
+    {
+      "source": "media",
+      "id": "us7000snvr",
+      "ts": "2026-05-27T14:51:04Z",
+      "type": "quake",
+      "severity": "yellow",
+      "title": "western Indian-Antarctic Ridge",
+      "body": "western Indian-Antarctic Ridge",
+      "mag": 6,
+      "lat": -50.5174,
+      "lon": 139.3678,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000snvr"
+      ]
+    },
+    {
+      "source": "media",
+      "id": "us7000snvt",
+      "ts": "2026-05-27T15:01:11Z",
+      "type": "quake",
+      "severity": "yellow",
+      "title": "western Indian-Antarctic Ridge",
+      "body": "western Indian-Antarctic Ridge",
+      "mag": 6,
+      "lat": -50.5213,
+      "lon": 139.3037,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000snvt"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "FL1103900",
+      "ts": "2026-05-27T15:03:35Z",
+      "type": "flood",
+      "severity": "info",
+      "title": "Green flood alert in Sri Lanka",
+      "body": "On 08/05/2026, a flood started in Sri Lanka, lasting until 17/05/2026 (last update). The flood caused 0 deaths and 1264 displaced .",
+      "details": "On 08/05/2026, a flood started in Sri Lanka, lasting until 17/05/2026 (last update). The flood caused 0 deaths and 1264 displaced .",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103900"
+      ],
+      "location": "Sri Lanka"
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1542825",
+      "ts": "2026-05-27T15:04:14Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 6M, Depth:10km) in Western Indian-Antarctic Ridge 27/05/2026 14:51 UTC, [unknown].",
+      "body": "On 5/27/2026 2:51:04 PM, an earthquake occurred in Western Indian-Antarctic Ridge potentially affecting [unknown]. The earthquake had Magnitude 6M, Depth:10km.",
+      "details": "On 5/27/2026 2:51:04 PM, an earthquake occurred in Western Indian-Antarctic Ridge potentially affecting [unknown]. The earthquake had Magnitude 6M, Depth:10km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1542825"
+      ],
+      "location": "Western Indian-Antarctic Ridge 27/05/2026 14:51 UTC, [unknown]."
+    },
+    {
+      "source": "gdacs",
+      "id": "FL1103907",
+      "ts": "2026-05-27T15:08:29Z",
+      "type": "flood",
+      "severity": "info",
+      "title": "Green flood alert in Japan",
+      "body": "On 22/05/2026, a flood started in Japan, lasting until 23/05/2026 (last update). The flood caused 0 deaths and 0 displaced .",
+      "details": "On 22/05/2026, a flood started in Japan, lasting until 23/05/2026 (last update). The flood caused 0 deaths and 0 displaced .",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103907"
+      ],
+      "location": "Japan"
+    },
+    {
+      "source": "gdacs",
+      "id": "FL1103908",
+      "ts": "2026-05-27T15:08:43Z",
+      "type": "flood",
+      "severity": "info",
+      "title": "Green flood alert in Romania",
+      "body": "On 22/05/2026, a flood started in Romania, lasting until 24/05/2026 (last update). The flood caused 0 deaths and 0 displaced .",
+      "details": "On 22/05/2026, a flood started in Romania, lasting until 24/05/2026 (last update). The flood caused 0 deaths and 0 displaced .",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103908"
+      ],
+      "location": "Romania"
+    },
+    {
+      "source": "gdacs",
+      "id": "FL1103909",
+      "ts": "2026-05-27T15:09:14Z",
+      "type": "flood",
+      "severity": "info",
+      "title": "Green flood alert in Georgia",
+      "body": "On 24/05/2026, a flood started in Georgia, lasting until 26/05/2026 (last update). The flood caused 0 deaths and 3 displaced .",
+      "details": "On 24/05/2026, a flood started in Georgia, lasting until 26/05/2026 (last update). The flood caused 0 deaths and 3 displaced .",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103909"
+      ],
+      "location": "Georgia"
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1542829",
+      "ts": "2026-05-27T15:20:31Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 6M, Depth:10km) in Western Indian-Antarctic Ridge 27/05/2026 15:01 UTC, [unknown].",
+      "body": "On 5/27/2026 3:01:11 PM, an earthquake occurred in Western Indian-Antarctic Ridge potentially affecting [unknown]. The earthquake had Magnitude 6M, Depth:10km.",
+      "details": "On 5/27/2026 3:01:11 PM, an earthquake occurred in Western Indian-Antarctic Ridge potentially affecting [unknown]. The earthquake had Magnitude 6M, Depth:10km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1542829"
+      ],
+      "location": "Western Indian-Antarctic Ridge 27/05/2026 15:01 UTC, [unknown]."
     }
   ]
 }
