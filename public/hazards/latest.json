@@ -1,22 +1,6 @@
 {
-  "generated_at": "2026-05-27T05:00:45Z",
+  "generated_at": "2026-05-27T06:40:14Z",
   "items": [
-    {
-      "source": "gdacs",
-      "id": "FL1103894",
-      "ts": "2026-05-25T05:55:52Z",
-      "type": "flood",
-      "severity": "info",
-      "title": "Green flood alert in Bulgaria",
-      "body": "On 22/05/2026, a flood started in Bulgaria, lasting until 24/05/2026 (last update). The flood caused 0 deaths and 70 displaced .",
-      "details": "On 22/05/2026, a flood started in Bulgaria, lasting until 24/05/2026 (last update). The flood caused 0 deaths and 70 displaced .",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103894"
-      ],
-      "location": "Bulgaria"
-    },
     {
       "source": "media",
       "id": "us6000t015",
@@ -311,6 +295,21 @@
       "lon": -174.2097,
       "links": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/us7000snpf"
+      ]
+    },
+    {
+      "source": "media",
+      "id": "us7000snt8",
+      "ts": "2026-05-27T05:23:30Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "26 km NE of Calama, Chile",
+      "body": "26 km NE of Calama, Chile",
+      "mag": 5.1,
+      "lat": -22.282,
+      "lon": -68.7512,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000snt8"
       ]
     }
   ]
