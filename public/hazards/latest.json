@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27T13:31:48Z",
+  "generated_at": "2026-05-27T14:41:47Z",
   "items": [
     {
       "source": "media",
@@ -239,6 +239,21 @@
     },
     {
       "source": "media",
+      "id": "us7000sntl",
+      "ts": "2026-05-26T16:22:50Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "Pacific-Antarctic Ridge",
+      "body": "Pacific-Antarctic Ridge",
+      "mag": 5.1,
+      "lat": -58.6442,
+      "lon": -152.5127,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sntl"
+      ]
+    },
+    {
+      "source": "media",
       "id": "us7000snpd",
       "ts": "2026-05-26T18:56:36Z",
       "type": "quake",
@@ -343,6 +358,22 @@
         "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103895"
       ],
       "location": "Kyrgyzstan"
+    },
+    {
+      "source": "gdacs",
+      "id": "FL1103896",
+      "ts": "2026-05-27T13:34:55Z",
+      "type": "flood",
+      "severity": "info",
+      "title": "Green flood alert in Vietnam",
+      "body": "On 23/05/2026, a flood started in Vietnam, lasting until 25/05/2026 (last update). The flood caused 0 deaths and 0 displaced .",
+      "details": "On 23/05/2026, a flood started in Vietnam, lasting until 25/05/2026 (last update). The flood caused 0 deaths and 0 displaced .",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103896"
+      ],
+      "location": "Vietnam"
     }
   ]
 }
