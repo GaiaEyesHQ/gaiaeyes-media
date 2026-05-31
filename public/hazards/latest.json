@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31T21:40:16Z",
+  "generated_at": "2026-05-31T22:14:26Z",
   "items": [
     {
       "source": "media",
@@ -47,22 +47,6 @@
       ]
     },
     {
-      "source": "gdacs",
-      "id": "EQ1543374",
-      "ts": "2026-05-30T21:47:38Z",
-      "type": "quake",
-      "severity": "red",
-      "title": "Green earthquake (Magnitude 5.6M, Depth:35km) in Barbados 30/05/2026 21:27 UTC, 320 thousand in MMI III.",
-      "body": "On 5/30/2026 9:27:25 PM, an earthquake occurred in Barbados potentially affecting 320 thousand in MMI III. The earthquake had Magnitude 5.6M, Depth:35km.",
-      "details": "On 5/30/2026 9:27:25 PM, an earthquake occurred in Barbados potentially affecting 320 thousand in MMI III. The earthquake had Magnitude 5.6M, Depth:35km.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1543374"
-      ],
-      "location": "Barbados 30/05/2026 21:27 UTC, 320 thousand in MMI III."
-    },
-    {
       "source": "media",
       "id": "us7000spkp",
       "ts": "2026-05-30T22:45:51Z",
@@ -108,54 +92,6 @@
       ]
     },
     {
-      "source": "gdacs",
-      "id": "FL1103910",
-      "ts": "2026-05-31T17:16:53Z",
-      "type": "flood",
-      "severity": "info",
-      "title": "Green flood alert in South Korea",
-      "body": "On 25/05/2026, a flood started in South Korea, lasting until 27/05/2026 (last update). The flood caused 0 deaths and 0 displaced .",
-      "details": "On 25/05/2026, a flood started in South Korea, lasting until 27/05/2026 (last update). The flood caused 0 deaths and 0 displaced .",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103910"
-      ],
-      "location": "South Korea"
-    },
-    {
-      "source": "gdacs",
-      "id": "FL1103911",
-      "ts": "2026-05-31T17:18:00Z",
-      "type": "flood",
-      "severity": "info",
-      "title": "Green flood alert in Mexico",
-      "body": "On 27/05/2026, a flood started in Mexico, lasting until 29/05/2026 (last update). The flood caused 0 deaths and 0 displaced .",
-      "details": "On 27/05/2026, a flood started in Mexico, lasting until 29/05/2026 (last update). The flood caused 0 deaths and 0 displaced .",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103911"
-      ],
-      "location": "Mexico"
-    },
-    {
-      "source": "gdacs",
-      "id": "FL1103916",
-      "ts": "2026-05-31T17:19:29Z",
-      "type": "flood",
-      "severity": "info",
-      "title": "Green flood alert in Libya",
-      "body": "On 26/05/2026, a flood started in Libya, lasting until 28/05/2026 (last update). The flood caused 0 deaths and 250 displaced .",
-      "details": "On 26/05/2026, a flood started in Libya, lasting until 28/05/2026 (last update). The flood caused 0 deaths and 250 displaced .",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103916"
-      ],
-      "location": "Libya"
-    },
-    {
       "source": "media",
       "id": "us7000sppt",
       "ts": "2026-05-31T19:15:39Z",
@@ -168,6 +104,21 @@
       "lon": -179.0432,
       "links": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sppt"
+      ]
+    },
+    {
+      "source": "usgs",
+      "id": "7000spqc",
+      "ts": "2026-05-31T21:34:17Z",
+      "type": "quake",
+      "severity": "yellow",
+      "title": "M 6.0 - 36 km NW of Valpara\u00edso, Chile",
+      "body": "36 km NW of Valpara\u00edso, Chile",
+      "mag": 6,
+      "lat": -32.7679,
+      "lon": -71.8524,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000spqc"
       ]
     }
   ]
