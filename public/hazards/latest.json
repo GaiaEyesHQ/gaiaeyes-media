@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T03:52:58Z",
+  "generated_at": "2026-06-01T05:44:30Z",
   "items": [
     {
       "source": "media",
@@ -169,6 +169,37 @@
         "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1543542"
       ],
       "location": "Chile 31/05/2026 21:34 UTC, 100 thousand in MMI V."
+    },
+    {
+      "source": "media",
+      "id": "us7000spru",
+      "ts": "2026-06-01T03:34:30Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "Izu Islands, Japan region",
+      "body": "Izu Islands, Japan region",
+      "mag": 5.7,
+      "lat": 30.7158,
+      "lon": 141.7476,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000spru"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1543591",
+      "ts": "2026-06-01T03:51:12Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 5.7M, Depth:11km) in Japan 01/06/2026 03:34 UTC, Few people affected in MMI>=II.",
+      "body": "On 6/1/2026 3:34:30 AM, an earthquake occurred in Japan potentially affecting Few people affected in MMI>=II. The earthquake had Magnitude 5.7M, Depth:11km.",
+      "details": "On 6/1/2026 3:34:30 AM, an earthquake occurred in Japan potentially affecting Few people affected in MMI>=II. The earthquake had Magnitude 5.7M, Depth:11km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1543591"
+      ],
+      "location": "Japan 01/06/2026 03:34 UTC, Few people affected in MMI>=II."
     }
   ]
 }
