@@ -1,21 +1,6 @@
 {
-  "generated_at": "2026-06-01T21:56:01Z",
+  "generated_at": "2026-06-01T22:47:06Z",
   "items": [
-    {
-      "source": "media",
-      "id": "us7000spkp",
-      "ts": "2026-05-30T22:45:51Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "81 km SE of Lae, Papua New Guinea",
-      "body": "81 km SE of Lae, Papua New Guinea",
-      "mag": 5,
-      "lat": -7.2968,
-      "lon": 147.4544,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000spkp"
-      ]
-    },
     {
       "source": "media",
       "id": "us7000splm",
@@ -61,22 +46,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103911"
       ],
       "location": "Mexico"
-    },
-    {
-      "source": "gdacs",
-      "id": "FL1103916",
-      "ts": "2026-05-31T17:19:29Z",
-      "type": "flood",
-      "severity": "info",
-      "title": "Green flood alert in Libya",
-      "body": "On 26/05/2026, a flood started in Libya, lasting until 28/05/2026 (last update). The flood caused 0 deaths and 250 displaced .",
-      "details": "On 26/05/2026, a flood started in Libya, lasting until 28/05/2026 (last update). The flood caused 0 deaths and 250 displaced .",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103916"
-      ],
-      "location": "Libya"
     },
     {
       "source": "media",
@@ -232,6 +201,37 @@
         "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103919"
       ],
       "location": "Germany"
+    },
+    {
+      "source": "media",
+      "id": "us7000spxm",
+      "ts": "2026-06-01T22:12:36Z",
+      "type": "quake",
+      "severity": "yellow",
+      "title": "17 km WSW of Scarcelli, Italy",
+      "body": "17 km WSW of Scarcelli, Italy",
+      "mag": 6.2,
+      "lat": 39.3549,
+      "lon": 15.8201,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000spxm"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1543713",
+      "ts": "2026-06-01T22:25:32Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 6.2M, Depth:247.119km) in Italy 01/06/2026 22:12 UTC, 14.2 million in MMI IV.",
+      "body": "On 6/1/2026 10:12:36 PM, an earthquake occurred in Italy potentially affecting 14.2 million in MMI IV. The earthquake had Magnitude 6.2M, Depth:247.119km.",
+      "details": "On 6/1/2026 10:12:36 PM, an earthquake occurred in Italy potentially affecting 14.2 million in MMI IV. The earthquake had Magnitude 6.2M, Depth:247.119km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1543713"
+      ],
+      "location": "Italy 01/06/2026 22:12 UTC, 14.2 million in MMI IV."
     }
   ]
 }
