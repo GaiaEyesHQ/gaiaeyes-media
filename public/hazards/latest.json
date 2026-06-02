@@ -1,21 +1,6 @@
 {
-  "generated_at": "2026-06-02T20:29:55Z",
+  "generated_at": "2026-06-02T21:34:40Z",
   "items": [
-    {
-      "source": "media",
-      "id": "us7000spqc",
-      "ts": "2026-05-31T21:34:18Z",
-      "type": "quake",
-      "severity": "yellow",
-      "title": "33 km NW of Valpara\u00edso, Chile",
-      "body": "33 km NW of Valpara\u00edso, Chile",
-      "mag": 6,
-      "lat": -32.8047,
-      "lon": -71.8593,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000spqc"
-      ]
-    },
     {
       "source": "gdacs",
       "id": "EQ1543542",
@@ -218,6 +203,22 @@
         "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103921"
       ],
       "location": "Austria"
+    },
+    {
+      "source": "gdacs",
+      "id": "TC1001273",
+      "ts": "2026-06-02T20:50:25Z",
+      "type": "cyclone",
+      "severity": "info",
+      "title": "Green notification for tropical cyclone ONE-E-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
+      "body": "From 02/06/2026 to 02/06/2026, a Tropical Depression (maximum wind speed of 93 km/h) ONE-E-26 was active in EastPacific. The cyclone affects these countries: [unknown] (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
+      "details": "From 02/06/2026 to 02/06/2026, a Tropical Depression (maximum wind speed of 93 km/h) ONE-E-26 was active in EastPacific. The cyclone affects these countries: [unknown] (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001273"
+      ],
+      "location": "Tropical Storm)."
     }
   ]
 }
