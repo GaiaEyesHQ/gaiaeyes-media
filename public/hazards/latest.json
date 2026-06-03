@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03T09:03:06Z",
+  "generated_at": "2026-06-03T10:49:00Z",
   "items": [
     {
       "source": "media",
@@ -112,6 +112,21 @@
       "location": "New Zealand"
     },
     {
+      "source": "media",
+      "id": "us7000sq7x",
+      "ts": "2026-06-03T06:58:56Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "76 km S of Daroot-Korgon, Kyrgyzstan",
+      "body": "76 km S of Daroot-Korgon, Kyrgyzstan",
+      "mag": 5.1,
+      "lat": 38.8658,
+      "lon": 72.278,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sq7x"
+      ]
+    },
+    {
       "source": "gdacs",
       "id": "FL1103923",
       "ts": "2026-06-03T08:05:52Z",
@@ -126,6 +141,22 @@
         "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103923"
       ],
       "location": "Italy"
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1543980",
+      "ts": "2026-06-03T10:40:43Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 5.6M, Depth:10km) in Vanuatu Islands Region 03/06/2026 10:20 UTC, No people affected in 100km.",
+      "body": "On 6/3/2026 10:20:37 AM, an earthquake occurred in Vanuatu Islands Region potentially affecting No people affected in 100km. The earthquake had Magnitude 5.6M, Depth:10km.",
+      "details": "On 6/3/2026 10:20:37 AM, an earthquake occurred in Vanuatu Islands Region potentially affecting No people affected in 100km. The earthquake had Magnitude 5.6M, Depth:10km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1543980"
+      ],
+      "location": "Vanuatu Islands Region 03/06/2026 10:20 UTC, No people affected in 100km."
     }
   ]
 }
