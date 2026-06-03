@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03T10:49:00Z",
+  "generated_at": "2026-06-03T12:26:05Z",
   "items": [
     {
       "source": "media",
@@ -143,20 +143,82 @@
       "location": "Italy"
     },
     {
+      "source": "media",
+      "id": "us7000sq90",
+      "ts": "2026-06-03T10:20:37Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "Vanuatu region",
+      "body": "Vanuatu region",
+      "mag": 5.6,
+      "lat": -20.4457,
+      "lon": 173.0405,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sq90"
+      ]
+    },
+    {
       "source": "gdacs",
       "id": "EQ1543980",
-      "ts": "2026-06-03T10:40:43Z",
+      "ts": "2026-06-03T10:39:12Z",
       "type": "quake",
       "severity": "red",
-      "title": "Green earthquake (Magnitude 5.6M, Depth:10km) in Vanuatu Islands Region 03/06/2026 10:20 UTC, No people affected in 100km.",
-      "body": "On 6/3/2026 10:20:37 AM, an earthquake occurred in Vanuatu Islands Region potentially affecting No people affected in 100km. The earthquake had Magnitude 5.6M, Depth:10km.",
-      "details": "On 6/3/2026 10:20:37 AM, an earthquake occurred in Vanuatu Islands Region potentially affecting No people affected in 100km. The earthquake had Magnitude 5.6M, Depth:10km.",
+      "title": "Green earthquake (Magnitude 5.6M, Depth:10km) in Vanuatu Islands Region 03/06/2026 10:20 UTC, [unknown].",
+      "body": "On 6/3/2026 10:20:37 AM, an earthquake occurred in Vanuatu Islands Region potentially affecting [unknown]. The earthquake had Magnitude 5.6M, Depth:10km.",
+      "details": "On 6/3/2026 10:20:37 AM, an earthquake occurred in Vanuatu Islands Region potentially affecting [unknown]. The earthquake had Magnitude 5.6M, Depth:10km.",
       "lat": null,
       "lon": null,
       "links": [
         "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1543980"
       ],
-      "location": "Vanuatu Islands Region 03/06/2026 10:20 UTC, No people affected in 100km."
+      "location": "Vanuatu Islands Region 03/06/2026 10:20 UTC, [unknown]."
+    },
+    {
+      "source": "media",
+      "id": "us7000sq93",
+      "ts": "2026-06-03T10:53:52Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "159 km WSW of Pistol River, Oregon",
+      "body": "159 km WSW of Pistol River, Oregon",
+      "mag": 5.7,
+      "lat": 41.8956,
+      "lon": -126.2531,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sq93"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1543983",
+      "ts": "2026-06-03T11:01:22Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 5.7M, Depth:10km) in United States 03/06/2026 10:53 UTC, 10 thousand in MMI IV.",
+      "body": "On 6/3/2026 10:53:52 AM, an earthquake occurred in United States potentially affecting 10 thousand in MMI IV. The earthquake had Magnitude 5.7M, Depth:10km.",
+      "details": "On 6/3/2026 10:53:52 AM, an earthquake occurred in United States potentially affecting 10 thousand in MMI IV. The earthquake had Magnitude 5.7M, Depth:10km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1543983"
+      ],
+      "location": "United States 03/06/2026 10:53 UTC, 10 thousand in MMI IV."
+    },
+    {
+      "source": "gdacs",
+      "id": "FL1103924",
+      "ts": "2026-06-03T12:15:53Z",
+      "type": "flood",
+      "severity": "info",
+      "title": "Green flood alert in Colombia",
+      "body": "On 01/06/2026, a flood started in Colombia, lasting until 03/06/2026 (last update). The flood caused 0 deaths and 0 displaced .",
+      "details": "On 01/06/2026, a flood started in Colombia, lasting until 03/06/2026 (last update). The flood caused 0 deaths and 0 displaced .",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103924"
+      ],
+      "location": "Colombia"
     }
   ]
 }
