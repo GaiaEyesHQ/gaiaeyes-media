@@ -1,22 +1,6 @@
 {
-  "generated_at": "2026-06-04T20:47:37Z",
+  "generated_at": "2026-06-04T21:23:09Z",
   "items": [
-    {
-      "source": "gdacs",
-      "id": "TC1001273",
-      "ts": "2026-06-02T20:50:25Z",
-      "type": "cyclone",
-      "severity": "info",
-      "title": "Green notification for tropical cyclone AMANDA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
-      "body": "From 02/06/2026 to 04/06/2026, a Tropical Storm (maximum wind speed of 74 km/h) AMANDA-26 was active in EastPacific. The cyclone affects these countries: [unknown] (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
-      "details": "From 02/06/2026 to 04/06/2026, a Tropical Storm (maximum wind speed of 74 km/h) AMANDA-26 was active in EastPacific. The cyclone affects these countries: [unknown] (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001273"
-      ],
-      "location": "Tropical Storm)."
-    },
     {
       "source": "gdacs",
       "id": "WF1028728",
@@ -1258,6 +1242,21 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028794"
       ],
       "location": "Zambia"
+    },
+    {
+      "source": "usgs",
+      "id": "00919749",
+      "ts": "2026-06-04T20:47:58Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "M 4.1 - 11 km NW of Summerlin South, Nevada",
+      "body": "11 km NW of Summerlin South, Nevada",
+      "mag": 4.05,
+      "lat": 36.1764,
+      "lon": -115.4319,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/nn00919749"
+      ]
     }
   ]
 }
