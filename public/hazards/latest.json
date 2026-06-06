@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06T15:19:00Z",
+  "generated_at": "2026-06-06T15:52:17Z",
   "items": [
     {
       "source": "gdacs",
@@ -511,14 +511,14 @@
     {
       "source": "media",
       "id": "us7000sqzv",
-      "ts": "2026-06-05T20:55:05Z",
+      "ts": "2026-06-05T20:55:03Z",
       "type": "quake",
       "severity": "info",
-      "title": "0 km SSW of Quetzalapa, Mexico",
-      "body": "0 km SSW of Quetzalapa, Mexico",
-      "mag": 5.1,
-      "lat": 16.7782,
-      "lon": -98.5044,
+      "title": "2 km WSW of Santa Mar\u00eda, Mexico",
+      "body": "2 km WSW of Santa Mar\u00eda, Mexico",
+      "mag": 5.2,
+      "lat": 16.7654,
+      "lon": -98.4106,
       "links": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sqzv"
       ]
@@ -532,8 +532,8 @@
       "title": "Balleny Islands region",
       "body": "Balleny Islands region",
       "mag": 5.6,
-      "lat": -61.8467,
-      "lon": 161.168,
+      "lat": -61.7682,
+      "lon": 161.3301,
       "links": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sqzx"
       ]
@@ -544,15 +544,15 @@
       "ts": "2026-06-05T21:18:52Z",
       "type": "quake",
       "severity": "red",
-      "title": "Green earthquake (Magnitude 5.6M, Depth:10km) in Balleny Islands Region 05/06/2026 20:58 UTC, [unknown].",
-      "body": "On 6/5/2026 8:58:09 PM, an earthquake occurred in Balleny Islands Region potentially affecting [unknown]. The earthquake had Magnitude 5.6M, Depth:10km.",
-      "details": "On 6/5/2026 8:58:09 PM, an earthquake occurred in Balleny Islands Region potentially affecting [unknown]. The earthquake had Magnitude 5.6M, Depth:10km.",
+      "title": "Green earthquake (Magnitude 5.6M, Depth:10km) in Balleny Islands Region 05/06/2026 20:58 UTC, No people affected in 100km.",
+      "body": "On 6/5/2026 8:58:09 PM, an earthquake occurred in Balleny Islands Region potentially affecting No people affected in 100km. The earthquake had Magnitude 5.6M, Depth:10km.",
+      "details": "On 6/5/2026 8:58:09 PM, an earthquake occurred in Balleny Islands Region potentially affecting No people affected in 100km. The earthquake had Magnitude 5.6M, Depth:10km.",
       "lat": null,
       "lon": null,
       "links": [
         "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1544408"
       ],
-      "location": "Balleny Islands Region 05/06/2026 20:58 UTC, [unknown]."
+      "location": "Balleny Islands Region 05/06/2026 20:58 UTC, No people affected in 100km."
     },
     {
       "source": "media",
@@ -567,6 +567,21 @@
       "lon": -176.8622,
       "links": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sr0g"
+      ]
+    },
+    {
+      "source": "media",
+      "id": "us7000sr3u",
+      "ts": "2026-06-06T14:09:45Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "221 km ENE of Neiafu, Tonga",
+      "body": "221 km ENE of Neiafu, Tonga",
+      "mag": 5.3,
+      "lat": -17.5707,
+      "lon": -172.2247,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sr3u"
       ]
     }
   ]
