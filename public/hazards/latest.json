@@ -1,21 +1,6 @@
 {
-  "generated_at": "2026-06-07T14:58:25Z",
+  "generated_at": "2026-06-07T15:36:41Z",
   "items": [
-    {
-      "source": "media",
-      "id": "us7000sqzv",
-      "ts": "2026-06-05T20:55:03Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "2 km WSW of Santa Mar\u00eda, Mexico",
-      "body": "2 km WSW of Santa Mar\u00eda, Mexico",
-      "mag": 5.2,
-      "lat": 16.7654,
-      "lon": -98.4106,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sqzv"
-      ]
-    },
     {
       "source": "media",
       "id": "us7000sqzx",
@@ -486,6 +471,53 @@
         "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1544617"
       ],
       "location": "Russia 07/06/2026 10:41 UTC, 2 thousand in MMI IV."
+    },
+    {
+      "source": "media",
+      "id": "us7000sr8v",
+      "ts": "2026-06-07T14:53:56Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "139 km SE of Severo-Kuril\u2019sk, Russia",
+      "body": "139 km SE of Severo-Kuril\u2019sk, Russia",
+      "mag": 5.5,
+      "lat": 49.8979,
+      "lon": 157.6645,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sr8v"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1544653",
+      "ts": "2026-06-07T15:14:04Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 5.5M, Depth:10km) in Russia 07/06/2026 14:53 UTC, 4 thousand in MMI III.",
+      "body": "On 6/7/2026 2:53:56 PM, an earthquake occurred in Russia potentially affecting 4 thousand in MMI III. The earthquake had Magnitude 5.5M, Depth:10km.",
+      "details": "On 6/7/2026 2:53:56 PM, an earthquake occurred in Russia potentially affecting 4 thousand in MMI III. The earthquake had Magnitude 5.5M, Depth:10km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1544653"
+      ],
+      "location": "Russia 07/06/2026 14:53 UTC, 4 thousand in MMI III."
+    },
+    {
+      "source": "gdacs",
+      "id": "TC1001274",
+      "ts": "2026-06-07T15:21:17Z",
+      "type": "cyclone",
+      "severity": "info",
+      "title": "Green notification for tropical cyclone TWO-E-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0.114 million in Tropical Storm).",
+      "body": "From 07/06/2026 to 07/06/2026, a Tropical Depression (maximum wind speed of 74 km/h) TWO-E-26 was active in Atlantic. The cyclone affects these countries: Mexico (vulnerability Medium). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0.114 million in tropical storm).",
+      "details": "From 07/06/2026 to 07/06/2026, a Tropical Depression (maximum wind speed of 74 km/h) TWO-E-26 was active in Atlantic. The cyclone affects these countries: Mexico (vulnerability Medium). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0.114 million in tropical storm).",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001274"
+      ],
+      "location": "Tropical Storm)."
     }
   ]
 }
