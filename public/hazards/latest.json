@@ -1,21 +1,6 @@
 {
-  "generated_at": "2026-06-07T10:31:45Z",
+  "generated_at": "2026-06-07T11:18:47Z",
   "items": [
-    {
-      "source": "media",
-      "id": "us7000squy",
-      "ts": "2026-06-05T13:57:59Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "7 km NNW of Manito, Philippines",
-      "body": "7 km NNW of Manito, Philippines",
-      "mag": 5.3,
-      "lat": 13.1856,
-      "lon": 123.8507,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000squy"
-      ]
-    },
     {
       "source": "media",
       "id": "us7000sqvk",
@@ -470,6 +455,37 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028811"
       ],
       "location": "The Democratic Republic of Congo"
+    },
+    {
+      "source": "media",
+      "id": "us7000sr7d",
+      "ts": "2026-06-07T10:02:48Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "5 km WNW of Prok\u00f3pi, Greece",
+      "body": "5 km WNW of Prok\u00f3pi, Greece",
+      "mag": 5.1,
+      "lat": 38.761,
+      "lon": 23.4383,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sr7d"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1544617",
+      "ts": "2026-06-07T11:02:56Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 6.1M, Depth:35km) in Russia 07/06/2026 10:41 UTC, 2 thousand in MMI IV.",
+      "body": "On 6/7/2026 10:41:58 AM, an earthquake occurred in Russia potentially affecting 2 thousand in MMI IV. The earthquake had Magnitude 6.1M, Depth:35km.",
+      "details": "On 6/7/2026 10:41:58 AM, an earthquake occurred in Russia potentially affecting 2 thousand in MMI IV. The earthquake had Magnitude 6.1M, Depth:35km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1544617"
+      ],
+      "location": "Russia 07/06/2026 10:41 UTC, 2 thousand in MMI IV."
     }
   ]
 }
