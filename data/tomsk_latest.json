@@ -1,24 +1,24 @@
 {
   "status": "ok",
   "source": "tomsk",
-  "timestamp_utc": "2026-06-07T02:26:16.328688+00:00",
+  "timestamp_utc": "2026-06-07T03:50:30.902393+00:00",
   "last_modified": null,
-  "fundamental_hz": 7.3,
+  "fundamental_hz": 8.38846061527729,
   "harmonics_hz": {
-    "F1": 7.3,
-    "F2": null,
-    "F3": 23.1,
-    "F4": 31.576274298131466,
-    "F5": 39.8
+    "F1": 8.38846061527729,
+    "F2": 16.77692123055458,
+    "F3": 21.586949819326403,
+    "F4": 25.007583659142256,
+    "F5": 31.434315183758734
   },
   "amplitude_idx": {},
-  "quality_score": 0.9220941254967138,
+  "quality_score": 0.9077708062372709,
   "usable": true,
   "quality_reasons": [],
   "confidence": "high-panels",
   "overlay_path": "runs/tomsk_overlay_full.png",
   "raw": {
-    "tsst_time": "2026-06-07T09:26:16.303891+00:00",
+    "tsst_time": "2026-06-07T10:50:30.877634+00:00",
     "roi": {
       "x0": 59,
       "y0": 31,
@@ -35,18 +35,18 @@
       "day_w_time": 463.3333333333333
     },
     "debug": {
-      "x_frontier": 1207,
+      "x_frontier": 1237,
       "frontier_method": "activity_scan",
-      "frontier_activity_thr": 0.7393820583820343,
-      "frontier_activity_right_tail": 0.01235292199999094,
+      "frontier_activity_thr": 0.7411049872636795,
+      "frontier_activity_right_tail": 0.012327039614319801,
       "frontier_activity_run_px": 8,
       "x1_exclude_right_px": 90,
       "guard_px": 6,
-      "x_time": 1168,
-      "x_ideal": 1168,
-      "x_now": 1201,
-      "right_guard": 1201,
-      "delta_min_to_guard": 102.5611510791367,
+      "x_time": 1195,
+      "x_ideal": 1195,
+      "x_now": 1231,
+      "right_guard": 1231,
+      "delta_min_to_guard": 111.88489208633094,
       "pph": 19.305555555555554,
       "pph_source": "day_width",
       "tick_count": 4,
@@ -57,28 +57,28 @@
       "guard_applied": true,
       "age_hours": null,
       "stale_hours": 6.0,
-      "plausibility_reject_f2_count": 1,
-      "plausibility_selected_f2_rank": 1,
-      "family_scoring_used": true,
-      "family_best_f1": 7.899999999999998,
-      "family_best_score": 3.503957676887512,
-      "family_candidate_count": 32,
+      "plausibility_reject_f2_count": 3,
+      "plausibility_selected_f2_rank": null,
+      "family_scoring_used": false,
+      "family_best_f1": 7.2,
+      "family_best_score": 3.4495290637016294,
+      "family_candidate_count": 30,
       "family_top3": [
         {
-          "f1": 7.899999999999998,
-          "score": 3.503957676887512
+          "f1": 7.2,
+          "score": 3.4495290637016294
         },
         {
           "f1": 7.9499999999999975,
-          "score": 3.502237844467163
+          "score": 3.4482141375541686
         },
         {
           "f1": 7.999999999999997,
-          "score": 3.4929046630859375
+          "score": 3.446682059764862
         }
       ],
       "family_score_threshold": 1.35,
-      "family_fallback_used": false
+      "family_fallback_used": true
     },
     "method": "tick-ruler px/h + adaptive frontier guard; day3(48–72h) time-anchor; stage1 plausibility gate + stage2 family scoring"
   }
