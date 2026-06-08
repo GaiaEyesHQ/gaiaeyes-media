@@ -1,51 +1,6 @@
 {
-  "generated_at": "2026-06-08T00:16:28Z",
+  "generated_at": "2026-06-08T01:28:44Z",
   "items": [
-    {
-      "source": "media",
-      "id": "us7000sr3u",
-      "ts": "2026-06-06T14:09:45Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "221 km ENE of Neiafu, Tonga",
-      "body": "221 km ENE of Neiafu, Tonga",
-      "mag": 5.3,
-      "lat": -17.5707,
-      "lon": -172.2247,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sr3u"
-      ]
-    },
-    {
-      "source": "media",
-      "id": "us7000sr4k",
-      "ts": "2026-06-06T18:56:47Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "100 km ESE of Modisi, Indonesia",
-      "body": "100 km ESE of Modisi, Indonesia",
-      "mag": 5.2,
-      "lat": 0.0113,
-      "lon": 125.2243,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sr4k"
-      ]
-    },
-    {
-      "source": "media",
-      "id": "us7000sr5i",
-      "ts": "2026-06-06T22:38:35Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "22 km E of Venilale, Timor Leste",
-      "body": "22 km E of Venilale, Timor Leste",
-      "mag": 5.2,
-      "lat": -8.6648,
-      "lon": 126.5825,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sr5i"
-      ]
-    },
     {
       "source": "media",
       "id": "us7000sr64",
@@ -488,35 +443,97 @@
       "location": "Easter Island Region 07/06/2026 18:01 UTC, [unknown]."
     },
     {
-      "source": "usgs",
-      "id": "7000srb1",
-      "ts": "2026-06-07T23:37:40Z",
+      "source": "media",
+      "id": "us7000srb1",
+      "ts": "2026-06-07T23:37:41Z",
       "type": "quake",
       "severity": "red",
-      "title": "M 7.8 - 24 km WSW of Burias, Philippines",
-      "body": "24 km WSW of Burias, Philippines",
+      "title": "26 km SW of Kablalan, Philippines",
+      "body": "26 km SW of Kablalan, Philippines",
       "mag": 7.8,
-      "lat": 5.5996,
-      "lon": 125.0647,
+      "lat": 5.5918,
+      "lon": 125.0469,
       "links": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srb1"
       ]
     },
     {
+      "source": "media",
+      "id": "us7000src3",
+      "ts": "2026-06-07T23:49:13Z",
+      "type": "quake",
+      "severity": "yellow",
+      "title": "4 km ENE of Pangyan, Philippines",
+      "body": "4 km ENE of Pangyan, Philippines",
+      "mag": 6,
+      "lat": 5.7148,
+      "lon": 125.3204,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000src3"
+      ]
+    },
+    {
       "source": "gdacs",
       "id": "EQ1544720",
-      "ts": "2026-06-08T00:05:26Z",
+      "ts": "2026-06-07T23:57:38Z",
       "type": "quake",
       "severity": "red",
-      "title": "Orange earthquake (Magnitude 7.8M, Depth:35km) in Philippines 07/06/2026 23:37 UTC, 2.9 million (in MMI>=VII).",
-      "body": "On 6/7/2026 11:37:40 PM, an earthquake occurred in Philippines potentially affecting 2.9 million (in MMI>=VII). The earthquake had Magnitude 7.8M, Depth:35km.",
-      "details": "On 6/7/2026 11:37:40 PM, an earthquake occurred in Philippines potentially affecting 2.9 million (in MMI>=VII). The earthquake had Magnitude 7.8M, Depth:35km.",
+      "title": "Orange earthquake (Magnitude 7.8M, Depth:55.193km) in Philippines 07/06/2026 23:37 UTC, 4.8 million (in MMI>=VII).",
+      "body": "On 6/7/2026 11:37:40 PM, an earthquake occurred in Philippines potentially affecting 4.8 million (in MMI>=VII). The earthquake had Magnitude 7.8M, Depth:55.193km.",
+      "details": "On 6/7/2026 11:37:40 PM, an earthquake occurred in Philippines potentially affecting 4.8 million (in MMI>=VII). The earthquake had Magnitude 7.8M, Depth:55.193km.",
       "lat": null,
       "lon": null,
       "links": [
         "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1544720"
       ],
-      "location": "Philippines 07/06/2026 23:37 UTC, 2.9 million (in MMI>=VII)."
+      "location": "Philippines 07/06/2026 23:37 UTC, 4.8 million (in MMI>=VII)."
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1544722",
+      "ts": "2026-06-08T00:42:21Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 6.1M, Depth:67.188km) in Philippines 07/06/2026 23:48 UTC, 170 thousand in MMI V.",
+      "body": "On 6/7/2026 11:48:09 PM, an earthquake occurred in Philippines potentially affecting 170 thousand in MMI V. The earthquake had Magnitude 6.1M, Depth:67.188km.",
+      "details": "On 6/7/2026 11:48:09 PM, an earthquake occurred in Philippines potentially affecting 170 thousand in MMI V. The earthquake had Magnitude 6.1M, Depth:67.188km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1544722"
+      ],
+      "location": "Philippines 07/06/2026 23:48 UTC, 170 thousand in MMI V."
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1544726",
+      "ts": "2026-06-08T00:50:42Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 6M, Depth:35km) in Philippines 07/06/2026 23:49 UTC, 2.6 million in 100km.",
+      "body": "On 6/7/2026 11:49:13 PM, an earthquake occurred in Philippines potentially affecting 2.6 million in 100km. The earthquake had Magnitude 6M, Depth:35km.",
+      "details": "On 6/7/2026 11:49:13 PM, an earthquake occurred in Philippines potentially affecting 2.6 million in 100km. The earthquake had Magnitude 6M, Depth:35km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1544726"
+      ],
+      "location": "Philippines 07/06/2026 23:49 UTC, 2.6 million in 100km."
+    },
+    {
+      "source": "usgs",
+      "id": "7000srcg",
+      "ts": "2026-06-08T00:55:12Z",
+      "type": "quake",
+      "severity": "yellow",
+      "title": "M 6.5 - 19 km SW of Balangonan, Philippines",
+      "body": "19 km SW of Balangonan, Philippines",
+      "mag": 6.5,
+      "lat": 5.4724,
+      "lon": 125.2046,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srcg"
+      ]
     }
   ]
 }
