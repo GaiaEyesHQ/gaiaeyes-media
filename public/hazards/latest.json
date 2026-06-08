@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T09:02:45Z",
+  "generated_at": "2026-06-08T10:48:47Z",
   "items": [
     {
       "source": "gdacs",
@@ -39,9 +39,9 @@
       "ts": "2026-06-07T15:21:17Z",
       "type": "cyclone",
       "severity": "info",
-      "title": "Green notification for tropical cyclone TWO-E-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0.114 million in Tropical Storm).",
-      "body": "From 07/06/2026 to 08/06/2026, a Tropical Depression (maximum wind speed of 65 km/h) TWO-E-26 was active in Atlantic. The cyclone affects these countries: Mexico (vulnerability Medium). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0.114 million in tropical storm).",
-      "details": "From 07/06/2026 to 08/06/2026, a Tropical Depression (maximum wind speed of 65 km/h) TWO-E-26 was active in Atlantic. The cyclone affects these countries: Mexico (vulnerability Medium). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0.114 million in tropical storm).",
+      "title": "Green notification for tropical cyclone BORIS-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0.114 million in Tropical Storm).",
+      "body": "From 07/06/2026 to 08/06/2026, a Tropical Storm (maximum wind speed of 65 km/h) BORIS-26 was active in Atlantic. The cyclone affects these countries: Mexico (vulnerability Medium). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0.114 million in tropical storm).",
+      "details": "From 07/06/2026 to 08/06/2026, a Tropical Storm (maximum wind speed of 65 km/h) BORIS-26 was active in Atlantic. The cyclone affects these countries: Mexico (vulnerability Medium). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0.114 million in tropical storm).",
       "lat": null,
       "lon": null,
       "links": [
@@ -80,21 +80,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1544684"
       ],
       "location": "Easter Island Region 07/06/2026 18:01 UTC, [unknown]."
-    },
-    {
-      "source": "media",
-      "id": "us7000src3",
-      "ts": "2026-06-07T23:49:13Z",
-      "type": "quake",
-      "severity": "yellow",
-      "title": "4 km ENE of Pangyan, Philippines",
-      "body": "4 km ENE of Pangyan, Philippines",
-      "mag": 6,
-      "lat": 5.7148,
-      "lon": 125.3204,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000src3"
-      ]
     },
     {
       "source": "gdacs",
@@ -143,21 +128,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1544726"
       ],
       "location": "Philippines 07/06/2026 23:49 UTC, 260 thousand in MMI V."
-    },
-    {
-      "source": "media",
-      "id": "us7000srcf",
-      "ts": "2026-06-08T00:53:04Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "37 km WSW of Sarangani, Philippines",
-      "body": "37 km WSW of Sarangani, Philippines",
-      "mag": 5,
-      "lat": 5.2138,
-      "lon": 125.1793,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srcf"
-      ]
     },
     {
       "source": "media",
@@ -616,6 +586,21 @@
       ]
     },
     {
+      "source": "media",
+      "id": "us7000srem",
+      "ts": "2026-06-08T07:00:06Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "29 km WSW of Balangonan, Philippines",
+      "body": "29 km WSW of Balangonan, Philippines",
+      "mag": 5,
+      "lat": 5.4985,
+      "lon": 125.0994,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srem"
+      ]
+    },
+    {
       "source": "gdacs",
       "id": "FL1103931",
       "ts": "2026-06-08T07:14:21Z",
@@ -630,6 +615,37 @@
         "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103931"
       ],
       "location": "Russia"
+    },
+    {
+      "source": "media",
+      "id": "us7000srf1",
+      "ts": "2026-06-08T08:13:44Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "29 km SW of Balangonan, Philippines",
+      "body": "29 km SW of Balangonan, Philippines",
+      "mag": 5.3,
+      "lat": 5.3935,
+      "lon": 125.1601,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srf1"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1544854",
+      "ts": "2026-06-08T10:00:38Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 5.6M, Depth:35km) in Philippines 08/06/2026 09:17 UTC, 50 thousand in MMI IV.",
+      "body": "On 6/8/2026 9:17:26 AM, an earthquake occurred in Philippines potentially affecting 50 thousand in MMI IV. The earthquake had Magnitude 5.6M, Depth:35km.",
+      "details": "On 6/8/2026 9:17:26 AM, an earthquake occurred in Philippines potentially affecting 50 thousand in MMI IV. The earthquake had Magnitude 5.6M, Depth:35km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1544854"
+      ],
+      "location": "Philippines 08/06/2026 09:17 UTC, 50 thousand in MMI IV."
     }
   ]
 }
