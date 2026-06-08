@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T03:50:58Z",
+  "generated_at": "2026-06-08T05:41:54Z",
   "items": [
     {
       "source": "gdacs",
@@ -16,21 +16,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1544617"
       ],
       "location": "Russia 07/06/2026 10:41 UTC, 2 thousand in MMI IV."
-    },
-    {
-      "source": "media",
-      "id": "us7000sr8v",
-      "ts": "2026-06-07T14:53:56Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "139 km SE of Severo-Kuril\u2019sk, Russia",
-      "body": "139 km SE of Severo-Kuril\u2019sk, Russia",
-      "mag": 5.5,
-      "lat": 49.8979,
-      "lon": 157.6645,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sr8v"
-      ]
     },
     {
       "source": "gdacs",
@@ -162,15 +147,15 @@
       "ts": "2026-06-07T23:57:38Z",
       "type": "quake",
       "severity": "red",
-      "title": "Orange earthquake (Magnitude 7.8M, Depth:55.193km) in Philippines 07/06/2026 23:37 UTC, 4.8 million (in MMI>=VII).",
-      "body": "On 6/7/2026 11:37:40 PM, an earthquake occurred in Philippines potentially affecting 4.8 million (in MMI>=VII). The earthquake had Magnitude 7.8M, Depth:55.193km.",
-      "details": "On 6/7/2026 11:37:40 PM, an earthquake occurred in Philippines potentially affecting 4.8 million (in MMI>=VII). The earthquake had Magnitude 7.8M, Depth:55.193km.",
+      "title": "Orange earthquake (Magnitude 7.8M, Depth:55.193km) in Philippines 07/06/2026 23:37 UTC, 3.6 million (in MMI>=VII).",
+      "body": "On 6/7/2026 11:37:40 PM, an earthquake occurred in Philippines potentially affecting 3.6 million (in MMI>=VII). The earthquake had Magnitude 7.8M, Depth:55.193km.",
+      "details": "On 6/7/2026 11:37:40 PM, an earthquake occurred in Philippines potentially affecting 3.6 million (in MMI>=VII). The earthquake had Magnitude 7.8M, Depth:55.193km.",
       "lat": null,
       "lon": null,
       "links": [
         "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1544720"
       ],
-      "location": "Philippines 07/06/2026 23:37 UTC, 4.8 million (in MMI>=VII)."
+      "location": "Philippines 07/06/2026 23:37 UTC, 3.6 million (in MMI>=VII)."
     },
     {
       "source": "gdacs",
@@ -178,15 +163,15 @@
       "ts": "2026-06-08T00:42:21Z",
       "type": "quake",
       "severity": "red",
-      "title": "Green earthquake (Magnitude 6.1M, Depth:67.188km) in Philippines 07/06/2026 23:48 UTC, 170 thousand in MMI V.",
-      "body": "On 6/7/2026 11:48:09 PM, an earthquake occurred in Philippines potentially affecting 170 thousand in MMI V. The earthquake had Magnitude 6.1M, Depth:67.188km.",
-      "details": "On 6/7/2026 11:48:09 PM, an earthquake occurred in Philippines potentially affecting 170 thousand in MMI V. The earthquake had Magnitude 6.1M, Depth:67.188km.",
+      "title": "Green earthquake (Magnitude 6M, Depth:81.843km) in Philippines 07/06/2026 23:48 UTC, 2 million in 100km.",
+      "body": "On 6/7/2026 11:48:11 PM, an earthquake occurred in Philippines potentially affecting 2 million in 100km. The earthquake had Magnitude 6M, Depth:81.843km.",
+      "details": "On 6/7/2026 11:48:11 PM, an earthquake occurred in Philippines potentially affecting 2 million in 100km. The earthquake had Magnitude 6M, Depth:81.843km.",
       "lat": null,
       "lon": null,
       "links": [
         "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1544722"
       ],
-      "location": "Philippines 07/06/2026 23:48 UTC, 170 thousand in MMI V."
+      "location": "Philippines 07/06/2026 23:48 UTC, 2 million in 100km."
     },
     {
       "source": "gdacs",
@@ -551,6 +536,37 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028812"
       ],
       "location": "The Democratic Republic of Congo"
+    },
+    {
+      "source": "media",
+      "id": "us7000srds",
+      "ts": "2026-06-08T04:46:42Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "54 km SSW of Sarangani, Philippines",
+      "body": "54 km SSW of Sarangani, Philippines",
+      "mag": 5.7,
+      "lat": 4.9789,
+      "lon": 125.215,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srds"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1544800",
+      "ts": "2026-06-08T05:06:41Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 5.7M, Depth:35km) in Philippines 08/06/2026 04:46 UTC, 130 thousand in MMI IV.",
+      "body": "On 6/8/2026 4:46:42 AM, an earthquake occurred in Philippines potentially affecting 130 thousand in MMI IV. The earthquake had Magnitude 5.7M, Depth:35km.",
+      "details": "On 6/8/2026 4:46:42 AM, an earthquake occurred in Philippines potentially affecting 130 thousand in MMI IV. The earthquake had Magnitude 5.7M, Depth:35km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1544800"
+      ],
+      "location": "Philippines 08/06/2026 04:46 UTC, 130 thousand in MMI IV."
     }
   ]
 }
