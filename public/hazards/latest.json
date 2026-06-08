@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T17:41:17Z",
+  "generated_at": "2026-06-08T18:38:01Z",
   "items": [
     {
       "source": "gdacs",
@@ -224,21 +224,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1544800"
       ],
       "location": "Philippines 08/06/2026 04:46 UTC, 130 thousand in MMI IV."
-    },
-    {
-      "source": "media",
-      "id": "us7000sre1",
-      "ts": "2026-06-08T05:12:04Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "2 km SSW of Sarangani, Philippines",
-      "body": "2 km SSW of Sarangani, Philippines",
-      "mag": 5.5,
-      "lat": 5.3774,
-      "lon": 125.4566,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sre1"
-      ]
     },
     {
       "source": "gdacs",
@@ -1021,15 +1006,46 @@
       "ts": "2026-06-08T15:21:42Z",
       "type": "cyclone",
       "severity": "orange",
-      "title": "Orange notification for tropical cyclone THREE-E-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (12.734 million in Tropical Storm).",
-      "body": "From 08/06/2026 to 08/06/2026, a Tropical Depression (maximum wind speed of 93 km/h) THREE-E-26 was active in Atlantic. The cyclone affects these countries: Nicaragua, El Salvador, Guatemala, Mexico (vulnerability High). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (12.734 million in tropical storm).",
-      "details": "From 08/06/2026 to 08/06/2026, a Tropical Depression (maximum wind speed of 93 km/h) THREE-E-26 was active in Atlantic. The cyclone affects these countries: Nicaragua, El Salvador, Guatemala, Mexico (vulnerability High). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (12.734 million in tropical storm).",
+      "title": "Orange notification for tropical cyclone CRISTINA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (12.734 million in Tropical Storm).",
+      "body": "From 08/06/2026 to 08/06/2026, a Tropical Storm (maximum wind speed of 93 km/h) CRISTINA-26 was active in Atlantic. The cyclone affects these countries: Honduras, Nicaragua, El Salvador, Guatemala, Mexico (vulnerability High). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (12.734 million in tropical storm).",
+      "details": "From 08/06/2026 to 08/06/2026, a Tropical Storm (maximum wind speed of 93 km/h) CRISTINA-26 was active in Atlantic. The cyclone affects these countries: Honduras, Nicaragua, El Salvador, Guatemala, Mexico (vulnerability High). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (12.734 million in tropical storm).",
       "lat": null,
       "lon": null,
       "links": [
         "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001275"
       ],
       "location": "Tropical Storm)."
+    },
+    {
+      "source": "usgs",
+      "id": "7000srjx",
+      "ts": "2026-06-08T18:00:25Z",
+      "type": "quake",
+      "severity": "yellow",
+      "title": "M 6.1 - 104 km WNW of Mantua, Cuba",
+      "body": "104 km WNW of Mantua, Cuba",
+      "mag": 6.1,
+      "lat": 22.8009,
+      "lon": -85.1393,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srjx"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1544981",
+      "ts": "2026-06-08T18:10:35Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 6.1M, Depth:10km) in Cuba 08/06/2026 18:00 UTC, 1 million in MMI IV.",
+      "body": "On 6/8/2026 6:00:25 PM, an earthquake occurred in Cuba potentially affecting 1 million in MMI IV. The earthquake had Magnitude 6.1M, Depth:10km.",
+      "details": "On 6/8/2026 6:00:25 PM, an earthquake occurred in Cuba potentially affecting 1 million in MMI IV. The earthquake had Magnitude 6.1M, Depth:10km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1544981"
+      ],
+      "location": "Cuba 08/06/2026 18:00 UTC, 1 million in MMI IV."
     }
   ]
 }
