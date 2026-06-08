@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07T23:42:13Z",
+  "generated_at": "2026-06-08T00:16:28Z",
   "items": [
     {
       "source": "media",
@@ -486,6 +486,37 @@
         "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1544684"
       ],
       "location": "Easter Island Region 07/06/2026 18:01 UTC, [unknown]."
+    },
+    {
+      "source": "usgs",
+      "id": "7000srb1",
+      "ts": "2026-06-07T23:37:40Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "M 7.8 - 24 km WSW of Burias, Philippines",
+      "body": "24 km WSW of Burias, Philippines",
+      "mag": 7.8,
+      "lat": 5.5996,
+      "lon": 125.0647,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srb1"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1544720",
+      "ts": "2026-06-08T00:05:26Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Orange earthquake (Magnitude 7.8M, Depth:35km) in Philippines 07/06/2026 23:37 UTC, 2.9 million (in MMI>=VII).",
+      "body": "On 6/7/2026 11:37:40 PM, an earthquake occurred in Philippines potentially affecting 2.9 million (in MMI>=VII). The earthquake had Magnitude 7.8M, Depth:35km.",
+      "details": "On 6/7/2026 11:37:40 PM, an earthquake occurred in Philippines potentially affecting 2.9 million (in MMI>=VII). The earthquake had Magnitude 7.8M, Depth:35km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1544720"
+      ],
+      "location": "Philippines 07/06/2026 23:37 UTC, 2.9 million (in MMI>=VII)."
     }
   ]
 }
