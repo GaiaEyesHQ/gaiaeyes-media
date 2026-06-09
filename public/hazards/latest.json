@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T00:13:46Z",
+  "generated_at": "2026-06-09T01:19:07Z",
   "items": [
     {
       "source": "gdacs",
@@ -87,15 +87,15 @@
       "ts": "2026-06-07T23:57:38Z",
       "type": "quake",
       "severity": "red",
-      "title": "Orange earthquake (Magnitude 7.8M, Depth:55.193km) in Philippines 07/06/2026 23:37 UTC, 3.6 million (in MMI>=VII).",
-      "body": "On 6/7/2026 11:37:40 PM, an earthquake occurred in Philippines potentially affecting 3.6 million (in MMI>=VII). The earthquake had Magnitude 7.8M, Depth:55.193km.",
-      "details": "On 6/7/2026 11:37:40 PM, an earthquake occurred in Philippines potentially affecting 3.6 million (in MMI>=VII). The earthquake had Magnitude 7.8M, Depth:55.193km.",
+      "title": "Orange earthquake (Magnitude 7.8M, Depth:55.193km) in Philippines 07/06/2026 23:37 UTC, 3.5 million (in MMI>=VII).",
+      "body": "On 6/7/2026 11:37:40 PM, an earthquake occurred in Philippines potentially affecting 3.5 million (in MMI>=VII). The earthquake had Magnitude 7.8M, Depth:55.193km.",
+      "details": "On 6/7/2026 11:37:40 PM, an earthquake occurred in Philippines potentially affecting 3.5 million (in MMI>=VII). The earthquake had Magnitude 7.8M, Depth:55.193km.",
       "lat": null,
       "lon": null,
       "links": [
         "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1544720"
       ],
-      "location": "Philippines 07/06/2026 23:37 UTC, 3.6 million (in MMI>=VII)."
+      "location": "Philippines 07/06/2026 23:37 UTC, 3.5 million (in MMI>=VII)."
     },
     {
       "source": "gdacs",
@@ -272,21 +272,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103931"
       ],
       "location": "Russia"
-    },
-    {
-      "source": "media",
-      "id": "us7000srf8",
-      "ts": "2026-06-08T09:17:22Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "56 km SSW of Sarangani, Philippines",
-      "body": "56 km SSW of Sarangani, Philippines",
-      "mag": 5.6,
-      "lat": 4.9191,
-      "lon": 125.3094,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srf8"
-      ]
     },
     {
       "source": "media",
@@ -998,6 +983,21 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028842"
       ],
       "location": "Angola"
+    },
+    {
+      "source": "media",
+      "id": "us7000srmq",
+      "ts": "2026-06-08T23:38:22Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "8 km NW of Sarangani, Philippines",
+      "body": "8 km NW of Sarangani, Philippines",
+      "mag": 5.1,
+      "lat": 5.465,
+      "lon": 125.4167,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srmq"
+      ]
     }
   ]
 }
