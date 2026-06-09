@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T20:31:09Z",
+  "generated_at": "2026-06-09T21:17:40Z",
   "items": [
     {
       "source": "gdacs",
@@ -344,8 +344,8 @@
       "type": "cyclone",
       "severity": "info",
       "title": "Green notification for tropical cyclone CRISTINA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
-      "body": "From 08/06/2026 to 09/06/2026, a Tropical Storm (maximum wind speed of 74 km/h) CRISTINA-26 was active in Atlantic. The cyclone affects these countries: Honduras, El Salvador, Nicaragua (vulnerability High). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
-      "details": "From 08/06/2026 to 09/06/2026, a Tropical Storm (maximum wind speed of 74 km/h) CRISTINA-26 was active in Atlantic. The cyclone affects these countries: Honduras, El Salvador, Nicaragua (vulnerability High). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
+      "body": "From 08/06/2026 to 09/06/2026, a Tropical Storm (maximum wind speed of 74 km/h) CRISTINA-26 was active in Atlantic. The cyclone affects these countries: Honduras, El Salvador, Nicaragua, Guatemala (vulnerability High). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
+      "details": "From 08/06/2026 to 09/06/2026, a Tropical Storm (maximum wind speed of 74 km/h) CRISTINA-26 was active in Atlantic. The cyclone affects these countries: Honduras, El Salvador, Nicaragua, Guatemala (vulnerability High). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
       "lat": null,
       "lon": null,
       "links": [
@@ -368,21 +368,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1544981"
       ],
       "location": "Cuba 08/06/2026 18:00 UTC, 2 thousand in MMI V."
-    },
-    {
-      "source": "media",
-      "id": "us7000srkc",
-      "ts": "2026-06-08T18:49:46Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "197 km SSE of Isangel, Vanuatu",
-      "body": "197 km SSE of Isangel, Vanuatu",
-      "mag": 5.4,
-      "lat": -21.1981,
-      "lon": 169.9905,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srkc"
-      ]
     },
     {
       "source": "gdacs",
@@ -527,21 +512,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028825"
       ],
       "location": "Australia"
-    },
-    {
-      "source": "media",
-      "id": "us7000srku",
-      "ts": "2026-06-08T19:11:21Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "southern Mid-Atlantic Ridge",
-      "body": "southern Mid-Atlantic Ridge",
-      "mag": 5.4,
-      "lat": -55.7212,
-      "lon": -4.3752,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srku"
-      ]
     },
     {
       "source": "media",
@@ -1077,6 +1047,36 @@
       "lon": 149.2865,
       "links": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srvk"
+      ]
+    },
+    {
+      "source": "media",
+      "id": "us7000srvn",
+      "ts": "2026-06-09T19:36:10Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "southeast Indian Ridge",
+      "body": "southeast Indian Ridge",
+      "mag": 5.1,
+      "lat": -41.5157,
+      "lon": 84.9096,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srvn"
+      ]
+    },
+    {
+      "source": "media",
+      "id": "us7000srvv",
+      "ts": "2026-06-09T19:49:03Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "163 km ESE of Petropavlovsk-Kamchatsky, Russia",
+      "body": "163 km ESE of Petropavlovsk-Kamchatsky, Russia",
+      "mag": 5.2,
+      "lat": 52.3674,
+      "lon": 160.7499,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srvv"
       ]
     }
   ]
