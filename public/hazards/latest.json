@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T07:58:29Z",
+  "generated_at": "2026-06-09T09:21:45Z",
   "items": [
     {
       "source": "gdacs",
@@ -484,8 +484,8 @@
       "type": "cyclone",
       "severity": "info",
       "title": "Green notification for tropical cyclone CRISTINA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
-      "body": "From 08/06/2026 to 09/06/2026, a Tropical Storm (maximum wind speed of 74 km/h) CRISTINA-26 was active in Atlantic. The cyclone affects these countries: Honduras, El Salvador, Nicaragua, Guatemala (vulnerability High). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
-      "details": "From 08/06/2026 to 09/06/2026, a Tropical Storm (maximum wind speed of 74 km/h) CRISTINA-26 was active in Atlantic. The cyclone affects these countries: Honduras, El Salvador, Nicaragua, Guatemala (vulnerability High). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
+      "body": "From 08/06/2026 to 09/06/2026, a Tropical Storm (maximum wind speed of 74 km/h) CRISTINA-26 was active in Atlantic. The cyclone affects these countries: Honduras, El Salvador, Nicaragua (vulnerability High). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
+      "details": "From 08/06/2026 to 09/06/2026, a Tropical Storm (maximum wind speed of 74 km/h) CRISTINA-26 was active in Atlantic. The cyclone affects these countries: Honduras, El Salvador, Nicaragua (vulnerability High). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
       "lat": null,
       "lon": null,
       "links": [
@@ -1030,6 +1030,22 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028832"
       ],
       "location": "The Democratic Republic of Congo"
+    },
+    {
+      "source": "gdacs",
+      "id": "FL1103933",
+      "ts": "2026-06-09T08:05:50Z",
+      "type": "flood",
+      "severity": "info",
+      "title": "Green flood alert in China",
+      "body": "On 06/06/2026, a flood started in China, lasting until 08/06/2026 (last update). The flood caused 0 deaths and 709 displaced .",
+      "details": "On 06/06/2026, a flood started in China, lasting until 08/06/2026 (last update). The flood caused 0 deaths and 709 displaced .",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103933"
+      ],
+      "location": "China"
     }
   ]
 }
