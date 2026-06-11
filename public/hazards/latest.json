@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11T21:54:08Z",
+  "generated_at": "2026-06-11T22:39:17Z",
   "items": [
     {
       "source": "gdacs",
@@ -16,22 +16,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1545305"
       ],
       "location": "Auckland Islands, N.Z.  Region 10/06/2026 00:44 UTC, [unknown]."
-    },
-    {
-      "source": "gdacs",
-      "id": "FL1103934",
-      "ts": "2026-06-10T05:54:47Z",
-      "type": "flood",
-      "severity": "info",
-      "title": "Green flood alert in Moldova",
-      "body": "On 05/06/2026, a flood started in Moldova, lasting until 07/06/2026 (last update). The flood caused 0 deaths and 0 displaced .",
-      "details": "On 05/06/2026, a flood started in Moldova, lasting until 07/06/2026 (last update). The flood caused 0 deaths and 0 displaced .",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103934"
-      ],
-      "location": "Moldova"
     },
     {
       "source": "gdacs",
@@ -208,21 +192,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028867"
       ],
       "location": "United States"
-    },
-    {
-      "source": "media",
-      "id": "us7000ss4r",
-      "ts": "2026-06-10T23:26:26Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "67 km SSW of Sarangani, Philippines",
-      "body": "67 km SSW of Sarangani, Philippines",
-      "mag": 5.1,
-      "lat": 4.8122,
-      "lon": 125.3097,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ss4r"
-      ]
     },
     {
       "source": "media",
@@ -809,22 +778,6 @@
     },
     {
       "source": "gdacs",
-      "id": "WF1028829",
-      "ts": "2026-06-11T19:06:30Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Australia",
-      "body": "On 03/06/2026, a forest fire started in Australia,  until 07/06/2026.",
-      "details": "On 03/06/2026, a forest fire started in Australia,  until 07/06/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028829"
-      ],
-      "location": "Australia"
-    },
-    {
-      "source": "gdacs",
       "id": "WF1028851",
       "ts": "2026-06-11T19:07:59Z",
       "type": "wildfire",
@@ -838,6 +791,21 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028851"
       ],
       "location": "The Democratic Republic of Congo"
+    },
+    {
+      "source": "media",
+      "id": "us7000ssct",
+      "ts": "2026-06-11T21:32:47Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "68 km NNW of Isangel, Vanuatu",
+      "body": "68 km NNW of Isangel, Vanuatu",
+      "mag": 5,
+      "lat": -18.9647,
+      "lon": 169.0532,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssct"
+      ]
     }
   ]
 }
