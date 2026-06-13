@@ -1,22 +1,6 @@
 {
-  "generated_at": "2026-06-13T12:23:53Z",
+  "generated_at": "2026-06-13T13:03:23Z",
   "items": [
-    {
-      "source": "gdacs",
-      "id": "EQ1545654",
-      "ts": "2026-06-11T12:40:57Z",
-      "type": "quake",
-      "severity": "red",
-      "title": "Green earthquake (Magnitude 5.5M, Depth:10km) in Chile 11/06/2026 12:22 UTC, 6 thousand in MMI IV.",
-      "body": "On 6/11/2026 12:22:06 PM, an earthquake occurred in Chile potentially affecting 6 thousand in MMI IV. The earthquake had Magnitude 5.5M, Depth:10km.",
-      "details": "On 6/11/2026 12:22:06 PM, an earthquake occurred in Chile potentially affecting 6 thousand in MMI IV. The earthquake had Magnitude 5.5M, Depth:10km.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1545654"
-      ],
-      "location": "Chile 11/06/2026 12:22 UTC, 6 thousand in MMI IV."
-    },
     {
       "source": "gdacs",
       "id": "WF1028862",
@@ -888,6 +872,36 @@
       "lon": -179.5103,
       "links": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssnz"
+      ]
+    },
+    {
+      "source": "media",
+      "id": "us7000ssp1",
+      "ts": "2026-06-13T12:04:14Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "24 km W of Ovalle, Chile",
+      "body": "24 km W of Ovalle, Chile",
+      "mag": 5,
+      "lat": -30.6288,
+      "lon": -71.4544,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssp1"
+      ]
+    },
+    {
+      "source": "media",
+      "id": "us7000ssp2",
+      "ts": "2026-06-13T12:05:34Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "118 km ESE of Bitung, Indonesia",
+      "body": "118 km ESE of Bitung, Indonesia",
+      "mag": 5.1,
+      "lat": 1.0796,
+      "lon": 126.1267,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ssp2"
       ]
     }
   ]
