@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T04:03:14Z",
+  "generated_at": "2026-06-16T06:03:38Z",
   "items": [
     {
       "source": "gdacs",
@@ -861,18 +861,33 @@
       "location": "Angola"
     },
     {
-      "source": "usgs",
-      "id": "7000st95",
+      "source": "media",
+      "id": "us7000st95",
       "ts": "2026-06-16T03:27:44Z",
       "type": "quake",
       "severity": "yellow",
-      "title": "M 6.7 - 43 km ESE of Palu, Indonesia",
+      "title": "43 km ESE of Palu, Indonesia",
       "body": "43 km ESE of Palu, Indonesia",
       "mag": 6.7,
       "lat": -1.1173,
       "lon": 120.199,
       "links": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/us7000st95"
+      ]
+    },
+    {
+      "source": "media",
+      "id": "us7000st96",
+      "ts": "2026-06-16T03:30:53Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "44 km ESE of Palu, Indonesia",
+      "body": "44 km ESE of Palu, Indonesia",
+      "mag": 5.2,
+      "lat": -1.1104,
+      "lon": 120.2135,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000st96"
       ]
     },
     {
@@ -890,6 +905,21 @@
         "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1546617"
       ],
       "location": "Indonesia 16/06/2026 03:27 UTC, 260 thousand (in MMI>=VII)."
+    },
+    {
+      "source": "media",
+      "id": "us7000sta1",
+      "ts": "2026-06-16T04:14:01Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "49 km SE of Palu, Indonesia",
+      "body": "49 km SE of Palu, Indonesia",
+      "mag": 5.1,
+      "lat": -1.1746,
+      "lon": 120.2257,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sta1"
+      ]
     }
   ]
 }
