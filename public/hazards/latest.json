@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T08:17:38Z",
+  "generated_at": "2026-06-16T10:06:35Z",
   "items": [
     {
       "source": "gdacs",
@@ -856,6 +856,52 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028940"
       ],
       "location": "Angola"
+    },
+    {
+      "source": "media",
+      "id": "us7000stbp",
+      "ts": "2026-06-16T08:04:46Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "49 km ESE of Palu, Indonesia",
+      "body": "49 km ESE of Palu, Indonesia",
+      "mag": 5,
+      "lat": -1.1234,
+      "lon": 120.2567,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000stbp"
+      ]
+    },
+    {
+      "source": "usgs",
+      "id": "7000stbz",
+      "ts": "2026-06-16T09:06:55Z",
+      "type": "quake",
+      "severity": "yellow",
+      "title": "M 6.3 - 260 km SSE of Dunhuang, China",
+      "body": "260 km SSE of Dunhuang, China",
+      "mag": 6.3,
+      "lat": 37.8888,
+      "lon": 95.4028,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000stbz"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1546719",
+      "ts": "2026-06-16T09:25:52Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Red earthquake (Magnitude 6.3M, Depth:10km) in China 16/06/2026 09:06 UTC, 9 thousand (in MMI>=VII).",
+      "body": "On 6/16/2026 9:06:55 AM, an earthquake occurred in China potentially affecting 9 thousand (in MMI>=VII). The earthquake had Magnitude 6.3M, Depth:10km.",
+      "details": "On 6/16/2026 9:06:55 AM, an earthquake occurred in China potentially affecting 9 thousand (in MMI>=VII). The earthquake had Magnitude 6.3M, Depth:10km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1546719"
+      ],
+      "location": "China 16/06/2026 09:06 UTC, 9 thousand (in MMI>=VII)."
     }
   ]
 }
