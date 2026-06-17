@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T22:04:32Z",
+  "generated_at": "2026-06-17T22:46:36Z",
   "items": [
     {
       "source": "gdacs",
@@ -96,21 +96,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028926"
       ],
       "location": "Australia"
-    },
-    {
-      "source": "media",
-      "id": "us7000stbp",
-      "ts": "2026-06-16T08:04:46Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "49 km ESE of Palu, Indonesia",
-      "body": "49 km ESE of Palu, Indonesia",
-      "mag": 5,
-      "lat": -1.1234,
-      "lon": 120.2567,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000stbp"
-      ]
     },
     {
       "source": "media",
@@ -841,38 +826,6 @@
     },
     {
       "source": "gdacs",
-      "id": "WF1028900",
-      "ts": "2026-06-17T19:03:20Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Australia",
-      "body": "On 11/06/2026, a forest fire started in Australia,  until 13/06/2026.",
-      "details": "On 11/06/2026, a forest fire started in Australia,  until 13/06/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028900"
-      ],
-      "location": "Australia"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1028906",
-      "ts": "2026-06-17T19:03:32Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Angola",
-      "body": "On 11/06/2026, a forest fire started in Angola,  until 13/06/2026.",
-      "details": "On 11/06/2026, a forest fire started in Angola,  until 13/06/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028906"
-      ],
-      "location": "Angola"
-    },
-    {
-      "source": "gdacs",
       "id": "WF1028933",
       "ts": "2026-06-17T19:04:29Z",
       "type": "wildfire",
@@ -966,6 +919,21 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028965"
       ],
       "location": "The Democratic Republic of Congo"
+    },
+    {
+      "source": "media",
+      "id": "us7000su6s",
+      "ts": "2026-06-17T21:49:26Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "68 km ESE of Bobon, Philippines",
+      "body": "68 km ESE of Bobon, Philippines",
+      "mag": 5,
+      "lat": 6.5857,
+      "lon": 126.8825,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000su6s"
+      ]
     }
   ]
 }
