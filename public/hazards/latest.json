@@ -1,22 +1,6 @@
 {
-  "generated_at": "2026-06-17T03:51:20Z",
+  "generated_at": "2026-06-17T05:46:16Z",
   "items": [
-    {
-      "source": "gdacs",
-      "id": "FL1103940",
-      "ts": "2026-06-15T05:39:58Z",
-      "type": "flood",
-      "severity": "info",
-      "title": "Green flood alert in Brazil",
-      "body": "On 11/06/2026, a flood started in Brazil, lasting until 16/06/2026 (last update). The flood caused 0 deaths and 8 displaced .",
-      "details": "On 11/06/2026, a flood started in Brazil, lasting until 16/06/2026 (last update). The flood caused 0 deaths and 8 displaced .",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103940"
-      ],
-      "location": "Brazil"
-    },
     {
       "source": "gdacs",
       "id": "WF1028885",
@@ -194,21 +178,6 @@
       "location": "Philippines 15/06/2026 15:30 UTC, 3.9 million in MMI IV."
     },
     {
-      "source": "media",
-      "id": "us7000st5e",
-      "ts": "2026-06-15T18:20:45Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "southeast of the Loyalty Islands",
-      "body": "southeast of the Loyalty Islands",
-      "mag": 5,
-      "lat": -23.3381,
-      "lon": 170.3866,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000st5e"
-      ]
-    },
-    {
       "source": "gdacs",
       "id": "WF1028927",
       "ts": "2026-06-15T19:02:54Z",
@@ -287,21 +256,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028932"
       ],
       "location": "The Democratic Republic of Congo"
-    },
-    {
-      "source": "media",
-      "id": "us7000st95",
-      "ts": "2026-06-16T03:27:44Z",
-      "type": "quake",
-      "severity": "yellow",
-      "title": "43 km ESE of Palu, Indonesia",
-      "body": "43 km ESE of Palu, Indonesia",
-      "mag": 6.7,
-      "lat": -1.1173,
-      "lon": 120.199,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000st95"
-      ]
     },
     {
       "source": "media",
@@ -886,6 +840,36 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028938"
       ],
       "location": "The Democratic Republic of Congo, Angola"
+    },
+    {
+      "source": "media",
+      "id": "us7000stk6",
+      "ts": "2026-06-17T03:44:18Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "25 km SSE of Tambolaka, Indonesia",
+      "body": "25 km SSE of Tambolaka, Indonesia",
+      "mag": 5.1,
+      "lat": -9.6277,
+      "lon": 119.3624,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000stk6"
+      ]
+    },
+    {
+      "source": "media",
+      "id": "us7000stka",
+      "ts": "2026-06-17T03:46:16Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "144 km SE of Pondaguitan, Philippines",
+      "body": "144 km SE of Pondaguitan, Philippines",
+      "mag": 5,
+      "lat": 5.5839,
+      "lon": 127.2249,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000stka"
+      ]
     }
   ]
 }
