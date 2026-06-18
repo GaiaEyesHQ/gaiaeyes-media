@@ -1,52 +1,6 @@
 {
-  "generated_at": "2026-06-18T10:34:17Z",
+  "generated_at": "2026-06-18T11:56:38Z",
   "items": [
-    {
-      "source": "media",
-      "id": "us7000std7",
-      "ts": "2026-06-16T10:46:34Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "4 km NW of Noda, Japan",
-      "body": "4 km NW of Noda, Japan",
-      "mag": 5.5,
-      "lat": 35.9814,
-      "lon": 139.8371,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000std7"
-      ]
-    },
-    {
-      "source": "gdacs",
-      "id": "EQ1546745",
-      "ts": "2026-06-16T11:02:23Z",
-      "type": "quake",
-      "severity": "red",
-      "title": "Green earthquake (Magnitude 5.5M, Depth:71.777km) in Japan 16/06/2026 10:46 UTC, 42.2 million in MMI IV.",
-      "body": "On 6/16/2026 10:46:34 AM, an earthquake occurred in Japan potentially affecting 42.2 million in MMI IV. The earthquake had Magnitude 5.5M, Depth:71.777km.",
-      "details": "On 6/16/2026 10:46:34 AM, an earthquake occurred in Japan potentially affecting 42.2 million in MMI IV. The earthquake had Magnitude 5.5M, Depth:71.777km.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1546745"
-      ],
-      "location": "Japan 16/06/2026 10:46 UTC, 42.2 million in MMI IV."
-    },
-    {
-      "source": "media",
-      "id": "us7000stdb",
-      "ts": "2026-06-16T11:14:17Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "261 km SSE of Dunhuang, China",
-      "body": "261 km SSE of Dunhuang, China",
-      "mag": 5,
-      "lat": 37.8819,
-      "lon": 95.4313,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000stdb"
-      ]
-    },
     {
       "source": "gdacs",
       "id": "WF1028944",
@@ -150,8 +104,8 @@
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Australia",
-      "body": "On 05/06/2026, a forest fire started in Australia,  until 17/06/2026.",
-      "details": "On 05/06/2026, a forest fire started in Australia,  until 17/06/2026.",
+      "body": "On 05/06/2026, a forest fire started in Australia,  until 18/06/2026.",
+      "details": "On 05/06/2026, a forest fire started in Australia,  until 18/06/2026.",
       "lat": null,
       "lon": null,
       "links": [
@@ -403,8 +357,8 @@
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Brazil",
-      "body": "On 13/06/2026, a forest fire started in Brazil,  until 17/06/2026.",
-      "details": "On 13/06/2026, a forest fire started in Brazil,  until 17/06/2026.",
+      "body": "On 13/06/2026, a forest fire started in Brazil,  until 18/06/2026.",
+      "details": "On 13/06/2026, a forest fire started in Brazil,  until 18/06/2026.",
       "lat": null,
       "lon": null,
       "links": [
@@ -546,8 +500,8 @@
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Brazil",
-      "body": "On 14/06/2026, a forest fire started in Brazil,  until 17/06/2026.",
-      "details": "On 14/06/2026, a forest fire started in Brazil,  until 17/06/2026.",
+      "body": "On 14/06/2026, a forest fire started in Brazil,  until 18/06/2026.",
+      "details": "On 14/06/2026, a forest fire started in Brazil,  until 18/06/2026.",
       "lat": null,
       "lon": null,
       "links": [
@@ -562,8 +516,8 @@
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Australia",
-      "body": "On 10/06/2026, a forest fire started in Australia,  until 17/06/2026.",
-      "details": "On 10/06/2026, a forest fire started in Australia,  until 17/06/2026.",
+      "body": "On 10/06/2026, a forest fire started in Australia,  until 18/06/2026.",
+      "details": "On 10/06/2026, a forest fire started in Australia,  until 18/06/2026.",
       "lat": null,
       "lon": null,
       "links": [
@@ -655,8 +609,8 @@
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in United States",
-      "body": "On 15/06/2026, a forest fire started in United States,  until 17/06/2026.",
-      "details": "On 15/06/2026, a forest fire started in United States,  until 17/06/2026.",
+      "body": "On 15/06/2026, a forest fire started in United States,  until 18/06/2026.",
+      "details": "On 15/06/2026, a forest fire started in United States,  until 18/06/2026.",
       "lat": null,
       "lon": null,
       "links": [
@@ -666,8 +620,24 @@
     },
     {
       "source": "gdacs",
+      "id": "WF1028962",
+      "ts": "2026-06-18T07:00:54Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in The Democratic Republic of Congo",
+      "body": "On 15/06/2026, a forest fire started in The Democratic Republic of Congo,  until 18/06/2026.",
+      "details": "On 15/06/2026, a forest fire started in The Democratic Republic of Congo,  until 18/06/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028962"
+      ],
+      "location": "The Democratic Republic of Congo"
+    },
+    {
+      "source": "gdacs",
       "id": "WF1028924",
-      "ts": "2026-06-18T07:00:41Z",
+      "ts": "2026-06-18T11:01:08Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Australia",
@@ -682,24 +652,8 @@
     },
     {
       "source": "gdacs",
-      "id": "WF1028962",
-      "ts": "2026-06-18T07:00:54Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in The Democratic Republic of Congo",
-      "body": "On 15/06/2026, a forest fire started in The Democratic Republic of Congo,  until 17/06/2026.",
-      "details": "On 15/06/2026, a forest fire started in The Democratic Republic of Congo,  until 17/06/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028962"
-      ],
-      "location": "The Democratic Republic of Congo"
-    },
-    {
-      "source": "gdacs",
       "id": "WF1028946",
-      "ts": "2026-06-18T07:01:17Z",
+      "ts": "2026-06-18T11:01:30Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in The Democratic Republic of Congo",
@@ -715,7 +669,7 @@
     {
       "source": "gdacs",
       "id": "WF1028930",
-      "ts": "2026-06-18T07:01:31Z",
+      "ts": "2026-06-18T11:01:41Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in The Democratic Republic of Congo",
@@ -731,7 +685,7 @@
     {
       "source": "gdacs",
       "id": "WF1028959",
-      "ts": "2026-06-18T07:01:41Z",
+      "ts": "2026-06-18T11:01:59Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Tanzania",
@@ -746,8 +700,24 @@
     },
     {
       "source": "gdacs",
+      "id": "WF1028967",
+      "ts": "2026-06-18T11:02:11Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Russian Federation",
+      "body": "On 12/06/2026, a forest fire started in Russian Federation,  until 18/06/2026.",
+      "details": "On 12/06/2026, a forest fire started in Russian Federation,  until 18/06/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028967"
+      ],
+      "location": "Russian Federation"
+    },
+    {
+      "source": "gdacs",
       "id": "WF1028963",
-      "ts": "2026-06-18T07:02:36Z",
+      "ts": "2026-06-18T11:02:51Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in The Democratic Republic of Congo",
@@ -762,8 +732,40 @@
     },
     {
       "source": "gdacs",
+      "id": "WF1028968",
+      "ts": "2026-06-18T11:03:15Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Russian Federation",
+      "body": "On 11/06/2026, a forest fire started in Russian Federation,  until 18/06/2026.",
+      "details": "On 11/06/2026, a forest fire started in Russian Federation,  until 18/06/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028968"
+      ],
+      "location": "Russian Federation"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1028969",
+      "ts": "2026-06-18T11:04:23Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Russian Federation",
+      "body": "On 10/06/2026, a forest fire started in Russian Federation,  until 18/06/2026.",
+      "details": "On 10/06/2026, a forest fire started in Russian Federation,  until 18/06/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028969"
+      ],
+      "location": "Russian Federation"
+    },
+    {
+      "source": "gdacs",
       "id": "WF1028933",
-      "ts": "2026-06-18T07:03:59Z",
+      "ts": "2026-06-18T11:04:30Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Tanzania",
@@ -779,7 +781,7 @@
     {
       "source": "gdacs",
       "id": "WF1028964",
-      "ts": "2026-06-18T07:06:45Z",
+      "ts": "2026-06-18T11:06:59Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Angola",
@@ -795,7 +797,7 @@
     {
       "source": "gdacs",
       "id": "WF1028938",
-      "ts": "2026-06-18T07:08:03Z",
+      "ts": "2026-06-18T11:09:21Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in The Democratic Republic of Congo, Angola",
@@ -811,7 +813,7 @@
     {
       "source": "gdacs",
       "id": "WF1028965",
-      "ts": "2026-06-18T07:13:00Z",
+      "ts": "2026-06-18T11:12:22Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in The Democratic Republic of Congo",
