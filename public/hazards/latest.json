@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T08:09:05Z",
+  "generated_at": "2026-06-19T09:49:23Z",
   "items": [
     {
       "source": "gdacs",
@@ -96,21 +96,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028956"
       ],
       "location": "Russian Federation"
-    },
-    {
-      "source": "media",
-      "id": "us7000stn8",
-      "ts": "2026-06-17T14:20:04Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "258 km SSE of Dunhuang, China",
-      "body": "258 km SSE of Dunhuang, China",
-      "mag": 5.2,
-      "lat": 37.9513,
-      "lon": 95.621,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000stn8"
-      ]
     },
     {
       "source": "gdacs",
@@ -271,21 +256,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028939"
       ],
       "location": "Angola"
-    },
-    {
-      "source": "media",
-      "id": "us7000stti",
-      "ts": "2026-06-17T18:56:58Z",
-      "type": "quake",
-      "severity": "yellow",
-      "title": "central Mid-Atlantic Ridge",
-      "body": "central Mid-Atlantic Ridge",
-      "mag": 6.6,
-      "lat": -0.5246,
-      "lon": -20.0149,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000stti"
-      ]
     },
     {
       "source": "gdacs",
@@ -619,17 +589,32 @@
     },
     {
       "source": "media",
-      "id": "pt26170000",
-      "ts": "2026-06-19T06:51:27Z",
+      "id": "us7000sui2",
+      "ts": "2026-06-19T06:51:31Z",
       "type": "quake",
       "severity": "yellow",
-      "title": "185 km SE of Petropavlovsk-Kamchatsky, Russia",
-      "body": "185 km SE of Petropavlovsk-Kamchatsky, Russia",
-      "mag": 6.6,
-      "lat": 52.151,
-      "lon": 160.923,
+      "title": "156 km ESE of Petropavlovsk-Kamchatsky, Russia",
+      "body": "156 km ESE of Petropavlovsk-Kamchatsky, Russia",
+      "mag": 6,
+      "lat": 52.69,
+      "lon": 160.8644,
       "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/pt26170000"
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sui2"
+      ]
+    },
+    {
+      "source": "media",
+      "id": "us7000sui3",
+      "ts": "2026-06-19T06:52:31Z",
+      "type": "quake",
+      "severity": "yellow",
+      "title": "133 km ESE of Petropavlovsk-Kamchatsky, Russia",
+      "body": "133 km ESE of Petropavlovsk-Kamchatsky, Russia",
+      "mag": 6.6,
+      "lat": 52.7943,
+      "lon": 160.5652,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sui3"
       ]
     },
     {
@@ -823,6 +808,52 @@
         "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547396"
       ],
       "location": "Russia 19/06/2026 06:52 UTC, Few people affected in MMI>=V."
+    },
+    {
+      "source": "media",
+      "id": "us7000suii",
+      "ts": "2026-06-19T07:52:57Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "171 km ESE of Petropavlovsk-Kamchatsky, Russia",
+      "body": "171 km ESE of Petropavlovsk-Kamchatsky, Russia",
+      "mag": 5.8,
+      "lat": 52.7355,
+      "lon": 161.1149,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000suii"
+      ]
+    },
+    {
+      "source": "media",
+      "id": "us7000suik",
+      "ts": "2026-06-19T08:03:40Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "167 km ESE of Petropavlovsk-Kamchatsky, Russia",
+      "body": "167 km ESE of Petropavlovsk-Kamchatsky, Russia",
+      "mag": 5.2,
+      "lat": 52.7416,
+      "lon": 161.06,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000suik"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1547403",
+      "ts": "2026-06-19T08:14:31Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 5.8M, Depth:10km) in Russia 19/06/2026 07:52 UTC, 240 thousand in MMI>=III.",
+      "body": "On 6/19/2026 7:52:57 AM, an earthquake occurred in Russia potentially affecting 240 thousand in MMI>=III. The earthquake had Magnitude 5.8M, Depth:10km.",
+      "details": "On 6/19/2026 7:52:57 AM, an earthquake occurred in Russia potentially affecting 240 thousand in MMI>=III. The earthquake had Magnitude 5.8M, Depth:10km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547403"
+      ],
+      "location": "Russia 19/06/2026 07:52 UTC, 240 thousand in MMI>=III."
     }
   ]
 }
