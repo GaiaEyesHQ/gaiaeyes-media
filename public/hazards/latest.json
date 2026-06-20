@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T03:33:10Z",
+  "generated_at": "2026-06-20T05:04:35Z",
   "items": [
     {
       "source": "gdacs",
@@ -96,21 +96,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028969"
       ],
       "location": "Russian Federation"
-    },
-    {
-      "source": "media",
-      "id": "us7000subg",
-      "ts": "2026-06-18T13:58:28Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "211 km WSW of Adak, Alaska",
-      "body": "211 km WSW of Adak, Alaska",
-      "mag": 5,
-      "lat": 51.3541,
-      "lon": -179.5739,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000subg"
-      ]
     },
     {
       "source": "gdacs",
@@ -614,6 +599,37 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028972"
       ],
       "location": "Zambia"
+    },
+    {
+      "source": "media",
+      "id": "us7000susb",
+      "ts": "2026-06-20T03:49:06Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "140 km ESE of Petropavlovsk-Kamchatsky, Russia",
+      "body": "140 km ESE of Petropavlovsk-Kamchatsky, Russia",
+      "mag": 5.8,
+      "lat": 52.7287,
+      "lon": 160.6412,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000susb"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1547571",
+      "ts": "2026-06-20T04:09:00Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 5.8M, Depth:35km) in Russia 20/06/2026 03:49 UTC, 250 thousand in MMI>=III.",
+      "body": "On 6/20/2026 3:49:06 AM, an earthquake occurred in Russia potentially affecting 250 thousand in MMI>=III. The earthquake had Magnitude 5.8M, Depth:35km.",
+      "details": "On 6/20/2026 3:49:06 AM, an earthquake occurred in Russia potentially affecting 250 thousand in MMI>=III. The earthquake had Magnitude 5.8M, Depth:35km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547571"
+      ],
+      "location": "Russia 20/06/2026 03:49 UTC, 250 thousand in MMI>=III."
     }
   ]
 }
