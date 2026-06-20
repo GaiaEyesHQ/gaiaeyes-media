@@ -1,21 +1,6 @@
 {
-  "generated_at": "2026-06-20T02:11:06Z",
+  "generated_at": "2026-06-20T03:33:10Z",
   "items": [
-    {
-      "source": "media",
-      "id": "us7000su8i",
-      "ts": "2026-06-18T03:43:35Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "central Mid-Atlantic Ridge",
-      "body": "central Mid-Atlantic Ridge",
-      "mag": 5.4,
-      "lat": -0.4673,
-      "lon": -19.9332,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000su8i"
-      ]
-    },
     {
       "source": "gdacs",
       "id": "FL1103949",
@@ -31,21 +16,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103949"
       ],
       "location": "Guatemala"
-    },
-    {
-      "source": "media",
-      "id": "us7000su9f",
-      "ts": "2026-06-18T06:57:37Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "1 km S of Kablalan, Philippines",
-      "body": "1 km S of Kablalan, Philippines",
-      "mag": 5.3,
-      "lat": 5.7634,
-      "lon": 125.1953,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000su9f"
-      ]
     },
     {
       "source": "gdacs",
@@ -211,8 +181,8 @@
       "type": "cyclone",
       "severity": "info",
       "title": "Green notification for tropical cyclone MEKKHALA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
-      "body": "From 18/06/2026 to 19/06/2026, a Tropical Storm (maximum wind speed of 213 km/h) MEKKHALA-26 was active in NWPacific. The cyclone affects these countries: [unknown] (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
-      "details": "From 18/06/2026 to 19/06/2026, a Tropical Storm (maximum wind speed of 213 km/h) MEKKHALA-26 was active in NWPacific. The cyclone affects these countries: [unknown] (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
+      "body": "From 18/06/2026 to 20/06/2026, a Tropical Storm (maximum wind speed of 204 km/h) MEKKHALA-26 was active in NWPacific. The cyclone affects these countries: [unknown] (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
+      "details": "From 18/06/2026 to 20/06/2026, a Tropical Storm (maximum wind speed of 204 km/h) MEKKHALA-26 was active in NWPacific. The cyclone affects these countries: [unknown] (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
       "lat": null,
       "lon": null,
       "links": [
@@ -472,9 +442,55 @@
       ]
     },
     {
+      "source": "media",
+      "id": "us7000surx",
+      "ts": "2026-06-20T01:40:07Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "102 km SSW of Pagar Alam, Indonesia",
+      "body": "102 km SSW of Pagar Alam, Indonesia",
+      "mag": 5,
+      "lat": -4.913,
+      "lon": 102.9796,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000surx"
+      ]
+    },
+    {
+      "source": "media",
+      "id": "us7000sury",
+      "ts": "2026-06-20T01:46:32Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "west of Macquarie Island",
+      "body": "west of Macquarie Island",
+      "mag": 5.7,
+      "lat": -57.129,
+      "lon": 147.9179,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sury"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1547547",
+      "ts": "2026-06-20T02:02:58Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 5.7M, Depth:10km) in West Of Macquarie Island 20/06/2026 01:46 UTC, [unknown].",
+      "body": "On 6/20/2026 1:46:32 AM, an earthquake occurred in West Of Macquarie Island potentially affecting [unknown]. The earthquake had Magnitude 5.7M, Depth:10km.",
+      "details": "On 6/20/2026 1:46:32 AM, an earthquake occurred in West Of Macquarie Island potentially affecting [unknown]. The earthquake had Magnitude 5.7M, Depth:10km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547547"
+      ],
+      "location": "West Of Macquarie Island 20/06/2026 01:46 UTC, [unknown]."
+    },
+    {
       "source": "gdacs",
       "id": "WF1028979",
-      "ts": "2026-06-19T23:02:00Z",
+      "ts": "2026-06-20T03:00:59Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in The Democratic Republic of Congo",
@@ -489,24 +505,8 @@
     },
     {
       "source": "gdacs",
-      "id": "WF1028946",
-      "ts": "2026-06-19T23:02:13Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in The Democratic Republic of Congo",
-      "body": "On 13/06/2026, a forest fire started in The Democratic Republic of Congo,  until 16/06/2026.",
-      "details": "On 13/06/2026, a forest fire started in The Democratic Republic of Congo,  until 16/06/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028946"
-      ],
-      "location": "The Democratic Republic of Congo"
-    },
-    {
-      "source": "gdacs",
       "id": "WF1028959",
-      "ts": "2026-06-19T23:02:19Z",
+      "ts": "2026-06-20T03:01:15Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Tanzania",
@@ -522,7 +522,7 @@
     {
       "source": "gdacs",
       "id": "WF1028980",
-      "ts": "2026-06-19T23:02:28Z",
+      "ts": "2026-06-20T03:01:36Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in The Democratic Republic of Congo",
@@ -537,8 +537,24 @@
     },
     {
       "source": "gdacs",
+      "id": "WF1028946",
+      "ts": "2026-06-20T03:01:54Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in The Democratic Republic of Congo",
+      "body": "On 13/06/2026, a forest fire started in The Democratic Republic of Congo,  until 16/06/2026.",
+      "details": "On 13/06/2026, a forest fire started in The Democratic Republic of Congo,  until 16/06/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028946"
+      ],
+      "location": "The Democratic Republic of Congo"
+    },
+    {
+      "source": "gdacs",
       "id": "WF1028963",
-      "ts": "2026-06-19T23:03:23Z",
+      "ts": "2026-06-20T03:02:33Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in The Democratic Republic of Congo",
@@ -554,7 +570,7 @@
     {
       "source": "gdacs",
       "id": "WF1028981",
-      "ts": "2026-06-19T23:07:47Z",
+      "ts": "2026-06-20T03:05:46Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in The Democratic Republic of Congo",
@@ -570,7 +586,7 @@
     {
       "source": "gdacs",
       "id": "WF1028964",
-      "ts": "2026-06-19T23:09:30Z",
+      "ts": "2026-06-20T03:07:30Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Angola",
@@ -586,7 +602,7 @@
     {
       "source": "gdacs",
       "id": "WF1028972",
-      "ts": "2026-06-19T23:10:24Z",
+      "ts": "2026-06-20T03:08:20Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Zambia",
@@ -598,22 +614,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028972"
       ],
       "location": "Zambia"
-    },
-    {
-      "source": "gdacs",
-      "id": "EQ1547547",
-      "ts": "2026-06-20T02:04:42Z",
-      "type": "quake",
-      "severity": "red",
-      "title": "Green earthquake (Magnitude 5.7M, Depth:10km) in West Of Macquarie Island 20/06/2026 01:46 UTC, No people affected in 100km.",
-      "body": "On 6/20/2026 1:46:32 AM, an earthquake occurred in West Of Macquarie Island potentially affecting No people affected in 100km. The earthquake had Magnitude 5.7M, Depth:10km.",
-      "details": "On 6/20/2026 1:46:32 AM, an earthquake occurred in West Of Macquarie Island potentially affecting No people affected in 100km. The earthquake had Magnitude 5.7M, Depth:10km.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547547"
-      ],
-      "location": "West Of Macquarie Island 20/06/2026 01:46 UTC, No people affected in 100km."
     }
   ]
 }
