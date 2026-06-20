@@ -1,22 +1,6 @@
 {
-  "generated_at": "2026-06-20T05:04:35Z",
+  "generated_at": "2026-06-20T06:40:26Z",
   "items": [
-    {
-      "source": "gdacs",
-      "id": "FL1103949",
-      "ts": "2026-06-18T05:25:19Z",
-      "type": "flood",
-      "severity": "info",
-      "title": "Green flood alert in Guatemala",
-      "body": "On 15/06/2026, a flood started in Guatemala, lasting until 17/06/2026 (last update). The flood caused 0 deaths and 0 displaced .",
-      "details": "On 15/06/2026, a flood started in Guatemala, lasting until 17/06/2026 (last update). The flood caused 0 deaths and 0 displaced .",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103949"
-      ],
-      "location": "Guatemala"
-    },
     {
       "source": "gdacs",
       "id": "WF1028966",
@@ -128,21 +112,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1028965"
       ],
       "location": "The Democratic Republic of Congo"
-    },
-    {
-      "source": "media",
-      "id": "us7000sucj",
-      "ts": "2026-06-18T16:33:58Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "63 km ESE of Bobon, Philippines",
-      "body": "63 km ESE of Bobon, Philippines",
-      "mag": 5.3,
-      "lat": 6.5597,
-      "lon": 126.809,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000sucj"
-      ]
     },
     {
       "source": "media",
@@ -630,6 +599,53 @@
         "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1547571"
       ],
       "location": "Russia 20/06/2026 03:49 UTC, 250 thousand in MMI>=III."
+    },
+    {
+      "source": "media",
+      "id": "us7000susg",
+      "ts": "2026-06-20T04:44:08Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "South Sandwich Islands region",
+      "body": "South Sandwich Islands region",
+      "mag": 5.1,
+      "lat": -57.9998,
+      "lon": -25.4839,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000susg"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "FL1103951",
+      "ts": "2026-06-20T06:26:17Z",
+      "type": "flood",
+      "severity": "info",
+      "title": "Green flood alert in Peru",
+      "body": "On 18/06/2026, a flood started in Peru, lasting until 20/06/2026 (last update). The flood caused 0 deaths and 0 displaced .",
+      "details": "On 18/06/2026, a flood started in Peru, lasting until 20/06/2026 (last update). The flood caused 0 deaths and 0 displaced .",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103951"
+      ],
+      "location": "Peru"
+    },
+    {
+      "source": "gdacs",
+      "id": "FL1103952",
+      "ts": "2026-06-20T06:26:32Z",
+      "type": "flood",
+      "severity": "info",
+      "title": "Green flood alert in Colombia",
+      "body": "On 17/06/2026, a flood started in Colombia, lasting until 19/06/2026 (last update). The flood caused 0 deaths and 0 displaced .",
+      "details": "On 17/06/2026, a flood started in Colombia, lasting until 19/06/2026 (last update). The flood caused 0 deaths and 0 displaced .",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103952"
+      ],
+      "location": "Colombia"
     }
   ]
 }
