@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T02:04:55Z",
+  "generated_at": "2026-06-24T03:22:10Z",
   "items": [
     {
       "source": "gdacs",
@@ -199,8 +199,8 @@
       "type": "cyclone",
       "severity": "info",
       "title": "Green notification for tropical cyclone HIGOS-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
-      "body": "From 22/06/2026 to 23/06/2026, a Tropical Depression (maximum wind speed of 83 km/h) HIGOS-26 was active in NWPacific. The cyclone affects these countries: Northern Mariana Islands, Guam (vulnerability Medium). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
-      "details": "From 22/06/2026 to 23/06/2026, a Tropical Depression (maximum wind speed of 83 km/h) HIGOS-26 was active in NWPacific. The cyclone affects these countries: Northern Mariana Islands, Guam (vulnerability Medium). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
+      "body": "From 22/06/2026 to 24/06/2026, a Tropical Depression (maximum wind speed of 83 km/h) HIGOS-26 was active in NWPacific. The cyclone affects these countries: Northern Mariana Islands, Guam (vulnerability Medium). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
+      "details": "From 22/06/2026 to 24/06/2026, a Tropical Depression (maximum wind speed of 83 km/h) HIGOS-26 was active in NWPacific. The cyclone affects these countries: Northern Mariana Islands, Guam (vulnerability Medium). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
       "lat": null,
       "lon": null,
       "links": [
@@ -651,9 +651,24 @@
       "location": "Tanzania"
     },
     {
+      "source": "media",
+      "id": "us6000t7rx",
+      "ts": "2026-06-24T02:04:49Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "71 km WNW of Catuday, Philippines",
+      "body": "71 km WNW of Catuday, Philippines",
+      "mag": 5,
+      "lat": 16.5122,
+      "lon": 119.1731,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7rx"
+      ]
+    },
+    {
       "source": "gdacs",
       "id": "WF1029038",
-      "ts": "2026-06-23T23:00:11Z",
+      "ts": "2026-06-24T03:00:22Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Syrian Arab Republic",
@@ -669,7 +684,7 @@
     {
       "source": "gdacs",
       "id": "WF1029048",
-      "ts": "2026-06-23T23:00:21Z",
+      "ts": "2026-06-24T03:00:42Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Australia",
@@ -685,7 +700,7 @@
     {
       "source": "gdacs",
       "id": "WF1029034",
-      "ts": "2026-06-23T23:01:10Z",
+      "ts": "2026-06-24T03:01:21Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Australia",
@@ -701,7 +716,7 @@
     {
       "source": "gdacs",
       "id": "WF1029035",
-      "ts": "2026-06-23T23:01:51Z",
+      "ts": "2026-06-24T03:01:41Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Australia",
@@ -717,7 +732,7 @@
     {
       "source": "gdacs",
       "id": "WF1029036",
-      "ts": "2026-06-23T23:02:24Z",
+      "ts": "2026-06-24T03:02:26Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Australia",
@@ -732,24 +747,8 @@
     },
     {
       "source": "gdacs",
-      "id": "WF1029007",
-      "ts": "2026-06-23T23:02:37Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in The Democratic Republic of Congo",
-      "body": "On 18/06/2026, a forest fire started in The Democratic Republic of Congo,  until 21/06/2026.",
-      "details": "On 18/06/2026, a forest fire started in The Democratic Republic of Congo,  until 21/06/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029007"
-      ],
-      "location": "The Democratic Republic of Congo"
-    },
-    {
-      "source": "gdacs",
       "id": "WF1029043",
-      "ts": "2026-06-23T23:03:14Z",
+      "ts": "2026-06-24T03:02:38Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in The Democratic Republic of Congo",
@@ -764,8 +763,24 @@
     },
     {
       "source": "gdacs",
+      "id": "WF1029007",
+      "ts": "2026-06-24T03:02:44Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in The Democratic Republic of Congo",
+      "body": "On 18/06/2026, a forest fire started in The Democratic Republic of Congo,  until 21/06/2026.",
+      "details": "On 18/06/2026, a forest fire started in The Democratic Republic of Congo,  until 21/06/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029007"
+      ],
+      "location": "The Democratic Republic of Congo"
+    },
+    {
+      "source": "gdacs",
       "id": "WF1029008",
-      "ts": "2026-06-23T23:03:32Z",
+      "ts": "2026-06-24T03:03:33Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Sudan",
@@ -781,7 +796,7 @@
     {
       "source": "gdacs",
       "id": "WF1029044",
-      "ts": "2026-06-23T23:03:38Z",
+      "ts": "2026-06-24T03:03:39Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in The Democratic Republic of Congo",
@@ -796,8 +811,24 @@
     },
     {
       "source": "gdacs",
+      "id": "WF1029045",
+      "ts": "2026-06-24T03:04:53Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in The Democratic Republic of Congo",
+      "body": "On 15/06/2026, a forest fire started in The Democratic Republic of Congo,  until 23/06/2026.",
+      "details": "On 15/06/2026, a forest fire started in The Democratic Republic of Congo,  until 23/06/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029045"
+      ],
+      "location": "The Democratic Republic of Congo"
+    },
+    {
+      "source": "gdacs",
       "id": "WF1029024",
-      "ts": "2026-06-23T23:04:47Z",
+      "ts": "2026-06-24T03:05:39Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in The Democratic Republic of Congo",
@@ -813,7 +844,7 @@
     {
       "source": "gdacs",
       "id": "WF1029049",
-      "ts": "2026-06-23T23:04:52Z",
+      "ts": "2026-06-24T03:05:44Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Australia",
@@ -828,24 +859,8 @@
     },
     {
       "source": "gdacs",
-      "id": "WF1029045",
-      "ts": "2026-06-23T23:05:27Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in The Democratic Republic of Congo",
-      "body": "On 15/06/2026, a forest fire started in The Democratic Republic of Congo,  until 23/06/2026.",
-      "details": "On 15/06/2026, a forest fire started in The Democratic Republic of Congo,  until 23/06/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029045"
-      ],
-      "location": "The Democratic Republic of Congo"
-    },
-    {
-      "source": "gdacs",
       "id": "WF1029046",
-      "ts": "2026-06-23T23:05:59Z",
+      "ts": "2026-06-24T03:05:56Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in The Democratic Republic of Congo",
@@ -861,7 +876,7 @@
     {
       "source": "gdacs",
       "id": "WF1029047",
-      "ts": "2026-06-23T23:07:24Z",
+      "ts": "2026-06-24T03:06:58Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in The Democratic Republic of Congo",
