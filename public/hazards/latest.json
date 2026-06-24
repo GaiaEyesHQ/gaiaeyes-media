@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T22:17:48Z",
+  "generated_at": "2026-06-24T22:49:13Z",
   "items": [
     {
       "source": "media",
@@ -1019,17 +1019,48 @@
     },
     {
       "source": "usgs",
-      "id": "th5pbk",
-      "ts": "2026-06-24T22:04:31Z",
+      "id": "6000t7zc",
+      "ts": "2026-06-24T22:04:32Z",
       "type": "quake",
       "severity": "orange",
-      "title": "M 7.1 - 21 km W of Mor\u00f3n, Venezuela",
-      "body": "21 km W of Mor\u00f3n, Venezuela",
+      "title": "M 7.1 - 28 km NW of Montalb\u00e1n, Venezuela",
+      "body": "28 km NW of Montalb\u00e1n, Venezuela",
       "mag": 7.1,
-      "lat": 10.5,
-      "lon": -68.4,
+      "lat": 10.407,
+      "lon": -68.4932,
       "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/atth5pbk"
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7zc"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1548377",
+      "ts": "2026-06-24T22:17:17Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Red earthquake (Magnitude 7.1M, Depth:13.158km) in Venezuela 24/06/2026 22:04 UTC, 790 thousand (in MMI>=VII).",
+      "body": "On 6/24/2026 10:04:32 PM, an earthquake occurred in Venezuela potentially affecting 790 thousand (in MMI>=VII). The earthquake had Magnitude 7.1M, Depth:13.158km.",
+      "details": "On 6/24/2026 10:04:32 PM, an earthquake occurred in Venezuela potentially affecting 790 thousand (in MMI>=VII). The earthquake had Magnitude 7.1M, Depth:13.158km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1548377"
+      ],
+      "location": "Venezuela 24/06/2026 22:04 UTC, 790 thousand (in MMI>=VII)."
+    },
+    {
+      "source": "usgs",
+      "id": "6000t7zq",
+      "ts": "2026-06-24T22:30:15Z",
+      "type": "quake",
+      "severity": "yellow",
+      "title": "M 6.9 - 35 km ENE of Kuji, Japan",
+      "body": "35 km ENE of Kuji, Japan",
+      "mag": 6.9,
+      "lat": 40.3462,
+      "lon": 142.132,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7zq"
       ]
     }
   ]
