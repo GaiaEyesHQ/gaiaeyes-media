@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T03:25:38Z",
+  "generated_at": "2026-06-26T04:57:15Z",
   "items": [
     {
       "source": "gdacs",
@@ -1096,6 +1096,37 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029091"
       ],
       "location": "The Democratic Republic of Congo"
+    },
+    {
+      "source": "media",
+      "id": "us6000t8cy",
+      "ts": "2026-06-26T03:46:35Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "3 km SE of Yokoshiba, Japan",
+      "body": "3 km SE of Yokoshiba, Japan",
+      "mag": 5.8,
+      "lat": 35.6314,
+      "lon": 140.5099,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8cy"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1548621",
+      "ts": "2026-06-26T04:02:37Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 5.8M, Depth:43km) in Japan 26/06/2026 03:46 UTC, 130 thousand in MMI V.",
+      "body": "On 6/26/2026 3:46:37 AM, an earthquake occurred in Japan potentially affecting 130 thousand in MMI V. The earthquake had Magnitude 5.8M, Depth:43km.",
+      "details": "On 6/26/2026 3:46:37 AM, an earthquake occurred in Japan potentially affecting 130 thousand in MMI V. The earthquake had Magnitude 5.8M, Depth:43km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1548621"
+      ],
+      "location": "Japan 26/06/2026 03:46 UTC, 130 thousand in MMI V."
     }
   ]
 }
