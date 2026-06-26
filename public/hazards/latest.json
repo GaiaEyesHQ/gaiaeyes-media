@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T17:26:09Z",
+  "generated_at": "2026-06-26T18:07:24Z",
   "items": [
     {
       "source": "gdacs",
@@ -23,30 +23,15 @@
       "ts": "2026-06-24T22:17:17Z",
       "type": "quake",
       "severity": "red",
-      "title": "Red earthquake (Magnitude 7.5M, Depth:10km) in Venezuela 24/06/2026 22:05 UTC, 6.1 million (in MMI>=VII).",
-      "body": "On 6/24/2026 10:05:12 PM, an earthquake occurred in Venezuela potentially affecting 6.1 million (in MMI>=VII). The earthquake had Magnitude 7.5M, Depth:10km.",
-      "details": "On 6/24/2026 10:05:12 PM, an earthquake occurred in Venezuela potentially affecting 6.1 million (in MMI>=VII). The earthquake had Magnitude 7.5M, Depth:10km.",
+      "title": "Red earthquake (Magnitude 7.5M, Depth:10km) in Venezuela 24/06/2026 22:05 UTC, 5.5 million (in MMI>=VII).",
+      "body": "On 6/24/2026 10:05:12 PM, an earthquake occurred in Venezuela potentially affecting 5.5 million (in MMI>=VII). The earthquake had Magnitude 7.5M, Depth:10km.",
+      "details": "On 6/24/2026 10:05:12 PM, an earthquake occurred in Venezuela potentially affecting 5.5 million (in MMI>=VII). The earthquake had Magnitude 7.5M, Depth:10km.",
       "lat": null,
       "lon": null,
       "links": [
         "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1548377"
       ],
-      "location": "Venezuela 24/06/2026 22:05 UTC, 6.1 million (in MMI>=VII)."
-    },
-    {
-      "source": "media",
-      "id": "us6000t7zq",
-      "ts": "2026-06-24T22:30:14Z",
-      "type": "quake",
-      "severity": "yellow",
-      "title": "30 km ENE of Kuji, Japan",
-      "body": "30 km ENE of Kuji, Japan",
-      "mag": 6.9,
-      "lat": 40.2912,
-      "lon": 142.0981,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7zq"
-      ]
+      "location": "Venezuela 24/06/2026 22:05 UTC, 5.5 million (in MMI>=VII)."
     },
     {
       "source": "gdacs",
@@ -966,6 +951,21 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029098"
       ],
       "location": "Australia"
+    },
+    {
+      "source": "media",
+      "id": "pr2026177000",
+      "ts": "2026-06-26T16:06:49Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "51 km S of Boca de Yuma, Dominican Republic",
+      "body": "51 km S of Boca de Yuma, Dominican Republic",
+      "mag": 5,
+      "lat": 17.9176,
+      "lon": -68.5223,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/pr2026177000"
+      ]
     },
     {
       "source": "gdacs",
