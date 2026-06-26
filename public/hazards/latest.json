@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T12:21:41Z",
+  "generated_at": "2026-06-26T13:16:12Z",
   "items": [
     {
       "source": "gdacs",
@@ -34,21 +34,6 @@
       "location": "The Democratic Republic of Congo"
     },
     {
-      "source": "media",
-      "id": "nc75382936",
-      "ts": "2026-06-24T15:10:40Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "11 km N of Redwood Valley, CA",
-      "body": "11 km N of Redwood Valley, CA",
-      "mag": 5.59,
-      "lat": 39.3623333333333,
-      "lon": -123.228833333333,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/nc75382936"
-      ]
-    },
-    {
       "source": "gdacs",
       "id": "EQ1548310",
       "ts": "2026-06-24T15:15:23Z",
@@ -79,21 +64,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029067"
       ],
       "location": "The Democratic Republic of Congo"
-    },
-    {
-      "source": "media",
-      "id": "us6000t7zc",
-      "ts": "2026-06-24T22:04:33Z",
-      "type": "quake",
-      "severity": "orange",
-      "title": "23 km SE of Yumare, Venezuela",
-      "body": "23 km SE of Yumare, Venezuela",
-      "mag": 7.2,
-      "lat": 10.436,
-      "lon": -68.5277,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7zc"
-      ]
     },
     {
       "source": "media",
@@ -1081,12 +1051,12 @@
       "location": "The Democratic Republic of Congo"
     },
     {
-      "source": "usgs",
-      "id": "6000t8ec",
+      "source": "media",
+      "id": "us6000t8ec",
       "ts": "2026-06-26T11:34:42Z",
       "type": "quake",
       "severity": "yellow",
-      "title": "M 6.5 - 35 km SW of Balangonan, Philippines",
+      "title": "35 km SW of Balangonan, Philippines",
       "body": "35 km SW of Balangonan, Philippines",
       "mag": 6.5,
       "lat": 5.346,
@@ -1096,35 +1066,50 @@
       ]
     },
     {
-      "source": "media",
-      "id": "pt26177001",
-      "ts": "2026-06-26T11:34:43Z",
-      "type": "quake",
-      "severity": "yellow",
-      "title": "21 km WSW of Sarangani, Philippines",
-      "body": "21 km WSW of Sarangani, Philippines",
-      "mag": 6.7,
-      "lat": 5.331,
-      "lon": 125.286,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/pt26177001"
-      ]
-    },
-    {
       "source": "gdacs",
       "id": "EQ1548668",
       "ts": "2026-06-26T11:43:14Z",
       "type": "quake",
       "severity": "red",
-      "title": "Green earthquake (Magnitude 6.5M, Depth:52.357km) in Philippines 26/06/2026 11:34 UTC, 80 thousand in MMI VI.",
-      "body": "On 6/26/2026 11:34:42 AM, an earthquake occurred in Philippines potentially affecting 80 thousand in MMI VI. The earthquake had Magnitude 6.5M, Depth:52.357km.",
-      "details": "On 6/26/2026 11:34:42 AM, an earthquake occurred in Philippines potentially affecting 80 thousand in MMI VI. The earthquake had Magnitude 6.5M, Depth:52.357km.",
+      "title": "Green earthquake (Magnitude 6.5M, Depth:42km) in Philippines 26/06/2026 11:34 UTC, Few people affected (in MMI>=VII).",
+      "body": "On 6/26/2026 11:34:41 AM, an earthquake occurred in Philippines potentially affecting Few people affected (in MMI>=VII). The earthquake had Magnitude 6.5M, Depth:42km.",
+      "details": "On 6/26/2026 11:34:41 AM, an earthquake occurred in Philippines potentially affecting Few people affected (in MMI>=VII). The earthquake had Magnitude 6.5M, Depth:42km.",
       "lat": null,
       "lon": null,
       "links": [
         "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1548668"
       ],
-      "location": "Philippines 26/06/2026 11:34 UTC, 80 thousand in MMI VI."
+      "location": "Philippines 26/06/2026 11:34 UTC, Few people affected (in MMI>=VII)."
+    },
+    {
+      "source": "media",
+      "id": "us6000t8ei",
+      "ts": "2026-06-26T11:48:47Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "52 km NNE of Barkhan, Pakistan",
+      "body": "52 km NNE of Barkhan, Pakistan",
+      "mag": 5.2,
+      "lat": 30.3661,
+      "lon": 69.6336,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8ei"
+      ]
+    },
+    {
+      "source": "media",
+      "id": "us6000t8ey",
+      "ts": "2026-06-26T11:57:25Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "7 km NE of Villa El Carmen, Nicaragua",
+      "body": "7 km NE of Villa El Carmen, Nicaragua",
+      "mag": 5.2,
+      "lat": 12.0312,
+      "lon": -86.4565,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8ey"
+      ]
     }
   ]
 }
