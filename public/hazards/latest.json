@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T19:52:50Z",
+  "generated_at": "2026-06-30T20:43:19Z",
   "items": [
     {
       "source": "gdacs",
@@ -1274,6 +1274,37 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029223"
       ],
       "location": "The Democratic Republic of Congo"
+    },
+    {
+      "source": "media",
+      "id": "us6000t99j",
+      "ts": "2026-06-30T19:45:40Z",
+      "type": "quake",
+      "severity": "yellow",
+      "title": "75 km SSW of El Progreso, Mexico",
+      "body": "75 km SSW of El Progreso, Mexico",
+      "mag": 6,
+      "lat": 24.8239,
+      "lon": -108.9285,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t99j"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1549440",
+      "ts": "2026-06-30T20:03:52Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 6M, Depth:10km) in Mexico 30/06/2026 19:45 UTC, 10 thousand in MMI V.",
+      "body": "On 6/30/2026 7:45:40 PM, an earthquake occurred in Mexico potentially affecting 10 thousand in MMI V. The earthquake had Magnitude 6M, Depth:10km.",
+      "details": "On 6/30/2026 7:45:40 PM, an earthquake occurred in Mexico potentially affecting 10 thousand in MMI V. The earthquake had Magnitude 6M, Depth:10km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1549440"
+      ],
+      "location": "Mexico 30/06/2026 19:45 UTC, 10 thousand in MMI V."
     }
   ]
 }
