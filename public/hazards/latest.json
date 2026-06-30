@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T21:54:58Z",
+  "generated_at": "2026-06-30T22:30:57Z",
   "items": [
     {
       "source": "gdacs",
@@ -1296,15 +1296,30 @@
       "ts": "2026-06-30T20:03:52Z",
       "type": "quake",
       "severity": "red",
-      "title": "Green earthquake (Magnitude 6M, Depth:10km) in Mexico 30/06/2026 19:45 UTC, 10 thousand in MMI V.",
-      "body": "On 6/30/2026 7:45:40 PM, an earthquake occurred in Mexico potentially affecting 10 thousand in MMI V. The earthquake had Magnitude 6M, Depth:10km.",
-      "details": "On 6/30/2026 7:45:40 PM, an earthquake occurred in Mexico potentially affecting 10 thousand in MMI V. The earthquake had Magnitude 6M, Depth:10km.",
+      "title": "Green earthquake (Magnitude 6M, Depth:10km) in Mexico 30/06/2026 19:45 UTC, 9 thousand in MMI V.",
+      "body": "On 6/30/2026 7:45:40 PM, an earthquake occurred in Mexico potentially affecting 9 thousand in MMI V. The earthquake had Magnitude 6M, Depth:10km.",
+      "details": "On 6/30/2026 7:45:40 PM, an earthquake occurred in Mexico potentially affecting 9 thousand in MMI V. The earthquake had Magnitude 6M, Depth:10km.",
       "lat": null,
       "lon": null,
       "links": [
         "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1549440"
       ],
-      "location": "Mexico 30/06/2026 19:45 UTC, 10 thousand in MMI V."
+      "location": "Mexico 30/06/2026 19:45 UTC, 9 thousand in MMI V."
+    },
+    {
+      "source": "media",
+      "id": "us6000t9a4",
+      "ts": "2026-06-30T21:01:35Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "84 km SSW of El Progreso, Mexico",
+      "body": "84 km SSW of El Progreso, Mexico",
+      "mag": 5.3,
+      "lat": 24.753,
+      "lon": -108.9778,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9a4"
+      ]
     }
   ]
 }
