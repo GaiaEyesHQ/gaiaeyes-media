@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T23:17:29Z",
+  "generated_at": "2026-07-01T23:50:59Z",
   "items": [
     {
       "source": "media",
@@ -842,22 +842,6 @@
     },
     {
       "source": "gdacs",
-      "id": "WF1029180",
-      "ts": "2026-07-01T19:20:51Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Australia",
-      "body": "On 19/06/2026, a forest fire started in Australia,  until 29/06/2026.",
-      "details": "On 19/06/2026, a forest fire started in Australia,  until 29/06/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029180"
-      ],
-      "location": "Australia"
-    },
-    {
-      "source": "gdacs",
       "id": "TC1001281",
       "ts": "2026-07-01T21:07:04Z",
       "type": "cyclone",
@@ -1030,6 +1014,22 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029174"
       ],
       "location": "Russian Federation"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1029180",
+      "ts": "2026-07-01T23:22:25Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Australia",
+      "body": "On 19/06/2026, a forest fire started in Australia,  until 29/06/2026.",
+      "details": "On 19/06/2026, a forest fire started in Australia,  until 29/06/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029180"
+      ],
+      "location": "Australia"
     }
   ]
 }
