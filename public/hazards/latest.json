@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T01:21:31Z",
+  "generated_at": "2026-07-01T02:23:29Z",
   "items": [
     {
       "source": "gdacs",
@@ -500,8 +500,8 @@
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Brazil",
-      "body": "On 22/06/2026, a forest fire started in Brazil,  until 29/06/2026.",
-      "details": "On 22/06/2026, a forest fire started in Brazil,  until 29/06/2026.",
+      "body": "On 22/06/2026, a forest fire started in Brazil,  until 30/06/2026.",
+      "details": "On 22/06/2026, a forest fire started in Brazil,  until 30/06/2026.",
       "lat": null,
       "lon": null,
       "links": [
@@ -898,8 +898,8 @@
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in The Democratic Republic of Congo",
-      "body": "On 20/06/2026, a forest fire started in The Democratic Republic of Congo,  until 29/06/2026.",
-      "details": "On 20/06/2026, a forest fire started in The Democratic Republic of Congo,  until 29/06/2026.",
+      "body": "On 20/06/2026, a forest fire started in The Democratic Republic of Congo,  until 30/06/2026.",
+      "details": "On 20/06/2026, a forest fire started in The Democratic Republic of Congo,  until 30/06/2026.",
       "lat": null,
       "lon": null,
       "links": [
@@ -1037,14 +1037,14 @@
     {
       "source": "media",
       "id": "us6000t9a4",
-      "ts": "2026-06-30T21:01:35Z",
+      "ts": "2026-06-30T21:01:34Z",
       "type": "quake",
       "severity": "info",
-      "title": "84 km SSW of El Progreso, Mexico",
-      "body": "84 km SSW of El Progreso, Mexico",
+      "title": "95 km SSW of El Progreso, Mexico",
+      "body": "95 km SSW of El Progreso, Mexico",
       "mag": 5.3,
-      "lat": 24.753,
-      "lon": -108.9778,
+      "lat": 24.6598,
+      "lon": -109.0169,
       "links": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9a4"
       ]
@@ -1367,6 +1367,38 @@
       "links": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9bg"
       ]
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1549470",
+      "ts": "2026-06-30T23:59:38Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Orange earthquake (Magnitude 5.5M, Depth:10km) in China 30/06/2026 23:44 UTC, 8 thousand (in MMI>=VII).",
+      "body": "On 6/30/2026 11:44:55 PM, an earthquake occurred in China potentially affecting 8 thousand (in MMI>=VII). The earthquake had Magnitude 5.5M, Depth:10km.",
+      "details": "On 6/30/2026 11:44:55 PM, an earthquake occurred in China potentially affecting 8 thousand (in MMI>=VII). The earthquake had Magnitude 5.5M, Depth:10km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1549470"
+      ],
+      "location": "China 30/06/2026 23:44 UTC, 8 thousand (in MMI>=VII)."
+    },
+    {
+      "source": "gdacs",
+      "id": "TC1001279",
+      "ts": "2026-07-01T01:51:41Z",
+      "type": "cyclone",
+      "severity": "orange",
+      "title": "Orange notification for tropical cyclone NINE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 50254 .",
+      "body": "From 01/07/2026 to 01/07/2026, a Tropical Depression (maximum wind speed of 213 km/h) NINE-26 was active in NWPacific. The cyclone affects these countries: Northern Mariana Islands (vulnerability Medium). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 50254 .",
+      "details": "From 01/07/2026 to 01/07/2026, a Tropical Depression (maximum wind speed of 213 km/h) NINE-26 was active in NWPacific. The cyclone affects these countries: Northern Mariana Islands (vulnerability Medium). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 50254 .",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001279"
+      ],
+      "location": null
     }
   ]
 }
