@@ -1,37 +1,6 @@
 {
-  "generated_at": "2026-07-01T11:19:03Z",
+  "generated_at": "2026-07-01T12:20:27Z",
   "items": [
-    {
-      "source": "media",
-      "id": "us6000t8yt",
-      "ts": "2026-06-29T11:35:33Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "218 km W of Bandon, Oregon",
-      "body": "218 km W of Bandon, Oregon",
-      "mag": 5.5,
-      "lat": 43.3828,
-      "lon": -127.0788,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t8yt"
-      ]
-    },
-    {
-      "source": "gdacs",
-      "id": "EQ1549176",
-      "ts": "2026-06-29T11:42:42Z",
-      "type": "quake",
-      "severity": "red",
-      "title": "Green earthquake (Magnitude 5.5M, Depth:10km) in United States 29/06/2026 11:35 UTC, Few people affected in MMI III.",
-      "body": "On 6/29/2026 11:35:33 AM, an earthquake occurred in United States potentially affecting Few people affected in MMI III. The earthquake had Magnitude 5.5M, Depth:10km.",
-      "details": "On 6/29/2026 11:35:33 AM, an earthquake occurred in United States potentially affecting Few people affected in MMI III. The earthquake had Magnitude 5.5M, Depth:10km.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1549176"
-      ],
-      "location": "United States 29/06/2026 11:35 UTC, Few people affected in MMI III."
-    },
     {
       "source": "gdacs",
       "id": "WF1029181",
@@ -956,54 +925,6 @@
     },
     {
       "source": "gdacs",
-      "id": "WF1029222",
-      "ts": "2026-07-01T07:17:32Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in The Democratic Republic of Congo",
-      "body": "On 20/06/2026, a forest fire started in The Democratic Republic of Congo,  until 30/06/2026.",
-      "details": "On 20/06/2026, a forest fire started in The Democratic Republic of Congo,  until 30/06/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029222"
-      ],
-      "location": "The Democratic Republic of Congo"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1029180",
-      "ts": "2026-07-01T07:19:07Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Australia",
-      "body": "On 19/06/2026, a forest fire started in Australia,  until 29/06/2026.",
-      "details": "On 19/06/2026, a forest fire started in Australia,  until 29/06/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029180"
-      ],
-      "location": "Australia"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1029223",
-      "ts": "2026-07-01T07:20:28Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in The Democratic Republic of Congo",
-      "body": "On 18/06/2026, a forest fire started in The Democratic Republic of Congo,  until 30/06/2026.",
-      "details": "On 18/06/2026, a forest fire started in The Democratic Republic of Congo,  until 30/06/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029223"
-      ],
-      "location": "The Democratic Republic of Congo"
-    },
-    {
-      "source": "gdacs",
       "id": "TC1001280",
       "ts": "2026-07-01T08:51:09Z",
       "type": "cyclone",
@@ -1254,6 +1175,54 @@
       "lon": null,
       "links": [
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029190"
+      ],
+      "location": "The Democratic Republic of Congo"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1029222",
+      "ts": "2026-07-01T11:18:44Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in The Democratic Republic of Congo",
+      "body": "On 20/06/2026, a forest fire started in The Democratic Republic of Congo,  until 30/06/2026.",
+      "details": "On 20/06/2026, a forest fire started in The Democratic Republic of Congo,  until 30/06/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029222"
+      ],
+      "location": "The Democratic Republic of Congo"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1029180",
+      "ts": "2026-07-01T11:21:03Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Australia",
+      "body": "On 19/06/2026, a forest fire started in Australia,  until 29/06/2026.",
+      "details": "On 19/06/2026, a forest fire started in Australia,  until 29/06/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029180"
+      ],
+      "location": "Australia"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1029223",
+      "ts": "2026-07-01T11:22:10Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in The Democratic Republic of Congo",
+      "body": "On 18/06/2026, a forest fire started in The Democratic Republic of Congo,  until 30/06/2026.",
+      "details": "On 18/06/2026, a forest fire started in The Democratic Republic of Congo,  until 30/06/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029223"
       ],
       "location": "The Democratic Republic of Congo"
     }
