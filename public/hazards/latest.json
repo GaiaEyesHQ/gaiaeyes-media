@@ -1,37 +1,6 @@
 {
-  "generated_at": "2026-07-03T21:10:07Z",
+  "generated_at": "2026-07-03T22:16:11Z",
   "items": [
-    {
-      "source": "media",
-      "id": "us6000t9hu",
-      "ts": "2026-07-01T21:13:40Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "155 km SW of Hihifo, Tonga",
-      "body": "155 km SW of Hihifo, Tonga",
-      "mag": 5.7,
-      "lat": -16.9457,
-      "lon": -174.8243,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9hu"
-      ]
-    },
-    {
-      "source": "gdacs",
-      "id": "EQ1549627",
-      "ts": "2026-07-01T21:32:52Z",
-      "type": "quake",
-      "severity": "red",
-      "title": "Green earthquake (Magnitude 5.7M, Depth:259km) in Tonga 01/07/2026 21:13 UTC, 10 thousand in MMI>=II.",
-      "body": "On 7/1/2026 9:13:40 PM, an earthquake occurred in Tonga potentially affecting 10 thousand in MMI>=II. The earthquake had Magnitude 5.7M, Depth:259km.",
-      "details": "On 7/1/2026 9:13:40 PM, an earthquake occurred in Tonga potentially affecting 10 thousand in MMI>=II. The earthquake had Magnitude 5.7M, Depth:259km.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1549627"
-      ],
-      "location": "Tonga 01/07/2026 21:13 UTC, 10 thousand in MMI>=II."
-    },
     {
       "source": "gdacs",
       "id": "WF1029229",
@@ -1082,22 +1051,6 @@
     },
     {
       "source": "gdacs",
-      "id": "WF1029186",
-      "ts": "2026-07-03T19:02:15Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in The Democratic Republic of Congo, Angola",
-      "body": "On 29/06/2026, a forest fire started in The Democratic Republic of Congo, Angola,  until 29/06/2026.",
-      "details": "On 29/06/2026, a forest fire started in The Democratic Republic of Congo, Angola,  until 29/06/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029186"
-      ],
-      "location": "The Democratic Republic of Congo, Angola"
-    },
-    {
-      "source": "gdacs",
       "id": "WF1029276",
       "ts": "2026-07-03T19:02:29Z",
       "type": "wildfire",
@@ -1225,20 +1178,19 @@
       "location": "Angola"
     },
     {
-      "source": "gdacs",
-      "id": "WF1029180",
-      "ts": "2026-07-03T19:24:51Z",
-      "type": "wildfire",
+      "source": "media",
+      "id": "us6000t9zw",
+      "ts": "2026-07-03T20:22:15Z",
+      "type": "quake",
       "severity": "info",
-      "title": "Green forest fire notification in Australia",
-      "body": "On 19/06/2026, a forest fire started in Australia,  until 29/06/2026.",
-      "details": "On 19/06/2026, a forest fire started in Australia,  until 29/06/2026.",
-      "lat": null,
-      "lon": null,
+      "title": "Balleny Islands region",
+      "body": "Balleny Islands region",
+      "mag": 5.3,
+      "lat": -62.1125,
+      "lon": 155.7881,
       "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029180"
-      ],
-      "location": "Australia"
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t9zw"
+      ]
     }
   ]
 }
