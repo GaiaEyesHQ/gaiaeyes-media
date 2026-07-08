@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T01:01:10Z",
+  "generated_at": "2026-07-08T04:28:46Z",
   "items": [
     {
       "source": "gdacs",
@@ -128,21 +128,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104003"
       ],
       "location": "Costa Rica"
-    },
-    {
-      "source": "media",
-      "id": "us6000taft",
-      "ts": "2026-07-06T14:43:38Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "211 km ESE of Hihifo, Tonga",
-      "body": "211 km ESE of Hihifo, Tonga",
-      "mag": 5.1,
-      "lat": -16.892,
-      "lon": -172.07,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000taft"
-      ]
     },
     {
       "source": "gdacs",
@@ -942,46 +927,14 @@
       "ts": "2026-07-07T22:12:29Z",
       "type": "quake",
       "severity": "info",
-      "title": "14 km W of Changning, China",
-      "body": "14 km W of Changning, China",
+      "title": "13 km W of Changning, China",
+      "body": "13 km W of Changning, China",
       "mag": 5.1,
-      "lat": 28.5899,
-      "lon": 104.7718,
+      "lat": 28.5702,
+      "lon": 104.788,
       "links": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tatd"
       ]
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1029361",
-      "ts": "2026-07-07T23:00:25Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in The Democratic Republic of Congo",
-      "body": "On 06/07/2026, a forest fire started in The Democratic Republic of Congo,  until 07/07/2026.",
-      "details": "On 06/07/2026, a forest fire started in The Democratic Republic of Congo,  until 07/07/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029361"
-      ],
-      "location": "The Democratic Republic of Congo"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1029370",
-      "ts": "2026-07-07T23:00:56Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Canada",
-      "body": "On 05/07/2026, a forest fire started in Canada,  until 07/07/2026.",
-      "details": "On 05/07/2026, a forest fire started in Canada,  until 07/07/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029370"
-      ],
-      "location": "Canada"
     },
     {
       "source": "gdacs",
@@ -1016,9 +969,56 @@
       "location": "Canada"
     },
     {
+      "source": "media",
+      "id": "us6000taui",
+      "ts": "2026-07-08T02:08:48Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "15 km NNE of Xunchang, China",
+      "body": "15 km NNE of Xunchang, China",
+      "mag": 5,
+      "lat": 28.5871,
+      "lon": 104.7549,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000taui"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1029361",
+      "ts": "2026-07-08T03:01:46Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in The Democratic Republic of Congo",
+      "body": "On 06/07/2026, a forest fire started in The Democratic Republic of Congo,  until 07/07/2026.",
+      "details": "On 06/07/2026, a forest fire started in The Democratic Republic of Congo,  until 07/07/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029361"
+      ],
+      "location": "The Democratic Republic of Congo"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1029370",
+      "ts": "2026-07-08T03:02:40Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Canada",
+      "body": "On 05/07/2026, a forest fire started in Canada,  until 07/07/2026.",
+      "details": "On 05/07/2026, a forest fire started in Canada,  until 07/07/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029370"
+      ],
+      "location": "Canada"
+    },
+    {
       "source": "gdacs",
       "id": "WF1029364",
-      "ts": "2026-07-07T23:03:11Z",
+      "ts": "2026-07-08T03:04:06Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in The Democratic Republic of Congo",
@@ -1034,7 +1034,7 @@
     {
       "source": "gdacs",
       "id": "WF1029351",
-      "ts": "2026-07-07T23:03:53Z",
+      "ts": "2026-07-08T03:04:37Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Spain",
@@ -1050,7 +1050,7 @@
     {
       "source": "gdacs",
       "id": "WF1029373",
-      "ts": "2026-07-07T23:05:05Z",
+      "ts": "2026-07-08T03:05:32Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Canada",
@@ -1066,7 +1066,7 @@
     {
       "source": "gdacs",
       "id": "WF1029374",
-      "ts": "2026-07-07T23:05:25Z",
+      "ts": "2026-07-08T03:05:52Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Canada",
@@ -1082,7 +1082,7 @@
     {
       "source": "gdacs",
       "id": "WF1029375",
-      "ts": "2026-07-07T23:05:34Z",
+      "ts": "2026-07-08T03:06:00Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Russian Federation",
@@ -1098,7 +1098,7 @@
     {
       "source": "gdacs",
       "id": "WF1029376",
-      "ts": "2026-07-07T23:05:59Z",
+      "ts": "2026-07-08T03:06:30Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Canada",
@@ -1114,7 +1114,7 @@
     {
       "source": "gdacs",
       "id": "WF1029377",
-      "ts": "2026-07-07T23:07:39Z",
+      "ts": "2026-07-08T03:08:13Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Canada",
@@ -1130,7 +1130,7 @@
     {
       "source": "gdacs",
       "id": "WF1029365",
-      "ts": "2026-07-07T23:08:46Z",
+      "ts": "2026-07-08T03:09:12Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Angola",
@@ -1146,7 +1146,7 @@
     {
       "source": "gdacs",
       "id": "WF1029341",
-      "ts": "2026-07-07T23:09:52Z",
+      "ts": "2026-07-08T03:10:44Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in The Democratic Republic of Congo, Angola",
@@ -1162,7 +1162,7 @@
     {
       "source": "gdacs",
       "id": "WF1029367",
-      "ts": "2026-07-07T23:10:23Z",
+      "ts": "2026-07-08T03:11:11Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in The Democratic Republic of Congo",
@@ -1178,7 +1178,7 @@
     {
       "source": "gdacs",
       "id": "WF1029378",
-      "ts": "2026-07-07T23:10:41Z",
+      "ts": "2026-07-08T03:11:24Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Canada",
@@ -1194,7 +1194,7 @@
     {
       "source": "gdacs",
       "id": "WF1029366",
-      "ts": "2026-07-07T23:11:06Z",
+      "ts": "2026-07-08T03:11:44Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in The Democratic Republic of Congo",
@@ -1210,7 +1210,7 @@
     {
       "source": "gdacs",
       "id": "WF1029379",
-      "ts": "2026-07-07T23:11:22Z",
+      "ts": "2026-07-08T03:11:56Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Russian Federation",
@@ -1226,7 +1226,7 @@
     {
       "source": "gdacs",
       "id": "WF1029303",
-      "ts": "2026-07-07T23:11:32Z",
+      "ts": "2026-07-08T03:12:03Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Tanzania",
@@ -1242,7 +1242,7 @@
     {
       "source": "gdacs",
       "id": "WF1029368",
-      "ts": "2026-07-07T23:15:46Z",
+      "ts": "2026-07-08T03:15:54Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Zambia",
@@ -1258,7 +1258,7 @@
     {
       "source": "gdacs",
       "id": "WF1029313",
-      "ts": "2026-07-07T23:19:43Z",
+      "ts": "2026-07-08T03:19:38Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Canada",
@@ -1274,7 +1274,7 @@
     {
       "source": "gdacs",
       "id": "WF1029346",
-      "ts": "2026-07-07T23:29:35Z",
+      "ts": "2026-07-08T03:29:57Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in The Democratic Republic of Congo",
@@ -1290,7 +1290,7 @@
     {
       "source": "gdacs",
       "id": "WF1029369",
-      "ts": "2026-07-07T23:30:59Z",
+      "ts": "2026-07-08T03:31:58Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in The Democratic Republic of Congo",
