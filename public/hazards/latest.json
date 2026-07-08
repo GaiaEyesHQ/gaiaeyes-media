@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T15:34:53Z",
+  "generated_at": "2026-07-08T17:04:56Z",
   "items": [
     {
       "source": "gdacs",
@@ -208,21 +208,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104006"
       ],
       "location": "New Zealand"
-    },
-    {
-      "source": "media",
-      "id": "us6000talg",
-      "ts": "2026-07-07T07:16:26Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "162 km NNW of Tobelo, Indonesia",
-      "body": "162 km NNW of Tobelo, Indonesia",
-      "mag": 5.4,
-      "lat": 3.1239,
-      "lon": 127.5573,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000talg"
-      ]
     },
     {
       "source": "media",
@@ -939,22 +924,6 @@
     },
     {
       "source": "gdacs",
-      "id": "WF1029385",
-      "ts": "2026-07-08T11:26:30Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Australia",
-      "body": "On 24/06/2026, a forest fire started in Australia,  until 08/07/2026.",
-      "details": "On 24/06/2026, a forest fire started in Australia,  until 08/07/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029385"
-      ],
-      "location": "Australia"
-    },
-    {
-      "source": "gdacs",
       "id": "WF1029346",
       "ts": "2026-07-08T11:26:51Z",
       "type": "wildfire",
@@ -966,22 +935,6 @@
       "lon": null,
       "links": [
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029346"
-      ],
-      "location": "The Democratic Republic of Congo"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1029369",
-      "ts": "2026-07-08T11:27:21Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in The Democratic Republic of Congo",
-      "body": "On 24/06/2026, a forest fire started in The Democratic Republic of Congo,  until 07/07/2026.",
-      "details": "On 24/06/2026, a forest fire started in The Democratic Republic of Congo,  until 07/07/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029369"
       ],
       "location": "The Democratic Republic of Congo"
     },
@@ -1029,6 +982,21 @@
       "lon": -174.9716,
       "links": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/us6000taww"
+      ]
+    },
+    {
+      "source": "media",
+      "id": "us6000tay7",
+      "ts": "2026-07-08T13:01:10Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "Chagos Archipelago region",
+      "body": "Chagos Archipelago region",
+      "mag": 5.4,
+      "lat": -6.4643,
+      "lon": 68.7025,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tay7"
       ]
     },
     {
@@ -1190,6 +1158,38 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029313"
       ],
       "location": "Canada"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1029385",
+      "ts": "2026-07-08T15:27:13Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Australia",
+      "body": "On 24/06/2026, a forest fire started in Australia,  until 08/07/2026.",
+      "details": "On 24/06/2026, a forest fire started in Australia,  until 08/07/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029385"
+      ],
+      "location": "Australia"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1029369",
+      "ts": "2026-07-08T15:27:40Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in The Democratic Republic of Congo",
+      "body": "On 24/06/2026, a forest fire started in The Democratic Republic of Congo,  until 07/07/2026.",
+      "details": "On 24/06/2026, a forest fire started in The Democratic Republic of Congo,  until 07/07/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029369"
+      ],
+      "location": "The Democratic Republic of Congo"
     }
   ]
 }
