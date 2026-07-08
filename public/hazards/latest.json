@@ -1,22 +1,6 @@
 {
-  "generated_at": "2026-07-08T11:28:03Z",
+  "generated_at": "2026-07-08T13:10:08Z",
   "items": [
-    {
-      "source": "gdacs",
-      "id": "FL1104003",
-      "ts": "2026-07-06T11:28:47Z",
-      "type": "flood",
-      "severity": "info",
-      "title": "Green flood alert in Costa Rica",
-      "body": "On 02/07/2026, a flood started in Costa Rica, lasting until 04/07/2026 (last update). The flood caused 0 deaths and 250 displaced .",
-      "details": "On 02/07/2026, a flood started in Costa Rica, lasting until 04/07/2026 (last update). The flood caused 0 deaths and 250 displaced .",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104003"
-      ],
-      "location": "Costa Rica"
-    },
     {
       "source": "gdacs",
       "id": "WF1029301",
@@ -274,21 +258,6 @@
       "location": "Canada"
     },
     {
-      "source": "media",
-      "id": "us6000takd",
-      "ts": "2026-07-07T01:26:45Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "296 km SSE of Ushuaia, Argentina",
-      "body": "296 km SSE of Ushuaia, Argentina",
-      "mag": 5.8,
-      "lat": -57.3319,
-      "lon": -66.7593,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000takd"
-      ]
-    },
-    {
       "source": "gdacs",
       "id": "EQ1550528",
       "ts": "2026-07-07T01:44:58Z",
@@ -337,21 +306,6 @@
       "location": "Canada"
     },
     {
-      "source": "media",
-      "id": "us6000takw",
-      "ts": "2026-07-07T05:00:43Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "Reykjanes Ridge",
-      "body": "Reykjanes Ridge",
-      "mag": 5,
-      "lat": 59.4631,
-      "lon": -30.2505,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000takw"
-      ]
-    },
-    {
       "source": "gdacs",
       "id": "FL1104004",
       "ts": "2026-07-07T05:48:16Z",
@@ -366,21 +320,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104004"
       ],
       "location": "Kyrgyzstan"
-    },
-    {
-      "source": "media",
-      "id": "us6000tal2",
-      "ts": "2026-07-07T05:55:40Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "Reykjanes Ridge",
-      "body": "Reykjanes Ridge",
-      "mag": 5.3,
-      "lat": 59.5106,
-      "lon": -30.2483,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tal2"
-      ]
     },
     {
       "source": "gdacs",
@@ -1001,38 +940,6 @@
       "location": "Russian Federation"
     },
     {
-      "source": "gdacs",
-      "id": "WF1029346",
-      "ts": "2026-07-08T07:23:50Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in The Democratic Republic of Congo",
-      "body": "On 24/06/2026, a forest fire started in The Democratic Republic of Congo,  until 06/07/2026.",
-      "details": "On 24/06/2026, a forest fire started in The Democratic Republic of Congo,  until 06/07/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029346"
-      ],
-      "location": "The Democratic Republic of Congo"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1029369",
-      "ts": "2026-07-08T07:25:08Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in The Democratic Republic of Congo",
-      "body": "On 24/06/2026, a forest fire started in The Democratic Republic of Congo,  until 07/07/2026.",
-      "details": "On 24/06/2026, a forest fire started in The Democratic Republic of Congo,  until 07/07/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029369"
-      ],
-      "location": "The Democratic Republic of Congo"
-    },
-    {
       "source": "media",
       "id": "us6000tawe",
       "ts": "2026-07-08T09:50:23Z",
@@ -1304,9 +1211,87 @@
       "location": "Canada"
     },
     {
+      "source": "media",
+      "id": "us6000tawr",
+      "ts": "2026-07-08T11:23:04Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "110 km SE of Kimbe, Papua New Guinea",
+      "body": "110 km SE of Kimbe, Papua New Guinea",
+      "mag": 5,
+      "lat": -6.1834,
+      "lon": 150.91,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tawr"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1029385",
+      "ts": "2026-07-08T11:26:30Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Australia",
+      "body": "On 24/06/2026, a forest fire started in Australia,  until 08/07/2026.",
+      "details": "On 24/06/2026, a forest fire started in Australia,  until 08/07/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029385"
+      ],
+      "location": "Australia"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1029346",
+      "ts": "2026-07-08T11:26:51Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in The Democratic Republic of Congo",
+      "body": "On 24/06/2026, a forest fire started in The Democratic Republic of Congo,  until 06/07/2026.",
+      "details": "On 24/06/2026, a forest fire started in The Democratic Republic of Congo,  until 06/07/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029346"
+      ],
+      "location": "The Democratic Republic of Congo"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1029369",
+      "ts": "2026-07-08T11:27:21Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in The Democratic Republic of Congo",
+      "body": "On 24/06/2026, a forest fire started in The Democratic Republic of Congo,  until 07/07/2026.",
+      "details": "On 24/06/2026, a forest fire started in The Democratic Republic of Congo,  until 07/07/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029369"
+      ],
+      "location": "The Democratic Republic of Congo"
+    },
+    {
+      "source": "media",
+      "id": "us6000tawt",
+      "ts": "2026-07-08T11:42:51Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "109 km SW of Isangel, Vanuatu",
+      "body": "109 km SW of Isangel, Vanuatu",
+      "mag": 5.2,
+      "lat": -20.3518,
+      "lon": 168.6887,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tawt"
+      ]
+    },
+    {
       "source": "gdacs",
       "id": "FL1103996",
-      "ts": "2026-07-08T11:19:34Z",
+      "ts": "2026-07-08T12:08:54Z",
       "type": "flood",
       "severity": "info",
       "title": "Green flood alert in Thailand",
@@ -1318,6 +1303,21 @@
         "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103996"
       ],
       "location": "Thailand"
+    },
+    {
+      "source": "media",
+      "id": "us6000taww",
+      "ts": "2026-07-08T12:18:59Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "245 km S of \u2018Ohonua, Tonga",
+      "body": "245 km S of \u2018Ohonua, Tonga",
+      "mag": 5.4,
+      "lat": -23.5549,
+      "lon": -174.9716,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000taww"
+      ]
     }
   ]
 }
