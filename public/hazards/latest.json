@@ -1,86 +1,6 @@
 {
-  "generated_at": "2026-07-10T04:27:37Z",
+  "generated_at": "2026-07-10T08:00:37Z",
   "items": [
-    {
-      "source": "gdacs",
-      "id": "FL1104008",
-      "ts": "2026-07-08T06:58:50Z",
-      "type": "flood",
-      "severity": "info",
-      "title": "Green flood alert in Finland",
-      "body": "On 05/07/2026, a flood started in Finland, lasting until 06/07/2026 (last update). The flood caused 0 deaths and 0 displaced .",
-      "details": "On 05/07/2026, a flood started in Finland, lasting until 06/07/2026 (last update). The flood caused 0 deaths and 0 displaced .",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104008"
-      ],
-      "location": "Finland"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1029370",
-      "ts": "2026-07-08T07:01:03Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Canada",
-      "body": "On 05/07/2026, a forest fire started in Canada,  until 09/07/2026.",
-      "details": "On 05/07/2026, a forest fire started in Canada,  until 09/07/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029370"
-      ],
-      "location": "Canada"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1029376",
-      "ts": "2026-07-08T07:04:31Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Canada",
-      "body": "On 03/07/2026, a forest fire started in Canada,  until 09/07/2026.",
-      "details": "On 03/07/2026, a forest fire started in Canada,  until 09/07/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029376"
-      ],
-      "location": "Canada"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1029378",
-      "ts": "2026-07-08T07:08:37Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Canada",
-      "body": "On 30/06/2026, a forest fire started in Canada,  until 08/07/2026.",
-      "details": "On 30/06/2026, a forest fire started in Canada,  until 08/07/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029378"
-      ],
-      "location": "Canada"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1029379",
-      "ts": "2026-07-08T07:09:09Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Russian Federation",
-      "body": "On 30/06/2026, a forest fire started in Russian Federation,  until 08/07/2026.",
-      "details": "On 30/06/2026, a forest fire started in Russian Federation,  until 08/07/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029379"
-      ],
-      "location": "Russian Federation"
-    },
     {
       "source": "media",
       "id": "us6000tawe",
@@ -497,8 +417,8 @@
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Russian Federation",
-      "body": "On 03/07/2026, a forest fire started in Russian Federation,  until 09/07/2026.",
-      "details": "On 03/07/2026, a forest fire started in Russian Federation,  until 09/07/2026.",
+      "body": "On 03/07/2026, a forest fire started in Russian Federation,  until 10/07/2026.",
+      "details": "On 03/07/2026, a forest fire started in Russian Federation,  until 10/07/2026.",
       "lat": null,
       "lon": null,
       "links": [
@@ -745,22 +665,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029406"
       ],
       "location": "The Democratic Republic of Congo"
-    },
-    {
-      "source": "gdacs",
-      "id": "FL1103996",
-      "ts": "2026-07-09T12:18:11Z",
-      "type": "flood",
-      "severity": "info",
-      "title": "Green flood alert in Thailand",
-      "body": "On 01/07/2026, a flood started in Thailand, lasting until 06/07/2026 (last update). The flood caused 0 deaths and 67 displaced .",
-      "details": "On 01/07/2026, a flood started in Thailand, lasting until 06/07/2026 (last update). The flood caused 0 deaths and 67 displaced .",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103996"
-      ],
-      "location": "Thailand"
     },
     {
       "source": "media",
@@ -1097,8 +1001,56 @@
     },
     {
       "source": "gdacs",
+      "id": "VO1000143",
+      "ts": "2026-07-10T06:03:01Z",
+      "type": "ash",
+      "severity": "info",
+      "title": "Volcanic eruption is on going for Kanlaon in Philippines",
+      "body": "Volcano Kanlaon is emitting ash clouds according to the regional VAAC. The aviation alert level is Green.",
+      "details": "Volcano Kanlaon is emitting ash clouds according to the regional VAAC. The aviation alert level is Green.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=VO&eventid=1000143"
+      ],
+      "location": "Philippines"
+    },
+    {
+      "source": "gdacs",
+      "id": "FL1104011",
+      "ts": "2026-07-10T06:58:25Z",
+      "type": "flood",
+      "severity": "info",
+      "title": "Green flood alert in Myanmar",
+      "body": "On 04/07/2026, a flood started in Myanmar, lasting until 06/07/2026 (last update). The flood caused 0 deaths and 100 displaced .",
+      "details": "On 04/07/2026, a flood started in Myanmar, lasting until 06/07/2026 (last update). The flood caused 0 deaths and 100 displaced .",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104011"
+      ],
+      "location": "Myanmar"
+    },
+    {
+      "source": "gdacs",
+      "id": "FL1104012",
+      "ts": "2026-07-10T06:58:39Z",
+      "type": "flood",
+      "severity": "info",
+      "title": "Green flood alert in South Korea",
+      "body": "On 07/07/2026, a flood started in South Korea, lasting until 09/07/2026 (last update). The flood caused 0 deaths and 1122 displaced .",
+      "details": "On 07/07/2026, a flood started in South Korea, lasting until 09/07/2026 (last update). The flood caused 0 deaths and 1122 displaced .",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104012"
+      ],
+      "location": "South Korea"
+    },
+    {
+      "source": "gdacs",
       "id": "WF1029430",
-      "ts": "2026-07-10T03:00:37Z",
+      "ts": "2026-07-10T07:00:40Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Angola",
@@ -1114,7 +1066,7 @@
     {
       "source": "gdacs",
       "id": "WF1029419",
-      "ts": "2026-07-10T03:00:52Z",
+      "ts": "2026-07-10T07:00:55Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Australia",
@@ -1130,7 +1082,7 @@
     {
       "source": "gdacs",
       "id": "WF1029421",
-      "ts": "2026-07-10T03:00:59Z",
+      "ts": "2026-07-10T07:01:03Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Australia",
@@ -1146,7 +1098,7 @@
     {
       "source": "gdacs",
       "id": "WF1029431",
-      "ts": "2026-07-10T03:01:06Z",
+      "ts": "2026-07-10T07:01:10Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Angola",
@@ -1162,7 +1114,7 @@
     {
       "source": "gdacs",
       "id": "WF1029422",
-      "ts": "2026-07-10T03:01:29Z",
+      "ts": "2026-07-10T07:01:38Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Australia",
@@ -1178,7 +1130,7 @@
     {
       "source": "gdacs",
       "id": "WF1029389",
-      "ts": "2026-07-10T03:02:24Z",
+      "ts": "2026-07-10T07:02:32Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Angola",
@@ -1194,7 +1146,7 @@
     {
       "source": "gdacs",
       "id": "WF1029390",
-      "ts": "2026-07-10T03:03:33Z",
+      "ts": "2026-07-10T07:03:49Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in The Democratic Republic of Congo",
@@ -1210,7 +1162,7 @@
     {
       "source": "gdacs",
       "id": "WF1029391",
-      "ts": "2026-07-10T03:03:58Z",
+      "ts": "2026-07-10T07:04:52Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Angola",
@@ -1225,8 +1177,24 @@
     },
     {
       "source": "gdacs",
+      "id": "WF1029434",
+      "ts": "2026-07-10T07:07:14Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Angola",
+      "body": "On 03/07/2026, a forest fire started in Angola,  until 09/07/2026.",
+      "details": "On 03/07/2026, a forest fire started in Angola,  until 09/07/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029434"
+      ],
+      "location": "Angola"
+    },
+    {
+      "source": "gdacs",
       "id": "WF1029423",
-      "ts": "2026-07-10T03:06:30Z",
+      "ts": "2026-07-10T07:07:20Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Australia",
@@ -1242,7 +1210,7 @@
     {
       "source": "gdacs",
       "id": "WF1029433",
-      "ts": "2026-07-10T03:06:37Z",
+      "ts": "2026-07-10T07:07:44Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Angola",
@@ -1257,24 +1225,24 @@
     },
     {
       "source": "gdacs",
-      "id": "WF1029434",
-      "ts": "2026-07-10T03:07:20Z",
-      "type": "wildfire",
+      "id": "FL1103996",
+      "ts": "2026-07-10T07:07:59Z",
+      "type": "flood",
       "severity": "info",
-      "title": "Green forest fire notification in Angola",
-      "body": "On 03/07/2026, a forest fire started in Angola,  until 09/07/2026.",
-      "details": "On 03/07/2026, a forest fire started in Angola,  until 09/07/2026.",
+      "title": "Green flood alert in Thailand",
+      "body": "On 01/07/2026, a flood started in Thailand, lasting until 06/07/2026 (last update). The flood caused 0 deaths and 67 displaced .",
+      "details": "On 01/07/2026, a flood started in Thailand, lasting until 06/07/2026 (last update). The flood caused 0 deaths and 67 displaced .",
       "lat": null,
       "lon": null,
       "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029434"
+        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103996"
       ],
-      "location": "Angola"
+      "location": "Thailand"
     },
     {
       "source": "gdacs",
       "id": "WF1029397",
-      "ts": "2026-07-10T03:07:46Z",
+      "ts": "2026-07-10T07:08:27Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in The Democratic Republic of Congo",
@@ -1290,7 +1258,7 @@
     {
       "source": "gdacs",
       "id": "WF1029435",
-      "ts": "2026-07-10T03:08:49Z",
+      "ts": "2026-07-10T07:09:38Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in The Democratic Republic of Congo",
@@ -1306,7 +1274,7 @@
     {
       "source": "gdacs",
       "id": "WF1029441",
-      "ts": "2026-07-10T03:09:02Z",
+      "ts": "2026-07-10T07:10:13Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Canada",
@@ -1322,7 +1290,7 @@
     {
       "source": "gdacs",
       "id": "WF1029436",
-      "ts": "2026-07-10T03:09:31Z",
+      "ts": "2026-07-10T07:10:39Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Angola",
@@ -1338,7 +1306,7 @@
     {
       "source": "gdacs",
       "id": "WF1029399",
-      "ts": "2026-07-10T03:09:42Z",
+      "ts": "2026-07-10T07:10:50Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in The Democratic Republic of Congo",
@@ -1354,7 +1322,7 @@
     {
       "source": "gdacs",
       "id": "WF1029437",
-      "ts": "2026-07-10T03:11:48Z",
+      "ts": "2026-07-10T07:12:32Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in The Democratic Republic of Congo",
@@ -1370,7 +1338,7 @@
     {
       "source": "gdacs",
       "id": "WF1029402",
-      "ts": "2026-07-10T03:13:04Z",
+      "ts": "2026-07-10T07:13:42Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Angola",
@@ -1386,7 +1354,7 @@
     {
       "source": "gdacs",
       "id": "WF1029341",
-      "ts": "2026-07-10T03:13:33Z",
+      "ts": "2026-07-10T07:14:12Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in The Democratic Republic of Congo, Angola",
@@ -1402,7 +1370,7 @@
     {
       "source": "gdacs",
       "id": "WF1029403",
-      "ts": "2026-07-10T03:14:45Z",
+      "ts": "2026-07-10T07:15:50Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in The Democratic Republic of Congo",
@@ -1418,7 +1386,7 @@
     {
       "source": "gdacs",
       "id": "WF1029438",
-      "ts": "2026-07-10T03:17:07Z",
+      "ts": "2026-07-10T07:17:59Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Angola",
@@ -1434,7 +1402,7 @@
     {
       "source": "gdacs",
       "id": "WF1029439",
-      "ts": "2026-07-10T03:22:39Z",
+      "ts": "2026-07-10T07:23:16Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Angola",
