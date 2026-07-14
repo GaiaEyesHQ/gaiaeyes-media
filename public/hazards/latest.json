@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T12:55:51Z",
+  "generated_at": "2026-07-14T14:56:19Z",
   "items": [
     {
       "source": "gdacs",
@@ -82,21 +82,6 @@
       "location": "Namibia, Botswana"
     },
     {
-      "source": "media",
-      "id": "us7000szzl",
-      "ts": "2026-07-13T06:45:31Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "southeast of the Loyalty Islands",
-      "body": "southeast of the Loyalty Islands",
-      "mag": 5,
-      "lat": -22.8646,
-      "lon": 171.5471,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szzl"
-      ]
-    },
-    {
       "source": "gdacs",
       "id": "WF1029474",
       "ts": "2026-07-13T07:00:34Z",
@@ -143,21 +128,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029423"
       ],
       "location": "Australia"
-    },
-    {
-      "source": "media",
-      "id": "us7000szzy",
-      "ts": "2026-07-13T08:53:27Z",
-      "type": "quake",
-      "severity": "yellow",
-      "title": "191 km SE of Lorengau, Papua New Guinea",
-      "body": "191 km SE of Lorengau, Papua New Guinea",
-      "mag": 6.4,
-      "lat": -3.2207,
-      "lon": 148.5218,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000szzy"
-      ]
     },
     {
       "source": "gdacs",
@@ -792,9 +762,55 @@
       "location": "Angola"
     },
     {
+      "source": "media",
+      "id": "us7000t0b5",
+      "ts": "2026-07-14T12:12:19Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "96 km SE of False Pass, Alaska",
+      "body": "96 km SE of False Pass, Alaska",
+      "mag": 5.3,
+      "lat": 54.1456,
+      "lon": -162.543,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0b5"
+      ]
+    },
+    {
+      "source": "media",
+      "id": "us7000t0bm",
+      "ts": "2026-07-14T13:15:08Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "3 km NNW of Sugal, Philippines",
+      "body": "3 km NNW of Sugal, Philippines",
+      "mag": 5.1,
+      "lat": 5.69,
+      "lon": 125.4433,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0bm"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "DR1027491",
+      "ts": "2026-07-14T14:07:56Z",
+      "type": "drought",
+      "severity": "info",
+      "title": "Drought is on going in Kazakhstan",
+      "body": "The  Drought notification level is Green.",
+      "details": "The  Drought notification level is Green.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1027491"
+      ],
+      "location": "Kazakhstan"
+    },
+    {
       "source": "gdacs",
       "id": "FL1103996",
-      "ts": "2026-07-14T12:47:19Z",
+      "ts": "2026-07-14T14:17:05Z",
       "type": "flood",
       "severity": "info",
       "title": "Green flood alert in Thailand",
