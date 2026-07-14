@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T16:19:23Z",
+  "generated_at": "2026-07-14T17:37:14Z",
   "items": [
     {
       "source": "gdacs",
@@ -112,21 +112,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1551590"
       ],
       "location": "Papua New Guinea 13/07/2026 08:53 UTC, 60 thousand in MMI IV."
-    },
-    {
-      "source": "media",
-      "id": "us7000t01n",
-      "ts": "2026-07-13T14:45:49Z",
-      "type": "quake",
-      "severity": "yellow",
-      "title": "southeast of the Loyalty Islands",
-      "body": "southeast of the Loyalty Islands",
-      "mag": 6.3,
-      "lat": -22.7889,
-      "lon": 171.5199,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t01n"
-      ]
     },
     {
       "source": "gdacs",
@@ -998,6 +983,37 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029471"
       ],
       "location": "Angola"
+    },
+    {
+      "source": "media",
+      "id": "us7000t0d0",
+      "ts": "2026-07-14T15:49:41Z",
+      "type": "quake",
+      "severity": "yellow",
+      "title": "34 km WSW of Sarangani, Philippines",
+      "body": "34 km WSW of Sarangani, Philippines",
+      "mag": 6.2,
+      "lat": 5.3269,
+      "lon": 125.1655,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0d0"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1551846",
+      "ts": "2026-07-14T16:07:21Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 6.2M, Depth:67.854km) in Philippines 14/07/2026 15:49 UTC, 130 thousand in MMI V.",
+      "body": "On 7/14/2026 3:49:41 PM, an earthquake occurred in Philippines potentially affecting 130 thousand in MMI V. The earthquake had Magnitude 6.2M, Depth:67.854km.",
+      "details": "On 7/14/2026 3:49:41 PM, an earthquake occurred in Philippines potentially affecting 130 thousand in MMI V. The earthquake had Magnitude 6.2M, Depth:67.854km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1551846"
+      ],
+      "location": "Philippines 14/07/2026 15:49 UTC, 130 thousand in MMI V."
     }
   ]
 }
