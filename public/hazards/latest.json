@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T03:33:55Z",
+  "generated_at": "2026-07-15T05:57:23Z",
   "items": [
     {
       "source": "gdacs",
@@ -354,21 +354,6 @@
       "location": "United States, Canada"
     },
     {
-      "source": "media",
-      "id": "us7000t09m",
-      "ts": "2026-07-14T07:04:54Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "14 km WSW of Mabiton, Philippines",
-      "body": "14 km WSW of Mabiton, Philippines",
-      "mag": 5.2,
-      "lat": 12.7967,
-      "lon": 123.136,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t09m"
-      ]
-    },
-    {
       "source": "gdacs",
       "id": "WF1029494",
       "ts": "2026-07-14T07:20:42Z",
@@ -539,22 +524,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=DR&eventid=1027491"
       ],
       "location": "Kazakhstan"
-    },
-    {
-      "source": "gdacs",
-      "id": "FL1103996",
-      "ts": "2026-07-14T14:17:05Z",
-      "type": "flood",
-      "severity": "info",
-      "title": "Green flood alert in Thailand",
-      "body": "On 01/07/2026, a flood started in Thailand, lasting until 14/07/2026 (last update). The flood caused 0 deaths and 67 displaced .",
-      "details": "On 01/07/2026, a flood started in Thailand, lasting until 14/07/2026 (last update). The flood caused 0 deaths and 67 displaced .",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103996"
-      ],
-      "location": "Thailand"
     },
     {
       "source": "gdacs",
@@ -966,6 +935,53 @@
       "links": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0it"
       ]
+    },
+    {
+      "source": "media",
+      "id": "us7000t0k1",
+      "ts": "2026-07-15T02:42:18Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "190 km SSE of Vilyuchinsk, Russia",
+      "body": "190 km SSE of Vilyuchinsk, Russia",
+      "mag": 5.1,
+      "lat": 51.3809,
+      "lon": 159.5815,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0k1"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "FL1103996",
+      "ts": "2026-07-15T05:38:10Z",
+      "type": "flood",
+      "severity": "info",
+      "title": "Green flood alert in Thailand",
+      "body": "On 01/07/2026, a flood started in Thailand, lasting until 14/07/2026 (last update). The flood caused 0 deaths and 67 displaced .",
+      "details": "On 01/07/2026, a flood started in Thailand, lasting until 14/07/2026 (last update). The flood caused 0 deaths and 67 displaced .",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103996"
+      ],
+      "location": "Thailand"
+    },
+    {
+      "source": "gdacs",
+      "id": "FL1104021",
+      "ts": "2026-07-15T05:40:24Z",
+      "type": "flood",
+      "severity": "info",
+      "title": "Green flood alert in Honduras",
+      "body": "On 12/07/2026, a flood started in Honduras, lasting until 14/07/2026 (last update). The flood caused 0 deaths and 160 displaced .",
+      "details": "On 12/07/2026, a flood started in Honduras, lasting until 14/07/2026 (last update). The flood caused 0 deaths and 160 displaced .",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104021"
+      ],
+      "location": "Honduras"
     }
   ]
 }
