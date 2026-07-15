@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T23:14:12Z",
+  "generated_at": "2026-07-15T00:09:02Z",
   "items": [
     {
       "source": "gdacs",
@@ -256,21 +256,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029455"
       ],
       "location": "The Democratic Republic of Congo"
-    },
-    {
-      "source": "media",
-      "id": "us7000t048",
-      "ts": "2026-07-13T17:44:29Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "5 km SE of Butulan, Philippines",
-      "body": "5 km SE of Butulan, Philippines",
-      "mag": 5,
-      "lat": 5.577,
-      "lon": 125.4626,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t048"
-      ]
     },
     {
       "source": "gdacs",
@@ -982,6 +967,37 @@
         "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001282"
       ],
       "location": "Tropical Storm)."
+    },
+    {
+      "source": "media",
+      "id": "us7000t0hk",
+      "ts": "2026-07-14T22:50:12Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "Fiji region",
+      "body": "Fiji region",
+      "mag": 5.5,
+      "lat": -20.748,
+      "lon": -178.5092,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0hk"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1551894",
+      "ts": "2026-07-14T23:05:13Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 5.5M, Depth:574.304km) in Fiji 14/07/2026 22:50 UTC, Few people affected in 100km.",
+      "body": "On 7/14/2026 10:50:12 PM, an earthquake occurred in Fiji potentially affecting Few people affected in 100km. The earthquake had Magnitude 5.5M, Depth:574.304km.",
+      "details": "On 7/14/2026 10:50:12 PM, an earthquake occurred in Fiji potentially affecting Few people affected in 100km. The earthquake had Magnitude 5.5M, Depth:574.304km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1551894"
+      ],
+      "location": "Fiji 14/07/2026 22:50 UTC, Few people affected in 100km."
     }
   ]
 }
