@@ -1,38 +1,6 @@
 {
-  "generated_at": "2026-07-15T00:09:02Z",
+  "generated_at": "2026-07-15T03:33:55Z",
   "items": [
-    {
-      "source": "gdacs",
-      "id": "WF1029476",
-      "ts": "2026-07-13T03:00:50Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Botswana",
-      "body": "On 10/07/2026, a forest fire started in Botswana,  until 13/07/2026.",
-      "details": "On 10/07/2026, a forest fire started in Botswana,  until 13/07/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029476"
-      ],
-      "location": "Botswana"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1029477",
-      "ts": "2026-07-13T03:01:32Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Namibia, Botswana",
-      "body": "On 09/07/2026, a forest fire started in Namibia, Botswana,  until 13/07/2026.",
-      "details": "On 09/07/2026, a forest fire started in Namibia, Botswana,  until 13/07/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029477"
-      ],
-      "location": "Namibia, Botswana"
-    },
     {
       "source": "gdacs",
       "id": "WF1029474",
@@ -290,21 +258,6 @@
       "location": "Congo"
     },
     {
-      "source": "media",
-      "id": "us7000t06d",
-      "ts": "2026-07-13T21:03:37Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "southeast of the Loyalty Islands",
-      "body": "southeast of the Loyalty Islands",
-      "mag": 5,
-      "lat": -22.9464,
-      "lon": 171.5098,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t06d"
-      ]
-    },
-    {
       "source": "gdacs",
       "id": "WF1029492",
       "ts": "2026-07-13T23:00:53Z",
@@ -351,21 +304,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029495"
       ],
       "location": "Canada"
-    },
-    {
-      "source": "media",
-      "id": "us7000t07s",
-      "ts": "2026-07-14T01:19:59Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "2 km WSW of Congregaci\u00f3n Reforma, Mexico",
-      "body": "2 km WSW of Congregaci\u00f3n Reforma, Mexico",
-      "mag": 5,
-      "lat": 14.7717,
-      "lon": -92.3316,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t07s"
-      ]
     },
     {
       "source": "gdacs",
@@ -959,8 +897,8 @@
       "type": "cyclone",
       "severity": "info",
       "title": "Green notification for tropical cyclone FIVE-E-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
-      "body": "From 14/07/2026 to 14/07/2026, a Tropical Depression (maximum wind speed of 157 km/h) FIVE-E-26 was active in EastPacific. The cyclone affects these countries: [unknown] (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
-      "details": "From 14/07/2026 to 14/07/2026, a Tropical Depression (maximum wind speed of 157 km/h) FIVE-E-26 was active in EastPacific. The cyclone affects these countries: [unknown] (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
+      "body": "From 14/07/2026 to 15/07/2026, a Tropical Depression (maximum wind speed of 157 km/h) FIVE-E-26 was active in EastPacific. The cyclone affects these countries: [unknown] (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
+      "details": "From 14/07/2026 to 15/07/2026, a Tropical Depression (maximum wind speed of 157 km/h) FIVE-E-26 was active in EastPacific. The cyclone affects these countries: [unknown] (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
       "lat": null,
       "lon": null,
       "links": [
@@ -998,6 +936,36 @@
         "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1551894"
       ],
       "location": "Fiji 14/07/2026 22:50 UTC, Few people affected in 100km."
+    },
+    {
+      "source": "media",
+      "id": "us7000t0ia",
+      "ts": "2026-07-15T00:35:28Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "South Sandwich Islands region",
+      "body": "South Sandwich Islands region",
+      "mag": 5.1,
+      "lat": -58.7712,
+      "lon": -29.4723,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0ia"
+      ]
+    },
+    {
+      "source": "media",
+      "id": "us7000t0it",
+      "ts": "2026-07-15T01:09:20Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "52 km NNW of Valpara\u00edso, Chile",
+      "body": "52 km NNW of Valpara\u00edso, Chile",
+      "mag": 5.1,
+      "lat": -32.6034,
+      "lon": -71.8626,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0it"
+      ]
     }
   ]
 }
