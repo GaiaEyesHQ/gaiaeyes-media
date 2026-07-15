@@ -1,54 +1,6 @@
 {
-  "generated_at": "2026-07-15T22:43:10Z",
+  "generated_at": "2026-07-15T23:43:45Z",
   "items": [
-    {
-      "source": "gdacs",
-      "id": "WF1029492",
-      "ts": "2026-07-13T23:00:53Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Canada",
-      "body": "On 12/07/2026, a forest fire started in Canada,  until 14/07/2026.",
-      "details": "On 12/07/2026, a forest fire started in Canada,  until 14/07/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029492"
-      ],
-      "location": "Canada"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1029493",
-      "ts": "2026-07-13T23:01:50Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Brazil",
-      "body": "On 09/07/2026, a forest fire started in Brazil,  until 14/07/2026.",
-      "details": "On 09/07/2026, a forest fire started in Brazil,  until 14/07/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029493"
-      ],
-      "location": "Brazil"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1029495",
-      "ts": "2026-07-13T23:21:12Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Canada",
-      "body": "On 30/06/2026, a forest fire started in Canada,  until 14/07/2026.",
-      "details": "On 30/06/2026, a forest fire started in Canada,  until 14/07/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029495"
-      ],
-      "location": "Canada"
-    },
     {
       "source": "gdacs",
       "id": "WF1029489",
@@ -710,6 +662,22 @@
         "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1552027"
       ],
       "location": "East Of South Sandwich Islands 15/07/2026 14:51 UTC, [unknown]."
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1552085",
+      "ts": "2026-07-15T23:11:55Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 5.8M, Depth:340.334km) in South Of Fiji Islands 15/07/2026 22:57 UTC, [unknown].",
+      "body": "On 7/15/2026 10:57:11 PM, an earthquake occurred in South Of Fiji Islands potentially affecting [unknown]. The earthquake had Magnitude 5.8M, Depth:340.334km.",
+      "details": "On 7/15/2026 10:57:11 PM, an earthquake occurred in South Of Fiji Islands potentially affecting [unknown]. The earthquake had Magnitude 5.8M, Depth:340.334km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1552085"
+      ],
+      "location": "South Of Fiji Islands 15/07/2026 22:57 UTC, [unknown]."
     }
   ]
 }
