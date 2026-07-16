@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T11:17:47Z",
+  "generated_at": "2026-07-16T12:55:05Z",
   "items": [
     {
       "source": "gdacs",
@@ -32,21 +32,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1551846"
       ],
       "location": "Philippines 14/07/2026 15:49 UTC, 30 thousand in MMI VI."
-    },
-    {
-      "source": "media",
-      "id": "us7000t0fu",
-      "ts": "2026-07-14T18:51:07Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "90 km SSE of False Pass, Alaska",
-      "body": "90 km SSE of False Pass, Alaska",
-      "mag": 5.4,
-      "lat": 54.1759,
-      "lon": -162.6381,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t0fu"
-      ]
     },
     {
       "source": "gdacs",
@@ -569,22 +554,6 @@
     },
     {
       "source": "gdacs",
-      "id": "FL1103996",
-      "ts": "2026-07-16T09:37:24Z",
-      "type": "flood",
-      "severity": "info",
-      "title": "Green flood alert in Thailand",
-      "body": "On 01/07/2026, a flood started in Thailand, lasting until 14/07/2026 (last update). The flood caused 0 deaths and 67 displaced .",
-      "details": "On 01/07/2026, a flood started in Thailand, lasting until 14/07/2026 (last update). The flood caused 0 deaths and 67 displaced .",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103996"
-      ],
-      "location": "Thailand"
-    },
-    {
-      "source": "gdacs",
       "id": "FL1104023",
       "ts": "2026-07-16T09:39:16Z",
       "type": "flood",
@@ -630,6 +599,53 @@
         "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104025"
       ],
       "location": "Poland"
+    },
+    {
+      "source": "media",
+      "id": "aka2026nyxoap",
+      "ts": "2026-07-16T11:37:21Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "122 km SE of McCarthy, Alaska",
+      "body": "122 km SE of McCarthy, Alaska",
+      "mag": 5.2,
+      "lat": 60.569,
+      "lon": -141.508,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026nyxoap"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "FL1104026",
+      "ts": "2026-07-16T11:39:09Z",
+      "type": "flood",
+      "severity": "info",
+      "title": "Green flood alert in Indonesia",
+      "body": "On 12/07/2026, a flood started in Indonesia, lasting until 16/07/2026 (last update). The flood caused 0 deaths and 20 displaced .",
+      "details": "On 12/07/2026, a flood started in Indonesia, lasting until 16/07/2026 (last update). The flood caused 0 deaths and 20 displaced .",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104026"
+      ],
+      "location": "Indonesia"
+    },
+    {
+      "source": "gdacs",
+      "id": "FL1103996",
+      "ts": "2026-07-16T12:17:01Z",
+      "type": "flood",
+      "severity": "info",
+      "title": "Green flood alert in Thailand",
+      "body": "On 01/07/2026, a flood started in Thailand, lasting until 14/07/2026 (last update). The flood caused 0 deaths and 67 displaced .",
+      "details": "On 01/07/2026, a flood started in Thailand, lasting until 14/07/2026 (last update). The flood caused 0 deaths and 67 displaced .",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103996"
+      ],
+      "location": "Thailand"
     }
   ]
 }
