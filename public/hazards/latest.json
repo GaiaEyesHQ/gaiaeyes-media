@@ -1,38 +1,6 @@
 {
-  "generated_at": "2026-07-18T07:20:42Z",
+  "generated_at": "2026-07-18T09:08:23Z",
   "items": [
-    {
-      "source": "gdacs",
-      "id": "VO1000144",
-      "ts": "2026-07-16T07:34:28Z",
-      "type": "ash",
-      "severity": "orange",
-      "title": "Volcanic eruption is on going for Mayon in Philippines",
-      "body": "Volcano Mayon is emitting ash clouds according to the regional VAAC. The aviation alert level is Orange.",
-      "details": "Volcano Mayon is emitting ash clouds according to the regional VAAC. The aviation alert level is Orange.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=VO&eventid=1000144"
-      ],
-      "location": "Philippines"
-    },
-    {
-      "source": "gdacs",
-      "id": "EQ1552150",
-      "ts": "2026-07-16T08:06:40Z",
-      "type": "quake",
-      "severity": "red",
-      "title": "Green earthquake (Magnitude 5.5M, Depth:12.806km) in Volcano Islands, Japan Region 16/07/2026 07:49 UTC, [unknown].",
-      "body": "On 7/16/2026 7:49:09 AM, an earthquake occurred in Volcano Islands, Japan Region potentially affecting [unknown]. The earthquake had Magnitude 5.5M, Depth:12.806km.",
-      "details": "On 7/16/2026 7:49:09 AM, an earthquake occurred in Volcano Islands, Japan Region potentially affecting [unknown]. The earthquake had Magnitude 5.5M, Depth:12.806km.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1552150"
-      ],
-      "location": "Volcano Islands, Japan Region 16/07/2026 07:49 UTC, [unknown]."
-    },
     {
       "source": "gdacs",
       "id": "EQ1552156",
@@ -146,21 +114,6 @@
       "location": "Mexico 17/07/2026 14:48 UTC, 60 thousand (in MMI>=VII)."
     },
     {
-      "source": "media",
-      "id": "us7000t1ep",
-      "ts": "2026-07-17T16:01:26Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "33 km SSW of Puerto Madero, Mexico",
-      "body": "33 km SSW of Puerto Madero, Mexico",
-      "mag": 5.1,
-      "lat": 14.4643,
-      "lon": -92.5836,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1ep"
-      ]
-    },
-    {
       "source": "gdacs",
       "id": "EQ1552424",
       "ts": "2026-07-17T16:06:03Z",
@@ -175,21 +128,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1552424"
       ],
       "location": "Mexico 17/07/2026 15:20 UTC, 1.2 million in MMI IV."
-    },
-    {
-      "source": "media",
-      "id": "us7000t1e8",
-      "ts": "2026-07-17T16:12:57Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "11 km SE of Kiupo, Philippines",
-      "body": "11 km SE of Kiupo, Philippines",
-      "mag": 5.2,
-      "lat": 5.7602,
-      "lon": 125.378,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1e8"
-      ]
     },
     {
       "source": "media",
@@ -297,6 +235,21 @@
       ]
     },
     {
+      "source": "media",
+      "id": "us7000t1jp",
+      "ts": "2026-07-18T05:46:47Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "south of the Kermadec Islands",
+      "body": "south of the Kermadec Islands",
+      "mag": 5.2,
+      "lat": -32.8189,
+      "lon": -178.1149,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1jp"
+      ]
+    },
+    {
       "source": "gdacs",
       "id": "FL1104029",
       "ts": "2026-07-18T06:51:31Z",
@@ -313,9 +266,24 @@
       "location": "Vietnam"
     },
     {
+      "source": "media",
+      "id": "us7000t1jy",
+      "ts": "2026-07-18T06:51:50Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "87 km WSW of Puerto Madero, Mexico",
+      "body": "87 km WSW of Puerto Madero, Mexico",
+      "mag": 5.3,
+      "lat": 14.3804,
+      "lon": -93.1511,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1jy"
+      ]
+    },
+    {
       "source": "gdacs",
       "id": "FL1103996",
-      "ts": "2026-07-18T07:07:31Z",
+      "ts": "2026-07-18T07:17:00Z",
       "type": "flood",
       "severity": "info",
       "title": "Green flood alert in Thailand",
