@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T17:25:21Z",
+  "generated_at": "2026-07-18T18:27:31Z",
   "items": [
     {
       "source": "gdacs",
@@ -48,21 +48,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1552424"
       ],
       "location": "Mexico 17/07/2026 15:20 UTC, 1.2 million in MMI IV."
-    },
-    {
-      "source": "media",
-      "id": "us7000t1f6",
-      "ts": "2026-07-17T17:23:30Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "59 km SSW of Puerto Madero, Mexico",
-      "body": "59 km SSW of Puerto Madero, Mexico",
-      "mag": 5,
-      "lat": 14.2633,
-      "lon": -92.713,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1f6"
-      ]
     },
     {
       "source": "media",
@@ -201,22 +186,6 @@
       ]
     },
     {
-      "source": "gdacs",
-      "id": "FL1103996",
-      "ts": "2026-07-18T11:17:02Z",
-      "type": "flood",
-      "severity": "info",
-      "title": "Green flood alert in Thailand",
-      "body": "On 01/07/2026, a flood started in Thailand, lasting until 14/07/2026 (last update). The flood caused 0 deaths and 67 displaced .",
-      "details": "On 01/07/2026, a flood started in Thailand, lasting until 14/07/2026 (last update). The flood caused 0 deaths and 67 displaced .",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103996"
-      ],
-      "location": "Thailand"
-    },
-    {
       "source": "media",
       "id": "us7000t1mu",
       "ts": "2026-07-18T16:08:44Z",
@@ -230,6 +199,53 @@
       "links": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1mu"
       ]
+    },
+    {
+      "source": "media",
+      "id": "us7000t1n5",
+      "ts": "2026-07-18T17:26:25Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "72 km SW of Puerto Madero, Mexico",
+      "body": "72 km SW of Puerto Madero, Mexico",
+      "mag": 5.7,
+      "lat": 14.2392,
+      "lon": -92.8805,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1n5"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1552687",
+      "ts": "2026-07-18T17:44:22Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 5.7M, Depth:10km) in Mexico 18/07/2026 17:26 UTC, 820 thousand in MMI IV.",
+      "body": "On 7/18/2026 5:26:25 PM, an earthquake occurred in Mexico potentially affecting 820 thousand in MMI IV. The earthquake had Magnitude 5.7M, Depth:10km.",
+      "details": "On 7/18/2026 5:26:25 PM, an earthquake occurred in Mexico potentially affecting 820 thousand in MMI IV. The earthquake had Magnitude 5.7M, Depth:10km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1552687"
+      ],
+      "location": "Mexico 18/07/2026 17:26 UTC, 820 thousand in MMI IV."
+    },
+    {
+      "source": "gdacs",
+      "id": "FL1103996",
+      "ts": "2026-07-18T18:17:10Z",
+      "type": "flood",
+      "severity": "info",
+      "title": "Green flood alert in Thailand",
+      "body": "On 01/07/2026, a flood started in Thailand, lasting until 14/07/2026 (last update). The flood caused 0 deaths and 67 displaced .",
+      "details": "On 01/07/2026, a flood started in Thailand, lasting until 14/07/2026 (last update). The flood caused 0 deaths and 67 displaced .",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103996"
+      ],
+      "location": "Thailand"
     }
   ]
 }
