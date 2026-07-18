@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T20:32:08Z",
+  "generated_at": "2026-07-18T21:31:34Z",
   "items": [
     {
       "source": "gdacs",
@@ -48,21 +48,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1552424"
       ],
       "location": "Mexico 17/07/2026 15:20 UTC, 1.2 million in MMI IV."
-    },
-    {
-      "source": "media",
-      "id": "us7000t1fk",
-      "ts": "2026-07-17T18:26:43Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "67 km SW of Puerto Madero, Mexico",
-      "body": "67 km SW of Puerto Madero, Mexico",
-      "mag": 5.2,
-      "lat": 14.3713,
-      "lon": -92.9332,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1fk"
-      ]
     },
     {
       "source": "media",
@@ -232,20 +217,19 @@
       "location": "Mexico 18/07/2026 17:26 UTC, 820 thousand in MMI IV."
     },
     {
-      "source": "gdacs",
-      "id": "FL1103996",
-      "ts": "2026-07-18T18:17:10Z",
-      "type": "flood",
+      "source": "media",
+      "id": "us7000t1ng",
+      "ts": "2026-07-18T19:50:37Z",
+      "type": "quake",
       "severity": "info",
-      "title": "Green flood alert in Thailand",
-      "body": "On 01/07/2026, a flood started in Thailand, lasting until 14/07/2026 (last update). The flood caused 0 deaths and 67 displaced .",
-      "details": "On 01/07/2026, a flood started in Thailand, lasting until 14/07/2026 (last update). The flood caused 0 deaths and 67 displaced .",
-      "lat": null,
-      "lon": null,
+      "title": "Scotia Sea",
+      "body": "Scotia Sea",
+      "mag": 5.5,
+      "lat": -60.7066,
+      "lon": -51.0559,
       "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103996"
-      ],
-      "location": "Thailand"
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1ng"
+      ]
     },
     {
       "source": "gdacs",
@@ -262,6 +246,22 @@
         "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1552700"
       ],
       "location": "Scotia Sea 18/07/2026 19:50 UTC, [unknown]."
+    },
+    {
+      "source": "gdacs",
+      "id": "FL1103996",
+      "ts": "2026-07-18T21:18:23Z",
+      "type": "flood",
+      "severity": "info",
+      "title": "Green flood alert in Thailand",
+      "body": "On 01/07/2026, a flood started in Thailand, lasting until 14/07/2026 (last update). The flood caused 0 deaths and 67 displaced .",
+      "details": "On 01/07/2026, a flood started in Thailand, lasting until 14/07/2026 (last update). The flood caused 0 deaths and 67 displaced .",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1103996"
+      ],
+      "location": "Thailand"
     }
   ]
 }
