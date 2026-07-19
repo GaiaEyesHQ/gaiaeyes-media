@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T01:08:09Z",
+  "generated_at": "2026-07-19T04:34:05Z",
   "items": [
     {
       "source": "gdacs",
@@ -48,51 +48,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1552424"
       ],
       "location": "Mexico 17/07/2026 15:20 UTC, 1.2 million in MMI IV."
-    },
-    {
-      "source": "media",
-      "id": "us7000t1im",
-      "ts": "2026-07-18T01:49:01Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "99 km WSW of Puerto Madero, Mexico",
-      "body": "99 km WSW of Puerto Madero, Mexico",
-      "mag": 5.1,
-      "lat": 14.3665,
-      "lon": -93.2679,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1im"
-      ]
-    },
-    {
-      "source": "media",
-      "id": "us7000t1it",
-      "ts": "2026-07-18T02:23:40Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "119 km SW of Sarangani, Philippines",
-      "body": "119 km SW of Sarangani, Philippines",
-      "mag": 5.3,
-      "lat": 4.5057,
-      "lon": 124.8574,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1it"
-      ]
-    },
-    {
-      "source": "media",
-      "id": "us7000t1j0",
-      "ts": "2026-07-18T03:21:00Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "17 km SE of Malatya, Turkey",
-      "body": "17 km SE of Malatya, Turkey",
-      "mag": 5,
-      "lat": 38.2608,
-      "lon": 38.4814,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1j0"
-      ]
     },
     {
       "source": "media",
@@ -246,6 +201,83 @@
       "links": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1py"
       ]
+    },
+    {
+      "source": "media",
+      "id": "us7000t1q3",
+      "ts": "2026-07-19T01:47:24Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "85 km SW of Puerto Madero, Mexico",
+      "body": "85 km SW of Puerto Madero, Mexico",
+      "mag": 5.3,
+      "lat": 14.1155,
+      "lon": -92.9167,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1q3"
+      ]
+    },
+    {
+      "source": "media",
+      "id": "us7000t1q6",
+      "ts": "2026-07-19T02:18:54Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "59 km SW of Puerto Madero, Mexico",
+      "body": "59 km SW of Puerto Madero, Mexico",
+      "mag": 5.3,
+      "lat": 14.292,
+      "lon": -92.7591,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1q6"
+      ]
+    },
+    {
+      "source": "media",
+      "id": "us7000t1q7",
+      "ts": "2026-07-19T02:24:36Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "2 km WSW of Sicaya, Peru",
+      "body": "2 km WSW of Sicaya, Peru",
+      "mag": 5.5,
+      "lat": -12.0429,
+      "lon": -75.3013,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1q7"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1552752",
+      "ts": "2026-07-19T02:42:14Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Orange earthquake (Magnitude 5.5M, Depth:10km) in Peru 19/07/2026 02:24 UTC, 20 thousand (in MMI>=VII).",
+      "body": "On 7/19/2026 2:24:36 AM, an earthquake occurred in Peru potentially affecting 20 thousand (in MMI>=VII). The earthquake had Magnitude 5.5M, Depth:10km.",
+      "details": "On 7/19/2026 2:24:36 AM, an earthquake occurred in Peru potentially affecting 20 thousand (in MMI>=VII). The earthquake had Magnitude 5.5M, Depth:10km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1552752"
+      ],
+      "location": "Peru 19/07/2026 02:24 UTC, 20 thousand (in MMI>=VII)."
+    },
+    {
+      "source": "gdacs",
+      "id": "TC1001289",
+      "ts": "2026-07-19T02:53:14Z",
+      "type": "cyclone",
+      "severity": "info",
+      "title": "Green notification for tropical cyclone SIX-E-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
+      "body": "From 19/07/2026 to 19/07/2026, a Tropical Depression (maximum wind speed of 176 km/h) SIX-E-26 was active in EastPacific. The cyclone affects these countries: [unknown] (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
+      "details": "From 19/07/2026 to 19/07/2026, a Tropical Depression (maximum wind speed of 176 km/h) SIX-E-26 was active in EastPacific. The cyclone affects these countries: [unknown] (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001289"
+      ],
+      "location": "Tropical Storm)."
     }
   ]
 }
