@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T12:00:29Z",
+  "generated_at": "2026-07-19T13:49:07Z",
   "items": [
     {
       "source": "gdacs",
@@ -143,14 +143,14 @@
     {
       "source": "media",
       "id": "us7000t1ng",
-      "ts": "2026-07-18T19:50:37Z",
+      "ts": "2026-07-18T19:50:36Z",
       "type": "quake",
       "severity": "info",
       "title": "Scotia Sea",
       "body": "Scotia Sea",
       "mag": 5.5,
-      "lat": -60.7066,
-      "lon": -51.0559,
+      "lat": -60.6982,
+      "lon": -50.9727,
       "links": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1ng"
       ]
@@ -161,15 +161,15 @@
       "ts": "2026-07-18T20:08:52Z",
       "type": "quake",
       "severity": "red",
-      "title": "Green earthquake (Magnitude 5.5M, Depth:10km) in Scotia Sea 18/07/2026 19:50 UTC, [unknown].",
-      "body": "On 7/18/2026 7:50:37 PM, an earthquake occurred in Scotia Sea potentially affecting [unknown]. The earthquake had Magnitude 5.5M, Depth:10km.",
-      "details": "On 7/18/2026 7:50:37 PM, an earthquake occurred in Scotia Sea potentially affecting [unknown]. The earthquake had Magnitude 5.5M, Depth:10km.",
+      "title": "Green earthquake (Magnitude 5.5M, Depth:10km) in Scotia Sea 18/07/2026 19:50 UTC, No people affected in 100km.",
+      "body": "On 7/18/2026 7:50:37 PM, an earthquake occurred in Scotia Sea potentially affecting No people affected in 100km. The earthquake had Magnitude 5.5M, Depth:10km.",
+      "details": "On 7/18/2026 7:50:37 PM, an earthquake occurred in Scotia Sea potentially affecting No people affected in 100km. The earthquake had Magnitude 5.5M, Depth:10km.",
       "lat": null,
       "lon": null,
       "links": [
         "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1552700"
       ],
-      "location": "Scotia Sea 18/07/2026 19:50 UTC, [unknown]."
+      "location": "Scotia Sea 18/07/2026 19:50 UTC, No people affected in 100km."
     },
     {
       "source": "media",
@@ -262,6 +262,22 @@
         "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001289"
       ],
       "location": "Tropical Storm)."
+    },
+    {
+      "source": "gdacs",
+      "id": "FL1104032",
+      "ts": "2026-07-19T12:38:47Z",
+      "type": "flood",
+      "severity": "info",
+      "title": "Green flood alert in South Korea",
+      "body": "On 18/07/2026, a flood started in South Korea, lasting until 20/07/2026 (last update). The flood caused 0 deaths and 95 displaced .",
+      "details": "On 18/07/2026, a flood started in South Korea, lasting until 20/07/2026 (last update). The flood caused 0 deaths and 95 displaced .",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104032"
+      ],
+      "location": "South Korea"
     }
   ]
 }
