@@ -1,21 +1,6 @@
 {
-  "generated_at": "2026-07-20T21:31:54Z",
+  "generated_at": "2026-07-20T22:35:23Z",
   "items": [
-    {
-      "source": "media",
-      "id": "us7000t1py",
-      "ts": "2026-07-19T00:39:39Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "190 km SSE of Vilyuchinsk, Russia",
-      "body": "190 km SSE of Vilyuchinsk, Russia",
-      "mag": 5.3,
-      "lat": 51.3859,
-      "lon": 159.6116,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1py"
-      ]
-    },
     {
       "source": "media",
       "id": "us7000t1q3",
@@ -173,6 +158,21 @@
     },
     {
       "source": "media",
+      "id": "us7000t213",
+      "ts": "2026-07-20T05:38:56Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "Pacific-Antarctic Ridge",
+      "body": "Pacific-Antarctic Ridge",
+      "mag": 5.5,
+      "lat": -57.2663,
+      "lon": -141.7631,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t213"
+      ]
+    },
+    {
+      "source": "media",
       "id": "us7000t1w2",
       "ts": "2026-07-20T06:41:30Z",
       "type": "quake",
@@ -233,6 +233,21 @@
       ]
     },
     {
+      "source": "media",
+      "id": "us7000t21e",
+      "ts": "2026-07-20T20:44:19Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "south of the Kermadec Islands",
+      "body": "south of the Kermadec Islands",
+      "mag": 5,
+      "lat": -32.759,
+      "lon": -178.0878,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t21e"
+      ]
+    },
+    {
       "source": "gdacs",
       "id": "EQ1553068",
       "ts": "2026-07-20T20:59:21Z",
@@ -247,6 +262,22 @@
         "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1553068"
       ],
       "location": "Pacific-Antarctic Ridge 20/07/2026 05:38 UTC, No people affected in 100km."
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1553080",
+      "ts": "2026-07-20T21:47:37Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 5.6M, Depth:10km) in Northern Mid-Atlantic Ridge 20/07/2026 21:28 UTC, [unknown].",
+      "body": "On 7/20/2026 9:28:30 PM, an earthquake occurred in Northern Mid-Atlantic Ridge potentially affecting [unknown]. The earthquake had Magnitude 5.6M, Depth:10km.",
+      "details": "On 7/20/2026 9:28:30 PM, an earthquake occurred in Northern Mid-Atlantic Ridge potentially affecting [unknown]. The earthquake had Magnitude 5.6M, Depth:10km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1553080"
+      ],
+      "location": "Northern Mid-Atlantic Ridge 20/07/2026 21:28 UTC, [unknown]."
     }
   ]
 }
