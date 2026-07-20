@@ -1,37 +1,6 @@
 {
-  "generated_at": "2026-07-20T04:08:57Z",
+  "generated_at": "2026-07-20T07:28:20Z",
   "items": [
-    {
-      "source": "gdacs",
-      "id": "FL1104029",
-      "ts": "2026-07-18T06:51:31Z",
-      "type": "flood",
-      "severity": "info",
-      "title": "Green flood alert in Vietnam",
-      "body": "On 15/07/2026, a flood started in Vietnam, lasting until 17/07/2026 (last update). The flood caused 0 deaths and 0 displaced .",
-      "details": "On 15/07/2026, a flood started in Vietnam, lasting until 17/07/2026 (last update). The flood caused 0 deaths and 0 displaced .",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104029"
-      ],
-      "location": "Vietnam"
-    },
-    {
-      "source": "media",
-      "id": "us7000t1jy",
-      "ts": "2026-07-18T06:51:50Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "87 km WSW of Puerto Madero, Mexico",
-      "body": "87 km WSW of Puerto Madero, Mexico",
-      "mag": 5.3,
-      "lat": 14.3804,
-      "lon": -93.1511,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1jy"
-      ]
-    },
     {
       "source": "media",
       "id": "us7000t1l4",
@@ -278,6 +247,37 @@
         "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1552874"
       ],
       "location": "Mexico 19/07/2026 17:45 UTC, 440 thousand in MMI IV."
+    },
+    {
+      "source": "media",
+      "id": "us7000t1vq",
+      "ts": "2026-07-20T03:48:50Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "27 km S of Jav\u0101nr\u016bd, Iran",
+      "body": "27 km S of Jav\u0101nr\u016bd, Iran",
+      "mag": 5.2,
+      "lat": 34.5521,
+      "lon": 46.5578,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1vq"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1552972",
+      "ts": "2026-07-20T07:00:01Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 5.6M, Depth:10km) in Canada 20/07/2026 06:41 UTC, 10 thousand in MMI>=III.",
+      "body": "On 7/20/2026 6:41:30 AM, an earthquake occurred in Canada potentially affecting 10 thousand in MMI>=III. The earthquake had Magnitude 5.6M, Depth:10km.",
+      "details": "On 7/20/2026 6:41:30 AM, an earthquake occurred in Canada potentially affecting 10 thousand in MMI>=III. The earthquake had Magnitude 5.6M, Depth:10km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1552972"
+      ],
+      "location": "Canada 20/07/2026 06:41 UTC, 10 thousand in MMI>=III."
     }
   ]
 }
