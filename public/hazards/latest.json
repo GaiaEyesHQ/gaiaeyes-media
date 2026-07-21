@@ -1,22 +1,6 @@
 {
-  "generated_at": "2026-07-21T13:02:59Z",
+  "generated_at": "2026-07-21T15:15:33Z",
   "items": [
-    {
-      "source": "gdacs",
-      "id": "TC1001290",
-      "ts": "2026-07-19T15:09:29Z",
-      "type": "cyclone",
-      "severity": "info",
-      "title": "Green notification for tropical cyclone BERTHA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
-      "body": "From 19/07/2026 to 21/07/2026, a Tropical Storm (maximum wind speed of 93 km/h) BERTHA-26 was active in Atlantic. The cyclone affects these countries: United States (vulnerability Low). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
-      "details": "From 19/07/2026 to 21/07/2026, a Tropical Storm (maximum wind speed of 93 km/h) BERTHA-26 was active in Atlantic. The cyclone affects these countries: United States (vulnerability Low). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001290"
-      ],
-      "location": "Tropical Storm)."
-    },
     {
       "source": "gdacs",
       "id": "EQ1552874",
@@ -32,21 +16,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1552874"
       ],
       "location": "Mexico 19/07/2026 17:45 UTC, 450 thousand in MMI IV."
-    },
-    {
-      "source": "media",
-      "id": "us7000t1w2",
-      "ts": "2026-07-20T06:41:30Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "208 km SW of Port McNeill, Canada",
-      "body": "208 km SW of Port McNeill, Canada",
-      "mag": 5.6,
-      "lat": 49.4076,
-      "lon": -129.342,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1w2"
-      ]
     },
     {
       "source": "gdacs",
@@ -278,6 +247,21 @@
         "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1553193"
       ],
       "location": "Kermadec Islands Region 21/07/2026 12:14 UTC, [unknown]."
+    },
+    {
+      "source": "media",
+      "id": "us7000t26b",
+      "ts": "2026-07-21T13:13:11Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "132 km ENE of Santa Cruz das Flores, Portugal",
+      "body": "132 km ENE of Santa Cruz das Flores, Portugal",
+      "mag": 5.3,
+      "lat": 39.9371,
+      "lon": -29.7175,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t26b"
+      ]
     }
   ]
 }
