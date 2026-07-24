@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T16:54:49Z",
+  "generated_at": "2026-07-24T18:19:51Z",
   "items": [
     {
       "source": "gdacs",
@@ -32,21 +32,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029617"
       ],
       "location": "Canada"
-    },
-    {
-      "source": "media",
-      "id": "us7000t2j3",
-      "ts": "2026-07-22T21:03:02Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "Kermadec Islands, New Zealand",
-      "body": "Kermadec Islands, New Zealand",
-      "mag": 5,
-      "lat": -29.6177,
-      "lon": -177.9234,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t2j3"
-      ]
     },
     {
       "source": "gdacs",
@@ -1958,6 +1943,37 @@
         "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001296"
       ],
       "location": "Tropical Storm)."
+    },
+    {
+      "source": "media",
+      "id": "us7000t34c",
+      "ts": "2026-07-24T16:33:19Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "115 km ENE of Ozernovskiy, Russia",
+      "body": "115 km ENE of Ozernovskiy, Russia",
+      "mag": 5.1,
+      "lat": 51.7216,
+      "lon": 158.127,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t34c"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1553807",
+      "ts": "2026-07-24T17:11:31Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 5.7M, Depth:10km) in New Zealand 24/07/2026 16:51 UTC, Few people affected (in MMI>=VII).",
+      "body": "On 7/24/2026 4:51:37 PM, an earthquake occurred in New Zealand potentially affecting Few people affected (in MMI>=VII). The earthquake had Magnitude 5.7M, Depth:10km.",
+      "details": "On 7/24/2026 4:51:37 PM, an earthquake occurred in New Zealand potentially affecting Few people affected (in MMI>=VII). The earthquake had Magnitude 5.7M, Depth:10km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1553807"
+      ],
+      "location": "New Zealand 24/07/2026 16:51 UTC, Few people affected (in MMI>=VII)."
     }
   ]
 }
