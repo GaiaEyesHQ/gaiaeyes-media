@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T21:06:17Z",
+  "generated_at": "2026-07-24T22:16:33Z",
   "items": [
     {
       "source": "gdacs",
@@ -1135,22 +1135,6 @@
     },
     {
       "source": "gdacs",
-      "id": "FL1104046",
-      "ts": "2026-07-24T07:59:36Z",
-      "type": "flood",
-      "severity": "info",
-      "title": "Green flood alert in Ukraine",
-      "body": "On 19/07/2026, a flood started in Ukraine, lasting until 20/07/2026 (last update). The flood caused 0 deaths and 0 displaced .",
-      "details": "On 19/07/2026, a flood started in Ukraine, lasting until 20/07/2026 (last update). The flood caused 0 deaths and 0 displaced .",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104046"
-      ],
-      "location": "Ukraine"
-    },
-    {
-      "source": "gdacs",
       "id": "WF1029543",
       "ts": "2026-07-24T08:18:32Z",
       "type": "wildfire",
@@ -1211,22 +1195,6 @@
       "links": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t309"
       ]
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1029541",
-      "ts": "2026-07-24T11:12:55Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Kazakhstan",
-      "body": "On 18/07/2026, a forest fire started in Kazakhstan,  until 20/07/2026.",
-      "details": "On 18/07/2026, a forest fire started in Kazakhstan,  until 20/07/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029541"
-      ],
-      "location": "Kazakhstan"
     },
     {
       "source": "gdacs",
@@ -1882,22 +1850,6 @@
     },
     {
       "source": "gdacs",
-      "id": "WF1029515",
-      "ts": "2026-07-24T19:07:41Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Kazakhstan",
-      "body": "On 20/07/2026, a forest fire started in Kazakhstan,  until 20/07/2026.",
-      "details": "On 20/07/2026, a forest fire started in Kazakhstan,  until 20/07/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029515"
-      ],
-      "location": "Kazakhstan"
-    },
-    {
-      "source": "gdacs",
       "id": "WF1029653",
       "ts": "2026-07-24T19:07:48Z",
       "type": "wildfire",
@@ -1927,22 +1879,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029697"
       ],
       "location": "Canada"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1029514",
-      "ts": "2026-07-24T19:08:08Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in The Democratic Republic of Congo",
-      "body": "On 20/07/2026, a forest fire started in The Democratic Republic of Congo,  until 20/07/2026.",
-      "details": "On 20/07/2026, a forest fire started in The Democratic Republic of Congo,  until 20/07/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029514"
-      ],
-      "location": "The Democratic Republic of Congo"
     },
     {
       "source": "gdacs",
@@ -2410,22 +2346,6 @@
     },
     {
       "source": "gdacs",
-      "id": "WF1029574",
-      "ts": "2026-07-24T19:21:09Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Angola",
-      "body": "On 18/07/2026, a forest fire started in Angola,  until 20/07/2026.",
-      "details": "On 18/07/2026, a forest fire started in Angola,  until 20/07/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029574"
-      ],
-      "location": "Angola"
-    },
-    {
-      "source": "gdacs",
       "id": "WF1029712",
       "ts": "2026-07-24T19:21:36Z",
       "type": "wildfire",
@@ -2446,14 +2366,30 @@
       "ts": "2026-07-24T19:38:42Z",
       "type": "quake",
       "severity": "info",
-      "title": "47 km WNW of San Antonio de los Cobres, Argentina",
-      "body": "47 km WNW of San Antonio de los Cobres, Argentina",
-      "mag": 5.4,
-      "lat": -24.0121,
-      "lon": -66.7282,
+      "title": "39 km NW of San Antonio de los Cobres, Argentina",
+      "body": "39 km NW of San Antonio de los Cobres, Argentina",
+      "mag": 5.3,
+      "lat": -23.9755,
+      "lon": -66.6072,
       "links": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t36n"
       ]
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1553852",
+      "ts": "2026-07-24T21:53:13Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 6M, Depth:44.637km) in Vanuatu 24/07/2026 21:37 UTC, 20 thousand in MMI IV.",
+      "body": "On 7/24/2026 9:37:56 PM, an earthquake occurred in Vanuatu potentially affecting 20 thousand in MMI IV. The earthquake had Magnitude 6M, Depth:44.637km.",
+      "details": "On 7/24/2026 9:37:56 PM, an earthquake occurred in Vanuatu potentially affecting 20 thousand in MMI IV. The earthquake had Magnitude 6M, Depth:44.637km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1553852"
+      ],
+      "location": "Vanuatu 24/07/2026 21:37 UTC, 20 thousand in MMI IV."
     }
   ]
 }
