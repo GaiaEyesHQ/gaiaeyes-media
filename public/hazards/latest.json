@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T04:24:35Z",
+  "generated_at": "2026-07-25T06:38:24Z",
   "items": [
     {
       "source": "gdacs",
@@ -624,21 +624,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029657"
       ],
       "location": "Australia"
-    },
-    {
-      "source": "media",
-      "id": "us7000t309",
-      "ts": "2026-07-24T11:11:34Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "197 km W of Abepura, Indonesia",
-      "body": "197 km W of Abepura, Indonesia",
-      "mag": 5.3,
-      "lat": -2.5436,
-      "lon": 138.8612,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t309"
-      ]
     },
     {
       "source": "gdacs",
@@ -2246,6 +2231,37 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029533"
       ],
       "location": "Angola"
+    },
+    {
+      "source": "media",
+      "id": "us7000t3a0",
+      "ts": "2026-07-25T05:26:33Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "43 km SW of Puerto Madero, Mexico",
+      "body": "43 km SW of Puerto Madero, Mexico",
+      "mag": 5.1,
+      "lat": 14.4952,
+      "lon": -92.7508,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3a0"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "FL1104049",
+      "ts": "2026-07-25T05:52:25Z",
+      "type": "flood",
+      "severity": "info",
+      "title": "Green flood alert in Kazakhstan",
+      "body": "On 23/07/2026, a flood started in Kazakhstan, lasting until 24/07/2026 (last update). The flood caused 0 deaths and 0 displaced .",
+      "details": "On 23/07/2026, a flood started in Kazakhstan, lasting until 24/07/2026 (last update). The flood caused 0 deaths and 0 displaced .",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104049"
+      ],
+      "location": "Kazakhstan"
     }
   ]
 }
