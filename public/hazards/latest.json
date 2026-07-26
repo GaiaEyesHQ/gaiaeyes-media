@@ -1,22 +1,6 @@
 {
-  "generated_at": "2026-07-26T09:04:36Z",
+  "generated_at": "2026-07-26T10:51:15Z",
   "items": [
-    {
-      "source": "gdacs",
-      "id": "WF1029657",
-      "ts": "2026-07-24T09:09:40Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Australia",
-      "body": "On 19/07/2026, a forest fire started in Australia,  until 25/07/2026.",
-      "details": "On 19/07/2026, a forest fire started in Australia,  until 25/07/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029657"
-      ],
-      "location": "Australia"
-    },
     {
       "source": "gdacs",
       "id": "WF1029661",
@@ -232,8 +216,8 @@
       "type": "cyclone",
       "severity": "info",
       "title": "Green notification for tropical cyclone GENEVIEVE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
-      "body": "From 24/07/2026 to 26/07/2026, a Hurricane/Typhoon > 74 mph (maximum wind speed of 213 km/h) GENEVIEVE-26 was active in EastPacific. The cyclone affects these countries: [unknown] (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
-      "details": "From 24/07/2026 to 26/07/2026, a Hurricane/Typhoon > 74 mph (maximum wind speed of 213 km/h) GENEVIEVE-26 was active in EastPacific. The cyclone affects these countries: [unknown] (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
+      "body": "From 24/07/2026 to 26/07/2026, a Hurricane/Typhoon > 74 mph (maximum wind speed of 231 km/h) GENEVIEVE-26 was active in EastPacific. The cyclone affects these countries: [unknown] (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
+      "details": "From 24/07/2026 to 26/07/2026, a Hurricane/Typhoon > 74 mph (maximum wind speed of 231 km/h) GENEVIEVE-26 was active in EastPacific. The cyclone affects these countries: [unknown] (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
       "lat": null,
       "lon": null,
       "links": [
@@ -2662,6 +2646,22 @@
       "links": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3fm"
       ]
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1554143",
+      "ts": "2026-07-26T08:47:43Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 5.8M, Depth:10km) in United States 26/07/2026 08:35 UTC, Few people affected in MMI III.",
+      "body": "On 7/26/2026 8:35:18 AM, an earthquake occurred in United States potentially affecting Few people affected in MMI III. The earthquake had Magnitude 5.8M, Depth:10km.",
+      "details": "On 7/26/2026 8:35:18 AM, an earthquake occurred in United States potentially affecting Few people affected in MMI III. The earthquake had Magnitude 5.8M, Depth:10km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1554143"
+      ],
+      "location": "United States 26/07/2026 08:35 UTC, Few people affected in MMI III."
     }
   ]
 }
