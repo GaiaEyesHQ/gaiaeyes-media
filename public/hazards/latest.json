@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T21:30:58Z",
+  "generated_at": "2026-07-28T22:40:04Z",
   "items": [
     {
       "source": "gdacs",
@@ -722,21 +722,6 @@
       "location": "China 28/07/2026 03:16 UTC, 6 thousand (in MMI>=VII)."
     },
     {
-      "source": "media",
-      "id": "us6000tga9",
-      "ts": "2026-07-28T03:34:05Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "191 km NW of Oula Xiuma, China",
-      "body": "191 km NW of Oula Xiuma, China",
-      "mag": 5.8,
-      "lat": 35.3866,
-      "lon": 99.5513,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tga9"
-      ]
-    },
-    {
       "source": "gdacs",
       "id": "EQ1554511",
       "ts": "2026-07-28T03:50:53Z",
@@ -751,21 +736,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1554511"
       ],
       "location": "China 28/07/2026 03:34 UTC, 2 thousand (in MMI>=VII)."
-    },
-    {
-      "source": "media",
-      "id": "us6000tgae",
-      "ts": "2026-07-28T04:42:18Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "160 km E of Ust\u2019-Kamchatsk Staryy, Russia",
-      "body": "160 km E of Ust\u2019-Kamchatsk Staryy, Russia",
-      "mag": 5.8,
-      "lat": 56.064,
-      "lon": 165.0432,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgae"
-      ]
     },
     {
       "source": "gdacs",
@@ -1131,22 +1101,6 @@
     },
     {
       "source": "gdacs",
-      "id": "WF1029695",
-      "ts": "2026-07-28T19:12:48Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Zambia",
-      "body": "On 21/07/2026, a forest fire started in Zambia,  until 24/07/2026.",
-      "details": "On 21/07/2026, a forest fire started in Zambia,  until 24/07/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029695"
-      ],
-      "location": "Zambia"
-    },
-    {
-      "source": "gdacs",
       "id": "WF1029765",
       "ts": "2026-07-28T19:13:18Z",
       "type": "wildfire",
@@ -1306,22 +1260,6 @@
     },
     {
       "source": "gdacs",
-      "id": "WF1029706",
-      "ts": "2026-07-28T19:33:48Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in South Africa",
-      "body": "On 18/07/2026, a forest fire started in South Africa,  until 24/07/2026.",
-      "details": "On 18/07/2026, a forest fire started in South Africa,  until 24/07/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029706"
-      ],
-      "location": "South Africa"
-    },
-    {
-      "source": "gdacs",
       "id": "WF1029858",
       "ts": "2026-07-28T19:35:12Z",
       "type": "wildfire",
@@ -1418,22 +1356,6 @@
     },
     {
       "source": "gdacs",
-      "id": "WF1029728",
-      "ts": "2026-07-28T19:42:35Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Canada",
-      "body": "On 18/07/2026, a forest fire started in Canada,  until 24/07/2026.",
-      "details": "On 18/07/2026, a forest fire started in Canada,  until 24/07/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029728"
-      ],
-      "location": "Canada"
-    },
-    {
-      "source": "gdacs",
       "id": "WF1029828",
       "ts": "2026-07-28T19:42:42Z",
       "type": "wildfire",
@@ -1461,6 +1383,36 @@
       "lon": 179.5638,
       "links": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tggi"
+      ]
+    },
+    {
+      "source": "media",
+      "id": "us6000tggm",
+      "ts": "2026-07-28T20:27:57Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "211 km SE of Kokopo, Papua New Guinea",
+      "body": "211 km SE of Kokopo, Papua New Guinea",
+      "mag": 5.4,
+      "lat": -5.7602,
+      "lon": 153.5437,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tggm"
+      ]
+    },
+    {
+      "source": "media",
+      "id": "aka2026ovufno",
+      "ts": "2026-07-28T20:49:24Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "52 km E of Denali National Park, Alaska",
+      "body": "52 km E of Denali National Park, Alaska",
+      "mag": 5,
+      "lat": 63.611,
+      "lon": -150.673,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026ovufno"
       ]
     }
   ]
