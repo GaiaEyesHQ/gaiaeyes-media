@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T20:08:54Z",
+  "generated_at": "2026-07-28T21:30:58Z",
   "items": [
     {
       "source": "gdacs",
@@ -40,8 +40,8 @@
       "type": "cyclone",
       "severity": "info",
       "title": "Green notification for tropical cyclone DOLPHIN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
-      "body": "From 27/07/2026 to 28/07/2026, a Hurricane/Typhoon > 74 mph (maximum wind speed of 306 km/h) DOLPHIN-26 was active in NWPacific. The cyclone affects these countries: Marshall Islands (vulnerability High). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
-      "details": "From 27/07/2026 to 28/07/2026, a Hurricane/Typhoon > 74 mph (maximum wind speed of 306 km/h) DOLPHIN-26 was active in NWPacific. The cyclone affects these countries: Marshall Islands (vulnerability High). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
+      "body": "From 27/07/2026 to 28/07/2026, a Hurricane/Typhoon > 74 mph (maximum wind speed of 287 km/h) DOLPHIN-26 was active in NWPacific. The cyclone affects these countries: Marshall Islands (vulnerability High). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
+      "details": "From 27/07/2026 to 28/07/2026, a Hurricane/Typhoon > 74 mph (maximum wind speed of 287 km/h) DOLPHIN-26 was active in NWPacific. The cyclone affects these countries: Marshall Islands (vulnerability High). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
       "lat": null,
       "lon": null,
       "links": [
@@ -706,36 +706,6 @@
       "location": "Angola"
     },
     {
-      "source": "media",
-      "id": "us6000tg9n",
-      "ts": "2026-07-28T01:27:51Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "southern Mid-Atlantic Ridge",
-      "body": "southern Mid-Atlantic Ridge",
-      "mag": 5.3,
-      "lat": -12.7784,
-      "lon": -14.5098,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tg9n"
-      ]
-    },
-    {
-      "source": "media",
-      "id": "us6000tga6",
-      "ts": "2026-07-28T03:16:08Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "192 km NW of Oula Xiuma, China",
-      "body": "192 km NW of Oula Xiuma, China",
-      "mag": 5.7,
-      "lat": 35.3685,
-      "lon": 99.5198,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tga6"
-      ]
-    },
-    {
       "source": "gdacs",
       "id": "EQ1554510",
       "ts": "2026-07-28T03:32:32Z",
@@ -880,15 +850,15 @@
       "ts": "2026-07-28T07:37:31Z",
       "type": "quake",
       "severity": "red",
-      "title": "Green earthquake (Magnitude 6.8M, Depth:10km) in Japan 28/07/2026 07:27 UTC, 1.3 million (in MMI>=VII).",
-      "body": "On 7/28/2026 7:27:15 AM, an earthquake occurred in Japan potentially affecting 1.3 million (in MMI>=VII). The earthquake had Magnitude 6.8M, Depth:10km.",
-      "details": "On 7/28/2026 7:27:15 AM, an earthquake occurred in Japan potentially affecting 1.3 million (in MMI>=VII). The earthquake had Magnitude 6.8M, Depth:10km.",
+      "title": "Orange earthquake (Magnitude 6.8M, Depth:10km) in Japan 28/07/2026 07:27 UTC, 1.2 million (in MMI>=VII).",
+      "body": "On 7/28/2026 7:27:15 AM, an earthquake occurred in Japan potentially affecting 1.2 million (in MMI>=VII). The earthquake had Magnitude 6.8M, Depth:10km.",
+      "details": "On 7/28/2026 7:27:15 AM, an earthquake occurred in Japan potentially affecting 1.2 million (in MMI>=VII). The earthquake had Magnitude 6.8M, Depth:10km.",
       "lat": null,
       "lon": null,
       "links": [
         "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1554552"
       ],
-      "location": "Japan 28/07/2026 07:27 UTC, 1.3 million (in MMI>=VII)."
+      "location": "Japan 28/07/2026 07:27 UTC, 1.2 million (in MMI>=VII)."
     },
     {
       "source": "media",
@@ -1288,6 +1258,21 @@
       "location": "Angola"
     },
     {
+      "source": "media",
+      "id": "us6000tgg2",
+      "ts": "2026-07-28T19:28:08Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "82 km SW of Kirakira, Solomon Islands",
+      "body": "82 km SW of Kirakira, Solomon Islands",
+      "mag": 5,
+      "lat": -10.9261,
+      "lon": 161.3309,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgg2"
+      ]
+    },
+    {
       "source": "gdacs",
       "id": "WF1029776",
       "ts": "2026-07-28T19:30:42Z",
@@ -1462,6 +1447,21 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029828"
       ],
       "location": "Angola"
+    },
+    {
+      "source": "media",
+      "id": "us6000tggi",
+      "ts": "2026-07-28T20:23:42Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "south of the Fiji Islands",
+      "body": "south of the Fiji Islands",
+      "mag": 5.1,
+      "lat": -22.1845,
+      "lon": 179.5638,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tggi"
+      ]
     }
   ]
 }
