@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T03:41:56Z",
+  "generated_at": "2026-07-28T06:15:10Z",
   "items": [
     {
       "source": "gdacs",
@@ -642,21 +642,6 @@
       "location": "Zambia"
     },
     {
-      "source": "media",
-      "id": "us7000t3kz",
-      "ts": "2026-07-27T03:12:04Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "south of Tonga",
-      "body": "south of Tonga",
-      "mag": 5,
-      "lat": -24.4378,
-      "lon": -175.0899,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3kz"
-      ]
-    },
-    {
       "source": "gdacs",
       "id": "WF1029825",
       "ts": "2026-07-27T03:23:24Z",
@@ -671,21 +656,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029825"
       ],
       "location": "Angola"
-    },
-    {
-      "source": "media",
-      "id": "us7000t3l3",
-      "ts": "2026-07-27T03:36:43Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "south of Tonga",
-      "body": "south of Tonga",
-      "mag": 5.2,
-      "lat": -24.5001,
-      "lon": -175.1714,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t3l3"
-      ]
     },
     {
       "source": "gdacs",
@@ -1849,12 +1819,27 @@
       "location": "Angola"
     },
     {
-      "source": "usgs",
-      "id": "6000tga6",
+      "source": "media",
+      "id": "us6000tg9n",
+      "ts": "2026-07-28T01:27:51Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "southern Mid-Atlantic Ridge",
+      "body": "southern Mid-Atlantic Ridge",
+      "mag": 5.3,
+      "lat": -12.7784,
+      "lon": -14.5098,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tg9n"
+      ]
+    },
+    {
+      "source": "media",
+      "id": "us6000tga6",
       "ts": "2026-07-28T03:16:08Z",
       "type": "quake",
       "severity": "info",
-      "title": "M 5.8 - 190 km NW of Oula Xiuma, China",
+      "title": "190 km NW of Oula Xiuma, China",
       "body": "190 km NW of Oula Xiuma, China",
       "mag": 5.8,
       "lat": 35.3745,
@@ -1862,6 +1847,70 @@
       "links": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tga6"
       ]
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1554510",
+      "ts": "2026-07-28T03:32:32Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Orange earthquake (Magnitude 5.7M, Depth:10km) in China 28/07/2026 03:16 UTC, 6 thousand (in MMI>=VII).",
+      "body": "On 7/28/2026 3:16:08 AM, an earthquake occurred in China potentially affecting 6 thousand (in MMI>=VII). The earthquake had Magnitude 5.7M, Depth:10km.",
+      "details": "On 7/28/2026 3:16:08 AM, an earthquake occurred in China potentially affecting 6 thousand (in MMI>=VII). The earthquake had Magnitude 5.7M, Depth:10km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1554510"
+      ],
+      "location": "China 28/07/2026 03:16 UTC, 6 thousand (in MMI>=VII)."
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1554511",
+      "ts": "2026-07-28T03:50:53Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Orange earthquake (Magnitude 5.8M, Depth:10km) in China 28/07/2026 03:34 UTC, 2 thousand (in MMI>=VII).",
+      "body": "On 7/28/2026 3:34:05 AM, an earthquake occurred in China potentially affecting 2 thousand (in MMI>=VII). The earthquake had Magnitude 5.8M, Depth:10km.",
+      "details": "On 7/28/2026 3:34:05 AM, an earthquake occurred in China potentially affecting 2 thousand (in MMI>=VII). The earthquake had Magnitude 5.8M, Depth:10km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1554511"
+      ],
+      "location": "China 28/07/2026 03:34 UTC, 2 thousand (in MMI>=VII)."
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1554518",
+      "ts": "2026-07-28T05:00:59Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 5.8M, Depth:10km) in Russia 28/07/2026 04:42 UTC, 3 thousand in MMI IV.",
+      "body": "On 7/28/2026 4:42:18 AM, an earthquake occurred in Russia potentially affecting 3 thousand in MMI IV. The earthquake had Magnitude 5.8M, Depth:10km.",
+      "details": "On 7/28/2026 4:42:18 AM, an earthquake occurred in Russia potentially affecting 3 thousand in MMI IV. The earthquake had Magnitude 5.8M, Depth:10km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1554518"
+      ],
+      "location": "Russia 28/07/2026 04:42 UTC, 3 thousand in MMI IV."
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1554532",
+      "ts": "2026-07-28T05:52:52Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 5.8M, Depth:35km) in Mexico 28/07/2026 05:35 UTC, 1.4 million in MMI IV.",
+      "body": "On 7/28/2026 5:35:17 AM, an earthquake occurred in Mexico potentially affecting 1.4 million in MMI IV. The earthquake had Magnitude 5.8M, Depth:35km.",
+      "details": "On 7/28/2026 5:35:17 AM, an earthquake occurred in Mexico potentially affecting 1.4 million in MMI IV. The earthquake had Magnitude 5.8M, Depth:35km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1554532"
+      ],
+      "location": "Mexico 28/07/2026 05:35 UTC, 1.4 million in MMI IV."
     }
   ]
 }
