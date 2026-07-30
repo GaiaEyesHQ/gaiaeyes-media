@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T21:20:57Z",
+  "generated_at": "2026-07-30T22:35:57Z",
   "items": [
     {
       "source": "gdacs",
@@ -592,21 +592,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029919"
       ],
       "location": "Russian Federation"
-    },
-    {
-      "source": "media",
-      "id": "us6000tgud",
-      "ts": "2026-07-29T22:08:07Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "Pacific-Antarctic Ridge",
-      "body": "Pacific-Antarctic Ridge",
-      "mag": 5.6,
-      "lat": -65.0558,
-      "lon": -179.1239,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgud"
-      ]
     },
     {
       "source": "media",
@@ -1449,22 +1434,6 @@
     },
     {
       "source": "gdacs",
-      "id": "WF1029813",
-      "ts": "2026-07-30T19:05:24Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Zambia",
-      "body": "On 26/07/2026, a forest fire started in Zambia,  until 26/07/2026.",
-      "details": "On 26/07/2026, a forest fire started in Zambia,  until 26/07/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029813"
-      ],
-      "location": "Zambia"
-    },
-    {
-      "source": "gdacs",
       "id": "WF1029835",
       "ts": "2026-07-30T19:06:02Z",
       "type": "wildfire",
@@ -1926,6 +1895,21 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029934"
       ],
       "location": "Australia"
+    },
+    {
+      "source": "media",
+      "id": "us6000th30",
+      "ts": "2026-07-30T20:26:36Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "Kermadec Islands region",
+      "body": "Kermadec Islands region",
+      "mag": 5,
+      "lat": -28.5478,
+      "lon": -176.5707,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th30"
+      ]
     }
   ]
 }
