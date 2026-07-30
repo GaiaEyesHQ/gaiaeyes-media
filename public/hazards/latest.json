@@ -1,38 +1,6 @@
 {
-  "generated_at": "2026-07-30T04:07:11Z",
+  "generated_at": "2026-07-30T06:39:22Z",
   "items": [
-    {
-      "source": "gdacs",
-      "id": "EQ1554518",
-      "ts": "2026-07-28T05:00:59Z",
-      "type": "quake",
-      "severity": "red",
-      "title": "Green earthquake (Magnitude 5.8M, Depth:10km) in Russia 28/07/2026 04:42 UTC, 3 thousand in MMI IV.",
-      "body": "On 7/28/2026 4:42:18 AM, an earthquake occurred in Russia potentially affecting 3 thousand in MMI IV. The earthquake had Magnitude 5.8M, Depth:10km.",
-      "details": "On 7/28/2026 4:42:18 AM, an earthquake occurred in Russia potentially affecting 3 thousand in MMI IV. The earthquake had Magnitude 5.8M, Depth:10km.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1554518"
-      ],
-      "location": "Russia 28/07/2026 04:42 UTC, 3 thousand in MMI IV."
-    },
-    {
-      "source": "gdacs",
-      "id": "EQ1554532",
-      "ts": "2026-07-28T05:52:52Z",
-      "type": "quake",
-      "severity": "red",
-      "title": "Green earthquake (Magnitude 5.9M, Depth:35km) in Mexico 28/07/2026 05:35 UTC, 2.4 million in MMI IV.",
-      "body": "On 7/28/2026 5:35:17 AM, an earthquake occurred in Mexico potentially affecting 2.4 million in MMI IV. The earthquake had Magnitude 5.9M, Depth:35km.",
-      "details": "On 7/28/2026 5:35:17 AM, an earthquake occurred in Mexico potentially affecting 2.4 million in MMI IV. The earthquake had Magnitude 5.9M, Depth:35km.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1554532"
-      ],
-      "location": "Mexico 28/07/2026 05:35 UTC, 2.4 million in MMI IV."
-    },
     {
       "source": "gdacs",
       "id": "EQ1554552",
@@ -755,36 +723,6 @@
     },
     {
       "source": "media",
-      "id": "us6000tgmy",
-      "ts": "2026-07-29T13:16:59Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "4 km NNE of Balangonan, Philippines",
-      "body": "4 km NNE of Balangonan, Philippines",
-      "mag": 5,
-      "lat": 5.6157,
-      "lon": 125.3648,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgmy"
-      ]
-    },
-    {
-      "source": "media",
-      "id": "us6000tgmx",
-      "ts": "2026-07-29T13:19:36Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "11 km N of Tsunagi, Japan",
-      "body": "11 km N of Tsunagi, Japan",
-      "mag": 5.4,
-      "lat": 32.34,
-      "lon": 130.4881,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgmx"
-      ]
-    },
-    {
-      "source": "media",
       "id": "us6000tgn0",
       "ts": "2026-07-29T13:23:56Z",
       "type": "quake",
@@ -1030,6 +968,21 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029926"
       ],
       "location": "Australia"
+    },
+    {
+      "source": "media",
+      "id": "us6000tgva",
+      "ts": "2026-07-30T02:46:24Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "217 km SE of Kokopo, Papua New Guinea",
+      "body": "217 km SE of Kokopo, Papua New Guinea",
+      "mag": 5.3,
+      "lat": -5.8112,
+      "lon": 153.5797,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgva"
+      ]
     },
     {
       "source": "gdacs",
@@ -1670,6 +1623,37 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029923"
       ],
       "location": "Angola"
+    },
+    {
+      "source": "media",
+      "id": "us6000tgvu",
+      "ts": "2026-07-30T04:42:12Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "201 km W of Abepura, Indonesia",
+      "body": "201 km W of Abepura, Indonesia",
+      "mag": 5.4,
+      "lat": -2.6018,
+      "lon": 138.8205,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tgvu"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1555036",
+      "ts": "2026-07-30T05:29:38Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 5.8M, Depth:10km) in Kermadec Islands Region 30/07/2026 05:08 UTC, [unknown].",
+      "body": "On 7/30/2026 5:08:31 AM, an earthquake occurred in Kermadec Islands Region potentially affecting [unknown]. The earthquake had Magnitude 5.8M, Depth:10km.",
+      "details": "On 7/30/2026 5:08:31 AM, an earthquake occurred in Kermadec Islands Region potentially affecting [unknown]. The earthquake had Magnitude 5.8M, Depth:10km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1555036"
+      ],
+      "location": "Kermadec Islands Region 30/07/2026 05:08 UTC, [unknown]."
     }
   ]
 }
