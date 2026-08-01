@@ -1,86 +1,6 @@
 {
-  "generated_at": "2026-08-01T09:27:43Z",
+  "generated_at": "2026-08-01T11:01:46Z",
   "items": [
-    {
-      "source": "gdacs",
-      "id": "FL1104059",
-      "ts": "2026-07-30T10:41:58Z",
-      "type": "flood",
-      "severity": "info",
-      "title": "Green flood alert in Austria",
-      "body": "On 29/07/2026, a flood started in Austria, lasting until 31/07/2026 (last update). The flood caused 0 deaths and 330 displaced .",
-      "details": "On 29/07/2026, a flood started in Austria, lasting until 31/07/2026 (last update). The flood caused 0 deaths and 330 displaced .",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104059"
-      ],
-      "location": "Austria"
-    },
-    {
-      "source": "gdacs",
-      "id": "FL1104060",
-      "ts": "2026-07-30T10:42:08Z",
-      "type": "flood",
-      "severity": "info",
-      "title": "Green flood alert in Ukraine",
-      "body": "On 28/07/2026, a flood started in Ukraine, lasting until 29/07/2026 (last update). The flood caused 0 deaths and 0 displaced .",
-      "details": "On 28/07/2026, a flood started in Ukraine, lasting until 29/07/2026 (last update). The flood caused 0 deaths and 0 displaced .",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104060"
-      ],
-      "location": "Ukraine"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1029930",
-      "ts": "2026-07-30T11:00:41Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Australia",
-      "body": "On 29/07/2026, a forest fire started in Australia,  until 31/07/2026.",
-      "details": "On 29/07/2026, a forest fire started in Australia,  until 31/07/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029930"
-      ],
-      "location": "Australia"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1029931",
-      "ts": "2026-07-30T11:00:48Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in T\u00fcrkiye",
-      "body": "On 29/07/2026, a forest fire started in T\u00fcrkiye,  until 31/07/2026.",
-      "details": "On 29/07/2026, a forest fire started in T\u00fcrkiye,  until 31/07/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029931"
-      ],
-      "location": "T\u00fcrkiye"
-    },
-    {
-      "source": "gdacs",
-      "id": "FL1104061",
-      "ts": "2026-07-30T11:01:01Z",
-      "type": "flood",
-      "severity": "info",
-      "title": "Green flood alert in Mexico",
-      "body": "On 29/07/2026, a flood started in Mexico, lasting until 31/07/2026 (last update). The flood caused 0 deaths and 30 displaced .",
-      "details": "On 29/07/2026, a flood started in Mexico, lasting until 31/07/2026 (last update). The flood caused 0 deaths and 30 displaced .",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104061"
-      ],
-      "location": "Mexico"
-    },
     {
       "source": "gdacs",
       "id": "WF1029924",
@@ -480,21 +400,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029957"
       ],
       "location": "Russian Federation"
-    },
-    {
-      "source": "media",
-      "id": "us6000th5s",
-      "ts": "2026-07-31T06:30:26Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "Kermadec Islands region",
-      "body": "Kermadec Islands region",
-      "mag": 5,
-      "lat": -29.4109,
-      "lon": -176.5524,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000th5s"
-      ]
     },
     {
       "source": "gdacs",
@@ -1655,6 +1560,21 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1029891"
       ],
       "location": "Zambia"
+    },
+    {
+      "source": "media",
+      "id": "us6000thfp",
+      "ts": "2026-08-01T09:50:33Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "Tristan da Cunha region",
+      "body": "Tristan da Cunha region",
+      "mag": 5.1,
+      "lat": -39.6903,
+      "lon": -15.9764,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thfp"
+      ]
     }
   ]
 }
