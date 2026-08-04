@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T20:03:38Z",
+  "generated_at": "2026-08-04T21:32:31Z",
   "items": [
     {
       "source": "media",
@@ -1197,6 +1197,37 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030021"
       ],
       "location": "Angola"
+    },
+    {
+      "source": "media",
+      "id": "us6000ti49",
+      "ts": "2026-08-04T20:16:37Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "127 km NW of Ternate, Indonesia",
+      "body": "127 km NW of Ternate, Indonesia",
+      "mag": 5.7,
+      "lat": 1.5066,
+      "lon": 126.4856,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti49"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1556149",
+      "ts": "2026-08-04T20:32:31Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 5.7M, Depth:35km) in Indonesia 04/08/2026 20:16 UTC, 10 thousand in MMI IV.",
+      "body": "On 8/4/2026 8:16:37 PM, an earthquake occurred in Indonesia potentially affecting 10 thousand in MMI IV. The earthquake had Magnitude 5.7M, Depth:35km.",
+      "details": "On 8/4/2026 8:16:37 PM, an earthquake occurred in Indonesia potentially affecting 10 thousand in MMI IV. The earthquake had Magnitude 5.7M, Depth:35km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1556149"
+      ],
+      "location": "Indonesia 04/08/2026 20:16 UTC, 10 thousand in MMI IV."
     }
   ]
 }
