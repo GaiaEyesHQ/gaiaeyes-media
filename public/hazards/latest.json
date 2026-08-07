@@ -1,21 +1,6 @@
 {
-  "generated_at": "2026-08-07T09:08:02Z",
+  "generated_at": "2026-08-07T10:09:16Z",
   "items": [
-    {
-      "source": "media",
-      "id": "us6000ti9w",
-      "ts": "2026-08-05T10:06:09Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "60 km NNE of Shi Yomi, India",
-      "body": "60 km NNE of Shi Yomi, India",
-      "mag": 5,
-      "lat": 29.0027,
-      "lon": 94.681,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti9w"
-      ]
-    },
     {
       "source": "gdacs",
       "id": "WF1030099",
@@ -1489,8 +1474,8 @@
       "type": "cyclone",
       "severity": "info",
       "title": "Green notification for tropical cyclone CHAN-HOM-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
-      "body": "From 07/08/2026 to 07/08/2026, a Tropical Storm (maximum wind speed of 93 km/h) CHAN-HOM-26 was active in NWPacific. The cyclone affects these countries: Japan, Russian Federation (vulnerability Low). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
-      "details": "From 07/08/2026 to 07/08/2026, a Tropical Storm (maximum wind speed of 93 km/h) CHAN-HOM-26 was active in NWPacific. The cyclone affects these countries: Japan, Russian Federation (vulnerability Low). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
+      "body": "From 07/08/2026 to 07/08/2026, a Tropical Storm (maximum wind speed of 93 km/h) CHAN-HOM-26 was active in NWPacific. The cyclone affects these countries: Japan (vulnerability Low). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
+      "details": "From 07/08/2026 to 07/08/2026, a Tropical Storm (maximum wind speed of 93 km/h) CHAN-HOM-26 was active in NWPacific. The cyclone affects these countries: Japan (vulnerability Low). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
       "lat": null,
       "lon": null,
       "links": [
@@ -1963,22 +1948,6 @@
     },
     {
       "source": "gdacs",
-      "id": "FL1104075",
-      "ts": "2026-08-07T07:35:54Z",
-      "type": "flood",
-      "severity": "info",
-      "title": "Green flood alert in Sri Lanka",
-      "body": "On 02/08/2026, a flood started in Sri Lanka, lasting until 04/08/2026 (last update). The flood caused 12 deaths and 6882 displaced .",
-      "details": "On 02/08/2026, a flood started in Sri Lanka, lasting until 04/08/2026 (last update). The flood caused 12 deaths and 6882 displaced .",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104075"
-      ],
-      "location": "Sri Lanka"
-    },
-    {
-      "source": "gdacs",
       "id": "FL1104078",
       "ts": "2026-08-07T07:36:29Z",
       "type": "flood",
@@ -2024,6 +1993,22 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030196"
       ],
       "location": "Angola"
+    },
+    {
+      "source": "gdacs",
+      "id": "FL1104075",
+      "ts": "2026-08-07T09:22:23Z",
+      "type": "flood",
+      "severity": "info",
+      "title": "Green flood alert in Sri Lanka",
+      "body": "On 02/08/2026, a flood started in Sri Lanka, lasting until 04/08/2026 (last update). The flood caused 12 deaths and 6882 displaced .",
+      "details": "On 02/08/2026, a flood started in Sri Lanka, lasting until 04/08/2026 (last update). The flood caused 12 deaths and 6882 displaced .",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104075"
+      ],
+      "location": "Sri Lanka"
     }
   ]
 }
