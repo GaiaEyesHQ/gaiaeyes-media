@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T18:02:46Z",
+  "generated_at": "2026-08-08T18:54:57Z",
   "items": [
     {
       "source": "media",
@@ -1916,22 +1916,6 @@
     },
     {
       "source": "gdacs",
-      "id": "FL1104075",
-      "ts": "2026-08-08T15:21:56Z",
-      "type": "flood",
-      "severity": "info",
-      "title": "Green flood alert in Sri Lanka",
-      "body": "On 02/08/2026, a flood started in Sri Lanka, lasting until 04/08/2026 (last update). The flood caused 12 deaths and 6882 displaced .",
-      "details": "On 02/08/2026, a flood started in Sri Lanka, lasting until 04/08/2026 (last update). The flood caused 12 deaths and 6882 displaced .",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104075"
-      ],
-      "location": "Sri Lanka"
-    },
-    {
-      "source": "gdacs",
       "id": "WF1030231",
       "ts": "2026-08-08T15:22:26Z",
       "type": "wildfire",
@@ -2041,6 +2025,53 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030081"
       ],
       "location": "Russian Federation"
+    },
+    {
+      "source": "media",
+      "id": "us6000tjaj",
+      "ts": "2026-08-08T17:58:00Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "46 km E of Noda, Japan",
+      "body": "46 km E of Noda, Japan",
+      "mag": 5.6,
+      "lat": 40.1753,
+      "lon": 142.3528,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjaj"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1556955",
+      "ts": "2026-08-08T18:17:39Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 5.6M, Depth:34km) in Japan 08/08/2026 17:58 UTC, 330 thousand in MMI IV.",
+      "body": "On 8/8/2026 5:58:00 PM, an earthquake occurred in Japan potentially affecting 330 thousand in MMI IV. The earthquake had Magnitude 5.6M, Depth:34km.",
+      "details": "On 8/8/2026 5:58:00 PM, an earthquake occurred in Japan potentially affecting 330 thousand in MMI IV. The earthquake had Magnitude 5.6M, Depth:34km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1556955"
+      ],
+      "location": "Japan 08/08/2026 17:58 UTC, 330 thousand in MMI IV."
+    },
+    {
+      "source": "gdacs",
+      "id": "FL1104075",
+      "ts": "2026-08-08T18:21:30Z",
+      "type": "flood",
+      "severity": "info",
+      "title": "Green flood alert in Sri Lanka",
+      "body": "On 02/08/2026, a flood started in Sri Lanka, lasting until 04/08/2026 (last update). The flood caused 12 deaths and 6882 displaced .",
+      "details": "On 02/08/2026, a flood started in Sri Lanka, lasting until 04/08/2026 (last update). The flood caused 12 deaths and 6882 displaced .",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104075"
+      ],
+      "location": "Sri Lanka"
     }
   ]
 }
