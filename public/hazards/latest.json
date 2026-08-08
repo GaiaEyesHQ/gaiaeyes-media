@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T05:02:50Z",
+  "generated_at": "2026-08-08T05:53:40Z",
   "items": [
     {
       "source": "gdacs",
@@ -2219,12 +2219,12 @@
       ]
     },
     {
-      "source": "usgs",
-      "id": "a2026powmkf",
+      "source": "media",
+      "id": "aka2026powmkf",
       "ts": "2026-08-08T04:50:34Z",
       "type": "quake",
       "severity": "info",
-      "title": "M 5.6 - 57 km WNW of Skwentna, Alaska",
+      "title": "57 km WNW of Skwentna, Alaska",
       "body": "57 km WNW of Skwentna, Alaska",
       "mag": 5.6,
       "lat": 62.269,
@@ -2232,6 +2232,22 @@
       "links": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026powmkf"
       ]
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1556854",
+      "ts": "2026-08-08T04:56:21Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 5.6M, Depth:10km) in United States 08/08/2026 04:50 UTC, 2 thousand in MMI>=IV.",
+      "body": "On 8/8/2026 4:50:34 AM, an earthquake occurred in United States potentially affecting 2 thousand in MMI>=IV. The earthquake had Magnitude 5.6M, Depth:10km.",
+      "details": "On 8/8/2026 4:50:34 AM, an earthquake occurred in United States potentially affecting 2 thousand in MMI>=IV. The earthquake had Magnitude 5.6M, Depth:10km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1556854"
+      ],
+      "location": "United States 08/08/2026 04:50 UTC, 2 thousand in MMI>=IV."
     }
   ]
 }
