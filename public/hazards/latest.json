@@ -1,21 +1,6 @@
 {
-  "generated_at": "2026-08-11T11:55:39Z",
+  "generated_at": "2026-08-11T13:13:04Z",
   "items": [
-    {
-      "source": "media",
-      "id": "us6000tjen",
-      "ts": "2026-08-09T11:57:33Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "Galapagos Triple Junction region",
-      "body": "Galapagos Triple Junction region",
-      "mag": 5.2,
-      "lat": 2.2955,
-      "lon": -101.9125,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjen"
-      ]
-    },
     {
       "source": "gdacs",
       "id": "WF1030277",
@@ -593,15 +578,15 @@
       "ts": "2026-08-10T12:50:33Z",
       "type": "quake",
       "severity": "red",
-      "title": "Orange earthquake (Magnitude 7.4M, Depth:110.285km) in Colombia 10/08/2026 12:34 UTC, 1.5 million (in MMI>=VII).",
-      "body": "On 8/10/2026 12:34:28 PM, an earthquake occurred in Colombia potentially affecting 1.5 million (in MMI>=VII). The earthquake had Magnitude 7.4M, Depth:110.285km.",
-      "details": "On 8/10/2026 12:34:28 PM, an earthquake occurred in Colombia potentially affecting 1.5 million (in MMI>=VII). The earthquake had Magnitude 7.4M, Depth:110.285km.",
+      "title": "Red earthquake (Magnitude 7.4M, Depth:110.285km) in Colombia 10/08/2026 12:34 UTC, 5.2 million (in MMI>=VII).",
+      "body": "On 8/10/2026 12:34:28 PM, an earthquake occurred in Colombia potentially affecting 5.2 million (in MMI>=VII). The earthquake had Magnitude 7.4M, Depth:110.285km.",
+      "details": "On 8/10/2026 12:34:28 PM, an earthquake occurred in Colombia potentially affecting 5.2 million (in MMI>=VII). The earthquake had Magnitude 7.4M, Depth:110.285km.",
       "lat": null,
       "lon": null,
       "links": [
         "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1557236"
       ],
-      "location": "Colombia 10/08/2026 12:34 UTC, 1.5 million (in MMI>=VII)."
+      "location": "Colombia 10/08/2026 12:34 UTC, 5.2 million (in MMI>=VII)."
     },
     {
       "source": "media",
@@ -1355,22 +1340,6 @@
     },
     {
       "source": "gdacs",
-      "id": "WF1030347",
-      "ts": "2026-08-11T07:48:31Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Zambia",
-      "body": "On 28/07/2026, a forest fire started in Zambia,  until 10/08/2026.",
-      "details": "On 28/07/2026, a forest fire started in Zambia,  until 10/08/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030347"
-      ],
-      "location": "Zambia"
-    },
-    {
-      "source": "gdacs",
       "id": "FL1104085",
       "ts": "2026-08-11T07:56:02Z",
       "type": "flood",
@@ -1878,6 +1847,22 @@
       "lon": null,
       "links": [
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030344"
+      ],
+      "location": "Zambia"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1030347",
+      "ts": "2026-08-11T11:47:11Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Zambia",
+      "body": "On 28/07/2026, a forest fire started in Zambia,  until 10/08/2026.",
+      "details": "On 28/07/2026, a forest fire started in Zambia,  until 10/08/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030347"
       ],
       "location": "Zambia"
     }
