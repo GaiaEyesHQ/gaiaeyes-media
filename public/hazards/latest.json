@@ -1,67 +1,6 @@
 {
-  "generated_at": "2026-08-12T11:59:07Z",
+  "generated_at": "2026-08-12T13:35:39Z",
   "items": [
-    {
-      "source": "media",
-      "id": "us6000tjl0",
-      "ts": "2026-08-10T12:12:22Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "northern Mid-Atlantic Ridge",
-      "body": "northern Mid-Atlantic Ridge",
-      "mag": 5,
-      "lat": 17.5068,
-      "lon": -45.8376,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjl0"
-      ]
-    },
-    {
-      "source": "media",
-      "id": "us6000tjl2",
-      "ts": "2026-08-10T12:34:28Z",
-      "type": "quake",
-      "severity": "orange",
-      "title": "5 km S of San Jos\u00e9 del Palmar, Colombia",
-      "body": "5 km S of San Jos\u00e9 del Palmar, Colombia",
-      "mag": 7.4,
-      "lat": 4.8436,
-      "lon": -76.2422,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjl2"
-      ]
-    },
-    {
-      "source": "gdacs",
-      "id": "EQ1557236",
-      "ts": "2026-08-10T12:50:33Z",
-      "type": "quake",
-      "severity": "red",
-      "title": "Red earthquake (Magnitude 7.4M, Depth:110.285km) in Colombia 10/08/2026 12:34 UTC, 5.2 million (in MMI>=VII).",
-      "body": "On 8/10/2026 12:34:28 PM, an earthquake occurred in Colombia potentially affecting 5.2 million (in MMI>=VII). The earthquake had Magnitude 7.4M, Depth:110.285km.",
-      "details": "On 8/10/2026 12:34:28 PM, an earthquake occurred in Colombia potentially affecting 5.2 million (in MMI>=VII). The earthquake had Magnitude 7.4M, Depth:110.285km.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1557236"
-      ],
-      "location": "Colombia 10/08/2026 12:34 UTC, 5.2 million (in MMI>=VII)."
-    },
-    {
-      "source": "media",
-      "id": "us6000tjm4",
-      "ts": "2026-08-10T13:18:10Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "16 km W of San Jos\u00e9 del Palmar, Colombia",
-      "body": "16 km W of San Jos\u00e9 del Palmar, Colombia",
-      "mag": 5,
-      "lat": 4.8971,
-      "lon": -76.3859,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjm4"
-      ]
-    },
     {
       "source": "gdacs",
       "id": "WF1030310",
@@ -2198,6 +2137,22 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030347"
       ],
       "location": "Zambia"
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1557631",
+      "ts": "2026-08-12T12:11:12Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 6M, Depth:10km) in South Sandwich Islands Region 12/08/2026 11:47 UTC, [unknown].",
+      "body": "On 8/12/2026 11:47:12 AM, an earthquake occurred in South Sandwich Islands Region potentially affecting [unknown]. The earthquake had Magnitude 6M, Depth:10km.",
+      "details": "On 8/12/2026 11:47:12 AM, an earthquake occurred in South Sandwich Islands Region potentially affecting [unknown]. The earthquake had Magnitude 6M, Depth:10km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1557631"
+      ],
+      "location": "South Sandwich Islands Region 12/08/2026 11:47 UTC, [unknown]."
     }
   ]
 }
