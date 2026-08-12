@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T07:43:19Z",
+  "generated_at": "2026-08-12T08:53:56Z",
   "items": [
     {
       "source": "gdacs",
@@ -1563,38 +1563,6 @@
       "location": "Angola"
     },
     {
-      "source": "gdacs",
-      "id": "WF1030403",
-      "ts": "2026-08-12T03:38:07Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Angola",
-      "body": "On 30/07/2026, a forest fire started in Angola,  until 11/08/2026.",
-      "details": "On 30/07/2026, a forest fire started in Angola,  until 11/08/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030403"
-      ],
-      "location": "Angola"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1030347",
-      "ts": "2026-08-12T03:46:33Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Zambia",
-      "body": "On 28/07/2026, a forest fire started in Zambia,  until 10/08/2026.",
-      "details": "On 28/07/2026, a forest fire started in Zambia,  until 10/08/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030347"
-      ],
-      "location": "Zambia"
-    },
-    {
       "source": "media",
       "id": "hv75018296",
       "ts": "2026-08-12T03:48:33Z",
@@ -1977,6 +1945,21 @@
       "location": "The Democratic Republic of Congo"
     },
     {
+      "source": "media",
+      "id": "us6000tk5x",
+      "ts": "2026-08-12T07:14:52Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "66 km E of Chayek, Kyrgyzstan",
+      "body": "66 km E of Chayek, Kyrgyzstan",
+      "mag": 5,
+      "lat": 42.0411,
+      "lon": 75.3037,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tk5x"
+      ]
+    },
+    {
       "source": "gdacs",
       "id": "WF1030409",
       "ts": "2026-08-12T07:14:53Z",
@@ -2151,6 +2134,38 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030402"
       ],
       "location": "The Democratic Republic of Congo"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1030403",
+      "ts": "2026-08-12T07:39:13Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Angola",
+      "body": "On 30/07/2026, a forest fire started in Angola,  until 11/08/2026.",
+      "details": "On 30/07/2026, a forest fire started in Angola,  until 11/08/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030403"
+      ],
+      "location": "Angola"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1030347",
+      "ts": "2026-08-12T07:48:39Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Zambia",
+      "body": "On 28/07/2026, a forest fire started in Zambia,  until 10/08/2026.",
+      "details": "On 28/07/2026, a forest fire started in Zambia,  until 10/08/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030347"
+      ],
+      "location": "Zambia"
     }
   ]
 }
