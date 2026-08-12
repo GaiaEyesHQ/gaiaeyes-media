@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T13:35:39Z",
+  "generated_at": "2026-08-12T14:41:49Z",
   "items": [
     {
       "source": "gdacs",
@@ -2123,6 +2123,21 @@
       "location": "Angola"
     },
     {
+      "source": "media",
+      "id": "us6000tk74",
+      "ts": "2026-08-12T11:47:12Z",
+      "type": "quake",
+      "severity": "yellow",
+      "title": "South Sandwich Islands region",
+      "body": "South Sandwich Islands region",
+      "mag": 6,
+      "lat": -60.2445,
+      "lon": -28.9899,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tk74"
+      ]
+    },
+    {
       "source": "gdacs",
       "id": "WF1030347",
       "ts": "2026-08-12T11:54:31Z",
@@ -2153,6 +2168,22 @@
         "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1557631"
       ],
       "location": "South Sandwich Islands Region 12/08/2026 11:47 UTC, [unknown]."
+    },
+    {
+      "source": "gdacs",
+      "id": "TC1001301",
+      "ts": "2026-08-12T13:36:25Z",
+      "type": "cyclone",
+      "severity": "info",
+      "title": "Green notification for tropical cyclone NANGKA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
+      "body": "From 12/08/2026 to 12/08/2026, a Tropical Depression (maximum wind speed of 65 km/h) NANGKA-26 was active in NWPacific. The cyclone affects these countries: [unknown] (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
+      "details": "From 12/08/2026 to 12/08/2026, a Tropical Depression (maximum wind speed of 65 km/h) NANGKA-26 was active in NWPacific. The cyclone affects these countries: [unknown] (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001301"
+      ],
+      "location": "Tropical Storm)."
     }
   ]
 }
