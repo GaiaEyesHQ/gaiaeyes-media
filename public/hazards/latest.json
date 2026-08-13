@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T23:55:34Z",
+  "generated_at": "2026-08-13T02:14:34Z",
   "items": [
     {
       "source": "gdacs",
@@ -1857,46 +1857,14 @@
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Australia",
-      "body": "On 04/08/2026, a forest fire started in Australia,  until 09/08/2026.",
-      "details": "On 04/08/2026, a forest fire started in Australia,  until 09/08/2026.",
+      "body": "On 04/08/2026, a forest fire started in Australia,  until 12/08/2026.",
+      "details": "On 04/08/2026, a forest fire started in Australia,  until 12/08/2026.",
       "lat": null,
       "lon": null,
       "links": [
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030289"
       ],
       "location": "Australia"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1030445",
-      "ts": "2026-08-12T19:46:03Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Tanzania",
-      "body": "On 29/07/2026, a forest fire started in Tanzania,  until 12/08/2026.",
-      "details": "On 29/07/2026, a forest fire started in Tanzania,  until 12/08/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030445"
-      ],
-      "location": "Tanzania"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1030446",
-      "ts": "2026-08-12T19:46:31Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in The Democratic Republic of Congo",
-      "body": "On 29/07/2026, a forest fire started in The Democratic Republic of Congo,  until 12/08/2026.",
-      "details": "On 29/07/2026, a forest fire started in The Democratic Republic of Congo,  until 12/08/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030446"
-      ],
-      "location": "The Democratic Republic of Congo"
     },
     {
       "source": "gdacs",
@@ -1920,11 +1888,11 @@
       "ts": "2026-08-12T22:13:33Z",
       "type": "quake",
       "severity": "info",
-      "title": "227 km E of Levuka, Fiji",
-      "body": "227 km E of Levuka, Fiji",
-      "mag": 5.3,
-      "lat": -17.865,
-      "lon": -178.545,
+      "title": "226 km E of Levuka, Fiji",
+      "body": "226 km E of Levuka, Fiji",
+      "mag": 5.1,
+      "lat": -17.8749,
+      "lon": -178.554,
       "links": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkba"
       ]
@@ -2392,6 +2360,54 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030444"
       ],
       "location": "Angola"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1030446",
+      "ts": "2026-08-12T23:49:57Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in The Democratic Republic of Congo",
+      "body": "On 29/07/2026, a forest fire started in The Democratic Republic of Congo,  until 12/08/2026.",
+      "details": "On 29/07/2026, a forest fire started in The Democratic Republic of Congo,  until 12/08/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030446"
+      ],
+      "location": "The Democratic Republic of Congo"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1030445",
+      "ts": "2026-08-12T23:54:43Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Tanzania",
+      "body": "On 29/07/2026, a forest fire started in Tanzania,  until 12/08/2026.",
+      "details": "On 29/07/2026, a forest fire started in Tanzania,  until 12/08/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030445"
+      ],
+      "location": "Tanzania"
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1557728",
+      "ts": "2026-08-13T00:42:23Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 5.5M, Depth:56.794km) in El Salvador 13/08/2026 00:30 UTC, 230 thousand in MMI IV.",
+      "body": "On 8/13/2026 12:30:04 AM, an earthquake occurred in El Salvador potentially affecting 230 thousand in MMI IV. The earthquake had Magnitude 5.5M, Depth:56.794km.",
+      "details": "On 8/13/2026 12:30:04 AM, an earthquake occurred in El Salvador potentially affecting 230 thousand in MMI IV. The earthquake had Magnitude 5.5M, Depth:56.794km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1557728"
+      ],
+      "location": "El Salvador 13/08/2026 00:30 UTC, 230 thousand in MMI IV."
     }
   ]
 }
