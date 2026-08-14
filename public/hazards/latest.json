@@ -1,21 +1,6 @@
 {
-  "generated_at": "2026-08-14T21:57:36Z",
+  "generated_at": "2026-08-14T22:31:20Z",
   "items": [
-    {
-      "source": "media",
-      "id": "us6000tkba",
-      "ts": "2026-08-12T22:13:33Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "226 km E of Levuka, Fiji",
-      "body": "226 km E of Levuka, Fiji",
-      "mag": 5.1,
-      "lat": -17.8749,
-      "lon": -178.554,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkba"
-      ]
-    },
     {
       "source": "gdacs",
       "id": "WF1030447",
@@ -1435,22 +1420,6 @@
     },
     {
       "source": "gdacs",
-      "id": "WF1030319",
-      "ts": "2026-08-14T19:13:21Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Angola",
-      "body": "On 07/08/2026, a forest fire started in Angola,  until 10/08/2026.",
-      "details": "On 07/08/2026, a forest fire started in Angola,  until 10/08/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030319"
-      ],
-      "location": "Angola"
-    },
-    {
-      "source": "gdacs",
       "id": "WF1030505",
       "ts": "2026-08-14T19:14:47Z",
       "type": "wildfire",
@@ -1704,6 +1673,21 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030418"
       ],
       "location": "Indonesia"
+    },
+    {
+      "source": "usgs",
+      "id": "6000tkt2",
+      "ts": "2026-08-14T21:58:21Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "M 7.7 - 68 km NNW of Ende, Indonesia",
+      "body": "68 km NNW of Ende, Indonesia",
+      "mag": 7.7,
+      "lat": -8.3101,
+      "lon": 121.3517,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2"
+      ]
     }
   ]
 }
