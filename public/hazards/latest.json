@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T23:55:23Z",
+  "generated_at": "2026-08-14T02:08:51Z",
   "items": [
     {
       "source": "gdacs",
@@ -294,8 +294,8 @@
       "type": "cyclone",
       "severity": "info",
       "title": "Green notification for tropical cyclone NANGKA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
-      "body": "From 12/08/2026 to 13/08/2026, a Tropical Storm (maximum wind speed of 65 km/h) NANGKA-26 was active in NWPacific. The cyclone affects these countries: [unknown] (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
-      "details": "From 12/08/2026 to 13/08/2026, a Tropical Storm (maximum wind speed of 65 km/h) NANGKA-26 was active in NWPacific. The cyclone affects these countries: [unknown] (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
+      "body": "From 12/08/2026 to 14/08/2026, a Tropical Depression (maximum wind speed of 65 km/h) NANGKA-26 was active in NWPacific. The cyclone affects these countries: [unknown] (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
+      "details": "From 12/08/2026 to 14/08/2026, a Tropical Depression (maximum wind speed of 65 km/h) NANGKA-26 was active in NWPacific. The cyclone affects these countries: [unknown] (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
       "lat": null,
       "lon": null,
       "links": [
@@ -1513,38 +1513,6 @@
     },
     {
       "source": "gdacs",
-      "id": "WF1030418",
-      "ts": "2026-08-13T19:38:35Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Indonesia",
-      "body": "On 01/08/2026, a forest fire started in Indonesia,  until 12/08/2026.",
-      "details": "On 01/08/2026, a forest fire started in Indonesia,  until 12/08/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030418"
-      ],
-      "location": "Indonesia"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1030480",
-      "ts": "2026-08-13T19:41:46Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in The Democratic Republic of Congo",
-      "body": "On 01/08/2026, a forest fire started in The Democratic Republic of Congo,  until 13/08/2026.",
-      "details": "On 01/08/2026, a forest fire started in The Democratic Republic of Congo,  until 13/08/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030480"
-      ],
-      "location": "The Democratic Republic of Congo"
-    },
-    {
-      "source": "gdacs",
       "id": "WF1030445",
       "ts": "2026-08-13T19:50:27Z",
       "type": "wildfire",
@@ -2006,6 +1974,38 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030440"
       ],
       "location": "Angola"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1030480",
+      "ts": "2026-08-13T23:39:37Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in The Democratic Republic of Congo",
+      "body": "On 01/08/2026, a forest fire started in The Democratic Republic of Congo,  until 13/08/2026.",
+      "details": "On 01/08/2026, a forest fire started in The Democratic Republic of Congo,  until 13/08/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030480"
+      ],
+      "location": "The Democratic Republic of Congo"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1030418",
+      "ts": "2026-08-13T23:40:13Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Indonesia",
+      "body": "On 01/08/2026, a forest fire started in Indonesia,  until 12/08/2026.",
+      "details": "On 01/08/2026, a forest fire started in Indonesia,  until 12/08/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030418"
+      ],
+      "location": "Indonesia"
     }
   ]
 }
