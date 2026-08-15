@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T06:12:51Z",
+  "generated_at": "2026-08-15T07:01:25Z",
   "items": [
     {
       "source": "gdacs",
@@ -946,21 +946,6 @@
       "location": "Indonesia 14/08/2026 21:58 UTC, 1.7 million (in MMI>=VII)."
     },
     {
-      "source": "media",
-      "id": "us6000tkuf",
-      "ts": "2026-08-14T22:37:17Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "49 km NE of Labuan Bajo, Indonesia",
-      "body": "49 km NE of Labuan Bajo, Indonesia",
-      "mag": 5.5,
-      "lat": -8.1604,
-      "lon": 120.1908,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkuf"
-      ]
-    },
-    {
       "source": "gdacs",
       "id": "EQ1558065",
       "ts": "2026-08-14T22:43:31Z",
@@ -1768,9 +1753,56 @@
       ]
     },
     {
+      "source": "media",
+      "id": "us6000tkwj",
+      "ts": "2026-08-15T05:45:08Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "62 km NNW of Ende, Indonesia",
+      "body": "62 km NNW of Ende, Indonesia",
+      "mag": 5,
+      "lat": -8.3681,
+      "lon": 121.3609,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkwj"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "FL1104090",
+      "ts": "2026-08-15T06:04:07Z",
+      "type": "flood",
+      "severity": "info",
+      "title": "Green flood alert in Japan",
+      "body": "On 13/08/2026, a flood started in Japan, lasting until 15/08/2026 (last update). The flood caused 8 deaths and 7359 displaced .",
+      "details": "On 13/08/2026, a flood started in Japan, lasting until 15/08/2026 (last update). The flood caused 8 deaths and 7359 displaced .",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104090"
+      ],
+      "location": "Japan"
+    },
+    {
+      "source": "gdacs",
+      "id": "FL1104091",
+      "ts": "2026-08-15T06:04:29Z",
+      "type": "flood",
+      "severity": "info",
+      "title": "Green flood alert in Nepal",
+      "body": "On 12/08/2026, a flood started in Nepal, lasting until 14/08/2026 (last update). The flood caused 11 deaths and 37 displaced .",
+      "details": "On 12/08/2026, a flood started in Nepal, lasting until 14/08/2026 (last update). The flood caused 11 deaths and 37 displaced .",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104091"
+      ],
+      "location": "Nepal"
+    },
+    {
       "source": "gdacs",
       "id": "FL1104053",
-      "ts": "2026-08-15T05:56:02Z",
+      "ts": "2026-08-15T06:36:53Z",
       "type": "flood",
       "severity": "info",
       "title": "Green flood alert in Italy",
