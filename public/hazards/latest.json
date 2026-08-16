@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T17:53:36Z",
+  "generated_at": "2026-08-16T18:32:24Z",
   "items": [
     {
       "source": "gdacs",
@@ -1658,22 +1658,6 @@
     },
     {
       "source": "gdacs",
-      "id": "FL1104053",
-      "ts": "2026-08-16T15:16:38Z",
-      "type": "flood",
-      "severity": "info",
-      "title": "Green flood alert in Italy",
-      "body": "On 26/07/2026, a flood started in Italy, lasting until 15/08/2026 (last update). The flood caused 0 deaths and 183 displaced .",
-      "details": "On 26/07/2026, a flood started in Italy, lasting until 15/08/2026 (last update). The flood caused 0 deaths and 183 displaced .",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104053"
-      ],
-      "location": "Italy"
-    },
-    {
-      "source": "gdacs",
       "id": "WF1030551",
       "ts": "2026-08-16T15:17:08Z",
       "type": "wildfire",
@@ -1862,6 +1846,22 @@
       "links": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015e8n"
       ]
+    },
+    {
+      "source": "gdacs",
+      "id": "FL1104053",
+      "ts": "2026-08-16T18:16:44Z",
+      "type": "flood",
+      "severity": "info",
+      "title": "Green flood alert in Italy",
+      "body": "On 26/07/2026, a flood started in Italy, lasting until 15/08/2026 (last update). The flood caused 0 deaths and 183 displaced .",
+      "details": "On 26/07/2026, a flood started in Italy, lasting until 15/08/2026 (last update). The flood caused 0 deaths and 183 displaced .",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104053"
+      ],
+      "location": "Italy"
     }
   ]
 }
