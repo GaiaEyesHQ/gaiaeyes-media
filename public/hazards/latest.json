@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T12:59:10Z",
+  "generated_at": "2026-08-17T13:46:55Z",
   "items": [
     {
       "source": "gdacs",
@@ -560,21 +560,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030532"
       ],
       "location": "Indonesia"
-    },
-    {
-      "source": "media",
-      "id": "usd0015e7p",
-      "ts": "2026-08-16T10:59:10Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "112 km ESE of Madang, Papua New Guinea",
-      "body": "112 km ESE of Madang, Papua New Guinea",
-      "mag": 5.1,
-      "lat": -5.5481,
-      "lon": 146.7476,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015e7p"
-      ]
     },
     {
       "source": "gdacs",
@@ -2166,6 +2151,37 @@
         "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104053"
       ],
       "location": "Italy"
+    },
+    {
+      "source": "media",
+      "id": "usd0015edq",
+      "ts": "2026-08-17T12:38:03Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "72 km E of Petropavlovsk-Kamchatsky, Russia",
+      "body": "72 km E of Petropavlovsk-Kamchatsky, Russia",
+      "mag": 5.8,
+      "lat": 53.024,
+      "lon": 159.7106,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015edq"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1559459",
+      "ts": "2026-08-17T12:58:53Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 5.8M, Depth:54.741km) in Russian Federation 17/08/2026 12:38 UTC, 230 thousand in MMI IV.",
+      "body": "On 8/17/2026 12:38:04 PM, an earthquake occurred in Russian Federation potentially affecting 230 thousand in MMI IV. The earthquake had Magnitude 5.8M, Depth:54.741km.",
+      "details": "On 8/17/2026 12:38:04 PM, an earthquake occurred in Russian Federation potentially affecting 230 thousand in MMI IV. The earthquake had Magnitude 5.8M, Depth:54.741km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1559459"
+      ],
+      "location": "Russian Federation 17/08/2026 12:38 UTC, 230 thousand in MMI IV."
     }
   ]
 }
