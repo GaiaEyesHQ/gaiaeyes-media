@@ -1,22 +1,6 @@
 {
-  "generated_at": "2026-08-17T16:42:30Z",
+  "generated_at": "2026-08-17T17:12:00Z",
   "items": [
-    {
-      "source": "gdacs",
-      "id": "EQ1558505",
-      "ts": "2026-08-15T16:43:23Z",
-      "type": "quake",
-      "severity": "red",
-      "title": "Green earthquake (Magnitude 5.7M, Depth:72.495km) in Indonesia 15/08/2026 16:25 UTC, 660 thousand in MMI IV.",
-      "body": "On 8/15/2026 4:25:18 PM, an earthquake occurred in Indonesia potentially affecting 660 thousand in MMI IV. The earthquake had Magnitude 5.7M, Depth:72.495km.",
-      "details": "On 8/15/2026 4:25:18 PM, an earthquake occurred in Indonesia potentially affecting 660 thousand in MMI IV. The earthquake had Magnitude 5.7M, Depth:72.495km.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1558505"
-      ],
-      "location": "Indonesia 15/08/2026 16:25 UTC, 660 thousand in MMI IV."
-    },
     {
       "source": "gdacs",
       "id": "WF1030533",
@@ -1118,38 +1102,6 @@
       "location": "Russian Federation"
     },
     {
-      "source": "gdacs",
-      "id": "WF1030605",
-      "ts": "2026-08-17T03:41:44Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Brazil",
-      "body": "On 04/08/2026, a forest fire started in Brazil,  until 16/08/2026.",
-      "details": "On 04/08/2026, a forest fire started in Brazil,  until 16/08/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030605"
-      ],
-      "location": "Brazil"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1030453",
-      "ts": "2026-08-17T03:42:46Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Angola",
-      "body": "On 04/08/2026, a forest fire started in Angola,  until 13/08/2026.",
-      "details": "On 04/08/2026, a forest fire started in Angola,  until 13/08/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030453"
-      ],
-      "location": "Angola"
-    },
-    {
       "source": "media",
       "id": "usd0015ebj",
       "ts": "2026-08-17T03:48:04Z",
@@ -1990,6 +1942,38 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030603"
       ],
       "location": "The Democratic Republic of Congo"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1030453",
+      "ts": "2026-08-17T16:36:05Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Angola",
+      "body": "On 04/08/2026, a forest fire started in Angola,  until 13/08/2026.",
+      "details": "On 04/08/2026, a forest fire started in Angola,  until 13/08/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030453"
+      ],
+      "location": "Angola"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1030605",
+      "ts": "2026-08-17T16:38:46Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Brazil",
+      "body": "On 04/08/2026, a forest fire started in Brazil,  until 16/08/2026.",
+      "details": "On 04/08/2026, a forest fire started in Brazil,  until 16/08/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030605"
+      ],
+      "location": "Brazil"
     }
   ]
 }
