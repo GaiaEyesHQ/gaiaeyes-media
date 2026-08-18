@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T13:59:48Z",
+  "generated_at": "2026-08-18T14:43:45Z",
   "items": [
     {
       "source": "gdacs",
@@ -311,15 +311,15 @@
       "ts": "2026-08-17T01:00:14Z",
       "type": "quake",
       "severity": "red",
-      "title": "Green earthquake (Magnitude 5.7M, Depth:48.947km) in Indonesia 17/08/2026 00:46 UTC, 840 thousand in MMI IV.",
-      "body": "On 8/17/2026 12:46:45 AM, an earthquake occurred in Indonesia potentially affecting 840 thousand in MMI IV. The earthquake had Magnitude 5.7M, Depth:48.947km.",
-      "details": "On 8/17/2026 12:46:45 AM, an earthquake occurred in Indonesia potentially affecting 840 thousand in MMI IV. The earthquake had Magnitude 5.7M, Depth:48.947km.",
+      "title": "Green earthquake (Magnitude 5.7M, Depth:48.947km) in Indonesia 17/08/2026 00:46 UTC, 40 thousand in MMI V.",
+      "body": "On 8/17/2026 12:46:45 AM, an earthquake occurred in Indonesia potentially affecting 40 thousand in MMI V. The earthquake had Magnitude 5.7M, Depth:48.947km.",
+      "details": "On 8/17/2026 12:46:45 AM, an earthquake occurred in Indonesia potentially affecting 40 thousand in MMI V. The earthquake had Magnitude 5.7M, Depth:48.947km.",
       "lat": null,
       "lon": null,
       "links": [
         "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1559203"
       ],
-      "location": "Indonesia 17/08/2026 00:46 UTC, 840 thousand in MMI IV."
+      "location": "Indonesia 17/08/2026 00:46 UTC, 40 thousand in MMI V."
     },
     {
       "source": "gdacs",
@@ -2185,22 +2185,6 @@
     },
     {
       "source": "gdacs",
-      "id": "FL1104053",
-      "ts": "2026-08-18T12:36:37Z",
-      "type": "flood",
-      "severity": "info",
-      "title": "Green flood alert in Italy",
-      "body": "On 26/07/2026, a flood started in Italy, lasting until 15/08/2026 (last update). The flood caused 0 deaths and 183 displaced .",
-      "details": "On 26/07/2026, a flood started in Italy, lasting until 15/08/2026 (last update). The flood caused 0 deaths and 183 displaced .",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104053"
-      ],
-      "location": "Italy"
-    },
-    {
-      "source": "gdacs",
       "id": "TC1001305",
       "ts": "2026-08-18T13:37:43Z",
       "type": "cyclone",
@@ -2214,6 +2198,22 @@
         "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001305"
       ],
       "location": "Tropical Storm)."
+    },
+    {
+      "source": "gdacs",
+      "id": "FL1104053",
+      "ts": "2026-08-18T14:26:47Z",
+      "type": "flood",
+      "severity": "info",
+      "title": "Green flood alert in Italy",
+      "body": "On 26/07/2026, a flood started in Italy, lasting until 15/08/2026 (last update). The flood caused 0 deaths and 183 displaced .",
+      "details": "On 26/07/2026, a flood started in Italy, lasting until 15/08/2026 (last update). The flood caused 0 deaths and 183 displaced .",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104053"
+      ],
+      "location": "Italy"
     }
   ]
 }
