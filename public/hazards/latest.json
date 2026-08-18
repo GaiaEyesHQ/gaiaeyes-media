@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T05:59:27Z",
+  "generated_at": "2026-08-18T06:58:01Z",
   "items": [
     {
       "source": "gdacs",
@@ -768,21 +768,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030600"
       ],
       "location": "Zambia"
-    },
-    {
-      "source": "media",
-      "id": "usd0015ebi",
-      "ts": "2026-08-17T03:36:39Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "68 km NNW of Ende, Indonesia",
-      "body": "68 km NNW of Ende, Indonesia",
-      "mag": 5.3,
-      "lat": -8.278,
-      "lon": 121.407,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/usd0015ebi"
-      ]
     },
     {
       "source": "gdacs",
@@ -2184,9 +2169,40 @@
       "location": "Mexico 18/08/2026 05:02 UTC, 320 thousand in MMI IV."
     },
     {
+      "source": "media",
+      "id": "us6000tlkt",
+      "ts": "2026-08-18T06:02:20Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "154 km SSE of Teluk Dalam, Indonesia",
+      "body": "154 km SSE of Teluk Dalam, Indonesia",
+      "mag": 5.6,
+      "lat": -0.6858,
+      "lon": 98.416,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlkt"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1559738",
+      "ts": "2026-08-18T06:26:05Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 5.6M, Depth:10km) in Indonesia 18/08/2026 06:02 UTC, 3 thousand in MMI V.",
+      "body": "On 8/18/2026 6:02:20 AM, an earthquake occurred in Indonesia potentially affecting 3 thousand in MMI V. The earthquake had Magnitude 5.6M, Depth:10km.",
+      "details": "On 8/18/2026 6:02:20 AM, an earthquake occurred in Indonesia potentially affecting 3 thousand in MMI V. The earthquake had Magnitude 5.6M, Depth:10km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1559738"
+      ],
+      "location": "Indonesia 18/08/2026 06:02 UTC, 3 thousand in MMI V."
+    },
+    {
       "source": "gdacs",
       "id": "FL1104053",
-      "ts": "2026-08-18T05:26:19Z",
+      "ts": "2026-08-18T06:55:51Z",
       "type": "flood",
       "severity": "info",
       "title": "Green flood alert in Italy",
