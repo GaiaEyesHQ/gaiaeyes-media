@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T17:00:37Z",
+  "generated_at": "2026-08-19T17:35:10Z",
   "items": [
     {
       "source": "gdacs",
@@ -1356,22 +1356,6 @@
     },
     {
       "source": "gdacs",
-      "id": "FL1104053",
-      "ts": "2026-08-19T12:15:51Z",
-      "type": "flood",
-      "severity": "info",
-      "title": "Green flood alert in Italy",
-      "body": "On 26/07/2026, a flood started in Italy, lasting until 15/08/2026 (last update). The flood caused 0 deaths and 183 displaced .",
-      "details": "On 26/07/2026, a flood started in Italy, lasting until 15/08/2026 (last update). The flood caused 0 deaths and 183 displaced .",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104053"
-      ],
-      "location": "Italy"
-    },
-    {
-      "source": "gdacs",
       "id": "WF1030727",
       "ts": "2026-08-19T15:00:36Z",
       "type": "wildfire",
@@ -2329,6 +2313,53 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030605"
       ],
       "location": "Brazil"
+    },
+    {
+      "source": "media",
+      "id": "us6000tlxq",
+      "ts": "2026-08-19T16:17:38Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "52 km NNE of Ruteng, Indonesia",
+      "body": "52 km NNE of Ruteng, Indonesia",
+      "mag": 5.5,
+      "lat": -8.1769,
+      "lon": 120.6643,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlxq"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1560289",
+      "ts": "2026-08-19T16:38:43Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 5.5M, Depth:10km) in Indonesia 19/08/2026 16:17 UTC, 50 thousand in MMI V.",
+      "body": "On 8/19/2026 4:17:38 PM, an earthquake occurred in Indonesia potentially affecting 50 thousand in MMI V. The earthquake had Magnitude 5.5M, Depth:10km.",
+      "details": "On 8/19/2026 4:17:38 PM, an earthquake occurred in Indonesia potentially affecting 50 thousand in MMI V. The earthquake had Magnitude 5.5M, Depth:10km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1560289"
+      ],
+      "location": "Indonesia 19/08/2026 16:17 UTC, 50 thousand in MMI V."
+    },
+    {
+      "source": "gdacs",
+      "id": "FL1104053",
+      "ts": "2026-08-19T17:16:04Z",
+      "type": "flood",
+      "severity": "info",
+      "title": "Green flood alert in Italy",
+      "body": "On 26/07/2026, a flood started in Italy, lasting until 15/08/2026 (last update). The flood caused 0 deaths and 183 displaced .",
+      "details": "On 26/07/2026, a flood started in Italy, lasting until 15/08/2026 (last update). The flood caused 0 deaths and 183 displaced .",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104053"
+      ],
+      "location": "Italy"
     }
   ]
 }
