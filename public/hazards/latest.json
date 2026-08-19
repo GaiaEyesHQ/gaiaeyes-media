@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T08:04:23Z",
+  "generated_at": "2026-08-19T08:51:41Z",
   "items": [
     {
       "source": "gdacs",
@@ -928,9 +928,9 @@
       "ts": "2026-08-18T13:37:43Z",
       "type": "cyclone",
       "severity": "info",
-      "title": "Green notification for tropical cyclone SEVENTEEN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
-      "body": "From 18/08/2026 to 19/08/2026, a Tropical Depression (maximum wind speed of 231 km/h) SEVENTEEN-26 was active in NWPacific. The cyclone affects these countries: Northern Mariana Islands (vulnerability Medium). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
-      "details": "From 18/08/2026 to 19/08/2026, a Tropical Depression (maximum wind speed of 231 km/h) SEVENTEEN-26 was active in NWPacific. The cyclone affects these countries: Northern Mariana Islands (vulnerability Medium). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
+      "title": "Green notification for tropical cyclone SAUDEL-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
+      "body": "From 18/08/2026 to 19/08/2026, a Tropical Storm (maximum wind speed of 231 km/h) SAUDEL-26 was active in NWPacific. The cyclone affects these countries: Northern Mariana Islands (vulnerability Medium). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
+      "details": "From 18/08/2026 to 19/08/2026, a Tropical Storm (maximum wind speed of 231 km/h) SAUDEL-26 was active in NWPacific. The cyclone affects these countries: Northern Mariana Islands (vulnerability Medium). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
       "lat": null,
       "lon": null,
       "links": [
@@ -1393,8 +1393,8 @@
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Brazil",
-      "body": "On 05/08/2026, a forest fire started in Brazil,  until 18/08/2026.",
-      "details": "On 05/08/2026, a forest fire started in Brazil,  until 18/08/2026.",
+      "body": "On 05/08/2026, a forest fire started in Brazil,  until 19/08/2026.",
+      "details": "On 05/08/2026, a forest fire started in Brazil,  until 19/08/2026.",
       "lat": null,
       "lon": null,
       "links": [
@@ -1454,15 +1454,15 @@
       "ts": "2026-08-18T21:53:18Z",
       "type": "quake",
       "severity": "red",
-      "title": "Green earthquake (Magnitude 5.9M, Depth:6km) in China 18/08/2026 21:36 UTC, 20 thousand in 100km.",
-      "body": "On 8/18/2026 9:36:29 PM, an earthquake occurred in China potentially affecting 20 thousand in 100km. The earthquake had Magnitude 5.9M, Depth:6km.",
-      "details": "On 8/18/2026 9:36:29 PM, an earthquake occurred in China potentially affecting 20 thousand in 100km. The earthquake had Magnitude 5.9M, Depth:6km.",
+      "title": "Green earthquake (Magnitude 5.9M, Depth:6km) in China 18/08/2026 21:36 UTC, 8 thousand in MMI VI.",
+      "body": "On 8/18/2026 9:36:29 PM, an earthquake occurred in China potentially affecting 8 thousand in MMI VI. The earthquake had Magnitude 5.9M, Depth:6km.",
+      "details": "On 8/18/2026 9:36:29 PM, an earthquake occurred in China potentially affecting 8 thousand in MMI VI. The earthquake had Magnitude 5.9M, Depth:6km.",
       "lat": null,
       "lon": null,
       "links": [
         "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1559992"
       ],
-      "location": "China 18/08/2026 21:36 UTC, 20 thousand in 100km."
+      "location": "China 18/08/2026 21:36 UTC, 8 thousand in MMI VI."
     },
     {
       "source": "gdacs",
@@ -2662,6 +2662,38 @@
         "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104053"
       ],
       "location": "Italy"
+    },
+    {
+      "source": "gdacs",
+      "id": "FL1104103",
+      "ts": "2026-08-19T08:04:10Z",
+      "type": "flood",
+      "severity": "info",
+      "title": "Green flood alert in Georgia",
+      "body": "On 14/08/2026, a flood started in Georgia, lasting until 15/08/2026 (last update). The flood caused 0 deaths and 3 displaced .",
+      "details": "On 14/08/2026, a flood started in Georgia, lasting until 15/08/2026 (last update). The flood caused 0 deaths and 3 displaced .",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104103"
+      ],
+      "location": "Georgia"
+    },
+    {
+      "source": "gdacs",
+      "id": "FL1104104",
+      "ts": "2026-08-19T08:04:22Z",
+      "type": "flood",
+      "severity": "info",
+      "title": "Green flood alert in Indonesia",
+      "body": "On 15/08/2026, a flood started in Indonesia, lasting until 18/08/2026 (last update). The flood caused 0 deaths and 0 displaced .",
+      "details": "On 15/08/2026, a flood started in Indonesia, lasting until 18/08/2026 (last update). The flood caused 0 deaths and 0 displaced .",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104104"
+      ],
+      "location": "Indonesia"
     }
   ]
 }
