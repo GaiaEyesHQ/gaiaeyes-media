@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T21:16:43Z",
+  "generated_at": "2026-08-20T21:48:10Z",
   "items": [
     {
       "source": "gdacs",
@@ -7,15 +7,15 @@
       "ts": "2026-08-18T21:53:18Z",
       "type": "quake",
       "severity": "red",
-      "title": "Green earthquake (Magnitude 5.9M, Depth:6km) in China 18/08/2026 21:36 UTC, 8 thousand in MMI VI.",
-      "body": "On 8/18/2026 9:36:29 PM, an earthquake occurred in China potentially affecting 8 thousand in MMI VI. The earthquake had Magnitude 5.9M, Depth:6km.",
-      "details": "On 8/18/2026 9:36:29 PM, an earthquake occurred in China potentially affecting 8 thousand in MMI VI. The earthquake had Magnitude 5.9M, Depth:6km.",
+      "title": "Green earthquake (Magnitude 5.5M, Depth:6km) in China 18/08/2026 21:36 UTC, 20 thousand in 100km.",
+      "body": "On 8/18/2026 9:36:27 PM, an earthquake occurred in China potentially affecting 20 thousand in 100km. The earthquake had Magnitude 5.5M, Depth:6km.",
+      "details": "On 8/18/2026 9:36:27 PM, an earthquake occurred in China potentially affecting 20 thousand in 100km. The earthquake had Magnitude 5.5M, Depth:6km.",
       "lat": null,
       "lon": null,
       "links": [
         "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1559992"
       ],
-      "location": "China 18/08/2026 21:36 UTC, 8 thousand in MMI VI."
+      "location": "China 18/08/2026 21:36 UTC, 20 thousand in 100km."
     },
     {
       "source": "gdacs",
@@ -3559,6 +3559,22 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030795"
       ],
       "location": "The Democratic Republic of Congo"
+    },
+    {
+      "source": "gdacs",
+      "id": "TC1001307",
+      "ts": "2026-08-20T21:39:02Z",
+      "type": "cyclone",
+      "severity": "info",
+      "title": "Green notification for tropical cyclone EIGHTEEN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
+      "body": "From 20/08/2026 to 20/08/2026, a Tropical Depression (maximum wind speed of 56 km/h) EIGHTEEN-26 was active in NWPacific. The cyclone affects these countries: [unknown] (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
+      "details": "From 20/08/2026 to 20/08/2026, a Tropical Depression (maximum wind speed of 56 km/h) EIGHTEEN-26 was active in NWPacific. The cyclone affects these countries: [unknown] (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001307"
+      ],
+      "location": "Tropical Storm)."
     }
   ]
 }
