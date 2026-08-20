@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T07:53:52Z",
+  "generated_at": "2026-08-20T08:40:59Z",
   "items": [
     {
       "source": "gdacs",
@@ -648,8 +648,8 @@
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Brazil",
-      "body": "On 05/08/2026, a forest fire started in Brazil,  until 19/08/2026.",
-      "details": "On 05/08/2026, a forest fire started in Brazil,  until 19/08/2026.",
+      "body": "On 05/08/2026, a forest fire started in Brazil,  until 20/08/2026.",
+      "details": "On 05/08/2026, a forest fire started in Brazil,  until 20/08/2026.",
       "lat": null,
       "lon": null,
       "links": [
@@ -672,36 +672,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030653"
       ],
       "location": "The Democratic Republic of Congo"
-    },
-    {
-      "source": "media",
-      "id": "us6000tlqq",
-      "ts": "2026-08-18T19:51:09Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "35 km SSW of Jurm, Afghanistan",
-      "body": "35 km SSW of Jurm, Afghanistan",
-      "mag": 5.3,
-      "lat": 36.5535,
-      "lon": 70.7551,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlqq"
-      ]
-    },
-    {
-      "source": "media",
-      "id": "us6000tlrj",
-      "ts": "2026-08-18T21:36:28Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "270 km WSW of Yanglong, China",
-      "body": "270 km WSW of Yanglong, China",
-      "mag": 5.9,
-      "lat": 37.8208,
-      "lon": 95.6095,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tlrj"
-      ]
     },
     {
       "source": "gdacs",
@@ -2329,22 +2299,6 @@
     },
     {
       "source": "gdacs",
-      "id": "WF1030795",
-      "ts": "2026-08-20T03:43:44Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in The Democratic Republic of Congo",
-      "body": "On 06/08/2026, a forest fire started in The Democratic Republic of Congo,  until 19/08/2026.",
-      "details": "On 06/08/2026, a forest fire started in The Democratic Republic of Congo,  until 19/08/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030795"
-      ],
-      "location": "The Democratic Republic of Congo"
-    },
-    {
-      "source": "gdacs",
       "id": "FL1104106",
       "ts": "2026-08-20T06:53:30Z",
       "type": "flood",
@@ -3238,6 +3192,37 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030793"
       ],
       "location": "The Democratic Republic of Congo"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1030795",
+      "ts": "2026-08-20T07:47:14Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in The Democratic Republic of Congo",
+      "body": "On 06/08/2026, a forest fire started in The Democratic Republic of Congo,  until 19/08/2026.",
+      "details": "On 06/08/2026, a forest fire started in The Democratic Republic of Congo,  until 19/08/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030795"
+      ],
+      "location": "The Democratic Republic of Congo"
+    },
+    {
+      "source": "media",
+      "id": "us6000tm2k",
+      "ts": "2026-08-20T08:01:33Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "43 km N of Ruteng, Indonesia",
+      "body": "43 km N of Ruteng, Indonesia",
+      "mag": 5,
+      "lat": -8.2196,
+      "lon": 120.4879,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tm2k"
+      ]
     }
   ]
 }
