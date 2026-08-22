@@ -1,34 +1,32 @@
 {
   "status": "ok",
-  "timestamp_utc": "2026-08-22T18:42:54.357092+00:00",
+  "timestamp_utc": "2026-08-22T19:09:29.348846+00:00",
   "primary": "cumiana",
   "primary_quality_score": 1.0,
   "primary_quality_reasons": [],
   "overlay_path": "runs/cumiana_overlay.png",
   "sources": {
     "tomsk": {
-      "status": "no_recent_data",
+      "status": "ok",
       "source": "tomsk",
-      "timestamp_utc": "2026-08-22T18:42:53.148196+00:00",
+      "timestamp_utc": "2026-08-22T19:09:28.088461+00:00",
       "last_modified": null,
-      "fundamental_hz": null,
+      "fundamental_hz": 7.7,
       "harmonics_hz": {
-        "F1": null,
-        "F2": null,
-        "F3": null,
-        "F4": null,
-        "F5": null
+        "F1": 7.7,
+        "F2": 13.799999999999999,
+        "F3": 21.0,
+        "F4": 28.2,
+        "F5": 35.4
       },
       "amplitude_idx": {},
-      "quality_score": 0.0,
-      "usable": false,
-      "quality_reasons": [
-        "status_no_recent_data"
-      ],
+      "quality_score": 0.8197891241625737,
+      "usable": true,
+      "quality_reasons": [],
       "confidence": "high-panels",
       "overlay_path": "runs/tomsk_overlay.png",
       "raw": {
-        "tsst_time": "2026-08-23T01:42:53.130320+00:00",
+        "tsst_time": "2026-08-23T02:09:28.060955+00:00",
         "roi": {
           "x0": 59,
           "y0": 31,
@@ -37,45 +35,58 @@
         },
         "group_boundaries_px": {
           "x_day0": 59,
-          "x_day1": 558,
-          "x_day2": 1057,
-          "day_w": 499.0,
+          "x_day1": 566,
+          "x_day2": 1073,
+          "day_w": 507.0,
           "x_day1_time": 522,
           "x_day2_time": 986,
           "day_w_time": 463.3333333333333
         },
         "debug": {
-          "x_frontier": 988,
+          "x_frontier": 1062,
           "frontier_method": "activity_scan",
-          "frontier_activity_thr": 0.6892488151788712,
-          "frontier_activity_right_tail": 0.008854901418089867,
+          "frontier_activity_thr": 0.6905391246080398,
+          "frontier_activity_right_tail": 0.008823511190712452,
           "frontier_activity_run_px": 8,
           "x1_exclude_right_px": 90,
           "guard_px": 6,
-          "x_time": 1019,
-          "x_ideal": 1019,
-          "x_now": 982,
-          "right_guard": 982,
-          "delta_min_to_guard": -114.9928057553957,
+          "x_time": 1028,
+          "x_ideal": 1028,
+          "x_now": 1056,
+          "right_guard": 1056,
+          "delta_min_to_guard": 87.02158273381295,
           "pph": 19.305555555555554,
           "pph_source": "day_width",
-          "tick_count": 15,
-          "tick_quality": 0.20833333333333334,
+          "tick_count": 16,
+          "tick_quality": 0.2222222222222222,
           "tick_used": false,
           "bias_minutes_applied": 0.0,
           "measured_bias_minutes": null,
           "guard_applied": true,
           "age_hours": null,
           "stale_hours": 6.0,
-          "plausibility_reject_f2_count": 0,
+          "plausibility_reject_f2_count": 1,
           "plausibility_selected_f2_rank": null,
-          "family_scoring_used": false,
-          "family_best_f1": null,
-          "family_best_score": null,
-          "family_candidate_count": 0,
-          "family_top3": [],
+          "family_scoring_used": true,
+          "family_best_f1": 7.2,
+          "family_best_score": 3.1151986718177795,
+          "family_candidate_count": 30,
+          "family_top3": [
+            {
+              "f1": 7.2,
+              "score": 3.1151986718177795
+            },
+            {
+              "f1": 7.25,
+              "score": 3.1073016643524167
+            },
+            {
+              "f1": 7.3,
+              "score": 3.0950733423233032
+            }
+          ],
           "family_score_threshold": 1.35,
-          "family_fallback_used": true
+          "family_fallback_used": false
         },
         "method": "tick-ruler px/h + adaptive frontier guard; day3(48–72h) time-anchor; stage1 plausibility gate + stage2 family scoring"
       }
@@ -83,7 +94,7 @@
     "cumiana": {
       "status": "ok",
       "source": "cumiana",
-      "timestamp_utc": "2026-08-22T18:42:54.331069+00:00",
+      "timestamp_utc": "2026-08-22T19:09:29.320002+00:00",
       "last_modified": "2026-08-14T16:00:10+00:00",
       "fundamental_hz": 6.85,
       "harmonics_hz": {
