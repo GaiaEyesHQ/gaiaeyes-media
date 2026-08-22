@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T08:40:05Z",
+  "generated_at": "2026-08-22T09:03:33Z",
   "items": [
     {
       "source": "gdacs",
@@ -992,21 +992,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030865"
       ],
       "location": "Bosnia and Herzegovina"
-    },
-    {
-      "source": "media",
-      "id": "us6000tmer",
-      "ts": "2026-08-21T09:12:20Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "19 km W of Jabonga, Philippines",
-      "body": "19 km W of Jabonga, Philippines",
-      "mag": 5.2,
-      "lat": 9.3382,
-      "lon": 125.342,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmer"
-      ]
     },
     {
       "source": "media",
@@ -2568,18 +2553,18 @@
       "location": "Scotia Sea 22/08/2026 07:40 UTC, [unknown]."
     },
     {
-      "source": "usgs",
-      "id": "tk5wls",
-      "ts": "2026-08-22T08:22:40Z",
+      "source": "media",
+      "id": "us6000tmrw",
+      "ts": "2026-08-22T08:22:37Z",
       "type": "quake",
       "severity": "yellow",
-      "title": "M 6.7 - Scotia Sea",
+      "title": "Scotia Sea",
       "body": "Scotia Sea",
-      "mag": 6.7,
-      "lat": -60.5,
-      "lon": -47.2,
+      "mag": 6.2,
+      "lat": -60.3789,
+      "lon": -47.6047,
       "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/attk5wls"
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmrw"
       ]
     },
     {
@@ -2597,6 +2582,22 @@
         "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104112"
       ],
       "location": "Uruguay"
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1561143",
+      "ts": "2026-08-22T08:35:43Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 6.2M, Depth:10km) in Scotia Sea 22/08/2026 08:22 UTC, [unknown].",
+      "body": "On 8/22/2026 8:22:37 AM, an earthquake occurred in Scotia Sea potentially affecting [unknown]. The earthquake had Magnitude 6.2M, Depth:10km.",
+      "details": "On 8/22/2026 8:22:37 AM, an earthquake occurred in Scotia Sea potentially affecting [unknown]. The earthquake had Magnitude 6.2M, Depth:10km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1561143"
+      ],
+      "location": "Scotia Sea 22/08/2026 08:22 UTC, [unknown]."
     }
   ]
 }
