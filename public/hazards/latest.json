@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T07:58:57Z",
+  "generated_at": "2026-08-22T08:40:05Z",
   "items": [
     {
       "source": "gdacs",
@@ -727,9 +727,9 @@
       "ts": "2026-08-20T21:39:02Z",
       "type": "cyclone",
       "severity": "info",
-      "title": "Green notification for tropical cyclone EIGHTEEN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
-      "body": "From 20/08/2026 to 22/08/2026, a Tropical Storm (maximum wind speed of 65 km/h) EIGHTEEN-26 was active in NWPacific. The cyclone affects these countries: China, Viet Nam (vulnerability Medium). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
-      "details": "From 20/08/2026 to 22/08/2026, a Tropical Storm (maximum wind speed of 65 km/h) EIGHTEEN-26 was active in NWPacific. The cyclone affects these countries: China, Viet Nam (vulnerability Medium). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
+      "title": "Green notification for tropical cyclone NARRA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
+      "body": "From 20/08/2026 to 22/08/2026, a Tropical Depression (maximum wind speed of 65 km/h) NARRA-26 was active in NWPacific. The cyclone affects these countries: China, Viet Nam (vulnerability High). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
+      "details": "From 20/08/2026 to 22/08/2026, a Tropical Depression (maximum wind speed of 65 km/h) NARRA-26 was active in NWPacific. The cyclone affects these countries: China, Viet Nam (vulnerability High). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
       "lat": null,
       "lon": null,
       "links": [
@@ -992,21 +992,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030865"
       ],
       "location": "Bosnia and Herzegovina"
-    },
-    {
-      "source": "media",
-      "id": "us6000tmei",
-      "ts": "2026-08-21T08:12:34Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "south of Tonga",
-      "body": "south of Tonga",
-      "mag": 5.1,
-      "lat": -24.7124,
-      "lon": -175.3072,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmei"
-      ]
     },
     {
       "source": "media",
@@ -1608,22 +1593,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030855"
       ],
       "location": "The Democratic Republic of Congo"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1030794",
-      "ts": "2026-08-22T03:57:29Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Angola",
-      "body": "On 08/08/2026, a forest fire started in Angola,  until 19/08/2026.",
-      "details": "On 08/08/2026, a forest fire started in Angola,  until 19/08/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030794"
-      ],
-      "location": "Angola"
     },
     {
       "source": "media",
@@ -2504,6 +2473,21 @@
       "location": "Angola"
     },
     {
+      "source": "media",
+      "id": "us6000tmrn",
+      "ts": "2026-08-22T07:40:12Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "Scotia Sea",
+      "body": "Scotia Sea",
+      "mag": 5.7,
+      "lat": -60.2649,
+      "lon": -47.2591,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmrn"
+      ]
+    },
+    {
       "source": "gdacs",
       "id": "WF1030859",
       "ts": "2026-08-22T07:43:49Z",
@@ -2550,6 +2534,69 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030872"
       ],
       "location": "Australia"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1030794",
+      "ts": "2026-08-22T07:56:44Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Angola",
+      "body": "On 08/08/2026, a forest fire started in Angola,  until 19/08/2026.",
+      "details": "On 08/08/2026, a forest fire started in Angola,  until 19/08/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030794"
+      ],
+      "location": "Angola"
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1561138",
+      "ts": "2026-08-22T08:00:04Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 5.7M, Depth:10km) in Scotia Sea 22/08/2026 07:40 UTC, [unknown].",
+      "body": "On 8/22/2026 7:40:12 AM, an earthquake occurred in Scotia Sea potentially affecting [unknown]. The earthquake had Magnitude 5.7M, Depth:10km.",
+      "details": "On 8/22/2026 7:40:12 AM, an earthquake occurred in Scotia Sea potentially affecting [unknown]. The earthquake had Magnitude 5.7M, Depth:10km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1561138"
+      ],
+      "location": "Scotia Sea 22/08/2026 07:40 UTC, [unknown]."
+    },
+    {
+      "source": "usgs",
+      "id": "tk5wls",
+      "ts": "2026-08-22T08:22:40Z",
+      "type": "quake",
+      "severity": "yellow",
+      "title": "M 6.7 - Scotia Sea",
+      "body": "Scotia Sea",
+      "mag": 6.7,
+      "lat": -60.5,
+      "lon": -47.2,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/attk5wls"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "FL1104112",
+      "ts": "2026-08-22T08:30:19Z",
+      "type": "flood",
+      "severity": "info",
+      "title": "Green flood alert in Uruguay",
+      "body": "On 16/08/2026, a flood started in Uruguay, lasting until 18/08/2026 (last update). The flood caused 0 deaths and 724 displaced .",
+      "details": "On 16/08/2026, a flood started in Uruguay, lasting until 18/08/2026 (last update). The flood caused 0 deaths and 724 displaced .",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104112"
+      ],
+      "location": "Uruguay"
     }
   ]
 }
