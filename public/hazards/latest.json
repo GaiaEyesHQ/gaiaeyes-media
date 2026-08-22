@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T17:28:41Z",
+  "generated_at": "2026-08-22T17:50:17Z",
   "items": [
     {
       "source": "gdacs",
@@ -336,21 +336,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030865"
       ],
       "location": "Bosnia and Herzegovina"
-    },
-    {
-      "source": "media",
-      "id": "us6000tmes",
-      "ts": "2026-08-21T09:22:36Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "1 km N of Alegria, Philippines",
-      "body": "1 km N of Alegria, Philippines",
-      "mag": 5.1,
-      "lat": 9.4833,
-      "lon": 125.5784,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmes"
-      ]
     },
     {
       "source": "gdacs",
@@ -2230,6 +2215,37 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1030794"
       ],
       "location": "Angola"
+    },
+    {
+      "source": "media",
+      "id": "us6000tmta",
+      "ts": "2026-08-22T17:00:41Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "4 km NNW of Toride, Japan",
+      "body": "4 km NNW of Toride, Japan",
+      "mag": 5.8,
+      "lat": 35.9344,
+      "lon": 140.0625,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmta"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "EQ1561190",
+      "ts": "2026-08-22T17:21:14Z",
+      "type": "quake",
+      "severity": "red",
+      "title": "Green earthquake (Magnitude 5.8M, Depth:77.584km) in Japan 22/08/2026 17:00 UTC, 540 thousand in MMI V.",
+      "body": "On 8/22/2026 5:00:41 PM, an earthquake occurred in Japan potentially affecting 540 thousand in MMI V. The earthquake had Magnitude 5.8M, Depth:77.584km.",
+      "details": "On 8/22/2026 5:00:41 PM, an earthquake occurred in Japan potentially affecting 540 thousand in MMI V. The earthquake had Magnitude 5.8M, Depth:77.584km.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1561190"
+      ],
+      "location": "Japan 22/08/2026 17:00 UTC, 540 thousand in MMI V."
     }
   ]
 }
