@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T11:59:27Z",
+  "generated_at": "2026-08-24T13:06:16Z",
   "items": [
     {
       "source": "gdacs",
@@ -1636,8 +1636,8 @@
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Angola",
-      "body": "On 12/08/2026, a forest fire started in Angola,  until 23/08/2026.",
-      "details": "On 12/08/2026, a forest fire started in Angola,  until 23/08/2026.",
+      "body": "On 12/08/2026, a forest fire started in Angola,  until 24/08/2026.",
+      "details": "On 12/08/2026, a forest fire started in Angola,  until 24/08/2026.",
       "lat": null,
       "lon": null,
       "links": [
@@ -2651,22 +2651,6 @@
     },
     {
       "source": "gdacs",
-      "id": "FL1104053",
-      "ts": "2026-08-24T11:14:08Z",
-      "type": "flood",
-      "severity": "info",
-      "title": "Green flood alert in Italy",
-      "body": "On 26/07/2026, a flood started in Italy, lasting until 15/08/2026 (last update). The flood caused 0 deaths and 183 displaced .",
-      "details": "On 26/07/2026, a flood started in Italy, lasting until 15/08/2026 (last update). The flood caused 0 deaths and 183 displaced .",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104053"
-      ],
-      "location": "Italy"
-    },
-    {
-      "source": "gdacs",
       "id": "WF1030947",
       "ts": "2026-08-24T11:14:25Z",
       "type": "wildfire",
@@ -3176,6 +3160,22 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031053"
       ],
       "location": "Russian Federation"
+    },
+    {
+      "source": "gdacs",
+      "id": "FL1104053",
+      "ts": "2026-08-24T12:24:16Z",
+      "type": "flood",
+      "severity": "info",
+      "title": "Green flood alert in Italy",
+      "body": "On 26/07/2026, a flood started in Italy, lasting until 15/08/2026 (last update). The flood caused 0 deaths and 183 displaced .",
+      "details": "On 26/07/2026, a flood started in Italy, lasting until 15/08/2026 (last update). The flood caused 0 deaths and 183 displaced .",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104053"
+      ],
+      "location": "Italy"
     }
   ]
 }
