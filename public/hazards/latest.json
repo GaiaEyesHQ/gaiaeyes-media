@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T10:54:01Z",
+  "generated_at": "2026-08-25T11:30:09Z",
   "items": [
     {
       "source": "gdacs",
@@ -3001,8 +3001,24 @@
     },
     {
       "source": "gdacs",
+      "id": "FL1104102",
+      "ts": "2026-08-25T09:58:43Z",
+      "type": "flood",
+      "severity": "info",
+      "title": "Green flood alert in Poland",
+      "body": "On 17/08/2026, a flood started in Poland, lasting until 19/08/2026 (last update). The flood caused 0 deaths and 0 displaced .",
+      "details": "On 17/08/2026, a flood started in Poland, lasting until 19/08/2026 (last update). The flood caused 0 deaths and 0 displaced .",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104102"
+      ],
+      "location": "Poland"
+    },
+    {
+      "source": "gdacs",
       "id": "FL1104053",
-      "ts": "2026-08-25T09:43:36Z",
+      "ts": "2026-08-25T11:13:44Z",
       "type": "flood",
       "severity": "info",
       "title": "Green flood alert in Italy",
@@ -3018,7 +3034,7 @@
     {
       "source": "gdacs",
       "id": "FL1104094",
-      "ts": "2026-08-25T09:57:01Z",
+      "ts": "2026-08-25T11:23:59Z",
       "type": "flood",
       "severity": "info",
       "title": "Green flood alert in Sudan",
@@ -3030,22 +3046,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104094"
       ],
       "location": "Sudan"
-    },
-    {
-      "source": "gdacs",
-      "id": "FL1104102",
-      "ts": "2026-08-25T09:58:43Z",
-      "type": "flood",
-      "severity": "info",
-      "title": "Green flood alert in Poland",
-      "body": "On 17/08/2026, a flood started in Poland, lasting until 19/08/2026 (last update). The flood caused 0 deaths and 0 displaced .",
-      "details": "On 17/08/2026, a flood started in Poland, lasting until 19/08/2026 (last update). The flood caused 0 deaths and 0 displaced .",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104102"
-      ],
-      "location": "Poland"
     }
   ]
 }
