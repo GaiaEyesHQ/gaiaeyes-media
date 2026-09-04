@@ -1,86 +1,6 @@
 {
-  "generated_at": "2026-09-03T22:33:58Z",
+  "generated_at": "2026-09-04T00:23:03Z",
   "items": [
-    {
-      "source": "gdacs",
-      "id": "WF1031459",
-      "ts": "2026-09-01T23:09:50Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Brazil",
-      "body": "On 27/08/2026, a forest fire started in Brazil,  until 02/09/2026.",
-      "details": "On 27/08/2026, a forest fire started in Brazil,  until 02/09/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031459"
-      ],
-      "location": "Brazil"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1031462",
-      "ts": "2026-09-01T23:17:20Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Russian Federation",
-      "body": "On 26/08/2026, a forest fire started in Russian Federation,  until 02/09/2026.",
-      "details": "On 26/08/2026, a forest fire started in Russian Federation,  until 02/09/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031462"
-      ],
-      "location": "Russian Federation"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1031466",
-      "ts": "2026-09-01T23:23:52Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Russian Federation",
-      "body": "On 25/08/2026, a forest fire started in Russian Federation,  until 01/09/2026.",
-      "details": "On 25/08/2026, a forest fire started in Russian Federation,  until 01/09/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031466"
-      ],
-      "location": "Russian Federation"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1031471",
-      "ts": "2026-09-01T23:43:26Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Indonesia",
-      "body": "On 23/08/2026, a forest fire started in Indonesia,  until 02/09/2026.",
-      "details": "On 23/08/2026, a forest fire started in Indonesia,  until 02/09/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031471"
-      ],
-      "location": "Indonesia"
-    },
-    {
-      "source": "gdacs",
-      "id": "EQ1563052",
-      "ts": "2026-09-02T00:18:15Z",
-      "type": "quake",
-      "severity": "red",
-      "title": "Green earthquake (Magnitude 5.6M, Depth:64.644km) in Indonesia 02/09/2026 00:04 UTC, 400 thousand in MMI IV.",
-      "body": "On 9/2/2026 12:04:54 AM, an earthquake occurred in Indonesia potentially affecting 400 thousand in MMI IV. The earthquake had Magnitude 5.6M, Depth:64.644km.",
-      "details": "On 9/2/2026 12:04:54 AM, an earthquake occurred in Indonesia potentially affecting 400 thousand in MMI IV. The earthquake had Magnitude 5.6M, Depth:64.644km.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1563052"
-      ],
-      "location": "Indonesia 02/09/2026 00:04 UTC, 400 thousand in MMI IV."
-    },
     {
       "source": "gdacs",
       "id": "WF1031474",
@@ -976,21 +896,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031545"
       ],
       "location": "Brazil"
-    },
-    {
-      "source": "media",
-      "id": "us7000tduc",
-      "ts": "2026-09-03T06:04:02Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "42 km NW of Coquimbo, Chile",
-      "body": "42 km NW of Coquimbo, Chile",
-      "mag": 5.1,
-      "lat": -29.7346,
-      "lon": -71.6979,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tduc"
-      ]
     },
     {
       "source": "gdacs",
@@ -2245,6 +2150,21 @@
       "lon": -169.2217,
       "links": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te2m"
+      ]
+    },
+    {
+      "source": "media",
+      "id": "us7000te4b",
+      "ts": "2026-09-03T20:21:15Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "100 km S of Nikolski, Alaska",
+      "body": "100 km S of Nikolski, Alaska",
+      "mag": 5.5,
+      "lat": 52.0506,
+      "lon": -169.1387,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te4b"
       ]
     }
   ]
