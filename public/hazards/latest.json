@@ -1,37 +1,6 @@
 {
-  "generated_at": "2026-09-13T20:51:15Z",
+  "generated_at": "2026-09-13T22:59:40Z",
   "items": [
-    {
-      "source": "media",
-      "id": "us7000tgrk",
-      "ts": "2026-09-11T21:23:55Z",
-      "type": "quake",
-      "severity": "yellow",
-      "title": "126 km NNE of Teluknaga, Indonesia",
-      "body": "126 km NNE of Teluknaga, Indonesia",
-      "mag": 6.5,
-      "lat": -4.9832,
-      "lon": 106.8742,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgrk"
-      ]
-    },
-    {
-      "source": "gdacs",
-      "id": "EQ1564809",
-      "ts": "2026-09-11T21:43:40Z",
-      "type": "quake",
-      "severity": "red",
-      "title": "Green earthquake (Magnitude 6.5M, Depth:372km) in Indonesia 11/09/2026 21:23 UTC, 20 thousand in 100km.",
-      "body": "On 9/11/2026 9:23:55 PM, an earthquake occurred in Indonesia potentially affecting 20 thousand in 100km. The earthquake had Magnitude 6.5M, Depth:372km.",
-      "details": "On 9/11/2026 9:23:55 PM, an earthquake occurred in Indonesia potentially affecting 20 thousand in 100km. The earthquake had Magnitude 6.5M, Depth:372km.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1564809"
-      ],
-      "location": "Indonesia 11/09/2026 21:23 UTC, 20 thousand in 100km."
-    },
     {
       "source": "gdacs",
       "id": "WF1031898",
@@ -942,22 +911,6 @@
     },
     {
       "source": "gdacs",
-      "id": "WF1031855",
-      "ts": "2026-09-13T19:09:56Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Sudan",
-      "body": "On 05/09/2026, a forest fire started in Sudan,  until 09/09/2026.",
-      "details": "On 05/09/2026, a forest fire started in Sudan,  until 09/09/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031855"
-      ],
-      "location": "Sudan"
-    },
-    {
-      "source": "gdacs",
       "id": "WF1031895",
       "ts": "2026-09-13T19:10:23Z",
       "type": "wildfire",
@@ -1006,22 +959,6 @@
     },
     {
       "source": "gdacs",
-      "id": "WF1031856",
-      "ts": "2026-09-13T19:11:25Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Zambia",
-      "body": "On 04/09/2026, a forest fire started in Zambia,  until 09/09/2026.",
-      "details": "On 04/09/2026, a forest fire started in Zambia,  until 09/09/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031856"
-      ],
-      "location": "Zambia"
-    },
-    {
-      "source": "gdacs",
       "id": "WF1031951",
       "ts": "2026-09-13T19:13:07Z",
       "type": "wildfire",
@@ -1067,6 +1004,22 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1031865"
       ],
       "location": "Albania"
+    },
+    {
+      "source": "gdacs",
+      "id": "TC1001321",
+      "ts": "2026-09-13T20:58:31Z",
+      "type": "cyclone",
+      "severity": "info",
+      "title": "Green notification for tropical cyclone FIFTEEN-E-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
+      "body": "From 13/09/2026 to 13/09/2026, a Tropical Depression (maximum wind speed of 65 km/h) FIFTEEN-E-26 was active in EastPacific. The cyclone affects these countries: [unknown] (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
+      "details": "From 13/09/2026 to 13/09/2026, a Tropical Depression (maximum wind speed of 65 km/h) FIFTEEN-E-26 was active in EastPacific. The cyclone affects these countries: [unknown] (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001321"
+      ],
+      "location": "Tropical Storm)."
     }
   ]
 }
