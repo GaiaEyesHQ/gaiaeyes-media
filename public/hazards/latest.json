@@ -1,38 +1,6 @@
 {
-  "generated_at": "2026-09-20T23:13:05Z",
+  "generated_at": "2026-09-21T01:12:43Z",
   "items": [
-    {
-      "source": "gdacs",
-      "id": "WF1032216",
-      "ts": "2026-09-18T23:15:50Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Brazil",
-      "body": "On 11/09/2026, a forest fire started in Brazil,  until 19/09/2026.",
-      "details": "On 11/09/2026, a forest fire started in Brazil,  until 19/09/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032216"
-      ],
-      "location": "Brazil"
-    },
-    {
-      "source": "gdacs",
-      "id": "EQ1566905",
-      "ts": "2026-09-18T23:36:52Z",
-      "type": "quake",
-      "severity": "red",
-      "title": "Green earthquake (Magnitude 5.5M, Depth:94.054km) in Kermadec Islands Region 18/09/2026 23:18 UTC, [unknown].",
-      "body": "On 9/18/2026 11:18:28 PM, an earthquake occurred in Kermadec Islands Region potentially affecting [unknown]. The earthquake had Magnitude 5.5M, Depth:94.054km.",
-      "details": "On 9/18/2026 11:18:28 PM, an earthquake occurred in Kermadec Islands Region potentially affecting [unknown]. The earthquake had Magnitude 5.5M, Depth:94.054km.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1566905"
-      ],
-      "location": "Kermadec Islands Region 18/09/2026 23:18 UTC, [unknown]."
-    },
     {
       "source": "gdacs",
       "id": "WF1032217",
@@ -816,21 +784,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032253"
       ],
       "location": "Brazil"
-    },
-    {
-      "source": "media",
-      "id": "us7000timy",
-      "ts": "2026-09-20T00:58:14Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "Reykjanes Ridge",
-      "body": "Reykjanes Ridge",
-      "mag": 5.3,
-      "lat": 57.1211,
-      "lon": -33.5459,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000timy"
-      ]
     },
     {
       "source": "gdacs",
@@ -1989,6 +1942,21 @@
       "lon": -162.4693,
       "links": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tit6"
+      ]
+    },
+    {
+      "source": "media",
+      "id": "us7000tiu3",
+      "ts": "2026-09-20T23:25:38Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "16 km WSW of Shikotan, Russia",
+      "body": "16 km WSW of Shikotan, Russia",
+      "mag": 5,
+      "lat": 43.7443,
+      "lon": 146.5339,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiu3"
       ]
     }
   ]
