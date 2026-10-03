@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T19:11:48Z",
+  "generated_at": "2026-10-03T22:12:05Z",
   "items": [
     {
       "source": "gdacs",
@@ -67,21 +67,6 @@
     },
     {
       "source": "media",
-      "id": "us6000tyzi",
-      "ts": "2026-10-02T04:27:05Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "south of the Fiji Islands",
-      "body": "south of the Fiji Islands",
-      "mag": 5,
-      "lat": -24.7752,
-      "lon": 178.6446,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyzi"
-      ]
-    },
-    {
-      "source": "media",
       "id": "us6000tyzl",
       "ts": "2026-10-02T04:44:53Z",
       "type": "quake",
@@ -94,22 +79,6 @@
       "links": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tyzl"
       ]
-    },
-    {
-      "source": "gdacs",
-      "id": "FL1104206",
-      "ts": "2026-10-02T06:25:28Z",
-      "type": "flood",
-      "severity": "info",
-      "title": "Green flood alert in Islamic Republic of Iran",
-      "body": "On 27/09/2026, a flood started in Islamic Republic of Iran, lasting until 29/09/2026 (last update). The flood caused 1 deaths and 0 displaced .",
-      "details": "On 27/09/2026, a flood started in Islamic Republic of Iran, lasting until 29/09/2026 (last update). The flood caused 1 deaths and 0 displaced .",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104206"
-      ],
-      "location": "Islamic Republic of Iran"
     },
     {
       "source": "gdacs",
@@ -537,70 +506,6 @@
     },
     {
       "source": "gdacs",
-      "id": "WF1032549",
-      "ts": "2026-10-03T15:04:58Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Indonesia",
-      "body": "On 25/09/2026, a forest fire started in Indonesia,  until 03/10/2026.",
-      "details": "On 25/09/2026, a forest fire started in Indonesia,  until 03/10/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032549"
-      ],
-      "location": "Indonesia"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1032489",
-      "ts": "2026-10-03T15:05:51Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Angola",
-      "body": "On 25/09/2026, a forest fire started in Angola,  until 29/09/2026.",
-      "details": "On 25/09/2026, a forest fire started in Angola,  until 29/09/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032489"
-      ],
-      "location": "Angola"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1032533",
-      "ts": "2026-10-03T15:11:10Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Brazil",
-      "body": "On 22/09/2026, a forest fire started in Brazil,  until 01/10/2026.",
-      "details": "On 22/09/2026, a forest fire started in Brazil,  until 01/10/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032533"
-      ],
-      "location": "Brazil"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1032550",
-      "ts": "2026-10-03T15:11:53Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Papua New Guinea",
-      "body": "On 21/09/2026, a forest fire started in Papua New Guinea,  until 03/10/2026.",
-      "details": "On 21/09/2026, a forest fire started in Papua New Guinea,  until 03/10/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032550"
-      ],
-      "location": "Papua New Guinea"
-    },
-    {
-      "source": "gdacs",
       "id": "WF1032551",
       "ts": "2026-10-03T15:15:22Z",
       "type": "wildfire",
@@ -676,22 +581,6 @@
       "lon": null,
       "links": [
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032540"
-      ],
-      "location": "Brazil"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1032493",
-      "ts": "2026-10-03T19:01:19Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Brazil",
-      "body": "On 29/09/2026, a forest fire started in Brazil,  until 29/09/2026.",
-      "details": "On 29/09/2026, a forest fire started in Brazil,  until 29/09/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032493"
       ],
       "location": "Brazil"
     },
@@ -790,6 +679,69 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032548"
       ],
       "location": "Papua New Guinea"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1032549",
+      "ts": "2026-10-03T19:07:03Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Indonesia",
+      "body": "On 25/09/2026, a forest fire started in Indonesia,  until 03/10/2026.",
+      "details": "On 25/09/2026, a forest fire started in Indonesia,  until 03/10/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032549"
+      ],
+      "location": "Indonesia"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1032533",
+      "ts": "2026-10-03T19:11:01Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Brazil",
+      "body": "On 22/09/2026, a forest fire started in Brazil,  until 01/10/2026.",
+      "details": "On 22/09/2026, a forest fire started in Brazil,  until 01/10/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032533"
+      ],
+      "location": "Brazil"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1032550",
+      "ts": "2026-10-03T19:11:33Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Papua New Guinea",
+      "body": "On 21/09/2026, a forest fire started in Papua New Guinea,  until 03/10/2026.",
+      "details": "On 21/09/2026, a forest fire started in Papua New Guinea,  until 03/10/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032550"
+      ],
+      "location": "Papua New Guinea"
+    },
+    {
+      "source": "media",
+      "id": "us6000tze2",
+      "ts": "2026-10-03T20:00:44Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "182 km SSE of Vilyuchinsk, Russia",
+      "body": "182 km SSE of Vilyuchinsk, Russia",
+      "mag": 5.1,
+      "lat": 51.5457,
+      "lon": 159.8296,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tze2"
+      ]
     }
   ]
 }
