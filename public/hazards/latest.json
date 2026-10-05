@@ -1,37 +1,6 @@
 {
-  "generated_at": "2026-10-05T02:01:52Z",
+  "generated_at": "2026-10-05T08:56:12Z",
   "items": [
-    {
-      "source": "media",
-      "id": "us6000tzal",
-      "ts": "2026-10-03T02:59:06Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "163 km SE of Petropavlovsk-Kamchatsky, Russia",
-      "body": "163 km SE of Petropavlovsk-Kamchatsky, Russia",
-      "mag": 5,
-      "lat": 52.0836,
-      "lon": 160.4217,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzal"
-      ]
-    },
-    {
-      "source": "gdacs",
-      "id": "FL1104207",
-      "ts": "2026-10-03T06:54:19Z",
-      "type": "flood",
-      "severity": "info",
-      "title": "Green flood alert in Malaysia",
-      "body": "On 01/10/2026, a flood started in Malaysia, lasting until 03/10/2026 (last update). The flood caused 0 deaths and 199 displaced .",
-      "details": "On 01/10/2026, a flood started in Malaysia, lasting until 03/10/2026 (last update). The flood caused 0 deaths and 199 displaced .",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104207"
-      ],
-      "location": "Malaysia"
-    },
     {
       "source": "gdacs",
       "id": "WF1032544",
@@ -39,8 +8,8 @@
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Australia",
-      "body": "On 29/09/2026, a forest fire started in Australia,  until 04/10/2026.",
-      "details": "On 29/09/2026, a forest fire started in Australia,  until 04/10/2026.",
+      "body": "On 29/09/2026, a forest fire started in Australia,  until 05/10/2026.",
+      "details": "On 29/09/2026, a forest fire started in Australia,  until 05/10/2026.",
       "lat": null,
       "lon": null,
       "links": [
@@ -464,8 +433,8 @@
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Indonesia",
-      "body": "On 21/09/2026, a forest fire started in Indonesia,  until 03/10/2026.",
-      "details": "On 21/09/2026, a forest fire started in Indonesia,  until 03/10/2026.",
+      "body": "On 21/09/2026, a forest fire started in Indonesia,  until 04/10/2026.",
+      "details": "On 21/09/2026, a forest fire started in Indonesia,  until 04/10/2026.",
       "lat": null,
       "lon": null,
       "links": [
@@ -474,25 +443,104 @@
       "location": "Indonesia"
     },
     {
-      "source": "gdacs",
-      "id": "FL1104169",
-      "ts": "2026-10-04T22:10:57Z",
-      "type": "flood",
+      "source": "media",
+      "id": "us6000tzlp",
+      "ts": "2026-10-05T01:18:50Z",
+      "type": "quake",
       "severity": "info",
-      "title": "Green flood alert in Thailand",
-      "body": "On 05/10/2026, a flood started in Thailand, lasting until 07/10/2026 (last update). The flood caused 0 deaths and 0 displaced .",
-      "details": "On 05/10/2026, a flood started in Thailand, lasting until 07/10/2026 (last update). The flood caused 0 deaths and 0 displaced .",
+      "title": "central Mid-Atlantic Ridge",
+      "body": "central Mid-Atlantic Ridge",
+      "mag": 5.3,
+      "lat": -0.4325,
+      "lon": -19.965,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzlp"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "TC1001333",
+      "ts": "2026-10-05T02:11:52Z",
+      "type": "cyclone",
+      "severity": "info",
+      "title": "Green notification for tropical cyclone KOGUMA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
+      "body": "From 05/10/2026 to 05/10/2026, a Tropical Storm (maximum wind speed of 204 km/h) KOGUMA-26 was active in NWPacific. The cyclone affects these countries: [unknown] (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
+      "details": "From 05/10/2026 to 05/10/2026, a Tropical Storm (maximum wind speed of 204 km/h) KOGUMA-26 was active in NWPacific. The cyclone affects these countries: [unknown] (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
       "lat": null,
       "lon": null,
       "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104169"
+        "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001333"
       ],
-      "location": "Thailand"
+      "location": "Tropical Storm)."
+    },
+    {
+      "source": "gdacs",
+      "id": "FL1104209",
+      "ts": "2026-10-05T05:54:37Z",
+      "type": "flood",
+      "severity": "info",
+      "title": "Green flood alert in Honduras",
+      "body": "On 02/10/2026, a flood started in Honduras, lasting until 04/10/2026 (last update). The flood caused 0 deaths and 32 displaced .",
+      "details": "On 02/10/2026, a flood started in Honduras, lasting until 04/10/2026 (last update). The flood caused 0 deaths and 32 displaced .",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104209"
+      ],
+      "location": "Honduras"
+    },
+    {
+      "source": "gdacs",
+      "id": "FL1104210",
+      "ts": "2026-10-05T06:14:36Z",
+      "type": "flood",
+      "severity": "info",
+      "title": "Green flood alert in Nicaragua",
+      "body": "On 02/10/2026, a flood started in Nicaragua, lasting until 04/10/2026 (last update). The flood caused 0 deaths and 1 displaced .",
+      "details": "On 02/10/2026, a flood started in Nicaragua, lasting until 04/10/2026 (last update). The flood caused 0 deaths and 1 displaced .",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104210"
+      ],
+      "location": "Nicaragua"
+    },
+    {
+      "source": "gdacs",
+      "id": "FL1104211",
+      "ts": "2026-10-05T06:53:25Z",
+      "type": "flood",
+      "severity": "info",
+      "title": "Green flood alert in Iceland",
+      "body": "On 30/09/2026, a flood started in Iceland, lasting until 02/10/2026 (last update). The flood caused 0 deaths and 0 displaced .",
+      "details": "On 30/09/2026, a flood started in Iceland, lasting until 02/10/2026 (last update). The flood caused 0 deaths and 0 displaced .",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104211"
+      ],
+      "location": "Iceland"
+    },
+    {
+      "source": "gdacs",
+      "id": "FL1104212",
+      "ts": "2026-10-05T06:53:33Z",
+      "type": "flood",
+      "severity": "info",
+      "title": "Green flood alert in Portugal",
+      "body": "On 02/10/2026, a flood started in Portugal, lasting until 04/10/2026 (last update). The flood caused 0 deaths and 0 displaced .",
+      "details": "On 02/10/2026, a flood started in Portugal, lasting until 04/10/2026 (last update). The flood caused 0 deaths and 0 displaced .",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104212"
+      ],
+      "location": "Portugal"
     },
     {
       "source": "gdacs",
       "id": "WF1032562",
-      "ts": "2026-10-04T23:00:32Z",
+      "ts": "2026-10-05T07:00:33Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Ethiopia",
@@ -508,7 +556,7 @@
     {
       "source": "gdacs",
       "id": "WF1032535",
-      "ts": "2026-10-04T23:00:41Z",
+      "ts": "2026-10-05T07:00:40Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Kazakhstan",
@@ -524,7 +572,7 @@
     {
       "source": "gdacs",
       "id": "WF1032563",
-      "ts": "2026-10-04T23:00:57Z",
+      "ts": "2026-10-05T07:00:57Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Sudan",
@@ -540,7 +588,7 @@
     {
       "source": "gdacs",
       "id": "WF1032532",
-      "ts": "2026-10-04T23:01:20Z",
+      "ts": "2026-10-05T07:01:13Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Brazil",
@@ -556,7 +604,7 @@
     {
       "source": "gdacs",
       "id": "WF1032540",
-      "ts": "2026-10-04T23:01:24Z",
+      "ts": "2026-10-05T07:01:18Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Brazil",
@@ -572,7 +620,7 @@
     {
       "source": "gdacs",
       "id": "WF1032564",
-      "ts": "2026-10-04T23:01:28Z",
+      "ts": "2026-10-05T07:01:23Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Angola",
@@ -588,7 +636,7 @@
     {
       "source": "gdacs",
       "id": "WF1032541",
-      "ts": "2026-10-04T23:04:37Z",
+      "ts": "2026-10-05T07:04:20Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Brazil",
@@ -604,7 +652,7 @@
     {
       "source": "gdacs",
       "id": "WF1032533",
-      "ts": "2026-10-04T23:11:28Z",
+      "ts": "2026-10-05T07:11:22Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Brazil",
@@ -616,6 +664,22 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032533"
       ],
       "location": "Brazil"
+    },
+    {
+      "source": "gdacs",
+      "id": "FL1104169",
+      "ts": "2026-10-05T08:28:41Z",
+      "type": "flood",
+      "severity": "info",
+      "title": "Green flood alert in Thailand",
+      "body": "On 05/10/2026, a flood started in Thailand, lasting until 07/10/2026 (last update). The flood caused 0 deaths and 0 displaced .",
+      "details": "On 05/10/2026, a flood started in Thailand, lasting until 07/10/2026 (last update). The flood caused 0 deaths and 0 displaced .",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104169"
+      ],
+      "location": "Thailand"
     }
   ]
 }
