@@ -1,85 +1,6 @@
 {
-  "generated_at": "2026-10-07T16:17:27Z",
+  "generated_at": "2026-10-07T21:22:59Z",
   "items": [
-    {
-      "source": "gdacs",
-      "id": "WF1032565",
-      "ts": "2026-10-05T19:01:05Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Australia",
-      "body": "On 03/10/2026, a forest fire started in Australia,  until 07/10/2026.",
-      "details": "On 03/10/2026, a forest fire started in Australia,  until 07/10/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032565"
-      ],
-      "location": "Australia"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1032570",
-      "ts": "2026-10-05T19:02:13Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Indonesia",
-      "body": "On 29/09/2026, a forest fire started in Indonesia,  until 06/10/2026.",
-      "details": "On 29/09/2026, a forest fire started in Indonesia,  until 06/10/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032570"
-      ],
-      "location": "Indonesia"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1032566",
-      "ts": "2026-10-05T19:02:29Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Australia",
-      "body": "On 29/09/2026, a forest fire started in Australia,  until 07/10/2026.",
-      "details": "On 29/09/2026, a forest fire started in Australia,  until 07/10/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032566"
-      ],
-      "location": "Australia"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1032568",
-      "ts": "2026-10-05T19:08:38Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Papua New Guinea",
-      "body": "On 25/09/2026, a forest fire started in Papua New Guinea,  until 06/10/2026.",
-      "details": "On 25/09/2026, a forest fire started in Papua New Guinea,  until 06/10/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032568"
-      ],
-      "location": "Papua New Guinea"
-    },
-    {
-      "source": "media",
-      "id": "us6000tzsc",
-      "ts": "2026-10-05T20:22:59Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "south of the Fiji Islands",
-      "body": "south of the Fiji Islands",
-      "mag": 5,
-      "lat": -24.4235,
-      "lon": 179.8108,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzsc"
-      ]
-    },
     {
       "source": "gdacs",
       "id": "WF1032571",
@@ -273,6 +194,21 @@
       "location": "Indonesia"
     },
     {
+      "source": "media",
+      "id": "us6000tzwg",
+      "ts": "2026-10-06T13:11:22Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "51 km NNE of Semporna, Malaysia",
+      "body": "51 km NNE of Semporna, Malaysia",
+      "mag": 5,
+      "lat": 4.8949,
+      "lon": 118.825,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tzwg"
+      ]
+    },
+    {
       "source": "gdacs",
       "id": "WF1032585",
       "ts": "2026-10-06T15:01:20Z",
@@ -371,14 +307,14 @@
     {
       "source": "media",
       "id": "us6000u0hy",
-      "ts": "2026-10-06T16:48:21Z",
+      "ts": "2026-10-06T16:48:22Z",
       "type": "quake",
       "severity": "info",
-      "title": "264 km SSW of Severo-Kuril\u2019sk, Russia",
-      "body": "264 km SSW of Severo-Kuril\u2019sk, Russia",
-      "mag": 5.9,
-      "lat": 48.4554,
-      "lon": 154.8085,
+      "title": "262 km SSW of Severo-Kuril\u2019sk, Russia",
+      "body": "262 km SSW of Severo-Kuril\u2019sk, Russia",
+      "mag": 5.8,
+      "lat": 48.4437,
+      "lon": 154.9316,
       "links": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0hy"
       ]
@@ -386,14 +322,14 @@
     {
       "source": "media",
       "id": "us6000u0hz",
-      "ts": "2026-10-06T16:53:11Z",
+      "ts": "2026-10-06T16:53:12Z",
       "type": "quake",
       "severity": "info",
-      "title": "34 km NNW of B\u0101geshwar, India",
-      "body": "34 km NNW of B\u0101geshwar, India",
+      "title": "34 km NW of B\u0101geshwar, India",
+      "body": "34 km NW of B\u0101geshwar, India",
       "mag": 5.1,
-      "lat": 30.1171,
-      "lon": 79.6148,
+      "lat": 30.092,
+      "lon": 79.5618,
       "links": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0hz"
       ]
@@ -547,9 +483,9 @@
       "ts": "2026-10-06T21:01:35Z",
       "type": "cyclone",
       "severity": "info",
-      "title": "Green notification for tropical cyclone ISAIAS-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.739 million .",
-      "body": "From 06/10/2026 to 07/10/2026, a Tropical Storm (maximum wind speed of 176 km/h) ISAIAS-26 was active in Atlantic. The cyclone affects these countries: United States (vulnerability Low). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0.739 million .",
-      "details": "From 06/10/2026 to 07/10/2026, a Tropical Storm (maximum wind speed of 176 km/h) ISAIAS-26 was active in Atlantic. The cyclone affects these countries: United States (vulnerability Low). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0.739 million .",
+      "title": "Green notification for tropical cyclone ISAIAS-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.574 million .",
+      "body": "From 06/10/2026 to 07/10/2026, a Tropical Storm (maximum wind speed of 176 km/h) ISAIAS-26 was active in Atlantic. The cyclone affects these countries: United States (vulnerability Low). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0.574 million .",
+      "details": "From 06/10/2026 to 07/10/2026, a Tropical Storm (maximum wind speed of 176 km/h) ISAIAS-26 was active in Atlantic. The cyclone affects these countries: United States (vulnerability Low). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0.574 million .",
       "lat": null,
       "lon": null,
       "links": [
@@ -700,6 +636,21 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032600"
       ],
       "location": "Indonesia"
+    },
+    {
+      "source": "media",
+      "id": "us6000u0rr",
+      "ts": "2026-10-07T14:59:25Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "Chagos Archipelago region",
+      "body": "Chagos Archipelago region",
+      "mag": 5.2,
+      "lat": -6.6637,
+      "lon": 72.2362,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u0rr"
+      ]
     },
     {
       "source": "gdacs",
@@ -994,10 +945,10 @@
       "id": "TC1001335",
       "ts": "2026-10-07T15:33:28Z",
       "type": "cyclone",
-      "severity": "orange",
-      "title": "Orange notification for tropical cyclone TWENTY-E-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 56306 .",
-      "body": "From 07/10/2026 to 07/10/2026, a Tropical Depression (maximum wind speed of 176 km/h) TWENTY-E-26 was active in EastPacific. The cyclone affects these countries: Mexico (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 56306 .",
-      "details": "From 07/10/2026 to 07/10/2026, a Tropical Depression (maximum wind speed of 176 km/h) TWENTY-E-26 was active in EastPacific. The cyclone affects these countries: Mexico (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 56306 .",
+      "severity": "red",
+      "title": "Red notification for tropical cyclone SIMON-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 1.056 million .",
+      "body": "From 07/10/2026 to 07/10/2026, a Tropical Storm (maximum wind speed of 185 km/h) SIMON-26 was active in EastPacific. The cyclone affects these countries: Mexico (vulnerability Medium). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 1.056 million .",
+      "details": "From 07/10/2026 to 07/10/2026, a Tropical Storm (maximum wind speed of 185 km/h) SIMON-26 was active in EastPacific. The cyclone affects these countries: Mexico (vulnerability Medium). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 1.056 million .",
       "lat": null,
       "lon": null,
       "links": [
