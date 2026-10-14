@@ -1,53 +1,6 @@
 {
-  "generated_at": "2026-10-13T20:50:08Z",
+  "generated_at": "2026-10-14T00:00:15Z",
   "items": [
-    {
-      "source": "media",
-      "id": "us6000u1mj",
-      "ts": "2026-10-11T21:34:53Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "152 km W of Gorontalo, Indonesia",
-      "body": "152 km W of Gorontalo, Indonesia",
-      "mag": 5.2,
-      "lat": 0.5235,
-      "lon": 121.697,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1mj"
-      ]
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1032734",
-      "ts": "2026-10-11T23:06:50Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Papua New Guinea",
-      "body": "On 05/10/2026, a forest fire started in Papua New Guinea,  until 11/10/2026.",
-      "details": "On 05/10/2026, a forest fire started in Papua New Guinea,  until 11/10/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032734"
-      ],
-      "location": "Papua New Guinea"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1032750",
-      "ts": "2026-10-11T23:13:51Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Indonesia",
-      "body": "On 28/09/2026, a forest fire started in Indonesia,  until 13/10/2026.",
-      "details": "On 28/09/2026, a forest fire started in Indonesia,  until 13/10/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032750"
-      ],
-      "location": "Indonesia"
-    },
     {
       "source": "gdacs",
       "id": "TC1001336",
@@ -382,22 +335,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032763"
       ],
       "location": "Indonesia"
-    },
-    {
-      "source": "gdacs",
-      "id": "FL1104226",
-      "ts": "2026-10-12T11:16:51Z",
-      "type": "flood",
-      "severity": "info",
-      "title": "Green flood alert in Morocco",
-      "body": "On 07/10/2026, a flood started in Morocco, lasting until 09/10/2026 (last update). The flood caused 5 deaths and 0 displaced .",
-      "details": "On 07/10/2026, a flood started in Morocco, lasting until 09/10/2026 (last update). The flood caused 5 deaths and 0 displaced .",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104226"
-      ],
-      "location": "Morocco"
     },
     {
       "source": "media",
@@ -925,16 +862,46 @@
       "id": "TC1001337",
       "ts": "2026-10-13T15:15:58Z",
       "type": "cyclone",
-      "severity": "info",
-      "title": "Green notification for tropical cyclone TWENTY-ONE-E-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
-      "body": "From 13/10/2026 to 13/10/2026, a Tropical Depression (maximum wind speed of 222 km/h) TWENTY-ONE-E-26 was active in Atlantic. The cyclone affects these countries: [unknown] (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
-      "details": "From 13/10/2026 to 13/10/2026, a Tropical Depression (maximum wind speed of 222 km/h) TWENTY-ONE-E-26 was active in Atlantic. The cyclone affects these countries: [unknown] (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
+      "severity": "orange",
+      "title": "Orange notification for tropical cyclone TRUDY-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 22516 .",
+      "body": "From 13/10/2026 to 13/10/2026, a Tropical Storm (maximum wind speed of 213 km/h) TRUDY-26 was active in Atlantic. The cyclone affects these countries: Mexico (vulnerability Medium). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 22516 .",
+      "details": "From 13/10/2026 to 13/10/2026, a Tropical Storm (maximum wind speed of 213 km/h) TRUDY-26 was active in Atlantic. The cyclone affects these countries: Mexico (vulnerability Medium). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 22516 .",
       "lat": null,
       "lon": null,
       "links": [
         "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001337"
       ],
-      "location": "Tropical Storm)."
+      "location": null
+    },
+    {
+      "source": "media",
+      "id": "us6000u23d",
+      "ts": "2026-10-13T16:28:14Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "119 km S of Kokopo, Papua New Guinea",
+      "body": "119 km S of Kokopo, Papua New Guinea",
+      "mag": 5.1,
+      "lat": -5.4162,
+      "lon": 152.1142,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u23d"
+      ]
+    },
+    {
+      "source": "media",
+      "id": "us6000u24c",
+      "ts": "2026-10-13T18:45:03Z",
+      "type": "quake",
+      "severity": "yellow",
+      "title": "126 km S of Kokopo, Papua New Guinea",
+      "body": "126 km S of Kokopo, Papua New Guinea",
+      "mag": 6,
+      "lat": -5.4832,
+      "lon": 152.1364,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u24c"
+      ]
     },
     {
       "source": "gdacs",
@@ -954,38 +921,6 @@
     },
     {
       "source": "gdacs",
-      "id": "WF1032767",
-      "ts": "2026-10-13T19:01:41Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Mozambique",
-      "body": "On 10/10/2026, a forest fire started in Mozambique,  until 12/10/2026.",
-      "details": "On 10/10/2026, a forest fire started in Mozambique,  until 12/10/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032767"
-      ],
-      "location": "Mozambique"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1032703",
-      "ts": "2026-10-13T19:02:19Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Mongolia, China",
-      "body": "On 09/10/2026, a forest fire started in Mongolia, China,  until 10/10/2026.",
-      "details": "On 09/10/2026, a forest fire started in Mongolia, China,  until 10/10/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032703"
-      ],
-      "location": "Mongolia, China"
-    },
-    {
-      "source": "gdacs",
       "id": "EQ1571367",
       "ts": "2026-10-13T19:02:33Z",
       "type": "quake",
@@ -1002,22 +937,6 @@
     },
     {
       "source": "gdacs",
-      "id": "WF1032775",
-      "ts": "2026-10-13T19:02:51Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Australia",
-      "body": "On 09/10/2026, a forest fire started in Australia,  until 12/10/2026.",
-      "details": "On 09/10/2026, a forest fire started in Australia,  until 12/10/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032775"
-      ],
-      "location": "Australia"
-    },
-    {
-      "source": "gdacs",
       "id": "WF1032768",
       "ts": "2026-10-13T19:03:29Z",
       "type": "wildfire",
@@ -1031,38 +950,6 @@
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032768"
       ],
       "location": "Mozambique"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1032769",
-      "ts": "2026-10-13T19:04:23Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Mozambique",
-      "body": "On 07/10/2026, a forest fire started in Mozambique,  until 12/10/2026.",
-      "details": "On 07/10/2026, a forest fire started in Mozambique,  until 12/10/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032769"
-      ],
-      "location": "Mozambique"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1032685",
-      "ts": "2026-10-13T19:04:30Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Australia",
-      "body": "On 07/10/2026, a forest fire started in Australia,  until 09/10/2026.",
-      "details": "On 07/10/2026, a forest fire started in Australia,  until 09/10/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032685"
-      ],
-      "location": "Australia"
     },
     {
       "source": "gdacs",
@@ -1087,46 +974,14 @@
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Mozambique",
-      "body": "On 05/10/2026, a forest fire started in Mozambique,  until 12/10/2026.",
-      "details": "On 05/10/2026, a forest fire started in Mozambique,  until 12/10/2026.",
+      "body": "On 05/10/2026, a forest fire started in Mozambique,  until 13/10/2026.",
+      "details": "On 05/10/2026, a forest fire started in Mozambique,  until 13/10/2026.",
       "lat": null,
       "lon": null,
       "links": [
         "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032773"
       ],
       "location": "Mozambique"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1032771",
-      "ts": "2026-10-13T19:07:42Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Zambia",
-      "body": "On 05/10/2026, a forest fire started in Zambia,  until 12/10/2026.",
-      "details": "On 05/10/2026, a forest fire started in Zambia,  until 12/10/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032771"
-      ],
-      "location": "Zambia"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1032680",
-      "ts": "2026-10-13T19:09:28Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Namibia",
-      "body": "On 03/10/2026, a forest fire started in Namibia,  until 09/10/2026.",
-      "details": "On 03/10/2026, a forest fire started in Namibia,  until 09/10/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032680"
-      ],
-      "location": "Namibia"
     },
     {
       "source": "gdacs",
@@ -1146,35 +1001,323 @@
     },
     {
       "source": "gdacs",
-      "id": "WF1032681",
-      "ts": "2026-10-13T19:12:30Z",
+      "id": "WF1032783",
+      "ts": "2026-10-13T23:00:54Z",
       "type": "wildfire",
       "severity": "info",
-      "title": "Green forest fire notification in Tanzania",
-      "body": "On 30/09/2026, a forest fire started in Tanzania,  until 09/10/2026.",
-      "details": "On 30/09/2026, a forest fire started in Tanzania,  until 09/10/2026.",
+      "title": "Green forest fire notification in Australia",
+      "body": "On 13/10/2026, a forest fire started in Australia,  until 13/10/2026.",
+      "details": "On 13/10/2026, a forest fire started in Australia,  until 13/10/2026.",
       "lat": null,
       "lon": null,
       "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032681"
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032783"
+      ],
+      "location": "Australia"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1032784",
+      "ts": "2026-10-13T23:01:29Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Australia",
+      "body": "On 12/10/2026, a forest fire started in Australia,  until 13/10/2026.",
+      "details": "On 12/10/2026, a forest fire started in Australia,  until 13/10/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032784"
+      ],
+      "location": "Australia"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1032785",
+      "ts": "2026-10-13T23:01:47Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Botswana",
+      "body": "On 11/10/2026, a forest fire started in Botswana,  until 13/10/2026.",
+      "details": "On 11/10/2026, a forest fire started in Botswana,  until 13/10/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032785"
+      ],
+      "location": "Botswana"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1032767",
+      "ts": "2026-10-13T23:02:00Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Mozambique",
+      "body": "On 10/10/2026, a forest fire started in Mozambique,  until 12/10/2026.",
+      "details": "On 10/10/2026, a forest fire started in Mozambique,  until 12/10/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032767"
+      ],
+      "location": "Mozambique"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1032786",
+      "ts": "2026-10-13T23:02:10Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Australia",
+      "body": "On 10/10/2026, a forest fire started in Australia,  until 13/10/2026.",
+      "details": "On 10/10/2026, a forest fire started in Australia,  until 13/10/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032786"
+      ],
+      "location": "Australia"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1032787",
+      "ts": "2026-10-13T23:02:35Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Australia",
+      "body": "On 10/10/2026, a forest fire started in Australia,  until 13/10/2026.",
+      "details": "On 10/10/2026, a forest fire started in Australia,  until 13/10/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032787"
+      ],
+      "location": "Australia"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1032775",
+      "ts": "2026-10-13T23:02:53Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Australia",
+      "body": "On 09/10/2026, a forest fire started in Australia,  until 12/10/2026.",
+      "details": "On 09/10/2026, a forest fire started in Australia,  until 12/10/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032775"
+      ],
+      "location": "Australia"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1032703",
+      "ts": "2026-10-13T23:03:25Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Mongolia, China",
+      "body": "On 09/10/2026, a forest fire started in Mongolia, China,  until 10/10/2026.",
+      "details": "On 09/10/2026, a forest fire started in Mongolia, China,  until 10/10/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032703"
+      ],
+      "location": "Mongolia, China"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1032788",
+      "ts": "2026-10-13T23:04:03Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Zambia",
+      "body": "On 09/10/2026, a forest fire started in Zambia,  until 13/10/2026.",
+      "details": "On 09/10/2026, a forest fire started in Zambia,  until 13/10/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032788"
+      ],
+      "location": "Zambia"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1032789",
+      "ts": "2026-10-13T23:04:06Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Zambia",
+      "body": "On 09/10/2026, a forest fire started in Zambia,  until 13/10/2026.",
+      "details": "On 09/10/2026, a forest fire started in Zambia,  until 13/10/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032789"
+      ],
+      "location": "Zambia"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1032790",
+      "ts": "2026-10-13T23:04:10Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Mozambique",
+      "body": "On 09/10/2026, a forest fire started in Mozambique,  until 13/10/2026.",
+      "details": "On 09/10/2026, a forest fire started in Mozambique,  until 13/10/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032790"
+      ],
+      "location": "Mozambique"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1032791",
+      "ts": "2026-10-13T23:04:29Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Brazil",
+      "body": "On 08/10/2026, a forest fire started in Brazil,  until 13/10/2026.",
+      "details": "On 08/10/2026, a forest fire started in Brazil,  until 13/10/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032791"
+      ],
+      "location": "Brazil"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1032792",
+      "ts": "2026-10-13T23:04:46Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Australia",
+      "body": "On 08/10/2026, a forest fire started in Australia,  until 13/10/2026.",
+      "details": "On 08/10/2026, a forest fire started in Australia,  until 13/10/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032792"
+      ],
+      "location": "Australia"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1032793",
+      "ts": "2026-10-13T23:06:16Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Nigeria",
+      "body": "On 07/10/2026, a forest fire started in Nigeria,  until 13/10/2026.",
+      "details": "On 07/10/2026, a forest fire started in Nigeria,  until 13/10/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032793"
+      ],
+      "location": "Nigeria"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1032769",
+      "ts": "2026-10-13T23:06:52Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Mozambique",
+      "body": "On 07/10/2026, a forest fire started in Mozambique,  until 12/10/2026.",
+      "details": "On 07/10/2026, a forest fire started in Mozambique,  until 12/10/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032769"
+      ],
+      "location": "Mozambique"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1032794",
+      "ts": "2026-10-13T23:06:56Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Tanzania",
+      "body": "On 07/10/2026, a forest fire started in Tanzania,  until 13/10/2026.",
+      "details": "On 07/10/2026, a forest fire started in Tanzania,  until 13/10/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032794"
       ],
       "location": "Tanzania"
     },
     {
       "source": "gdacs",
-      "id": "WF1032682",
-      "ts": "2026-10-13T19:13:37Z",
+      "id": "WF1032795",
+      "ts": "2026-10-13T23:09:18Z",
       "type": "wildfire",
       "severity": "info",
-      "title": "Green forest fire notification in Sudan",
-      "body": "On 29/09/2026, a forest fire started in Sudan,  until 09/10/2026.",
-      "details": "On 29/09/2026, a forest fire started in Sudan,  until 09/10/2026.",
+      "title": "Green forest fire notification in Brazil",
+      "body": "On 05/10/2026, a forest fire started in Brazil,  until 13/10/2026.",
+      "details": "On 05/10/2026, a forest fire started in Brazil,  until 13/10/2026.",
       "lat": null,
       "lon": null,
       "links": [
-        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032682"
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032795"
       ],
-      "location": "Sudan"
+      "location": "Brazil"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1032771",
+      "ts": "2026-10-13T23:09:37Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Zambia",
+      "body": "On 05/10/2026, a forest fire started in Zambia,  until 12/10/2026.",
+      "details": "On 05/10/2026, a forest fire started in Zambia,  until 12/10/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032771"
+      ],
+      "location": "Zambia"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1032796",
+      "ts": "2026-10-13T23:09:42Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Zambia",
+      "body": "On 04/10/2026, a forest fire started in Zambia,  until 13/10/2026.",
+      "details": "On 04/10/2026, a forest fire started in Zambia,  until 13/10/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032796"
+      ],
+      "location": "Zambia"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1032797",
+      "ts": "2026-10-13T23:12:07Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Indonesia",
+      "body": "On 03/10/2026, a forest fire started in Indonesia,  until 13/10/2026.",
+      "details": "On 03/10/2026, a forest fire started in Indonesia,  until 13/10/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032797"
+      ],
+      "location": "Indonesia"
     }
   ]
 }
