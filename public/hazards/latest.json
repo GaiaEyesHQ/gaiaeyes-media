@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T20:34:46Z",
+  "generated_at": "2026-10-24T22:43:26Z",
   "items": [
     {
       "source": "gdacs",
@@ -736,21 +736,6 @@
         "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1573536"
       ],
       "location": "Vanuatu 24/10/2026 05:23 UTC, 2 thousand in MMI>=III."
-    },
-    {
-      "source": "media",
-      "id": "us6000u4kj",
-      "ts": "2026-10-24T06:04:16Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "174 km NW of Port-Olry, Vanuatu",
-      "body": "174 km NW of Port-Olry, Vanuatu",
-      "mag": 5.3,
-      "lat": -14.1278,
-      "lon": 165.7535,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4kj"
-      ]
     },
     {
       "source": "media",
@@ -1754,22 +1739,6 @@
     },
     {
       "source": "gdacs",
-      "id": "WF1032974",
-      "ts": "2026-10-24T19:13:57Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Mozambique, South Africa",
-      "body": "On 18/10/2026, a forest fire started in Mozambique, South Africa,  until 20/10/2026.",
-      "details": "On 18/10/2026, a forest fire started in Mozambique, South Africa,  until 20/10/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032974"
-      ],
-      "location": "Mozambique, South Africa"
-    },
-    {
-      "source": "gdacs",
       "id": "WF1033156",
       "ts": "2026-10-24T19:14:35Z",
       "type": "wildfire",
@@ -1866,22 +1835,6 @@
     },
     {
       "source": "gdacs",
-      "id": "WF1032978",
-      "ts": "2026-10-24T19:22:32Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Zimbabwe",
-      "body": "On 15/10/2026, a forest fire started in Zimbabwe,  until 20/10/2026.",
-      "details": "On 15/10/2026, a forest fire started in Zimbabwe,  until 20/10/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032978"
-      ],
-      "location": "Zimbabwe"
-    },
-    {
-      "source": "gdacs",
       "id": "WF1033159",
       "ts": "2026-10-24T19:22:38Z",
       "type": "wildfire",
@@ -1946,22 +1899,6 @@
     },
     {
       "source": "gdacs",
-      "id": "WF1032982",
-      "ts": "2026-10-24T19:29:15Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Zambia, Zimbabwe",
-      "body": "On 13/10/2026, a forest fire started in Zambia, Zimbabwe,  until 20/10/2026.",
-      "details": "On 13/10/2026, a forest fire started in Zambia, Zimbabwe,  until 20/10/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1032982"
-      ],
-      "location": "Zambia, Zimbabwe"
-    },
-    {
-      "source": "gdacs",
       "id": "WF1033040",
       "ts": "2026-10-24T19:38:19Z",
       "type": "wildfire",
@@ -1975,6 +1912,21 @@
         "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033040"
       ],
       "location": "Sudan"
+    },
+    {
+      "source": "media",
+      "id": "us6000u4pa",
+      "ts": "2026-10-24T20:35:04Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "101 km SSE of Vilyuchinsk, Russia",
+      "body": "101 km SSE of Vilyuchinsk, Russia",
+      "mag": 5.3,
+      "lat": 52.1565,
+      "lon": 159.1963,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4pa"
+      ]
     }
   ]
 }
