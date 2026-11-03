@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "timestamp_utc": "2026-11-02T23:43:43.688949+00:00",
+  "timestamp_utc": "2026-11-03T04:05:10.898725+00:00",
   "primary": "cumiana",
   "primary_quality_score": 1.0,
   "primary_quality_reasons": [],
@@ -10,7 +10,7 @@
       "status": "error",
       "message": "tomsk extractor did not produce JSON.",
       "stdout": "",
-      "stderr": "s.MaxRetryError: HTTPSConnectionPool(host='sos70.ru', port=443): Max retries exceeded with url: /provider.php?file=shm.jpg (Caused by ConnectTimeoutError(<HTTPSConnection(host='sos70.ru', port=443) at 0x7bfc1c0a8ee0>, 'Connection to sos70.ru timed out. (connect timeout=30)'))\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"/home/runner/work/gaiaeyes-backend/gaiaeyes-backend/backend/bots/schumann/tomsk_extractor.py\", line 898, in <module>\n    sys.exit(main())\n  File \"/home/runner/work/gaiaeyes-backend/gaiaeyes-backend/backend/bots/schumann/tomsk_extractor.py\", line 641, in main\n    img, last_mod_h = fetch_image(TOMSK_IMG, insecure=args.insecure)\n  File \"/home/runner/work/gaiaeyes-backend/gaiaeyes-backend/backend/bots/schumann/tomsk_extractor.py\", line 73, in fetch_image\n    r = requests.get(url, **kw)\n  File \"/opt/hostedtoolcache/Python/3.10.22/x64/lib/python3.10/site-packages/requests/api.py\", line 87, in get\n    return request(\"get\", url, params=params, **kwargs)\n  File \"/opt/hostedtoolcache/Python/3.10.22/x64/lib/python3.10/site-packages/requests/api.py\", line 71, in request\n    return session.request(method=method, url=url, **kwargs)\n  File \"/opt/hostedtoolcache/Python/3.10.22/x64/lib/python3.10/site-packages/requests/sessions.py\", line 651, in request\n    resp = self.send(prep, **send_kwargs)\n  File \"/opt/hostedtoolcache/Python/3.10.22/x64/lib/python3.10/site-packages/requests/sessions.py\", line 784, in send\n    r = adapter.send(request, **kwargs)\n  File \"/opt/hostedtoolcache/Python/3.10.22/x64/lib/python3.10/site-packages/requests/adapters.py\", line 717, in send\n    raise ConnectTimeout(e, request=request)\nrequests.exceptions.ConnectTimeout: HTTPSConnectionPool(host='sos70.ru', port=443): Max retries exceeded with url: /provider.php?file=shm.jpg (Caused by ConnectTimeoutError(<HTTPSConnection(host='sos70.ru', port=443) at 0x7bfc1c0a8ee0>, 'Connection to sos70.ru timed out. (connect timeout=30)'))\n",
+      "stderr": "s.MaxRetryError: HTTPSConnectionPool(host='sos70.ru', port=443): Max retries exceeded with url: /provider.php?file=shm.jpg (Caused by ConnectTimeoutError(<HTTPSConnection(host='sos70.ru', port=443) at 0x7a7c110a8ee0>, 'Connection to sos70.ru timed out. (connect timeout=30)'))\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"/home/runner/work/gaiaeyes-backend/gaiaeyes-backend/backend/bots/schumann/tomsk_extractor.py\", line 898, in <module>\n    sys.exit(main())\n  File \"/home/runner/work/gaiaeyes-backend/gaiaeyes-backend/backend/bots/schumann/tomsk_extractor.py\", line 641, in main\n    img, last_mod_h = fetch_image(TOMSK_IMG, insecure=args.insecure)\n  File \"/home/runner/work/gaiaeyes-backend/gaiaeyes-backend/backend/bots/schumann/tomsk_extractor.py\", line 73, in fetch_image\n    r = requests.get(url, **kw)\n  File \"/opt/hostedtoolcache/Python/3.10.22/x64/lib/python3.10/site-packages/requests/api.py\", line 87, in get\n    return request(\"get\", url, params=params, **kwargs)\n  File \"/opt/hostedtoolcache/Python/3.10.22/x64/lib/python3.10/site-packages/requests/api.py\", line 71, in request\n    return session.request(method=method, url=url, **kwargs)\n  File \"/opt/hostedtoolcache/Python/3.10.22/x64/lib/python3.10/site-packages/requests/sessions.py\", line 651, in request\n    resp = self.send(prep, **send_kwargs)\n  File \"/opt/hostedtoolcache/Python/3.10.22/x64/lib/python3.10/site-packages/requests/sessions.py\", line 784, in send\n    r = adapter.send(request, **kwargs)\n  File \"/opt/hostedtoolcache/Python/3.10.22/x64/lib/python3.10/site-packages/requests/adapters.py\", line 717, in send\n    raise ConnectTimeout(e, request=request)\nrequests.exceptions.ConnectTimeout: HTTPSConnectionPool(host='sos70.ru', port=443): Max retries exceeded with url: /provider.php?file=shm.jpg (Caused by ConnectTimeoutError(<HTTPSConnection(host='sos70.ru', port=443) at 0x7a7c110a8ee0>, 'Connection to sos70.ru timed out. (connect timeout=30)'))\n",
       "overlay_path": "runs/tomsk_overlay.png",
       "quality_score": 0.0,
       "usable": false,
@@ -21,7 +21,7 @@
     "cumiana": {
       "status": "ok",
       "source": "cumiana",
-      "timestamp_utc": "2026-11-02T23:43:43.663834+00:00",
+      "timestamp_utc": "2026-11-03T04:05:10.871675+00:00",
       "last_modified": "2026-11-02T00:30:00+00:00",
       "fundamental_hz": 7.92,
       "harmonics_hz": {
