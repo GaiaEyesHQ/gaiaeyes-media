@@ -1,54 +1,6 @@
 {
-  "generated_at": "2026-11-12T00:35:48Z",
+  "generated_at": "2026-11-12T07:43:15Z",
   "items": [
-    {
-      "source": "gdacs",
-      "id": "WF1033676",
-      "ts": "2026-11-10T04:08:32Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Central African Republic",
-      "body": "On 07/11/2026, a forest fire started in Central African Republic,  until 10/11/2026.",
-      "details": "On 07/11/2026, a forest fire started in Central African Republic,  until 10/11/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033676"
-      ],
-      "location": "Central African Republic"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1033681",
-      "ts": "2026-11-10T04:09:59Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Burkina Faso",
-      "body": "On 07/11/2026, a forest fire started in Burkina Faso,  until 10/11/2026.",
-      "details": "On 07/11/2026, a forest fire started in Burkina Faso,  until 10/11/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033681"
-      ],
-      "location": "Burkina Faso"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1033677",
-      "ts": "2026-11-10T04:11:49Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Botswana",
-      "body": "On 06/11/2026, a forest fire started in Botswana,  until 10/11/2026.",
-      "details": "On 06/11/2026, a forest fire started in Botswana,  until 10/11/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033677"
-      ],
-      "location": "Botswana"
-    },
     {
       "source": "gdacs",
       "id": "WF1033680",
@@ -167,30 +119,15 @@
       "ts": "2026-11-10T15:15:15Z",
       "type": "quake",
       "severity": "red",
-      "title": "Green earthquake (Magnitude 5.5M, Depth:59.652km) in Guatemala 10/11/2026 14:54 UTC, 1.2 million in 100km.",
-      "body": "On 11/10/2026 2:54:19 PM, an earthquake occurred in Guatemala potentially affecting 1.2 million in 100km. The earthquake had Magnitude 5.5M, Depth:59.652km.",
-      "details": "On 11/10/2026 2:54:19 PM, an earthquake occurred in Guatemala potentially affecting 1.2 million in 100km. The earthquake had Magnitude 5.5M, Depth:59.652km.",
+      "title": "Green earthquake (Magnitude 5.5M, Depth:59.652km) in Guatemala 10/11/2026 14:54 UTC, 1.2 million in MMI IV.",
+      "body": "On 11/10/2026 2:54:19 PM, an earthquake occurred in Guatemala potentially affecting 1.2 million in MMI IV. The earthquake had Magnitude 5.5M, Depth:59.652km.",
+      "details": "On 11/10/2026 2:54:19 PM, an earthquake occurred in Guatemala potentially affecting 1.2 million in MMI IV. The earthquake had Magnitude 5.5M, Depth:59.652km.",
       "lat": null,
       "lon": null,
       "links": [
         "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1576618"
       ],
-      "location": "Guatemala 10/11/2026 14:54 UTC, 1.2 million in 100km."
-    },
-    {
-      "source": "media",
-      "id": "us7000txbi",
-      "ts": "2026-11-10T15:51:35Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "139 km ESE of Labuha, Indonesia",
-      "body": "139 km ESE of Labuha, Indonesia",
-      "mag": 5.1,
-      "lat": -0.9034,
-      "lon": 128.701,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txbi"
-      ]
+      "location": "Guatemala 10/11/2026 14:54 UTC, 1.2 million in MMI IV."
     },
     {
       "source": "gdacs",
@@ -2038,6 +1975,37 @@
         "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033768"
       ],
       "location": "Chad"
+    },
+    {
+      "source": "media",
+      "id": "us7000txqr",
+      "ts": "2026-11-12T03:45:56Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "South Sandwich Islands region",
+      "body": "South Sandwich Islands region",
+      "mag": 5.4,
+      "lat": -59.0326,
+      "lon": -26.0288,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000txqr"
+      ]
+    },
+    {
+      "source": "gdacs",
+      "id": "FL1104280",
+      "ts": "2026-11-12T07:27:59Z",
+      "type": "flood",
+      "severity": "info",
+      "title": "Green flood alert in Myanmar",
+      "body": "On 10/11/2026, a flood started in Myanmar, lasting until 12/11/2026 (last update). The flood caused 0 deaths and 50 displaced .",
+      "details": "On 10/11/2026, a flood started in Myanmar, lasting until 12/11/2026 (last update). The flood caused 0 deaths and 50 displaced .",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "http://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104280"
+      ],
+      "location": "Myanmar"
     }
   ]
 }
