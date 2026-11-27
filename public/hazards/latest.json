@@ -1,53 +1,6 @@
 {
-  "generated_at": "2026-11-26T21:49:42Z",
+  "generated_at": "2026-11-27T03:50:34Z",
   "items": [
-    {
-      "source": "gdacs",
-      "id": "WF1034060",
-      "ts": "2026-11-25T00:13:41Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Brazil",
-      "body": "On 13/11/2026, a forest fire started in Brazil,  until 24/11/2026.",
-      "details": "On 13/11/2026, a forest fire started in Brazil,  until 24/11/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034060"
-      ],
-      "location": "Brazil"
-    },
-    {
-      "source": "media",
-      "id": "us6000udd1",
-      "ts": "2026-11-25T01:38:45Z",
-      "type": "quake",
-      "severity": "info",
-      "title": "Balleny Islands region",
-      "body": "Balleny Islands region",
-      "mag": 5.9,
-      "lat": -63.0918,
-      "lon": 170.9371,
-      "links": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000udd1"
-      ]
-    },
-    {
-      "source": "gdacs",
-      "id": "EQ1579132",
-      "ts": "2026-11-25T01:52:01Z",
-      "type": "quake",
-      "severity": "red",
-      "title": "Green earthquake (Magnitude 5.9M, Depth:10km) in Balleny Islands Region 25/11/2026 01:38 UTC, [unknown].",
-      "body": "On 11/25/2026 1:38:45 AM, an earthquake occurred in Balleny Islands Region potentially affecting [unknown]. The earthquake had Magnitude 5.9M, Depth:10km.",
-      "details": "On 11/25/2026 1:38:45 AM, an earthquake occurred in Balleny Islands Region potentially affecting [unknown]. The earthquake had Magnitude 5.9M, Depth:10km.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "http://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1579132"
-      ],
-      "location": "Balleny Islands Region 25/11/2026 01:38 UTC, [unknown]."
-    },
     {
       "source": "gdacs",
       "id": "WF1034059",
@@ -173,22 +126,6 @@
       "links": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/us6000udef"
       ]
-    },
-    {
-      "source": "gdacs",
-      "id": "FL1104300",
-      "ts": "2026-11-25T11:14:27Z",
-      "type": "flood",
-      "severity": "info",
-      "title": "Green flood alert in Ukraine",
-      "body": "On 20/11/2026, a flood started in Ukraine, lasting until 22/11/2026 (last update). The flood caused 0 deaths and 0 displaced .",
-      "details": "On 20/11/2026, a flood started in Ukraine, lasting until 22/11/2026 (last update). The flood caused 0 deaths and 0 displaced .",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "http://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104300"
-      ],
-      "location": "Ukraine"
     },
     {
       "source": "gdacs",
@@ -348,22 +285,6 @@
         "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034072"
       ],
       "location": "Brazil"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1034020",
-      "ts": "2026-11-25T20:23:39Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Central African Republic, Chad",
-      "body": "On 10/11/2026, a forest fire started in Central African Republic, Chad,  until 22/11/2026.",
-      "details": "On 10/11/2026, a forest fire started in Central African Republic, Chad,  until 22/11/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034020"
-      ],
-      "location": "Central African Republic, Chad"
     },
     {
       "source": "gdacs",
@@ -746,6 +667,21 @@
       "location": "India"
     },
     {
+      "source": "media",
+      "id": "us6000udq5",
+      "ts": "2026-11-26T15:26:44Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "Revilla Gigedo Islands region",
+      "body": "Revilla Gigedo Islands region",
+      "mag": 5.7,
+      "lat": 19.8135,
+      "lon": -109.2958,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000udq5"
+      ]
+    },
+    {
       "source": "gdacs",
       "id": "EQ1579445",
       "ts": "2026-11-26T15:46:19Z",
@@ -810,6 +746,21 @@
       "location": "South Africa"
     },
     {
+      "source": "media",
+      "id": "us6000udry",
+      "ts": "2026-11-26T19:33:08Z",
+      "type": "quake",
+      "severity": "info",
+      "title": "Bonin Islands, Japan region",
+      "body": "Bonin Islands, Japan region",
+      "mag": 5.1,
+      "lat": 28.3661,
+      "lon": 141.2639,
+      "links": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000udry"
+      ]
+    },
+    {
       "source": "gdacs",
       "id": "WF1034096",
       "ts": "2026-11-26T20:01:17Z",
@@ -824,22 +775,6 @@
         "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034096"
       ],
       "location": "Mali"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1034097",
-      "ts": "2026-11-26T20:01:32Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in South Sudan",
-      "body": "On 24/11/2026, a forest fire started in South Sudan,  until 26/11/2026.",
-      "details": "On 24/11/2026, a forest fire started in South Sudan,  until 26/11/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034097"
-      ],
-      "location": "South Sudan"
     },
     {
       "source": "gdacs",
@@ -859,70 +794,6 @@
     },
     {
       "source": "gdacs",
-      "id": "WF1034099",
-      "ts": "2026-11-26T20:02:37Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in South Sudan",
-      "body": "On 23/11/2026, a forest fire started in South Sudan,  until 26/11/2026.",
-      "details": "On 23/11/2026, a forest fire started in South Sudan,  until 26/11/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034099"
-      ],
-      "location": "South Sudan"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1034093",
-      "ts": "2026-11-26T20:03:14Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Australia",
-      "body": "On 22/11/2026, a forest fire started in Australia,  until 26/11/2026.",
-      "details": "On 22/11/2026, a forest fire started in Australia,  until 26/11/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034093"
-      ],
-      "location": "Australia"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1034028",
-      "ts": "2026-11-26T20:03:28Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Australia",
-      "body": "On 22/11/2026, a forest fire started in Australia,  until 23/11/2026.",
-      "details": "On 22/11/2026, a forest fire started in Australia,  until 23/11/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034028"
-      ],
-      "location": "Australia"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1034082",
-      "ts": "2026-11-26T20:03:33Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Bolivia, Brazil",
-      "body": "On 21/11/2026, a forest fire started in Bolivia, Brazil,  until 25/11/2026.",
-      "details": "On 21/11/2026, a forest fire started in Bolivia, Brazil,  until 25/11/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034082"
-      ],
-      "location": "Bolivia, Brazil"
-    },
-    {
-      "source": "gdacs",
       "id": "WF1034100",
       "ts": "2026-11-26T20:04:48Z",
       "type": "wildfire",
@@ -939,8 +810,88 @@
     },
     {
       "source": "gdacs",
+      "id": "WF1034097",
+      "ts": "2026-11-27T00:01:20Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in South Sudan",
+      "body": "On 24/11/2026, a forest fire started in South Sudan,  until 26/11/2026.",
+      "details": "On 24/11/2026, a forest fire started in South Sudan,  until 26/11/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034097"
+      ],
+      "location": "South Sudan"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1034099",
+      "ts": "2026-11-27T00:02:18Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in South Sudan",
+      "body": "On 23/11/2026, a forest fire started in South Sudan,  until 26/11/2026.",
+      "details": "On 23/11/2026, a forest fire started in South Sudan,  until 26/11/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034099"
+      ],
+      "location": "South Sudan"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1034028",
+      "ts": "2026-11-27T00:02:28Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Australia",
+      "body": "On 22/11/2026, a forest fire started in Australia,  until 23/11/2026.",
+      "details": "On 22/11/2026, a forest fire started in Australia,  until 23/11/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034028"
+      ],
+      "location": "Australia"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1034093",
+      "ts": "2026-11-27T00:02:47Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Australia",
+      "body": "On 22/11/2026, a forest fire started in Australia,  until 26/11/2026.",
+      "details": "On 22/11/2026, a forest fire started in Australia,  until 26/11/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034093"
+      ],
+      "location": "Australia"
+    },
+    {
+      "source": "gdacs",
+      "id": "WF1034082",
+      "ts": "2026-11-27T00:03:42Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Bolivia, Brazil",
+      "body": "On 21/11/2026, a forest fire started in Bolivia, Brazil,  until 25/11/2026.",
+      "details": "On 21/11/2026, a forest fire started in Bolivia, Brazil,  until 25/11/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034082"
+      ],
+      "location": "Bolivia, Brazil"
+    },
+    {
+      "source": "gdacs",
       "id": "WF1034033",
-      "ts": "2026-11-26T20:04:55Z",
+      "ts": "2026-11-27T00:04:34Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in South Sudan",
@@ -955,56 +906,24 @@
     },
     {
       "source": "gdacs",
-      "id": "WF1034013",
-      "ts": "2026-11-26T20:07:38Z",
+      "id": "WF1034104",
+      "ts": "2026-11-27T00:05:58Z",
       "type": "wildfire",
       "severity": "info",
-      "title": "Green forest fire notification in Ghana, Burkina Faso",
-      "body": "On 19/11/2026, a forest fire started in Ghana, Burkina Faso,  until 22/11/2026.",
-      "details": "On 19/11/2026, a forest fire started in Ghana, Burkina Faso,  until 22/11/2026.",
+      "title": "Green forest fire notification in Papua New Guinea",
+      "body": "On 19/11/2026, a forest fire started in Papua New Guinea,  until 26/11/2026.",
+      "details": "On 19/11/2026, a forest fire started in Papua New Guinea,  until 26/11/2026.",
       "lat": null,
       "lon": null,
       "links": [
-        "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034013"
+        "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034104"
       ],
-      "location": "Ghana, Burkina Faso"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1034003",
-      "ts": "2026-11-26T20:08:03Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Australia",
-      "body": "On 19/11/2026, a forest fire started in Australia,  until 22/11/2026.",
-      "details": "On 19/11/2026, a forest fire started in Australia,  until 22/11/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034003"
-      ],
-      "location": "Australia"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1034041",
-      "ts": "2026-11-26T20:08:08Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Central African Republic",
-      "body": "On 19/11/2026, a forest fire started in Central African Republic,  until 23/11/2026.",
-      "details": "On 19/11/2026, a forest fire started in Central African Republic,  until 23/11/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034041"
-      ],
-      "location": "Central African Republic"
+      "location": "Papua New Guinea"
     },
     {
       "source": "gdacs",
       "id": "WF1034057",
-      "ts": "2026-11-26T20:08:17Z",
+      "ts": "2026-11-27T00:06:06Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Nigeria",
@@ -1019,8 +938,24 @@
     },
     {
       "source": "gdacs",
+      "id": "WF1034041",
+      "ts": "2026-11-27T00:06:18Z",
+      "type": "wildfire",
+      "severity": "info",
+      "title": "Green forest fire notification in Central African Republic",
+      "body": "On 19/11/2026, a forest fire started in Central African Republic,  until 23/11/2026.",
+      "details": "On 19/11/2026, a forest fire started in Central African Republic,  until 23/11/2026.",
+      "lat": null,
+      "lon": null,
+      "links": [
+        "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034041"
+      ],
+      "location": "Central African Republic"
+    },
+    {
+      "source": "gdacs",
       "id": "WF1034101",
-      "ts": "2026-11-26T20:09:05Z",
+      "ts": "2026-11-27T00:08:16Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in South Sudan",
@@ -1035,24 +970,24 @@
     },
     {
       "source": "gdacs",
-      "id": "WF1034008",
-      "ts": "2026-11-26T20:11:13Z",
+      "id": "WF1034105",
+      "ts": "2026-11-27T00:08:41Z",
       "type": "wildfire",
       "severity": "info",
-      "title": "Green forest fire notification in South Sudan",
-      "body": "On 18/11/2026, a forest fire started in South Sudan,  until 22/11/2026.",
-      "details": "On 18/11/2026, a forest fire started in South Sudan,  until 22/11/2026.",
+      "title": "Green forest fire notification in Australia",
+      "body": "On 17/11/2026, a forest fire started in Australia,  until 26/11/2026.",
+      "details": "On 17/11/2026, a forest fire started in Australia,  until 26/11/2026.",
       "lat": null,
       "lon": null,
       "links": [
-        "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034008"
+        "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034105"
       ],
-      "location": "South Sudan"
+      "location": "Australia"
     },
     {
       "source": "gdacs",
       "id": "WF1034043",
-      "ts": "2026-11-26T20:11:33Z",
+      "ts": "2026-11-27T00:09:34Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in South Sudan",
@@ -1068,7 +1003,7 @@
     {
       "source": "gdacs",
       "id": "WF1034102",
-      "ts": "2026-11-26T20:16:02Z",
+      "ts": "2026-11-27T00:13:05Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in South Sudan, Sudan",
@@ -1083,24 +1018,24 @@
     },
     {
       "source": "gdacs",
-      "id": "WF1034016",
-      "ts": "2026-11-26T20:16:45Z",
+      "id": "WF1034106",
+      "ts": "2026-11-27T00:27:39Z",
       "type": "wildfire",
       "severity": "info",
-      "title": "Green forest fire notification in Benin, Burkina Faso",
-      "body": "On 15/11/2026, a forest fire started in Benin, Burkina Faso,  until 22/11/2026.",
-      "details": "On 15/11/2026, a forest fire started in Benin, Burkina Faso,  until 22/11/2026.",
+      "title": "Green forest fire notification in Brazil",
+      "body": "On 14/11/2026, a forest fire started in Brazil,  until 26/11/2026.",
+      "details": "On 14/11/2026, a forest fire started in Brazil,  until 26/11/2026.",
       "lat": null,
       "lon": null,
       "links": [
-        "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034016"
+        "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034106"
       ],
-      "location": "Benin, Burkina Faso"
+      "location": "Brazil"
     },
     {
       "source": "gdacs",
       "id": "WF1034103",
-      "ts": "2026-11-26T20:18:53Z",
+      "ts": "2026-11-27T00:33:14Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in South Sudan",
@@ -1116,7 +1051,7 @@
     {
       "source": "gdacs",
       "id": "WF1034094",
-      "ts": "2026-11-26T20:20:01Z",
+      "ts": "2026-11-27T00:34:21Z",
       "type": "wildfire",
       "severity": "info",
       "title": "Green forest fire notification in Australia",
@@ -1128,22 +1063,6 @@
         "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034094"
       ],
       "location": "Australia"
-    },
-    {
-      "source": "gdacs",
-      "id": "WF1034018",
-      "ts": "2026-11-26T20:21:35Z",
-      "type": "wildfire",
-      "severity": "info",
-      "title": "Green forest fire notification in Nigeria, Cameroon",
-      "body": "On 12/11/2026, a forest fire started in Nigeria, Cameroon,  until 22/11/2026.",
-      "details": "On 12/11/2026, a forest fire started in Nigeria, Cameroon,  until 22/11/2026.",
-      "lat": null,
-      "lon": null,
-      "links": [
-        "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1034018"
-      ],
-      "location": "Nigeria, Cameroon"
     }
   ]
 }
